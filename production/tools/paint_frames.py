@@ -536,6 +536,8 @@ def render(scene, caption, seed, out, ctx):
     if quoted and not num:
         p.text((W / 2, 140), quoted.group(1).upper(), 110)
     # caption (narration line)
+    if not caption:
+        img.save(out, quality=92); return
     words = caption.strip()
     f = ImageFont.truetype(FONT, 62)
     lines, cur = [], ""
@@ -564,5 +566,5 @@ if __name__ == "__main__":
                 low = l["scene"].lower(); ctx["setting"] = pick_setting(low) or ctx.get("setting")
                 ctx["chars"] = characters(l["scene"]) or ctx.get("chars", [])
                 continue
-            render(l["scene"], l["text"], i, os.path.join(out, f"{i:03d}.jpg"), ctx)
+            render(l["scene"], None if "--no-caption" in sys.argv else l["text"], i, os.path.join(out, f"{i:03d}.jpg"), ctx)
     print("frames:", len(lines) if not only else len(only))

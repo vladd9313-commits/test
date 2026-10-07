@@ -37,3 +37,9 @@ python3 tools/paint_frames.py <папка для кадров>      # 603 кад
 python3 tools/montage.py --images <папка для кадров> --crf 33
 ```
 Когда появятся картинки из нейросети по `image_prompts.txt`, достаточно перезапустить `montage.py` с их папкой.
+
+## Shorts
+
+`shorts/` — 3 вертикальных ролика 1080x1920 по ~58 с, нарезанные из озвучки и кадров основного видео:
+`short1_desert_hunter.mp4` («Why is your cat so weird?»), `short2_egypt.mp4` («Egypt was obsessed with cats»),
+`short3_meow_hack.mp4` («Your cat is manipulating you»). Пересборка: `python3 tools/make_shorts.py <kokoro_dir> <voiceover.wav> <tmp_dir>`.
