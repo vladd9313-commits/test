@@ -1,0 +1,4426 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "It's thirteen thousand years ago.",
+  "scene": "{CAVE} standing at the mouth of a limestone cave on a green hillside, a big clock icon spinning backwards in the sky",
+  "start": 0.0,
+  "end": 2.373
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "You live in a cave on a hillside",
+  "scene": "a rocky cave entrance on a green hill above a valley, smoke rising from inside",
+  "start": 2.373,
+  "end": 4.482
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "in what is now Israel.",
+  "scene": "simple cartoon map of the eastern Mediterranean with a red dot and a tiny {CAVE} standing on it",
+  "start": 4.482,
+  "end": 6.324
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "Your people don't farm yet.",
+  "scene": "{CAVE} looking at an empty field with a confused face",
+  "start": 6.324,
+  "end": 8.271
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "They collect wild wheat and barley by hand,",
+  "scene": "{CAVE} and {WOMAN} picking wild grass stalks and putting them in a basket",
+  "start": 8.271,
+  "end": 11.217
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "and grind it in stone bowls",
+  "scene": "{WOMAN} grinding grain in a deep stone mortar carved into the cave floor",
+  "start": 11.217,
+  "end": 13.161
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "carved right into the floor of the cave.",
+  "scene": "close-up of a deep round hole carved into rock, full of crushed grain",
+  "start": 13.161,
+  "end": 16.239
+ },
+ {
+  "n": 7,
+  "block": "B01",
+  "text": "One day you soak some grain in water,",
+  "scene": "{CAVE} pouring water from a leather bag into the stone bowl of grain",
+  "start": 16.239,
+  "end": 18.398
+ },
+ {
+  "n": 8,
+  "block": "B01",
+  "text": "and then you forget about it.",
+  "scene": "{CAVE} walking away whistling, the bowl left behind in the corner",
+  "start": 18.398,
+  "end": 20.456
+ },
+ {
+  "n": 9,
+  "block": "B01",
+  "text": "For a week.",
+  "scene": "a calendar made of stone tablets with seven scratch marks",
+  "start": 20.456,
+  "end": 21.684
+ },
+ {
+  "n": 10,
+  "block": "B01",
+  "text": "When you come back,",
+  "scene": "{CAVE} walking back into the cave, sniffing the air",
+  "start": 21.684,
+  "end": 22.69
+ },
+ {
+  "n": 11,
+  "block": "B01",
+  "text": "the bowl is bubbling.",
+  "scene": "the stone bowl with small bubbles rising from a murky yellow liquid",
+  "start": 22.69,
+  "end": 24.105
+ },
+ {
+  "n": 12,
+  "block": "B01",
+  "text": "It smells sour.",
+  "scene": "{CAVE} pinching his nose, green stink lines rising from the bowl",
+  "start": 24.105,
+  "end": 25.606
+ },
+ {
+  "n": 13,
+  "block": "B01",
+  "text": "It looks disgusting.",
+  "scene": "close-up of a lumpy foamy yellow-brown liquid with floating husks",
+  "start": 25.606,
+  "end": 27.213
+ },
+ {
+  "n": 14,
+  "block": "B01",
+  "text": "And you're hungry,",
+  "scene": "{CAVE} holding his growling stomach, sound lines coming out of it",
+  "start": 27.213,
+  "end": 28.281
+ },
+ {
+  "n": 15,
+  "block": "B01",
+  "text": "so you drink it anyway.",
+  "scene": "{CAVE} kneeling and drinking from the stone bowl with both hands",
+  "start": 28.281,
+  "end": 29.911
+ },
+ {
+  "n": 16,
+  "block": "B01",
+  "text": "A few minutes later,",
+  "scene": "a little timer icon floating above {CAVE}'s head",
+  "start": 29.911,
+  "end": 31.218
+ },
+ {
+  "n": 17,
+  "block": "B01",
+  "text": "something strange happens.",
+  "scene": "{CAVE} sitting on the cave floor, eyes slightly crossed, cheeks pink",
+  "start": 31.218,
+  "end": 33.171
+ },
+ {
+  "n": 18,
+  "block": "B01",
+  "text": "Your face feels warm.",
+  "scene": "{CAVE} with bright red cheeks and a goofy smile",
+  "start": 33.171,
+  "end": 35.011
+ },
+ {
+  "n": 19,
+  "block": "B01",
+  "text": "Your worries feel smaller.",
+  "scene": "a thought bubble above {CAVE} with a tiny shrinking storm cloud",
+  "start": 35.011,
+  "end": 36.845
+ },
+ {
+  "n": 20,
+  "block": "B01",
+  "text": "And suddenly your annoying cousin",
+  "scene": "{CAVE} looking at another caveman with a big nose who is waving",
+  "start": 36.845,
+  "end": 39.009
+ },
+ {
+  "n": 21,
+  "block": "B01",
+  "text": "is the funniest person you've ever met.",
+  "scene": "{CAVE} laughing so hard he's rolling on the floor, the cousin confused",
+  "start": 39.009,
+  "end": 41.844
+ },
+ {
+  "n": 22,
+  "block": "B01",
+  "text": "Congratulations.",
+  "scene": "{CAVE} with a big golden medal around his neck, confetti falling",
+  "start": 41.844,
+  "end": 43.463
+ },
+ {
+  "n": 23,
+  "block": "B01",
+  "text": "You just got drunk.",
+  "scene": "{CAVE} hugging the stone bowl with a dreamy face, little stars circling his head",
+  "start": 43.463,
+  "end": 45.041
+ },
+ {
+  "n": 24,
+  "block": "B01",
+  "text": "And here's the thing.",
+  "scene": "{GUY} facing the viewer, one finger raised",
+  "start": 45.041,
+  "end": 46.548
+ },
+ {
+  "n": 25,
+  "block": "B01",
+  "text": "You are not the first.",
+  "scene": "{GUY} shaking his head with a knowing smile",
+  "start": 46.548,
+  "end": 48.223
+ },
+ {
+  "n": 26,
+  "block": "B01",
+  "text": "Not even close.",
+  "scene": "a long line of cavemen, apes and monkeys stretching into the distance, all holding fruit and bowls",
+  "start": 48.223,
+  "end": 50.309
+ },
+ {
+  "n": 27,
+  "block": "B02",
+  "text": "The story of alcohol",
+  "scene": "{GUY} holding a big old book with a beer mug drawn on the cover",
+  "start": 50.309,
+  "end": 51.741
+ },
+ {
+  "n": 28,
+  "block": "B02",
+  "text": "is one of the weirdest stories in all of human history.",
+  "scene": "{GUY} with spiral eyes and question marks around his head",
+  "start": 51.741,
+  "end": 55.58
+ },
+ {
+  "n": 29,
+  "block": "B02",
+  "text": "Because humans didn't really invent alcohol.",
+  "scene": "{CAVE} with a big red X over a sign that says \"INVENTOR\"",
+  "start": 55.58,
+  "end": 58.637
+ },
+ {
+  "n": 30,
+  "block": "B02",
+  "text": "We inherited a taste for it.",
+  "scene": "a family tree with an ape at the bottom and {GUY} at the top, both holding fruit",
+  "start": 58.637,
+  "end": 60.612
+ },
+ {
+  "n": 31,
+  "block": "B02",
+  "text": "From apes.",
+  "scene": "{APE} sitting on a tree branch holding a rotten mango, looking very pleased",
+  "start": 60.612,
+  "end": 61.829
+ },
+ {
+  "n": 32,
+  "block": "B02",
+  "text": "Ten million years ago.",
+  "scene": "a stone with \"10,000,000\" carved on it, an ape sitting on top",
+  "start": 61.829,
+  "end": 63.714
+ },
+ {
+  "n": 33,
+  "block": "B02",
+  "text": "Alcohol is older than writing.",
+  "scene": "a clay tablet with cuneiform marks next to a bubbling bowl, the bowl is much older and dustier",
+  "start": 63.714,
+  "end": 66.134
+ },
+ {
+  "n": 34,
+  "block": "B02",
+  "text": "Older than cities.",
+  "scene": "a tiny modern city skyline next to a huge ancient clay jar",
+  "start": 66.134,
+  "end": 67.729
+ },
+ {
+  "n": 35,
+  "block": "B02",
+  "text": "Older than farming.",
+  "scene": "a wheat field with a clay jar of beer standing in front of it like a boss",
+  "start": 67.729,
+  "end": 69.296
+ },
+ {
+  "n": 36,
+  "block": "B02",
+  "text": "And some scientists think",
+  "scene": "{SCI} pointing at a chalkboard with a drawing of a beer mug and wheat",
+  "start": 69.296,
+  "end": 70.881
+ },
+ {
+  "n": 37,
+  "block": "B02",
+  "text": "it might be one of the reasons humans started farming at all.",
+  "scene": "{CAVE} planting seeds while dreaming of a giant foamy mug in a thought bubble",
+  "start": 70.881,
+  "end": 74.754
+ },
+ {
+  "n": 38,
+  "block": "B02",
+  "text": "So in this video we're going to answer three questions.",
+  "scene": "three stone tablets in a row with numbers 1, 2, 3 carved on them",
+  "start": 74.754,
+  "end": 78.526
+ },
+ {
+  "n": 39,
+  "block": "B02",
+  "text": "Why do humans love alcohol in the first place?",
+  "scene": "tablet number 1 glowing, with a picture of a fruit",
+  "start": 78.526,
+  "end": 81.886
+ },
+ {
+  "n": 40,
+  "block": "B02",
+  "text": "When did we start making it on purpose?",
+  "scene": "tablet number 2 glowing, with a picture of a clay jar",
+  "start": 81.886,
+  "end": 84.412
+ },
+ {
+  "n": 41,
+  "block": "B02",
+  "text": "And did beer accidentally build civilization?",
+  "scene": "tablet number 3 glowing, with a picture of a pyramid and a beer mug",
+  "start": 84.412,
+  "end": 87.644
+ },
+ {
+  "n": 42,
+  "block": "B02",
+  "text": "Stick around for that last one,",
+  "scene": "{GUY} pointing at the viewer with a sly smile",
+  "start": 87.644,
+  "end": 89.583
+ },
+ {
+  "n": 43,
+  "block": "B02",
+  "text": "because the answer is stranger than you'd expect.",
+  "scene": "tablet number 3 shaking with sparkles around it",
+  "start": 89.583,
+  "end": 93.42
+ },
+ {
+  "n": 44,
+  "block": "B03",
+  "text": "To understand alcohol,",
+  "scene": "a green jungle with tall trees and hanging vines",
+  "start": 93.42,
+  "end": 94.995
+ },
+ {
+  "n": 45,
+  "block": "B03",
+  "text": "we have to start in the jungle.",
+  "scene": "{APE} swinging from a vine in a bright green jungle",
+  "start": 94.995,
+  "end": 97.434
+ },
+ {
+  "n": 46,
+  "block": "B03",
+  "text": "Millions of years before humans,",
+  "scene": "a fast-forward of the sun rising and setting over a jungle",
+  "start": 97.434,
+  "end": 99.719
+ },
+ {
+  "n": 47,
+  "block": "B03",
+  "text": "our ape ancestors lived in trees",
+  "scene": "three {APE} sitting on thick tree branches eating fruit",
+  "start": 99.719,
+  "end": 102.005
+ },
+ {
+  "n": 48,
+  "block": "B03",
+  "text": "and ate a lot of fruit.",
+  "scene": "{APE} stuffing its mouth with bananas and mangoes, cheeks full",
+  "start": 102.005,
+  "end": 104.039
+ },
+ {
+  "n": 49,
+  "block": "B03",
+  "text": "And fruit has a secret.",
+  "scene": "a single ripe orange mango glowing in a spotlight",
+  "start": 104.039,
+  "end": 105.848
+ },
+ {
+  "n": 50,
+  "block": "B03",
+  "text": "When it gets very ripe",
+  "scene": "a mango turning from yellow to orange to brown",
+  "start": 105.848,
+  "end": 107.406
+ },
+ {
+  "n": 51,
+  "block": "B03",
+  "text": "and falls to the ground,",
+  "scene": "a mango falling from a tree with motion lines and landing on the jungle floor",
+  "start": 107.406,
+  "end": 109.084
+ },
+ {
+  "n": 52,
+  "block": "B03",
+  "text": "tiny wild yeasts start eating its sugar.",
+  "scene": "close-up of a rotten fruit with tiny cartoon yeast blobs with smiling faces eating it",
+  "start": 109.084,
+  "end": 112.04
+ },
+ {
+  "n": 53,
+  "block": "B03",
+  "text": "And as they eat,",
+  "scene": "cartoon yeast blobs munching sugar cubes",
+  "start": 112.04,
+  "end": 113.07
+ },
+ {
+  "n": 54,
+  "block": "B03",
+  "text": "they make alcohol.",
+  "scene": "the yeast blobs burping out little bubbles labeled with a tiny bottle icon",
+  "start": 113.07,
+  "end": 114.522
+ },
+ {
+  "n": 55,
+  "block": "B03",
+  "text": "So the forest floor",
+  "scene": "the jungle floor covered in fallen brown fruit",
+  "start": 114.522,
+  "end": 115.985
+ },
+ {
+  "n": 56,
+  "block": "B03",
+  "text": "was basically full of tiny, natural, low-strength drinks.",
+  "scene": "fallen fruits on the ground, each with a tiny bubble rising from it",
+  "start": 115.985,
+  "end": 120.186
+ },
+ {
+  "n": 57,
+  "block": "B03",
+  "text": "Now here's the important part.",
+  "scene": "{SCI} standing next to a big DNA strand",
+  "start": 120.186,
+  "end": 122.423
+ },
+ {
+  "n": 58,
+  "block": "B03",
+  "text": "Around ten million years ago,",
+  "scene": "a stone with \"10,000,000\" carved into it in the jungle",
+  "start": 122.423,
+  "end": 124.634
+ },
+ {
+  "n": 59,
+  "block": "B03",
+  "text": "our ancestors got a tiny genetic mutation.",
+  "scene": "the DNA strand with one small spot glowing yellow",
+  "start": 124.634,
+  "end": 128.037
+ },
+ {
+  "n": 60,
+  "block": "B03",
+  "text": "It changed an enzyme called ADH4,",
+  "scene": "a cartoon enzyme shaped like a little pac-man glowing next to the DNA",
+  "start": 128.037,
+  "end": 130.702
+ },
+ {
+  "n": 61,
+  "block": "B03",
+  "text": "and made it about forty times better at breaking down alcohol.",
+  "scene": "the pac-man enzyme eating alcohol bubbles very fast, a \"x40\" badge next to it",
+  "start": 130.702,
+  "end": 135.775
+ },
+ {
+  "n": 62,
+  "block": "B03",
+  "text": "And it happened right around the time our ancestors",
+  "scene": "{APE} climbing down a tree trunk to the ground",
+  "start": 135.775,
+  "end": 139.01
+ },
+ {
+  "n": 63,
+  "block": "B03",
+  "text": "started spending more time on the ground.",
+  "scene": "{APE} walking on the jungle floor",
+  "start": 139.01,
+  "end": 141.977
+ },
+ {
+  "n": 64,
+  "block": "B03",
+  "text": "Eating fallen fruit.",
+  "scene": "{APE} picking up brown rotten fruit from the ground and eating it happily",
+  "start": 141.977,
+  "end": 143.625
+ },
+ {
+  "n": 65,
+  "block": "B03",
+  "text": "Fermented fruit.",
+  "scene": "{APE} with pink cheeks holding a rotten mango, swaying slightly",
+  "start": 143.625,
+  "end": 145.1
+ },
+ {
+  "n": 66,
+  "block": "B03",
+  "text": "Scientists call this idea",
+  "scene": "{SCI} holding up a sign with a monkey drawing on it",
+  "start": 145.1,
+  "end": 147.02
+ },
+ {
+  "n": 67,
+  "block": "B03",
+  "text": "the drunken monkey hypothesis.",
+  "scene": "{APE} wearing a tiny party hat, holding a fruit like a trophy",
+  "start": 147.02,
+  "end": 149.591
+ },
+ {
+  "n": 68,
+  "block": "B03",
+  "text": "The idea is simple.",
+  "scene": "{SCI} drawing a simple arrow on a chalkboard",
+  "start": 149.591,
+  "end": 151.36
+ },
+ {
+  "n": 69,
+  "block": "B03",
+  "text": "If you could eat rotten fruit without getting sick,",
+  "scene": "{APE} eating fallen fruit happily while another ape holds its stomach in pain",
+  "start": 151.36,
+  "end": 154.425
+ },
+ {
+  "n": 70,
+  "block": "B03",
+  "text": "you had more food than everyone else.",
+  "scene": "{APE} sitting on a big pile of fruit, other apes looking jealous",
+  "start": 154.425,
+  "end": 157.03
+ },
+ {
+  "n": 71,
+  "block": "B03",
+  "text": "And the smell of alcohol itself",
+  "scene": "wavy smell lines rising from a pile of fruit",
+  "start": 157.03,
+  "end": 158.994
+ },
+ {
+  "n": 72,
+  "block": "B03",
+  "text": "could lead you straight to the ripest fruit in the forest.",
+  "scene": "{APE} following the smell lines through the jungle like a cartoon nose trail",
+  "start": 158.994,
+  "end": 162.794
+ },
+ {
+  "n": 73,
+  "block": "B03",
+  "text": "So the love of alcohol",
+  "scene": "a heart shape made of fruit",
+  "start": 162.794,
+  "end": 164.397
+ },
+ {
+  "n": 74,
+  "block": "B03",
+  "text": "may be older than our species.",
+  "scene": "a long timeline with an ape on the far left and a human on the far right, a mango under both",
+  "start": 164.397,
+  "end": 166.814
+ },
+ {
+  "n": 75,
+  "block": "B03",
+  "text": "And we're not the only ones.",
+  "scene": "{GUY} gesturing toward a group of animals",
+  "start": 166.814,
+  "end": 168.786
+ },
+ {
+  "n": 76,
+  "block": "B03",
+  "text": "In Guinea, scientists watched wild chimpanzees",
+  "scene": "{SCI} with binoculars hiding in a bush, watching chimps",
+  "start": 168.786,
+  "end": 172.152
+ },
+ {
+  "n": 77,
+  "block": "B03",
+  "text": "climb palm trees",
+  "scene": "{APE} climbing a tall palm tree with a plastic container tied to it",
+  "start": 172.152,
+  "end": 173.498
+ },
+ {
+  "n": 78,
+  "block": "B03",
+  "text": "and drink fermented palm sap",
+  "scene": "{APE} dipping a crumpled leaf into the container and drinking from it",
+  "start": 173.498,
+  "end": 175.652
+ },
+ {
+  "n": 79,
+  "block": "B03",
+  "text": "using crushed leaves like sponges.",
+  "scene": "close-up of a leaf sponge dripping liquid into the ape's mouth",
+  "start": 175.652,
+  "end": 178.53
+ },
+ {
+  "n": 80,
+  "block": "B03",
+  "text": "Some of them drank enough to look pretty drunk.",
+  "scene": "{APE} with spiral eyes and pink cheeks, sleeping on a branch",
+  "start": 178.53,
+  "end": 181.324
+ },
+ {
+  "n": 81,
+  "block": "B03",
+  "text": "Fruit flies are drawn to the smell of alcohol too.",
+  "scene": "a cloud of tiny cartoon fruit flies swarming around a rotten banana",
+  "start": 181.324,
+  "end": 184.886
+ },
+ {
+  "n": 82,
+  "block": "B03",
+  "text": "And in one experiment, male fruit flies that got rejected by females",
+  "scene": "a tiny fruit fly with a broken heart above its head, a female fly walking away",
+  "start": 184.886,
+  "end": 189.696
+ },
+ {
+  "n": 83,
+  "block": "B03",
+  "text": "chose alcohol-spiked food more often than flies that had a successful date.",
+  "scene": "the sad fruit fly sitting at a tiny bar, drinking from a drop of liquid, while a happy couple of flies walks past",
+  "start": 189.696,
+  "end": 195.293
+ },
+ {
+  "n": 84,
+  "block": "B03",
+  "text": "Heartbreak and a drink.",
+  "scene": "close-up of the sad fruit fly with a tiny tear and a tiny glass",
+  "start": 195.293,
+  "end": 197.085
+ },
+ {
+  "n": 85,
+  "block": "B03",
+  "text": "Apparently that's older than humanity too.",
+  "scene": "a long timeline with a fruit fly on the far left and {GUY} with a glass on the far right, both looking sad",
+  "start": 197.085,
+  "end": 200.054
+ },
+ {
+  "n": 86,
+  "block": "B03",
+  "text": "And you might have heard the story",
+  "scene": "{GUY} holding a newspaper with an elephant on the front page",
+  "start": 200.054,
+  "end": 202.17
+ },
+ {
+  "n": 87,
+  "block": "B03",
+  "text": "about elephants getting drunk on fallen marula fruit in Africa.",
+  "scene": "a cartoon elephant with spiral eyes stumbling under a marula tree full of yellow fruit",
+  "start": 202.17,
+  "end": 206.223
+ },
+ {
+  "n": 88,
+  "block": "B03",
+  "text": "Sadly, scientists calculated that an elephant",
+  "scene": "{SCI} with a calculator standing next to a giant elephant",
+  "start": 206.223,
+  "end": 209.347
+ },
+ {
+  "n": 89,
+  "block": "B03",
+  "text": "would need to eat a huge amount of perfectly fermented fruit",
+  "scene": "a mountain of yellow fruit taller than the elephant",
+  "start": 209.347,
+  "end": 213.427
+ },
+ {
+  "n": 90,
+  "block": "B03",
+  "text": "to feel anything at all.",
+  "scene": "the elephant standing perfectly sober with a bored face next to the mountain of fruit",
+  "start": 213.427,
+  "end": 215.532
+ },
+ {
+  "n": 91,
+  "block": "B03",
+  "text": "The drunk elephant is mostly a myth.",
+  "scene": "a big red X stamped over the drunk elephant picture",
+  "start": 215.532,
+  "end": 218.218
+ },
+ {
+  "n": 92,
+  "block": "B03",
+  "text": "And in Malaysia there's a tiny animal called the pen-tailed treeshrew",
+  "scene": "a tiny brown treeshrew with a long feathered tail sitting on a palm flower",
+  "start": 218.218,
+  "end": 222.92
+ },
+ {
+  "n": 93,
+  "block": "B03",
+  "text": "that drinks naturally fermented palm nectar every single night",
+  "scene": "the treeshrew licking nectar from a flower under a full moon",
+  "start": 222.92,
+  "end": 227.171
+ },
+ {
+  "n": 94,
+  "block": "B03",
+  "text": "and somehow never seems to get drunk.",
+  "scene": "the treeshrew standing perfectly straight with a serious face while other animals around it stumble",
+  "start": 227.171,
+  "end": 230.131
+ },
+ {
+  "n": 95,
+  "block": "B03",
+  "text": "The animal kingdom has a lightweight problem.",
+  "scene": "a small monkey passed out on the ground next to a tiny cup",
+  "start": 230.131,
+  "end": 233.309
+ },
+ {
+  "n": 96,
+  "block": "B03",
+  "text": "And a champion.",
+  "scene": "the treeshrew standing on a winners' podium with a gold medal",
+  "start": 233.309,
+  "end": 235.262
+ },
+ {
+  "n": 97,
+  "block": "B04",
+  "text": "So our bodies were ready for alcohol long before we made it.",
+  "scene": "{CAVE} flexing his arm with a little liver icon glowing proudly",
+  "start": 235.262,
+  "end": 239.428
+ },
+ {
+  "n": 98,
+  "block": "B04",
+  "text": "But when did humans start brewing on purpose?",
+  "scene": "{CAVE} scratching his head next to a clay jar",
+  "start": 239.428,
+  "end": 242.302
+ },
+ {
+  "n": 99,
+  "block": "B04",
+  "text": "For a long time the answer was:",
+  "scene": "an old dusty history book with a candle next to it",
+  "start": 242.302,
+  "end": 244.351
+ },
+ {
+  "n": 100,
+  "block": "B04",
+  "text": "after farming.",
+  "scene": "a wheat field with a little farmer standing in it",
+  "start": 244.351,
+  "end": 245.725
+ },
+ {
+  "n": 101,
+  "block": "B04",
+  "text": "First people grew grain,",
+  "scene": "{CAVE} harvesting golden wheat with a stone sickle",
+  "start": 245.725,
+  "end": 247.414
+ },
+ {
+  "n": 102,
+  "block": "B04",
+  "text": "then they baked bread,",
+  "scene": "{WOMAN} placing a flat bread on a hot stone by a fire",
+  "start": 247.414,
+  "end": 248.982
+ },
+ {
+  "n": 103,
+  "block": "B04",
+  "text": "and then eventually somebody made beer.",
+  "scene": "{CAVE} holding a beer jar with a surprised face",
+  "start": 248.982,
+  "end": 251.896
+ },
+ {
+  "n": 104,
+  "block": "B04",
+  "text": "Makes sense, right?",
+  "scene": "{GUY} shrugging, palms up",
+  "start": 251.896,
+  "end": 253.456
+ },
+ {
+  "n": 105,
+  "block": "B04",
+  "text": "Well, in 2018,",
+  "scene": "a calendar page with \"2018\" on it",
+  "start": 253.456,
+  "end": 254.622
+ },
+ {
+  "n": 106,
+  "block": "B04",
+  "text": "scientists studied stone mortars",
+  "scene": "{SCI} crouching over a deep stone hole in a cave floor with a magnifying glass",
+  "start": 254.622,
+  "end": 256.955
+ },
+ {
+  "n": 107,
+  "block": "B04",
+  "text": "in a place called Raqefet Cave in Israel.",
+  "scene": "a limestone cave entrance on a green hillside",
+  "start": 256.955,
+  "end": 260.191
+ },
+ {
+  "n": 108,
+  "block": "B04",
+  "text": "It was used by a people called the Natufians",
+  "scene": "a group of three cavemen and a cavewoman standing in front of the cave",
+  "start": 260.191,
+  "end": 263.196
+ },
+ {
+  "n": 109,
+  "block": "B04",
+  "text": "about thirteen thousand years ago.",
+  "scene": "a stone with \"13,000\" carved on it",
+  "start": 263.196,
+  "end": 265.895
+ },
+ {
+  "n": 110,
+  "block": "B04",
+  "text": "And inside those stone mortars,",
+  "scene": "close-up of a deep stone mortar in the cave floor",
+  "start": 265.895,
+  "end": 268.071
+ },
+ {
+  "n": 111,
+  "block": "B04",
+  "text": "they found microscopic traces",
+  "scene": "{SCI} looking into a microscope with sparkles around it",
+  "start": 268.071,
+  "end": 270.123
+ },
+ {
+  "n": 112,
+  "block": "B04",
+  "text": "of starch that looked like it had been malted,",
+  "scene": "a microscope view of tiny swollen starch grains like puffy balls",
+  "start": 270.123,
+  "end": 273.231
+ },
+ {
+  "n": 113,
+  "block": "B04",
+  "text": "mashed,",
+  "scene": "{CAVE} mashing grain with a wooden stick inside a stone bowl",
+  "start": 273.231,
+  "end": 273.915
+ },
+ {
+  "n": 114,
+  "block": "B04",
+  "text": "and fermented.",
+  "scene": "bubbles rising from a stone bowl with a cartoon yeast blob waving",
+  "start": 273.915,
+  "end": 275.354
+ },
+ {
+  "n": 115,
+  "block": "B04",
+  "text": "In other words,",
+  "scene": "{SCI} raising one finger",
+  "start": 275.354,
+  "end": 276.463
+ },
+ {
+  "n": 116,
+  "block": "B04",
+  "text": "these people may have been making beer",
+  "scene": "{CAVE} holding up a bowl of foamy beer proudly",
+  "start": 276.463,
+  "end": 278.915
+ },
+ {
+  "n": 117,
+  "block": "B04",
+  "text": "thousands of years before anyone was farming.",
+  "scene": "a long timeline with a beer bowl on the far left and a wheat field much further to the right",
+  "start": 278.915,
+  "end": 282.095
+ },
+ {
+  "n": 118,
+  "block": "B04",
+  "text": "Beer, possibly, before bread.",
+  "scene": "a beer bowl on a podium in first place and a piece of bread in second place",
+  "start": 282.095,
+  "end": 284.336
+ },
+ {
+  "n": 119,
+  "block": "B04",
+  "text": "Some researchers still argue about this,",
+  "scene": "two scientists arguing at a table covered in stone tools, pointing at each other",
+  "start": 284.336,
+  "end": 286.872
+ },
+ {
+  "n": 120,
+  "block": "B04",
+  "text": "but here's what makes it even more interesting.",
+  "scene": "{GUY} leaning forward with excited eyes",
+  "start": 286.872,
+  "end": 290.131
+ },
+ {
+  "n": 121,
+  "block": "B04",
+  "text": "Raqefet Cave was a burial site.",
+  "scene": "a quiet cave interior with simple graves lined with flowers",
+  "start": 290.131,
+  "end": 292.49
+ },
+ {
+  "n": 122,
+  "block": "B04",
+  "text": "The dead were buried on beds of flowers.",
+  "scene": "a peaceful grave covered in colorful wildflowers",
+  "start": 292.49,
+  "end": 295.219
+ },
+ {
+  "n": 123,
+  "block": "B04",
+  "text": "So the first beer we know about",
+  "scene": "a stone bowl of beer placed next to a flower-covered grave",
+  "start": 295.219,
+  "end": 297.058
+ },
+ {
+  "n": 124,
+  "block": "B04",
+  "text": "may have been made for a funeral.",
+  "scene": "a group of cavemen standing around a grave holding bowls, heads bowed, sad faces",
+  "start": 297.058,
+  "end": 299.323
+ },
+ {
+  "n": 125,
+  "block": "B04",
+  "text": "A feast to say goodbye.",
+  "scene": "cavemen sitting around a fire at night, raising their bowls together toward the stars",
+  "start": 299.323,
+  "end": 301.205
+ },
+ {
+  "n": 126,
+  "block": "B04",
+  "text": "Before alcohol was a party,",
+  "scene": "a modern party with balloons crossed out",
+  "start": 301.205,
+  "end": 303.059
+ },
+ {
+  "n": 127,
+  "block": "B04",
+  "text": "it may have been a ritual.",
+  "scene": "a circle of cavemen around a fire under the night sky, holding bowls up in silence",
+  "start": 303.059,
+  "end": 305.754
+ },
+ {
+  "n": 128,
+  "block": "B05",
+  "text": "And that brings us to one of the strangest places on Earth.",
+  "scene": "a hilltop in southern Turkey under a bright blue sky",
+  "start": 305.754,
+  "end": 309.434
+ },
+ {
+  "n": 129,
+  "block": "B05",
+  "text": "Göbekli Tepe, in southern Turkey.",
+  "scene": "huge T-shaped stone pillars arranged in a circle on a hill",
+  "start": 309.434,
+  "end": 312.004
+ },
+ {
+  "n": 130,
+  "block": "B05",
+  "text": "It's around eleven and a half thousand years old.",
+  "scene": "a stone with \"11,500\" carved on it next to the pillars",
+  "start": 312.004,
+  "end": 315.198
+ },
+ {
+  "n": 131,
+  "block": "B05",
+  "text": "Older than Stonehenge by about six thousand years.",
+  "scene": "a tiny Stonehenge next to the huge Göbekli Tepe pillars, the pillars look much older",
+  "start": 315.198,
+  "end": 318.785
+ },
+ {
+  "n": 132,
+  "block": "B05",
+  "text": "And it was built by hunter-gatherers.",
+  "scene": "{CAVE} and {WOMAN} carving animal pictures into a giant stone pillar with stone tools",
+  "start": 318.785,
+  "end": 321.12
+ },
+ {
+  "n": 133,
+  "block": "B05",
+  "text": "People with no metal tools,",
+  "scene": "a crossed-out metal hammer",
+  "start": 321.12,
+  "end": 322.891
+ },
+ {
+  "n": 134,
+  "block": "B05",
+  "text": "no wheels,",
+  "scene": "a crossed-out wheel",
+  "start": 322.891,
+  "end": 323.691
+ },
+ {
+  "n": 135,
+  "block": "B05",
+  "text": "no writing.",
+  "scene": "a crossed-out clay tablet",
+  "start": 323.691,
+  "end": 324.868
+ },
+ {
+  "n": 136,
+  "block": "B05",
+  "text": "Moving stone pillars that weigh as much as ten tons.",
+  "scene": "dozens of cavemen pulling a huge stone pillar with ropes, sweating",
+  "start": 324.868,
+  "end": 328.445
+ },
+ {
+  "n": 137,
+  "block": "B05",
+  "text": "The pillars are covered in carvings of foxes,",
+  "scene": "close-up of a stone pillar with carved foxes and boars",
+  "start": 328.445,
+  "end": 331.319
+ },
+ {
+  "n": 138,
+  "block": "B05",
+  "text": "boars,",
+  "scene": "a carved boar on the stone",
+  "start": 331.319,
+  "end": 331.905
+ },
+ {
+  "n": 139,
+  "block": "B05",
+  "text": "snakes and vultures.",
+  "scene": "carved snakes and a vulture with spread wings on a stone pillar",
+  "start": 331.905,
+  "end": 333.633
+ },
+ {
+  "n": 140,
+  "block": "B05",
+  "text": "And at some point,",
+  "scene": "{CAVE} standing on top of a hill with a shovel",
+  "start": 333.633,
+  "end": 334.847
+ },
+ {
+  "n": 141,
+  "block": "B05",
+  "text": "people deliberately buried parts of the site.",
+  "scene": "cavemen shoveling dirt over the giant stone circle",
+  "start": 334.847,
+  "end": 337.871
+ },
+ {
+  "n": 142,
+  "block": "B05",
+  "text": "Why? Nobody knows.",
+  "scene": "{SCI} shrugging with a big question mark above his head",
+  "start": 337.871,
+  "end": 339.699
+ },
+ {
+  "n": 143,
+  "block": "B05",
+  "text": "Now think about that.",
+  "scene": "{GUY} with hand on his chin, thinking",
+  "start": 339.699,
+  "end": 341.397
+ },
+ {
+  "n": 144,
+  "block": "B05",
+  "text": "Hundreds of people working together for months.",
+  "scene": "a crowd of cavemen working on stones around a hill, some carrying, some carving",
+  "start": 341.397,
+  "end": 344.288
+ },
+ {
+  "n": 145,
+  "block": "B05",
+  "text": "You need to feed them.",
+  "scene": "a big pile of roasted meat and grain next to the workers",
+  "start": 344.288,
+  "end": 345.895
+ },
+ {
+  "n": 146,
+  "block": "B05",
+  "text": "And you need to convince them to show up.",
+  "scene": "{CAVE} standing on a rock holding a bowl, shouting to a crowd",
+  "start": 345.895,
+  "end": 348.452
+ },
+ {
+  "n": 147,
+  "block": "B05",
+  "text": "Archaeologists found huge amounts of animal bones there,",
+  "scene": "{SCI} digging up a pile of animal bones with a shovel",
+  "start": 348.452,
+  "end": 352.477
+ },
+ {
+  "n": 148,
+  "block": "B05",
+  "text": "signs of enormous feasts.",
+  "scene": "a long feast table with roasted meat and many cavemen eating",
+  "start": 352.477,
+  "end": 354.743
+ },
+ {
+  "n": 149,
+  "block": "B05",
+  "text": "They also found giant stone basins",
+  "scene": "a huge stone tub carved out of rock, big enough to sit in",
+  "start": 354.743,
+  "end": 357.034
+ },
+ {
+  "n": 150,
+  "block": "B05",
+  "text": "that could hold up to a couple hundred liters.",
+  "scene": "the stone tub filled with a yellowish liquid, a ruler measuring it",
+  "start": 357.034,
+  "end": 360.368
+ },
+ {
+  "n": 151,
+  "block": "B05",
+  "text": "Some researchers think",
+  "scene": "{SCI} pointing at the stone tub with a pointer stick",
+  "start": 360.368,
+  "end": 361.855
+ },
+ {
+  "n": 152,
+  "block": "B05",
+  "text": "those basins may have been used to brew something like beer.",
+  "scene": "the stone tub with bubbles rising and a little yeast blob waving",
+  "start": 361.855,
+  "end": 365.835
+ },
+ {
+  "n": 153,
+  "block": "B05",
+  "text": "That idea is still debated.",
+  "scene": "two historians arguing with a big question mark between them",
+  "start": 365.835,
+  "end": 368.041
+ },
+ {
+  "n": 154,
+  "block": "B05",
+  "text": "But it would make a lot of sense.",
+  "scene": "{GUY} nodding with a thumbs up",
+  "start": 368.041,
+  "end": 370.108
+ },
+ {
+  "n": 155,
+  "block": "B05",
+  "text": "Because if you want hundreds of strangers to work together,",
+  "scene": "a crowd of cavemen with grumpy faces",
+  "start": 370.108,
+  "end": 373.779
+ },
+ {
+  "n": 156,
+  "block": "B05",
+  "text": "there are few better ways",
+  "scene": "a crowd of cavemen with grumpy faces turning toward a big stone tub",
+  "start": 373.779,
+  "end": 375.469
+ },
+ {
+  "n": 157,
+  "block": "B05",
+  "text": "than food,",
+  "scene": "a crowd of cavemen eating roasted meat happily",
+  "start": 375.469,
+  "end": 376.284
+ },
+ {
+  "n": 158,
+  "block": "B05",
+  "text": "music,",
+  "scene": "cavemen drumming on hollow logs",
+  "start": 376.284,
+  "end": 376.867
+ },
+ {
+  "n": 159,
+  "block": "B05",
+  "text": "and a giant tub of beer.",
+  "scene": "cavemen raising bowls together around the stone tub, laughing and cheering",
+  "start": 376.867,
+  "end": 379.399
+ },
+ {
+  "n": 160,
+  "block": "B06",
+  "text": "Meanwhile, on the other side of the world,",
+  "scene": "a globe spinning toward East Asia",
+  "start": 379.399,
+  "end": 381.931
+ },
+ {
+  "n": 161,
+  "block": "B06",
+  "text": "something similar was happening in China.",
+  "scene": "a misty Chinese landscape with tall green mountains and a river",
+  "start": 381.931,
+  "end": 384.727
+ },
+ {
+  "n": 162,
+  "block": "B06",
+  "text": "In a Stone Age village called Jiahu,",
+  "scene": "a small village with round thatched huts next to a river and rice fields",
+  "start": 384.727,
+  "end": 387.352
+ },
+ {
+  "n": 163,
+  "block": "B06",
+  "text": "people made pottery jars",
+  "scene": "{WOMAN} shaping a clay jar on the ground",
+  "start": 387.352,
+  "end": 389.19
+ },
+ {
+  "n": 164,
+  "block": "B06",
+  "text": "around nine thousand years ago.",
+  "scene": "a stone with \"9,000\" carved on it next to the clay jars",
+  "start": 389.19,
+  "end": 391.807
+ },
+ {
+  "n": 165,
+  "block": "B06",
+  "text": "And when scientists analyzed the residue inside those jars,",
+  "scene": "{SCI} scraping the inside of an old broken clay jar into a little dish",
+  "start": 391.807,
+  "end": 395.927
+ },
+ {
+  "n": 166,
+  "block": "B06",
+  "text": "they found the chemical fingerprint of a fermented drink",
+  "scene": "a chemistry diagram with colorful molecules floating above the jar",
+  "start": 395.927,
+  "end": 399.851
+ },
+ {
+  "n": 167,
+  "block": "B06",
+  "text": "made from rice,",
+  "scene": "a bowl of white rice",
+  "start": 399.851,
+  "end": 401.093
+ },
+ {
+  "n": 168,
+  "block": "B06",
+  "text": "honey,",
+  "scene": "a honeycomb dripping golden honey",
+  "start": 401.093,
+  "end": 401.747
+ },
+ {
+  "n": 169,
+  "block": "B06",
+  "text": "and fruit,",
+  "scene": "a pile of small red hawthorn berries and grapes",
+  "start": 401.747,
+  "end": 402.663
+ },
+ {
+  "n": 170,
+  "block": "B06",
+  "text": "probably hawthorn or wild grapes.",
+  "scene": "close-up of red hawthorn berries on a branch",
+  "start": 402.663,
+  "end": 405.403
+ },
+ {
+  "n": 171,
+  "block": "B06",
+  "text": "It's one of the oldest alcoholic drinks",
+  "scene": "a golden trophy with a clay jar on top",
+  "start": 405.403,
+  "end": 407.905
+ },
+ {
+  "n": 172,
+  "block": "B06",
+  "text": "that has been chemically confirmed anywhere in the world.",
+  "scene": "{SCI} holding a certificate with a big gold stamp",
+  "start": 407.905,
+  "end": 411.776
+ },
+ {
+  "n": 173,
+  "block": "B06",
+  "text": "And in the same village, archaeologists found flutes",
+  "scene": "{SCI} holding up a long thin bone flute with holes",
+  "start": 411.776,
+  "end": 415.147
+ },
+ {
+  "n": 174,
+  "block": "B06",
+  "text": "carved from the wing bones of cranes.",
+  "scene": "a white crane bird with long wings standing in a rice field",
+  "start": 415.147,
+  "end": 417.936
+ },
+ {
+  "n": 175,
+  "block": "B06",
+  "text": "Some of them can still be played today.",
+  "scene": "{SCI} playing the bone flute, musical notes floating out",
+  "start": 417.936,
+  "end": 420.383
+ },
+ {
+  "n": 176,
+  "block": "B06",
+  "text": "So nine thousand years ago,",
+  "scene": "a stone with \"9,000\" carved on it next to the river village",
+  "start": 420.383,
+  "end": 422.1
+ },
+ {
+  "n": 177,
+  "block": "B06",
+  "text": "in this one village,",
+  "scene": "the round thatched huts by the river at sunset",
+  "start": 422.1,
+  "end": 423.429
+ },
+ {
+  "n": 178,
+  "block": "B06",
+  "text": "there were drinks and there was music.",
+  "scene": "villagers dancing around a fire, one playing a flute, others holding clay cups",
+  "start": 423.429,
+  "end": 426.076
+ },
+ {
+  "n": 179,
+  "block": "B06",
+  "text": "Sounds like a party.",
+  "scene": "the villagers laughing and dancing with confetti falling",
+  "start": 426.076,
+  "end": 427.709
+ },
+ {
+  "n": 180,
+  "block": "B06",
+  "text": "And yes, a modern brewery",
+  "scene": "a modern brewery with shiny steel tanks",
+  "start": 427.709,
+  "end": 429.609
+ },
+ {
+  "n": 181,
+  "block": "B06",
+  "text": "actually recreated the recipe",
+  "scene": "a brewer in an apron pouring rice and honey into a steel tank",
+  "start": 429.609,
+  "end": 431.77
+ },
+ {
+  "n": 182,
+  "block": "B06",
+  "text": "and sold it in stores.",
+  "scene": "a bottle with a Chinese-style label on a supermarket shelf",
+  "start": 431.77,
+  "end": 433.793
+ },
+ {
+  "n": 183,
+  "block": "B06",
+  "text": "Nine thousand years later,",
+  "scene": "a stone with \"9,000\" carved on it sitting on the supermarket shelf",
+  "start": 433.793,
+  "end": 435.556
+ },
+ {
+  "n": 184,
+  "block": "B06",
+  "text": "you can taste the Stone Age.",
+  "scene": "{GUY} sipping from a glass with a surprised and thoughtful face",
+  "start": 435.556,
+  "end": 438.337
+ },
+ {
+  "n": 185,
+  "block": "B07",
+  "text": "And then came wine.",
+  "scene": "a vineyard on a sunny hill with purple grapes hanging from vines",
+  "start": 438.337,
+  "end": 439.875
+ },
+ {
+  "n": 186,
+  "block": "B07",
+  "text": "In the country of Georgia,",
+  "scene": "simple map of the Caucasus with Georgia highlighted",
+  "start": 439.875,
+  "end": 441.924
+ },
+ {
+  "n": 187,
+  "block": "B07",
+  "text": "archaeologists found large clay jars",
+  "scene": "{SCI} brushing dirt off a huge round clay jar buried in the ground",
+  "start": 441.924,
+  "end": 444.656
+ },
+ {
+  "n": 188,
+  "block": "B07",
+  "text": "about eight thousand years old,",
+  "scene": "a stone with \"8,000\" carved on it next to the jar",
+  "start": 444.656,
+  "end": 447.046
+ },
+ {
+  "n": 189,
+  "block": "B07",
+  "text": "with traces of grape wine inside.",
+  "scene": "the clay jar cut open showing a dark purple stain at the bottom",
+  "start": 447.046,
+  "end": 449.893
+ },
+ {
+  "n": 190,
+  "block": "B07",
+  "text": "Some of the jars were decorated with grape clusters.",
+  "scene": "close-up of a clay jar with little bumps shaped like bunches of grapes",
+  "start": 449.893,
+  "end": 453.535
+ },
+ {
+  "n": 191,
+  "block": "B07",
+  "text": "In Iran, jars from about seven thousand years ago",
+  "scene": "a row of tall clay jars against a mud-brick wall",
+  "start": 453.535,
+  "end": 456.802
+ },
+ {
+  "n": 192,
+  "block": "B07",
+  "text": "held wine mixed with tree resin,",
+  "scene": "a pine tree dripping sticky golden resin into a jar",
+  "start": 456.802,
+  "end": 459.021
+ },
+ {
+  "n": 193,
+  "block": "B07",
+  "text": "which helped keep it from turning into vinegar.",
+  "scene": "a jar with a happy face next to a sad jar labeled with a sour face",
+  "start": 459.021,
+  "end": 462.484
+ },
+ {
+  "n": 194,
+  "block": "B07",
+  "text": "And in a cave in Armenia,",
+  "scene": "a dark cave entrance in rocky brown mountains",
+  "start": 462.484,
+  "end": 464.383
+ },
+ {
+  "n": 195,
+  "block": "B07",
+  "text": "archaeologists found what looks like an ancient winery.",
+  "scene": "{SCI} with a torch discovering a stone basin and clay jars inside the cave",
+  "start": 464.383,
+  "end": 468.566
+ },
+ {
+  "n": 196,
+  "block": "B07",
+  "text": "A shallow basin for stomping grapes with your feet,",
+  "scene": "{CAVE} stomping grapes in a shallow stone basin, purple juice splashing",
+  "start": 468.566,
+  "end": 471.907
+ },
+ {
+  "n": 197,
+  "block": "B07",
+  "text": "with a channel draining the juice into a buried jar.",
+  "scene": "the purple juice flowing down a small stone channel into a clay jar",
+  "start": 471.907,
+  "end": 475.63
+ },
+ {
+  "n": 198,
+  "block": "B07",
+  "text": "About six thousand years old.",
+  "scene": "a stone with \"6,000\" carved on it in the cave",
+  "start": 475.63,
+  "end": 477.79
+ },
+ {
+  "n": 199,
+  "block": "B07",
+  "text": "Thousands of years later, in the tomb of Tutankhamun,",
+  "scene": "a golden Egyptian tomb full of treasure, a gold mask glowing",
+  "start": 477.79,
+  "end": 481.476
+ },
+ {
+  "n": 200,
+  "block": "B07",
+  "text": "archaeologists found wine jars",
+  "scene": "{SCI} with a torch looking at a row of tall clay wine jars",
+  "start": 481.476,
+  "end": 483.675
+ },
+ {
+  "n": 201,
+  "block": "B07",
+  "text": "labeled with the year,",
+  "scene": "close-up of a clay jar with hieroglyph writing on it",
+  "start": 483.675,
+  "end": 485.357
+ },
+ {
+  "n": 202,
+  "block": "B07",
+  "text": "the vineyard,",
+  "scene": "a little drawing of a vineyard on the jar label",
+  "start": 485.357,
+  "end": 486.456
+ },
+ {
+  "n": 203,
+  "block": "B07",
+  "text": "and even the name of the chief winemaker.",
+  "scene": "a tiny portrait of an Egyptian winemaker on the jar label",
+  "start": 486.456,
+  "end": 489.686
+ },
+ {
+  "n": 204,
+  "block": "B07",
+  "text": "The boy king was buried with vintage wine.",
+  "scene": "a young pharaoh with a golden headdress holding a wine cup, smiling",
+  "start": 489.686,
+  "end": 492.543
+ },
+ {
+  "n": 205,
+  "block": "B07",
+  "text": "So the next time somebody tells you",
+  "scene": "{GUY} at a fancy restaurant holding a wine glass, looking smug",
+  "start": 492.543,
+  "end": 494.832
+ },
+ {
+  "n": 206,
+  "block": "B07",
+  "text": "that wine is a sophisticated drink,",
+  "scene": "a waiter in a bow tie presenting a wine bottle",
+  "start": 494.832,
+  "end": 497.121
+ },
+ {
+  "n": 207,
+  "block": "B07",
+  "text": "remember that it started with a guy in a cave",
+  "scene": "{CAVE} in the cave stomping grapes with purple feet and a big grin",
+  "start": 497.121,
+  "end": 499.996
+ },
+ {
+  "n": 208,
+  "block": "B07",
+  "text": "stomping fruit with his feet.",
+  "scene": "close-up of two purple feet splashing in grape juice",
+  "start": 499.996,
+  "end": 502.833
+ },
+ {
+  "n": 209,
+  "block": "B08",
+  "text": "Then cities appeared.",
+  "scene": "a mud-brick city with a huge stepped temple tower in the middle of a desert",
+  "start": 502.833,
+  "end": 504.46
+ },
+ {
+  "n": 210,
+  "block": "B08",
+  "text": "And in Mesopotamia,",
+  "scene": "a map of the land between two rivers, the Tigris and the Euphrates",
+  "start": 504.46,
+  "end": 505.963
+ },
+ {
+  "n": 211,
+  "block": "B08",
+  "text": "beer became part of everyday life.",
+  "scene": "{SUMER} sitting on a mud-brick bench holding a clay cup with a happy face",
+  "start": 505.963,
+  "end": 508.764
+ },
+ {
+  "n": 212,
+  "block": "B08",
+  "text": "In ancient Sumer,",
+  "scene": "{SUMER} walking through a busy mud-brick market",
+  "start": 508.764,
+  "end": 509.809
+ },
+ {
+  "n": 213,
+  "block": "B08",
+  "text": "beer was food,",
+  "scene": "{SUMER} eating thick porridge-like beer with a spoon",
+  "start": 509.809,
+  "end": 510.705
+ },
+ {
+  "n": 214,
+  "block": "B08",
+  "text": "medicine,",
+  "scene": "{SUMER} pouring beer into a small bowl of herbs for a sick man",
+  "start": 510.705,
+  "end": 511.351
+ },
+ {
+  "n": 215,
+  "block": "B08",
+  "text": "religion,",
+  "scene": "a priest offering a jar of beer to a stone statue in a temple",
+  "start": 511.351,
+  "end": 511.998
+ },
+ {
+  "n": 216,
+  "block": "B08",
+  "text": "and money.",
+  "scene": "{SUMER} handing a jar of beer to another man in exchange for a goat",
+  "start": 511.998,
+  "end": 513.015
+ },
+ {
+  "n": 217,
+  "block": "B08",
+  "text": "Workers were often paid partly in rations of beer and bread.",
+  "scene": "a long line of workers receiving jars of beer and loaves of bread from a scribe",
+  "start": 513.015,
+  "end": 517.589
+ },
+ {
+  "n": 218,
+  "block": "B08",
+  "text": "Clay tablets record daily beer rations,",
+  "scene": "a clay tablet with wedge-shaped marks and a little beer jar drawing",
+  "start": 517.589,
+  "end": 520.275
+ },
+ {
+  "n": 219,
+  "block": "B08",
+  "text": "like an ancient payroll.",
+  "scene": "{SUMER} as a scribe pressing marks into a clay tablet with a reed",
+  "start": 520.275,
+  "end": 522.344
+ },
+ {
+  "n": 220,
+  "block": "B08",
+  "text": "But Sumerian beer didn't look like the beer you know.",
+  "scene": "a modern clear golden beer glass next to a lumpy brown pot, the glass crossed out",
+  "start": 522.344,
+  "end": 525.857
+ },
+ {
+  "n": 221,
+  "block": "B08",
+  "text": "It was thick,",
+  "scene": "close-up of thick cloudy brown beer",
+  "start": 525.857,
+  "end": 526.728
+ },
+ {
+  "n": 222,
+  "block": "B08",
+  "text": "cloudy,",
+  "scene": "the same beer with floating husks and bits of grain",
+  "start": 526.728,
+  "end": 527.292
+ },
+ {
+  "n": 223,
+  "block": "B08",
+  "text": "and full of floating grain husks.",
+  "scene": "husks and grain bits floating on top of the beer like a messy soup",
+  "start": 527.292,
+  "end": 529.509
+ },
+ {
+  "n": 224,
+  "block": "B08",
+  "text": "So how did they drink it?",
+  "scene": "{SUMER} staring at the lumpy pot with a confused face",
+  "start": 529.509,
+  "end": 531.295
+ },
+ {
+  "n": 225,
+  "block": "B08",
+  "text": "With straws.",
+  "scene": "{SUMER} drinking from the pot with a very long reed straw, happily",
+  "start": 531.295,
+  "end": 532.546
+ },
+ {
+  "n": 226,
+  "block": "B08",
+  "text": "Long straws,",
+  "scene": "two Sumerians sitting on either side of a big jar drinking through very long reed straws",
+  "start": 532.546,
+  "end": 533.498
+ },
+ {
+  "n": 227,
+  "block": "B08",
+  "text": "to reach past the gunk floating on top.",
+  "scene": "a cross-section of the jar showing the straw going under the floating husks",
+  "start": 533.498,
+  "end": 536.377
+ },
+ {
+  "n": 228,
+  "block": "B08",
+  "text": "Sumerian art shows people sitting around a big jar,",
+  "scene": "a group of four Sumerians sitting in a circle around one big jar",
+  "start": 536.377,
+  "end": 539.829
+ },
+ {
+  "n": 229,
+  "block": "B08",
+  "text": "all drinking from it together through long straws.",
+  "scene": "the four Sumerians all sipping through long straws at the same time, laughing",
+  "start": 539.829,
+  "end": 543.539
+ },
+ {
+  "n": 230,
+  "block": "B08",
+  "text": "And in the royal tombs of Ur,",
+  "scene": "a dark royal tomb filled with gold treasures and jewelry",
+  "start": 543.539,
+  "end": 545.726
+ },
+ {
+  "n": 231,
+  "block": "B08",
+  "text": "archaeologists found a drinking straw",
+  "scene": "{SCI} holding up a long thin golden tube with sparkles around it",
+  "start": 545.726,
+  "end": 548.443
+ },
+ {
+  "n": 232,
+  "block": "B08",
+  "text": "made of gold and lapis lazuli.",
+  "scene": "close-up of a golden straw with blue stone bands, sparkling",
+  "start": 548.443,
+  "end": 551.017
+ },
+ {
+  "n": 233,
+  "block": "B08",
+  "text": "The world's first luxury straw.",
+  "scene": "a golden straw on a red velvet pillow under a spotlight",
+  "start": 551.017,
+  "end": 553.155
+ },
+ {
+  "n": 234,
+  "block": "B08",
+  "text": "In the Epic of Gilgamesh, one of the oldest stories ever written,",
+  "scene": "an old clay tablet glowing with golden wedge-shaped writing",
+  "start": 553.155,
+  "end": 557.655
+ },
+ {
+  "n": 235,
+  "block": "B08",
+  "text": "there's a wild man named Enkidu",
+  "scene": "a hairy wild man with long messy hair living with gazelles in the grassland",
+  "start": 557.655,
+  "end": 559.938
+ },
+ {
+  "n": 236,
+  "block": "B08",
+  "text": "who grew up with animals.",
+  "scene": "the wild man drinking water from a pond next to gazelles",
+  "start": 559.938,
+  "end": 562.15
+ },
+ {
+  "n": 237,
+  "block": "B08",
+  "text": "To become a real human,",
+  "scene": "the wild man sitting with a group of shepherds, looking nervous",
+  "start": 562.15,
+  "end": 563.722
+ },
+ {
+  "n": 238,
+  "block": "B08",
+  "text": "he is given bread",
+  "scene": "the wild man holding a loaf of bread, sniffing it suspiciously",
+  "start": 563.722,
+  "end": 564.946
+ },
+ {
+  "n": 239,
+  "block": "B08",
+  "text": "and beer.",
+  "scene": "the wild man holding a jar of beer with a curious face",
+  "start": 564.946,
+  "end": 566.023
+ },
+ {
+  "n": 240,
+  "block": "B08",
+  "text": "He drinks seven jugs,",
+  "scene": "seven empty jugs lined up next to the wild man",
+  "start": 566.023,
+  "end": 567.515
+ },
+ {
+  "n": 241,
+  "block": "B08",
+  "text": "feels amazing,",
+  "scene": "the wild man with pink cheeks singing loudly with musical notes",
+  "start": 567.515,
+  "end": 568.589
+ },
+ {
+  "n": 242,
+  "block": "B08",
+  "text": "washes himself,",
+  "scene": "the wild man splashing water on his face, now looking clean",
+  "start": 568.589,
+  "end": 569.723
+ },
+ {
+  "n": 243,
+  "block": "B08",
+  "text": "and becomes civilized.",
+  "scene": "the wild man with trimmed hair and a clean robe, standing proudly",
+  "start": 569.723,
+  "end": 571.595
+ },
+ {
+  "n": 244,
+  "block": "B08",
+  "text": "For the Sumerians,",
+  "scene": "{SUMER} nodding wisely",
+  "start": 571.595,
+  "end": 572.78
+ },
+ {
+  "n": 245,
+  "block": "B08",
+  "text": "bread and beer were literally what made you human.",
+  "scene": "a loaf of bread and a jar of beer on a pedestal with a glowing crown above them",
+  "start": 572.78,
+  "end": 576.009
+ },
+ {
+  "n": 246,
+  "block": "B08",
+  "text": "The Sumerians even had a goddess of beer, Ninkasi.",
+  "scene": "a tall goddess in a blue robe holding a big jar, with a glowing crown",
+  "start": 576.009,
+  "end": 579.858
+ },
+ {
+  "n": 247,
+  "block": "B08",
+  "text": "And a hymn to her, written almost four thousand years ago,",
+  "scene": "a clay tablet covered in wedge-shaped writing, glowing softly",
+  "start": 579.858,
+  "end": 583.723
+ },
+ {
+  "n": 248,
+  "block": "B08",
+  "text": "describes how to make beer step by step.",
+  "scene": "a simple step-by-step diagram: grain, soaking, baking, fermenting, jar",
+  "start": 583.723,
+  "end": 586.786
+ },
+ {
+  "n": 249,
+  "block": "B08",
+  "text": "It's basically a song",
+  "scene": "{SUMER} singing with musical notes floating out of his mouth",
+  "start": 586.786,
+  "end": 588.144
+ },
+ {
+  "n": 250,
+  "block": "B08",
+  "text": "that doubles as a recipe.",
+  "scene": "a recipe card with a beer jar drawing and musical notes around it",
+  "start": 588.144,
+  "end": 590.04
+ },
+ {
+  "n": 251,
+  "block": "B08",
+  "text": "And Babylon's famous law code of Hammurabi",
+  "scene": "a tall black stone pillar covered in tiny writing, with a king carved at the top",
+  "start": 590.04,
+  "end": 593.195
+ },
+ {
+  "n": 252,
+  "block": "B08",
+  "text": "included rules about taverns.",
+  "scene": "a small mud-brick tavern with a jar hanging above the door",
+  "start": 593.195,
+  "end": 595.779
+ },
+ {
+  "n": 253,
+  "block": "B08",
+  "text": "One law said a tavern keeper",
+  "scene": "a woman tavern keeper in a long robe standing behind a counter with jars",
+  "start": 595.779,
+  "end": 597.697
+ },
+ {
+  "n": 254,
+  "block": "B08",
+  "text": "who cheated her customers on the price of drinks",
+  "scene": "the tavern keeper secretly writing a big number on a price tag",
+  "start": 597.697,
+  "end": 600.812
+ },
+ {
+  "n": 255,
+  "block": "B08",
+  "text": "could be thrown into the water.",
+  "scene": "the tavern keeper flying through the air into a river with a big splash",
+  "start": 600.812,
+  "end": 603.229
+ },
+ {
+  "n": 256,
+  "block": "B08",
+  "text": "Four thousand years ago,",
+  "scene": "a stone with \"4,000\" carved on it",
+  "start": 603.229,
+  "end": 604.859
+ },
+ {
+  "n": 257,
+  "block": "B08",
+  "text": "they already had consumer protection for beer.",
+  "scene": "a shield with a beer jar on it and a check mark",
+  "start": 604.859,
+  "end": 608.669
+ },
+ {
+  "n": 258,
+  "block": "B09",
+  "text": "And then there's Egypt.",
+  "scene": "a desert with pyramids and the Nile river in the background",
+  "start": 608.669,
+  "end": 610.319
+ },
+ {
+  "n": 259,
+  "block": "B09",
+  "text": "The people who built the pyramids",
+  "scene": "a crowd of workers pulling huge stone blocks on sledges toward a pyramid",
+  "start": 610.319,
+  "end": 612.434
+ },
+ {
+  "n": 260,
+  "block": "B09",
+  "text": "weren't slaves, as the old movies suggest.",
+  "scene": "an old movie screen showing whips, crossed out with a big red X",
+  "start": 612.434,
+  "end": 615.384
+ },
+ {
+  "n": 261,
+  "block": "B09",
+  "text": "Most were organized, paid workers.",
+  "scene": "{EGYPT} workers standing in a neat line, one holding a clipboard",
+  "start": 615.384,
+  "end": 618.069
+ },
+ {
+  "n": 262,
+  "block": "B09",
+  "text": "And their pay included bread and beer.",
+  "scene": "{EGYPT} receiving a loaf of bread and a jar of beer from an official",
+  "start": 618.069,
+  "end": 620.545
+ },
+ {
+  "n": 263,
+  "block": "B09",
+  "text": "Estimates suggest a worker could get",
+  "scene": "{SCI} with a calculator looking at a stack of beer jars",
+  "start": 620.545,
+  "end": 622.764
+ },
+ {
+  "n": 264,
+  "block": "B09",
+  "text": "around four or five liters of beer a day.",
+  "scene": "five big jars of beer in a row next to one smiling {EGYPT} worker",
+  "start": 622.764,
+  "end": 625.579
+ },
+ {
+  "n": 265,
+  "block": "B09",
+  "text": "That sounds insane,",
+  "scene": "{GUY} with his jaw dropped, eyes huge",
+  "start": 625.579,
+  "end": 626.913
+ },
+ {
+  "n": 266,
+  "block": "B09",
+  "text": "but this beer was usually weak,",
+  "scene": "a beer jar with a tiny thermometer showing a very low number",
+  "start": 626.913,
+  "end": 628.942
+ },
+ {
+  "n": 267,
+  "block": "B09",
+  "text": "thick,",
+  "scene": "thick brown porridge-like beer being poured slowly",
+  "start": 628.942,
+  "end": 629.522
+ },
+ {
+  "n": 268,
+  "block": "B09",
+  "text": "and full of calories.",
+  "scene": "a beer jar with a flexing muscle arm on it",
+  "start": 629.522,
+  "end": 631.291
+ },
+ {
+  "n": 269,
+  "block": "B09",
+  "text": "It was less like a party drink",
+  "scene": "a crossed-out party hat",
+  "start": 631.291,
+  "end": 633.217
+ },
+ {
+  "n": 270,
+  "block": "B09",
+  "text": "and more like liquid bread.",
+  "scene": "a jar of beer turning into a loaf of bread with sparkles",
+  "start": 633.217,
+  "end": 635.292
+ },
+ {
+  "n": 271,
+  "block": "B09",
+  "text": "And here's a bizarre detail.",
+  "scene": "{SCI} holding a magnifying glass over an ancient bone",
+  "start": 635.292,
+  "end": 637.399
+ },
+ {
+  "n": 272,
+  "block": "B09",
+  "text": "Scientists studying ancient Nubian bones from around two thousand years ago,",
+  "scene": "a desert along the Nile with small mud-brick houses",
+  "start": 637.399,
+  "end": 642.632
+ },
+ {
+  "n": 273,
+  "block": "B09",
+  "text": "found traces of tetracycline in them.",
+  "scene": "a bone under a blue light glowing with yellow-green spots",
+  "start": 642.632,
+  "end": 645.634
+ },
+ {
+  "n": 274,
+  "block": "B09",
+  "text": "That's an antibiotic.",
+  "scene": "a modern pill bottle labeled with a medical cross",
+  "start": 645.634,
+  "end": 647.607
+ },
+ {
+  "n": 275,
+  "block": "B09",
+  "text": "The likely source?",
+  "scene": "a big question mark over a clay jar",
+  "start": 647.607,
+  "end": 649.172
+ },
+ {
+  "n": 276,
+  "block": "B09",
+  "text": "Beer brewed from grain contaminated with bacteria",
+  "scene": "a cartoon bacteria blob with a smile sitting on a grain of wheat",
+  "start": 649.172,
+  "end": 652.677
+ },
+ {
+  "n": 277,
+  "block": "B09",
+  "text": "that naturally produce the antibiotic.",
+  "scene": "the bacteria blob making tiny pills and throwing them into a beer jar",
+  "start": 652.677,
+  "end": 655.774
+ },
+ {
+  "n": 278,
+  "block": "B09",
+  "text": "Ancient people may have been drinking medicine",
+  "scene": "{EGYPT} sipping from a jar with a little doctor's cross floating above it",
+  "start": 655.774,
+  "end": 658.681
+ },
+ {
+  "n": 279,
+  "block": "B09",
+  "text": "without having any idea.",
+  "scene": "{EGYPT} shrugging happily with the jar",
+  "start": 658.681,
+  "end": 660.629
+ },
+ {
+  "n": 280,
+  "block": "B09",
+  "text": "The pyramids, in a way,",
+  "scene": "a giant pyramid under the sun",
+  "start": 660.629,
+  "end": 662.078
+ },
+ {
+  "n": 281,
+  "block": "B09",
+  "text": "were powered by beer.",
+  "scene": "a pyramid with a cartoon fuel gauge on it, the fuel being a beer jar",
+  "start": 662.078,
+  "end": 663.74
+ },
+ {
+  "n": 282,
+  "block": "B09",
+  "text": "And the Egyptians even had a myth",
+  "scene": "an ancient scroll unrolling with hieroglyphs",
+  "start": 663.74,
+  "end": 665.901
+ },
+ {
+  "n": 283,
+  "block": "B09",
+  "text": "about how beer saved humanity.",
+  "scene": "a scroll drawing of tiny humans hiding behind a giant beer jar",
+  "start": 665.901,
+  "end": 668.208
+ },
+ {
+  "n": 284,
+  "block": "B09",
+  "text": "In the story, the sun god Ra got angry at humans.",
+  "scene": "a sun god with a falcon head and a sun disk, frowning down at tiny humans",
+  "start": 668.208,
+  "end": 671.991
+ },
+ {
+  "n": 285,
+  "block": "B09",
+  "text": "So he sent the goddess Sekhmet to punish them.",
+  "scene": "a fierce lion-headed goddess in a red dress running across the desert",
+  "start": 671.991,
+  "end": 674.834
+ },
+ {
+  "n": 286,
+  "block": "B09",
+  "text": "But Sekhmet was a lioness goddess,",
+  "scene": "close-up of Sekhmet's lion face with wild eyes and sharp teeth",
+  "start": 674.834,
+  "end": 676.952
+ },
+ {
+  "n": 287,
+  "block": "B09",
+  "text": "and once she started,",
+  "scene": "Sekhmet chasing a crowd of tiny screaming humans",
+  "start": 676.952,
+  "end": 678.346
+ },
+ {
+  "n": 288,
+  "block": "B09",
+  "text": "she wouldn't stop.",
+  "scene": "tiny humans hiding behind rocks and pyramids, terrified",
+  "start": 678.346,
+  "end": 679.892
+ },
+ {
+  "n": 289,
+  "block": "B09",
+  "text": "She was going to wipe out everyone.",
+  "scene": "the desert under a red sky, Sekhmet roaring",
+  "start": 679.892,
+  "end": 682.181
+ },
+ {
+  "n": 290,
+  "block": "B09",
+  "text": "So Ra came up with a plan.",
+  "scene": "Ra with a lightbulb glowing above his falcon head",
+  "start": 682.181,
+  "end": 684.351
+ },
+ {
+  "n": 291,
+  "block": "B09",
+  "text": "He had thousands of jars of beer dyed red,",
+  "scene": "priests pouring red powder into huge jars of beer, the beer turning blood red",
+  "start": 684.351,
+  "end": 687.194
+ },
+ {
+  "n": 292,
+  "block": "B09",
+  "text": "so it looked like blood,",
+  "scene": "a field covered in red liquid shining under the moon",
+  "start": 687.194,
+  "end": 688.925
+ },
+ {
+  "n": 293,
+  "block": "B09",
+  "text": "and poured it all over the fields.",
+  "scene": "priests pouring jars of red beer across a wide field at night",
+  "start": 688.925,
+  "end": 691.594
+ },
+ {
+  "n": 294,
+  "block": "B09",
+  "text": "Sekhmet saw it,",
+  "scene": "Sekhmet stopping and sniffing the red field with wide eyes",
+  "start": 691.594,
+  "end": 692.596
+ },
+ {
+  "n": 295,
+  "block": "B09",
+  "text": "thought it was blood,",
+  "scene": "Sekhmet licking her lips hungrily",
+  "start": 692.596,
+  "end": 693.916
+ },
+ {
+  "n": 296,
+  "block": "B09",
+  "text": "drank all of it,",
+  "scene": "Sekhmet lying on her belly drinking from the red field with a huge gulp",
+  "start": 693.916,
+  "end": 694.971
+ },
+ {
+  "n": 297,
+  "block": "B09",
+  "text": "got completely drunk,",
+  "scene": "Sekhmet with spiral eyes, pink cheeks and hiccup bubbles",
+  "start": 694.971,
+  "end": 696.291
+ },
+ {
+  "n": 298,
+  "block": "B09",
+  "text": "and fell asleep.",
+  "scene": "Sekhmet snoring peacefully in the field with Z letters floating above her",
+  "start": 696.291,
+  "end": 697.666
+ },
+ {
+  "n": 299,
+  "block": "B09",
+  "text": "Humanity was saved.",
+  "scene": "tiny humans cheering and hugging around the sleeping goddess",
+  "start": 697.666,
+  "end": 699.376
+ },
+ {
+  "n": 300,
+  "block": "B09",
+  "text": "By a hangover.",
+  "scene": "Sekhmet waking up holding her head with a giant pain cloud above it",
+  "start": 699.376,
+  "end": 700.845
+ },
+ {
+  "n": 301,
+  "block": "B09",
+  "text": "And the Egyptians celebrated this story",
+  "scene": "a big Egyptian festival with lanterns and dancers at night",
+  "start": 700.845,
+  "end": 703.475
+ },
+ {
+  "n": 302,
+  "block": "B09",
+  "text": "with an actual festival of drunkenness.",
+  "scene": "Egyptians dancing, drumming and drinking under the stars, with a statue of a goddess in the background",
+  "start": 703.475,
+  "end": 707.005
+ },
+ {
+  "n": 303,
+  "block": "B10",
+  "text": "But why did all these cultures,",
+  "scene": "a world map with little beer jars and wine jars popping up everywhere",
+  "start": 707.005,
+  "end": 709.01
+ },
+ {
+  "n": 304,
+  "block": "B10",
+  "text": "completely separately,",
+  "scene": "separate villages on different continents, each with its own jar",
+  "start": 709.01,
+  "end": 710.499
+ },
+ {
+  "n": 305,
+  "block": "B10",
+  "text": "fall in love with alcohol?",
+  "scene": "a big pink heart around a clay jar",
+  "start": 710.499,
+  "end": 712.538
+ },
+ {
+  "n": 306,
+  "block": "B10",
+  "text": "Let's talk about what it actually does to your brain.",
+  "scene": "a cartoon side view of a human head with a simple pink brain inside",
+  "start": 712.538,
+  "end": 715.901
+ },
+ {
+  "n": 307,
+  "block": "B10",
+  "text": "Alcohol slows down parts of your brain",
+  "scene": "the cartoon brain with a turtle icon walking across it",
+  "start": 715.901,
+  "end": 718.503
+ },
+ {
+  "n": 308,
+  "block": "B10",
+  "text": "that normally keep you careful and anxious.",
+  "scene": "a tiny worried guard inside the brain falling asleep in a chair",
+  "start": 718.503,
+  "end": 721.734
+ },
+ {
+  "n": 309,
+  "block": "B10",
+  "text": "It also helps release dopamine",
+  "scene": "colorful sparkles shooting out of the brain",
+  "start": 721.734,
+  "end": 723.904
+ },
+ {
+  "n": 310,
+  "block": "B10",
+  "text": "and endorphins,",
+  "scene": "small smiling hearts floating out of the brain",
+  "start": 723.904,
+  "end": 725.116
+ },
+ {
+  "n": 311,
+  "block": "B10",
+  "text": "the brain's own feel-good chemicals.",
+  "scene": "{GUY} smiling with closed eyes, warm glow around him",
+  "start": 725.116,
+  "end": 727.989
+ },
+ {
+  "n": 312,
+  "block": "B10",
+  "text": "That's why people get louder,",
+  "scene": "{GUY} laughing loudly with sound lines around his head",
+  "start": 727.989,
+  "end": 729.735
+ },
+ {
+  "n": 313,
+  "block": "B10",
+  "text": "friendlier,",
+  "scene": "{GUY} hugging a stranger who looks surprised",
+  "start": 729.735,
+  "end": 730.528
+ },
+ {
+  "n": 314,
+  "block": "B10",
+  "text": "and suddenly want to tell you that they love you.",
+  "scene": "{GUY} holding a friend's shoulders with tears of joy, hearts everywhere",
+  "start": 730.528,
+  "end": 733.652
+ },
+ {
+  "n": 315,
+  "block": "B10",
+  "text": "And some scientists think this is the real secret of alcohol.",
+  "scene": "{SCI} standing next to a chalkboard with a drawing of people holding hands",
+  "start": 733.652,
+  "end": 738.056
+ },
+ {
+  "n": 316,
+  "block": "B10",
+  "text": "Not the taste.",
+  "scene": "a crossed-out tongue icon",
+  "start": 738.056,
+  "end": 739.466
+ },
+ {
+  "n": 317,
+  "block": "B10",
+  "text": "Bonding.",
+  "scene": "a group of cavemen around a fire with their arms around each other",
+  "start": 739.466,
+  "end": 740.557
+ },
+ {
+  "n": 318,
+  "block": "B10",
+  "text": "Humans live in bigger groups than almost any other primate.",
+  "scene": "a huge crowd of humans next to a small group of five chimps",
+  "start": 740.557,
+  "end": 744.712
+ },
+ {
+  "n": 319,
+  "block": "B10",
+  "text": "And keeping a big group together is hard.",
+  "scene": "a group of cavemen arguing and pointing at each other angrily",
+  "start": 744.712,
+  "end": 747.475
+ },
+ {
+  "n": 320,
+  "block": "B10",
+  "text": "Apes bond by grooming each other,",
+  "scene": "two {APE} grooming each other's fur, calm and happy",
+  "start": 747.475,
+  "end": 749.663
+ },
+ {
+  "n": 321,
+  "block": "B10",
+  "text": "but you can only groom a few friends at a time.",
+  "scene": "an {APE} looking tired, trying to groom ten apes at once",
+  "start": 749.663,
+  "end": 752.998
+ },
+ {
+  "n": 322,
+  "block": "B10",
+  "text": "Alcohol, shared around a fire,",
+  "scene": "a circle of cavemen passing a bowl around a campfire at night",
+  "start": 752.998,
+  "end": 755.033
+ },
+ {
+  "n": 323,
+  "block": "B10",
+  "text": "may have worked like a shortcut to that same warm, connected feeling.",
+  "scene": "the circle of cavemen laughing together, a big warm glowing heart above the fire",
+  "start": 755.033,
+  "end": 759.721
+ },
+ {
+  "n": 324,
+  "block": "B10",
+  "text": "A kind of liquid social glue.",
+  "scene": "a cartoon glue bottle with a beer jar label, little people stuck together and smiling",
+  "start": 759.721,
+  "end": 761.986
+ },
+ {
+  "n": 325,
+  "block": "B10",
+  "text": "And alcohol has another famous side effect.",
+  "scene": "{GUY} doing a little dance, holding his legs together",
+  "start": 761.986,
+  "end": 765.226
+ },
+ {
+  "n": 326,
+  "block": "B10",
+  "text": "It blocks a hormone that tells your kidneys to hold on to water.",
+  "scene": "a cartoon kidney with a little door swinging open, water pouring out",
+  "start": 765.226,
+  "end": 769.426
+ },
+ {
+  "n": 327,
+  "block": "B10",
+  "text": "Which is why, after a few drinks,",
+  "scene": "a long line of people waiting outside a bathroom door",
+  "start": 769.426,
+  "end": 771.439
+ },
+ {
+  "n": 328,
+  "block": "B10",
+  "text": "you spend half the night looking for a bathroom.",
+  "scene": "{GUY} running down a hallway past many doors, looking desperate",
+  "start": 771.439,
+  "end": 774.588
+ },
+ {
+  "n": 329,
+  "block": "B10",
+  "text": "Of course, it comes with a price.",
+  "scene": "a cartoon price tag with a skull-shaped bandage",
+  "start": 774.588,
+  "end": 776.88
+ },
+ {
+  "n": 330,
+  "block": "B10",
+  "text": "When your liver breaks down alcohol,",
+  "scene": "a cartoon liver with a little hard hat working on a conveyor belt",
+  "start": 776.88,
+  "end": 779.377
+ },
+ {
+  "n": 331,
+  "block": "B10",
+  "text": "it makes a toxic chemical called acetaldehyde.",
+  "scene": "a small green angry molecule with spiky edges coming off the conveyor belt",
+  "start": 779.377,
+  "end": 782.818
+ },
+ {
+  "n": 332,
+  "block": "B10",
+  "text": "That, plus dehydration and bad sleep,",
+  "scene": "{GUY} lying in bed with a dry desert inside a thought bubble",
+  "start": 782.818,
+  "end": 785.416
+ },
+ {
+  "n": 333,
+  "block": "B10",
+  "text": "is a big part of what you feel the next morning.",
+  "scene": "{GUY} holding his head in the morning, a storm cloud above him, sunlight hurting his eyes",
+  "start": 785.416,
+  "end": 789.031
+ },
+ {
+  "n": 334,
+  "block": "B10",
+  "text": "And ancient people tried some truly terrible hangover cures.",
+  "scene": "{GUY} lying on a couch holding his head, a storm cloud above him",
+  "start": 789.031,
+  "end": 793.199
+ },
+ {
+  "n": 335,
+  "block": "B10",
+  "text": "The Roman writer Pliny the Elder recommended",
+  "scene": "an old Roman man with a laurel crown writing on a scroll",
+  "start": 793.199,
+  "end": 796.154
+ },
+ {
+  "n": 336,
+  "block": "B10",
+  "text": "raw owl eggs.",
+  "scene": "a small brown owl looking horrified next to a cracked egg in a cup",
+  "start": 796.154,
+  "end": 797.521
+ },
+ {
+  "n": 337,
+  "block": "B10",
+  "text": "An Assyrian remedy supposedly involved",
+  "scene": "{SUMER} grinding something in a small stone bowl with a serious face",
+  "start": 797.521,
+  "end": 800.092
+ },
+ {
+  "n": 338,
+  "block": "B10",
+  "text": "ground-up bird beaks and myrrh.",
+  "scene": "a small bird with a worried face hiding behind a bowl",
+  "start": 800.092,
+  "end": 802.554
+ },
+ {
+  "n": 339,
+  "block": "B10",
+  "text": "And the ancient Greeks swore by cabbage.",
+  "scene": "a Greek man in a toga hugging a giant green cabbage with relief",
+  "start": 802.554,
+  "end": 805.176
+ },
+ {
+  "n": 340,
+  "block": "B10",
+  "text": "None of these work.",
+  "scene": "a big red X over the owl egg, the bird beak and the cabbage",
+  "start": 805.176,
+  "end": 806.724
+ },
+ {
+  "n": 341,
+  "block": "B10",
+  "text": "Please don't eat an owl egg.",
+  "scene": "the owl wagging its wing like a finger at the viewer, very serious",
+  "start": 806.724,
+  "end": 808.777
+ },
+ {
+  "n": 342,
+  "block": "B10",
+  "text": "And some people get the bill much faster.",
+  "scene": "{GUY} with bright red cheeks after one small sip",
+  "start": 808.777,
+  "end": 811.433
+ },
+ {
+  "n": 343,
+  "block": "B10",
+  "text": "Hundreds of millions of people,",
+  "scene": "a crowd of people with red faces holding tiny glasses",
+  "start": 811.433,
+  "end": 813.612
+ },
+ {
+  "n": 344,
+  "block": "B10",
+  "text": "especially in East Asia,",
+  "scene": "a map of East Asia highlighted in red",
+  "start": 813.612,
+  "end": 815.356
+ },
+ {
+  "n": 345,
+  "block": "B10",
+  "text": "carry a gene variant",
+  "scene": "a DNA strand with a red spot glowing",
+  "start": 815.356,
+  "end": 816.85
+ },
+ {
+  "n": 346,
+  "block": "B10",
+  "text": "that makes their face turn red after just a little alcohol.",
+  "scene": "a man turning bright red like a tomato after one sip, surprised",
+  "start": 816.85,
+  "end": 821.093
+ },
+ {
+  "n": 347,
+  "block": "B10",
+  "text": "Their bodies clear that toxic chemical more slowly.",
+  "scene": "a slow turtle carrying a green spiky molecule on its back",
+  "start": 821.093,
+  "end": 824.484
+ },
+ {
+  "n": 348,
+  "block": "B10",
+  "text": "Some scientists think this variant spread",
+  "scene": "arrows spreading across East Asia from a rice field",
+  "start": 824.484,
+  "end": 827.097
+ },
+ {
+  "n": 349,
+  "block": "B10",
+  "text": "around the same time as early rice farming,",
+  "scene": "a rice paddy field with farmers planting rice",
+  "start": 827.097,
+  "end": 829.827
+ },
+ {
+  "n": 350,
+  "block": "B10",
+  "text": "though nobody knows for sure.",
+  "scene": "{SCI} shrugging with a question mark above his head",
+  "start": 829.827,
+  "end": 832.643
+ },
+ {
+  "n": 351,
+  "block": "B11",
+  "text": "And here's what really shows how deep this goes.",
+  "scene": "{GUY} standing in front of a big world map",
+  "start": 832.643,
+  "end": 835.635
+ },
+ {
+  "n": 352,
+  "block": "B11",
+  "text": "Almost everywhere humans settled,",
+  "scene": "a world map with little people popping up on every continent",
+  "start": 835.635,
+  "end": 837.719
+ },
+ {
+  "n": 353,
+  "block": "B11",
+  "text": "they found their own way to make a drink.",
+  "scene": "each little person on the map holding up a different cup or jar",
+  "start": 837.719,
+  "end": 840.575
+ },
+ {
+  "n": 354,
+  "block": "B11",
+  "text": "In the Andes of South America,",
+  "scene": "tall snowy mountains with terraced green fields",
+  "start": 840.575,
+  "end": 842.645
+ },
+ {
+  "n": 355,
+  "block": "B11",
+  "text": "people made a corn beer called chicha.",
+  "scene": "a big clay pot full of yellow corn beer",
+  "start": 842.645,
+  "end": 845.522
+ },
+ {
+  "n": 356,
+  "block": "B11",
+  "text": "And traditionally, one way to start the fermentation",
+  "scene": "a woman sitting by a pot holding corn kernels, looking at the viewer",
+  "start": 845.522,
+  "end": 848.562
+ },
+ {
+  "n": 357,
+  "block": "B11",
+  "text": "was to chew the corn",
+  "scene": "the woman chewing corn with puffy cheeks",
+  "start": 848.562,
+  "end": 849.865
+ },
+ {
+  "n": 358,
+  "block": "B11",
+  "text": "and spit it into the pot.",
+  "scene": "the woman spitting a little stream of chewed corn into the pot, {GUY} watching in horror",
+  "start": 849.865,
+  "end": 851.759
+ },
+ {
+  "n": 359,
+  "block": "B11",
+  "text": "Enzymes in human saliva",
+  "scene": "a cartoon mouth with tiny smiling enzyme blobs",
+  "start": 851.759,
+  "end": 853.516
+ },
+ {
+  "n": 360,
+  "block": "B11",
+  "text": "turn the starch into sugar",
+  "scene": "the enzyme blobs turning white starch blocks into sugar cubes",
+  "start": 853.516,
+  "end": 855.468
+ },
+ {
+  "n": 361,
+  "block": "B11",
+  "text": "so the yeast can turn it into alcohol.",
+  "scene": "yeast blobs eating the sugar cubes and burping bubbles",
+  "start": 855.468,
+  "end": 858.52
+ },
+ {
+  "n": 362,
+  "block": "B11",
+  "text": "Spit beer.",
+  "scene": "a pot with a sign that says \"SPIT BEER\" and a skull-and-crossbones joke sticker",
+  "start": 858.52,
+  "end": 859.726
+ },
+ {
+  "n": 363,
+  "block": "B11",
+  "text": "And Japan had its own version,",
+  "scene": "a Japanese village with wooden houses and cherry blossoms",
+  "start": 859.726,
+  "end": 861.947
+ },
+ {
+  "n": 364,
+  "block": "B11",
+  "text": "an old rice drink made by chewing rice.",
+  "scene": "a woman in a kimono chewing rice and spitting it into a wooden tub",
+  "start": 861.947,
+  "end": 865.075
+ },
+ {
+  "n": 365,
+  "block": "B11",
+  "text": "In Mexico, people fermented the sap of the agave plant",
+  "scene": "a giant spiky agave plant with a man collecting sap in a gourd",
+  "start": 865.075,
+  "end": 868.78
+ },
+ {
+  "n": 366,
+  "block": "B11",
+  "text": "into a milky drink called pulque.",
+  "scene": "a clay cup of white foamy liquid",
+  "start": 868.78,
+  "end": 871.463
+ },
+ {
+  "n": 367,
+  "block": "B11",
+  "text": "The Aztecs had a whole family of pulque gods",
+  "scene": "a group of cartoon rabbits wearing feathered headdresses",
+  "start": 871.463,
+  "end": 874.022
+ },
+ {
+  "n": 368,
+  "block": "B11",
+  "text": "who were rabbits.",
+  "scene": "close-up of a rabbit god with a feather crown holding a cup",
+  "start": 874.022,
+  "end": 875.462
+ },
+ {
+  "n": 369,
+  "block": "B11",
+  "text": "Four hundred drunk rabbits,",
+  "scene": "a huge crowd of tipsy rabbits with spiral eyes dancing",
+  "start": 875.462,
+  "end": 877.294
+ },
+ {
+  "n": 370,
+  "block": "B11",
+  "text": "one for every different way of being drunk.",
+  "scene": "a grid of rabbits showing different moods: crying, laughing, singing, sleeping, angry",
+  "start": 877.294,
+  "end": 880.393
+ },
+ {
+  "n": 371,
+  "block": "B11",
+  "text": "And across Africa,",
+  "scene": "an African savanna village with round huts and tall sorghum plants",
+  "start": 880.393,
+  "end": 881.711
+ },
+ {
+  "n": 372,
+  "block": "B11",
+  "text": "people brewed beer from sorghum and millet",
+  "scene": "women stirring a big pot of reddish sorghum beer over a fire",
+  "start": 881.711,
+  "end": 884.468
+ },
+ {
+  "n": 373,
+  "block": "B11",
+  "text": "that was shared at weddings, funerals and work parties.",
+  "scene": "a village crowd passing a big gourd of beer around in a circle",
+  "start": 884.468,
+  "end": 888.324
+ },
+ {
+  "n": 374,
+  "block": "B11",
+  "text": "Completely different continents.",
+  "scene": "a world map with three separate glowing spots",
+  "start": 888.324,
+  "end": 890.443
+ },
+ {
+  "n": 375,
+  "block": "B11",
+  "text": "Completely different plants.",
+  "scene": "corn, agave and sorghum plants side by side",
+  "start": 890.443,
+  "end": 892.399
+ },
+ {
+  "n": 376,
+  "block": "B11",
+  "text": "The same idea.",
+  "scene": "three different cups clinking together in the middle of the map",
+  "start": 892.399,
+  "end": 894.479
+ },
+ {
+  "n": 377,
+  "block": "B12",
+  "text": "Now let's jump to ancient Greece.",
+  "scene": "white marble columns on a hill under a blue sky, the sea in the background",
+  "start": 894.479,
+  "end": 896.79
+ },
+ {
+  "n": 378,
+  "block": "B12",
+  "text": "The Greeks loved wine,",
+  "scene": "a Greek man in a white toga holding a wide shallow wine cup",
+  "start": 896.79,
+  "end": 898.07
+ },
+ {
+  "n": 379,
+  "block": "B12",
+  "text": "but they had a rule.",
+  "scene": "the Greek man raising one finger seriously",
+  "start": 898.07,
+  "end": 899.571
+ },
+ {
+  "n": 380,
+  "block": "B12",
+  "text": "You always mixed it with water.",
+  "scene": "a big painted mixing bowl with a man pouring water into dark wine",
+  "start": 899.571,
+  "end": 901.799
+ },
+ {
+  "n": 381,
+  "block": "B12",
+  "text": "Drinking wine straight",
+  "scene": "a man drinking from a jug of wine directly, frowned at by others",
+  "start": 901.799,
+  "end": 903.352
+ },
+ {
+  "n": 382,
+  "block": "B12",
+  "text": "was considered something only barbarians did.",
+  "scene": "Greek men pointing and laughing at a wild-haired barbarian chugging wine",
+  "start": 903.352,
+  "end": 906.6
+ },
+ {
+  "n": 383,
+  "block": "B12",
+  "text": "And the Greeks turned drinking into an event called the symposium.",
+  "scene": "Greek men lying on couches around a room, talking and holding cups",
+  "start": 906.6,
+  "end": 910.532
+ },
+ {
+  "n": 384,
+  "block": "B12",
+  "text": "Men lay on couches,",
+  "scene": "a Greek man lounging on a couch on his side, holding a cup",
+  "start": 910.532,
+  "end": 912.01
+ },
+ {
+  "n": 385,
+  "block": "B12",
+  "text": "drank,",
+  "scene": "the Greek men raising cups together",
+  "start": 912.01,
+  "end": 912.652
+ },
+ {
+  "n": 386,
+  "block": "B12",
+  "text": "recited poetry,",
+  "scene": "a Greek man standing and reading from a scroll dramatically",
+  "start": 912.652,
+  "end": 913.873
+ },
+ {
+  "n": 387,
+  "block": "B12",
+  "text": "argued about philosophy,",
+  "scene": "two Greek men arguing with speech bubbles full of question marks",
+  "start": 913.873,
+  "end": 915.672
+ },
+ {
+  "n": 388,
+  "block": "B12",
+  "text": "and played a game called kottabos.",
+  "scene": "a Greek man swinging his wine cup to fling the last drops at a target",
+  "start": 915.672,
+  "end": 918.433
+ },
+ {
+  "n": 389,
+  "block": "B12",
+  "text": "You flicked the last drops of wine from your cup",
+  "scene": "close-up of a red drop of wine flying through the air",
+  "start": 918.433,
+  "end": 921.355
+ },
+ {
+  "n": 390,
+  "block": "B12",
+  "text": "at a target across the room.",
+  "scene": "a small bronze disk balanced on top of a pole, the drop hitting it with a ding",
+  "start": 921.355,
+  "end": 923.473
+ },
+ {
+  "n": 391,
+  "block": "B12",
+  "text": "Basically ancient beer pong.",
+  "scene": "a modern beer pong table next to the Greek kottabos stand, with an equals sign",
+  "start": 923.473,
+  "end": 925.745
+ },
+ {
+  "n": 392,
+  "block": "B12",
+  "text": "One Greek playwright even described the perfect number of drinks.",
+  "scene": "an old Greek writer with a scroll and a quill, thinking",
+  "start": 925.745,
+  "end": 930.289
+ },
+ {
+  "n": 393,
+  "block": "B12",
+  "text": "The first bowl is for health.",
+  "scene": "a Greek man drinking from a cup with a green health cross above him",
+  "start": 930.289,
+  "end": 932.279
+ },
+ {
+  "n": 394,
+  "block": "B12",
+  "text": "The second for love and pleasure.",
+  "scene": "the Greek man with hearts floating above him",
+  "start": 932.279,
+  "end": 934.538
+ },
+ {
+  "n": 395,
+  "block": "B12",
+  "text": "The third for sleep.",
+  "scene": "the Greek man yawning with Z letters above his head",
+  "start": 934.538,
+  "end": 936.167
+ },
+ {
+  "n": 396,
+  "block": "B12",
+  "text": "After that, he said,",
+  "scene": "the Greek man reaching for a fourth bowl",
+  "start": 936.167,
+  "end": 937.425
+ },
+ {
+  "n": 397,
+  "block": "B12",
+  "text": "things start to go wrong.",
+  "scene": "a row of bowls getting more and more chaotic: shouting, fighting, falling over",
+  "start": 937.425,
+  "end": 939.265
+ },
+ {
+  "n": 398,
+  "block": "B12",
+  "text": "By the tenth bowl,",
+  "scene": "a stone with \"10\" carved on it",
+  "start": 939.265,
+  "end": 940.473
+ },
+ {
+  "n": 399,
+  "block": "B12",
+  "text": "you get madness,",
+  "scene": "a Greek man with spiral eyes dancing on a table",
+  "start": 940.473,
+  "end": 941.571
+ },
+ {
+  "n": 400,
+  "block": "B12",
+  "text": "and people start throwing furniture.",
+  "scene": "a chair flying through the air across the symposium room, everyone ducking",
+  "start": 941.571,
+  "end": 944.086
+ },
+ {
+  "n": 401,
+  "block": "B12",
+  "text": "Ancient wisdom that every party still ignores.",
+  "scene": "a modern party with people dancing on tables, ignoring a sign that says \"3 MAX\"",
+  "start": 944.086,
+  "end": 947.512
+ },
+ {
+  "n": 402,
+  "block": "B12",
+  "text": "The Romans took wine everywhere.",
+  "scene": "Roman soldiers marching on a stone road carrying clay amphorae",
+  "start": 947.512,
+  "end": 949.675
+ },
+ {
+  "n": 403,
+  "block": "B12",
+  "text": "Roman soldiers drank posca,",
+  "scene": "a Roman soldier drinking from a leather flask with a sour face",
+  "start": 949.675,
+  "end": 951.799
+ },
+ {
+  "n": 404,
+  "block": "B12",
+  "text": "a sour mix of vinegar and water.",
+  "scene": "a bottle of vinegar and a jug of water being mixed",
+  "start": 951.799,
+  "end": 954.585
+ },
+ {
+  "n": 405,
+  "block": "B12",
+  "text": "And in 186 BC,",
+  "scene": "a stone with \"186 BC\" carved on it",
+  "start": 954.585,
+  "end": 955.864
+ },
+ {
+  "n": 406,
+  "block": "B12",
+  "text": "the Roman Senate cracked down hard",
+  "scene": "Roman senators in white togas with red stripes arguing angrily in a marble hall",
+  "start": 955.864,
+  "end": 958.564
+ },
+ {
+  "n": 407,
+  "block": "B12",
+  "text": "on the secret festivals of the wine god Bacchus.",
+  "scene": "a wild night party with people wearing ivy crowns dancing with torches",
+  "start": 958.564,
+  "end": 962.578
+ },
+ {
+  "n": 408,
+  "block": "B12",
+  "text": "They were so worried about them",
+  "scene": "a senator pointing at a scroll with a shocked face",
+  "start": 962.578,
+  "end": 964.5
+ },
+ {
+  "n": 409,
+  "block": "B12",
+  "text": "that thousands of people were reportedly punished.",
+  "scene": "Roman soldiers chasing party guests out of a cave with torches",
+  "start": 964.5,
+  "end": 967.785
+ },
+ {
+  "n": 410,
+  "block": "B12",
+  "text": "Even the Romans thought some parties went too far.",
+  "scene": "a senator facepalming in front of a messy party scene",
+  "start": 967.785,
+  "end": 971.623
+ },
+ {
+  "n": 411,
+  "block": "B13",
+  "text": "And now, a myth you've probably heard.",
+  "scene": "{GUY} holding a book with a big question mark on the cover",
+  "start": 971.623,
+  "end": 974.193
+ },
+ {
+  "n": 412,
+  "block": "B13",
+  "text": "People in the Middle Ages drank beer all day",
+  "scene": "medieval peasants in a village drinking from wooden mugs",
+  "start": 974.193,
+  "end": 977.188
+ },
+ {
+  "n": 413,
+  "block": "B13",
+  "text": "because the water was too dirty to drink.",
+  "scene": "a gross green river with flies buzzing over it, a peasant looking disgusted",
+  "start": 977.188,
+  "end": 980.316
+ },
+ {
+  "n": 414,
+  "block": "B13",
+  "text": "Right?",
+  "scene": "{GUY} raising one eyebrow",
+  "start": 980.316,
+  "end": 981.304
+ },
+ {
+  "n": 415,
+  "block": "B13",
+  "text": "Not really.",
+  "scene": "a big red X stamped over the gross green river",
+  "start": 981.304,
+  "end": 982.561
+ },
+ {
+  "n": 416,
+  "block": "B13",
+  "text": "Historians say this is mostly a myth.",
+  "scene": "a historian with glasses shaking her head next to a stack of books",
+  "start": 982.561,
+  "end": 985.519
+ },
+ {
+  "n": 417,
+  "block": "B13",
+  "text": "Medieval people drank plenty of water.",
+  "scene": "a medieval woman pulling a bucket of clean water from a stone well",
+  "start": 985.519,
+  "end": 988.433
+ },
+ {
+  "n": 418,
+  "block": "B13",
+  "text": "They had wells,",
+  "scene": "a stone well with a wooden roof in a village square",
+  "start": 988.433,
+  "end": 989.471
+ },
+ {
+  "n": 419,
+  "block": "B13",
+  "text": "springs,",
+  "scene": "clear water bubbling out of rocks in a green forest",
+  "start": 989.471,
+  "end": 990.127
+ },
+ {
+  "n": 420,
+  "block": "B13",
+  "text": "and rules to keep water clean.",
+  "scene": "a medieval town official pointing at a sign next to a well",
+  "start": 990.127,
+  "end": 992.305
+ },
+ {
+  "n": 421,
+  "block": "B13",
+  "text": "But beer was still everywhere,",
+  "scene": "a busy medieval tavern with wooden barrels and mugs",
+  "start": 992.305,
+  "end": 994.099
+ },
+ {
+  "n": 422,
+  "block": "B13",
+  "text": "partly because it was food.",
+  "scene": "a peasant eating bread and drinking beer at a wooden table",
+  "start": 994.099,
+  "end": 996.055
+ },
+ {
+  "n": 423,
+  "block": "B13",
+  "text": "A weak beer called small beer",
+  "scene": "a wooden mug of pale, thin beer",
+  "start": 996.055,
+  "end": 998.072
+ },
+ {
+  "n": 424,
+  "block": "B13",
+  "text": "was drunk by almost everyone,",
+  "scene": "a medieval family at a table, all with mugs, including grandma",
+  "start": 998.072,
+  "end": 1000.09
+ },
+ {
+  "n": 425,
+  "block": "B13",
+  "text": "because it gave you calories for long days of work in the fields.",
+  "scene": "a peasant plowing a field, wiping sweat, a mug of beer waiting on a fence post",
+  "start": 1000.09,
+  "end": 1004.628
+ },
+ {
+  "n": 426,
+  "block": "B13",
+  "text": "Monasteries became some of the best brewers in Europe.",
+  "scene": "a monk in a brown robe stirring a huge copper brewing pot inside a stone monastery",
+  "start": 1004.628,
+  "end": 1008.094
+ },
+ {
+  "n": 427,
+  "block": "B13",
+  "text": "Some monastery breweries are still running today.",
+  "scene": "a modern beer bottle with a little monk drawn on the label",
+  "start": 1008.094,
+  "end": 1011.557
+ },
+ {
+  "n": 428,
+  "block": "B13",
+  "text": "And for a long time,",
+  "scene": "a medieval kitchen with a big pot over a fire",
+  "start": 1011.557,
+  "end": 1012.912
+ },
+ {
+  "n": 429,
+  "block": "B13",
+  "text": "brewing was mostly women's work.",
+  "scene": "a medieval woman stirring a big brewing pot with a wooden paddle",
+  "start": 1012.912,
+  "end": 1015.266
+ },
+ {
+  "n": 430,
+  "block": "B13",
+  "text": "In medieval England, women called alewives",
+  "scene": "an alewife in a long dress standing outside her house with jugs of ale",
+  "start": 1015.266,
+  "end": 1018.01
+ },
+ {
+  "n": 431,
+  "block": "B13",
+  "text": "brewed ale at home and sold it.",
+  "scene": "the alewife handing a jug to a customer through a window",
+  "start": 1018.01,
+  "end": 1020.418
+ },
+ {
+  "n": 432,
+  "block": "B13",
+  "text": "Some historians have pointed out a strange coincidence.",
+  "scene": "a historian with glasses tapping a book with a curious face",
+  "start": 1020.418,
+  "end": 1024.172
+ },
+ {
+  "n": 433,
+  "block": "B13",
+  "text": "Some alewives wore tall hats so they stood out in crowded markets.",
+  "scene": "the alewife wearing a tall pointed black hat in a busy market",
+  "start": 1024.172,
+  "end": 1028.853
+ },
+ {
+  "n": 434,
+  "block": "B13",
+  "text": "They brewed in big cauldrons.",
+  "scene": "the alewife stirring a huge black cauldron with bubbles rising",
+  "start": 1028.853,
+  "end": 1031.05
+ },
+ {
+  "n": 435,
+  "block": "B13",
+  "text": "They hung a broom outside the door to show ale was for sale.",
+  "scene": "a broom hanging above a cottage door with a jug painted on a sign",
+  "start": 1031.05,
+  "end": 1034.943
+ },
+ {
+  "n": 436,
+  "block": "B13",
+  "text": "And many kept cats to protect the grain from mice.",
+  "scene": "a black cat sitting next to grain sacks, a mouse running away",
+  "start": 1034.943,
+  "end": 1038.122
+ },
+ {
+  "n": 437,
+  "block": "B13",
+  "text": "Pointy hat.",
+  "scene": "close-up of a tall pointy black hat",
+  "start": 1038.122,
+  "end": 1039.391
+ },
+ {
+  "n": 438,
+  "block": "B13",
+  "text": "Cauldron.",
+  "scene": "close-up of a bubbling black cauldron",
+  "start": 1039.391,
+  "end": 1040.479
+ },
+ {
+  "n": 439,
+  "block": "B13",
+  "text": "Broom.",
+  "scene": "close-up of a broom",
+  "start": 1040.479,
+  "end": 1041.503
+ },
+ {
+  "n": 440,
+  "block": "B13",
+  "text": "Cat.",
+  "scene": "close-up of a black cat with yellow eyes",
+  "start": 1041.503,
+  "end": 1042.403
+ },
+ {
+  "n": 441,
+  "block": "B13",
+  "text": "Sound familiar?",
+  "scene": "a classic cartoon witch with a pointy hat, broom, cauldron and black cat",
+  "start": 1042.403,
+  "end": 1043.802
+ },
+ {
+  "n": 442,
+  "block": "B13",
+  "text": "Whether alewives really inspired the witch image is debated,",
+  "scene": "two historians arguing with a big question mark between them",
+  "start": 1043.802,
+  "end": 1047.812
+ },
+ {
+  "n": 443,
+  "block": "B13",
+  "text": "but it's a fascinating idea.",
+  "scene": "{GUY} rubbing his chin with a curious face",
+  "start": 1047.812,
+  "end": 1050.137
+ },
+ {
+  "n": 444,
+  "block": "B13",
+  "text": "And the Vikings drank mead,",
+  "scene": "Vikings sitting at a long wooden table in a dark hall with a fire",
+  "start": 1050.137,
+  "end": 1052.068
+ },
+ {
+  "n": 445,
+  "block": "B13",
+  "text": "a wine made from honey,",
+  "scene": "a honeycomb dripping into a big wooden barrel",
+  "start": 1052.068,
+  "end": 1053.75
+ },
+ {
+  "n": 446,
+  "block": "B13",
+  "text": "often from drinking horns.",
+  "scene": "a Viking raising a huge curved animal horn full of mead",
+  "start": 1053.75,
+  "end": 1055.938
+ },
+ {
+  "n": 447,
+  "block": "B13",
+  "text": "In Norse myth, fallen warriors in Valhalla",
+  "scene": "a huge golden hall in the clouds full of Viking warriors at long tables",
+  "start": 1055.938,
+  "end": 1058.873
+ },
+ {
+  "n": 448,
+  "block": "B13",
+  "text": "drank mead that never ran out,",
+  "scene": "a never-ending stream of mead pouring from a barrel into horns",
+  "start": 1058.873,
+  "end": 1061.043
+ },
+ {
+  "n": 449,
+  "block": "B13",
+  "text": "flowing from the udders of a magical goat.",
+  "scene": "a big white goat standing on the roof of the hall, golden mead flowing down",
+  "start": 1061.043,
+  "end": 1064.298
+ },
+ {
+  "n": 450,
+  "block": "B13",
+  "text": "The Viking idea of paradise was an all-you-can-drink buffet",
+  "scene": "a sign above the hall saying \"ALL YOU CAN DRINK\" with a cheering crowd of Vikings",
+  "start": 1064.298,
+  "end": 1068.424
+ },
+ {
+  "n": 451,
+  "block": "B13",
+  "text": "supplied by a goat.",
+  "scene": "the goat on the roof looking proud with a tiny crown",
+  "start": 1068.424,
+  "end": 1070.25
+ },
+ {
+  "n": 452,
+  "block": "B13",
+  "text": "Which have one small design problem.",
+  "scene": "{GUY} holding a drinking horn, looking at it confused",
+  "start": 1070.25,
+  "end": 1072.749
+ },
+ {
+  "n": 453,
+  "block": "B13",
+  "text": "You can't put them down",
+  "scene": "{GUY} trying to stand the horn on a table, it falls over and spills",
+  "start": 1072.749,
+  "end": 1074.11
+ },
+ {
+  "n": 454,
+  "block": "B13",
+  "text": "until they're empty.",
+  "scene": "a Viking chugging the whole horn while everyone cheers",
+  "start": 1074.11,
+  "end": 1075.64
+ },
+ {
+  "n": 455,
+  "block": "B13",
+  "text": "And while we're busting myths,",
+  "scene": "{GUY} holding a hammer next to a stone sign that says \"MYTHS\"",
+  "start": 1075.64,
+  "end": 1077.513
+ },
+ {
+  "n": 456,
+  "block": "B13",
+  "text": "you've probably heard that people clink glasses",
+  "scene": "two people clinking wine glasses with a ding",
+  "start": 1077.513,
+  "end": 1080.324
+ },
+ {
+  "n": 457,
+  "block": "B13",
+  "text": "to splash drinks into each other's cups",
+  "scene": "close-up of wine splashing between two glasses",
+  "start": 1080.324,
+  "end": 1082.693
+ },
+ {
+  "n": 458,
+  "block": "B13",
+  "text": "and prove nothing was poisoned.",
+  "scene": "a villain in a dark cloak secretly pouring green poison into a cup",
+  "start": 1082.693,
+  "end": 1084.942
+ },
+ {
+  "n": 459,
+  "block": "B13",
+  "text": "There's basically no historical evidence for that.",
+  "scene": "a historian holding an empty folder with a shrug",
+  "start": 1084.942,
+  "end": 1088.413
+ },
+ {
+  "n": 460,
+  "block": "B13",
+  "text": "The truth is probably simpler.",
+  "scene": "{GUY} smiling and shrugging",
+  "start": 1088.413,
+  "end": 1090.669
+ },
+ {
+  "n": 461,
+  "block": "B13",
+  "text": "Clinking just feels good.",
+  "scene": "two friends clinking glasses happily with sparkles",
+  "start": 1090.669,
+  "end": 1092.549
+ },
+ {
+  "n": 462,
+  "block": "B13",
+  "text": "It adds a sound to the moment,",
+  "scene": "a musical note floating up from two glasses",
+  "start": 1092.549,
+  "end": 1094.439
+ },
+ {
+  "n": 463,
+  "block": "B13",
+  "text": "and makes the toast feel shared.",
+  "scene": "a group of friends clinking glasses together around a table, warm light",
+  "start": 1094.439,
+  "end": 1097.339
+ },
+ {
+  "n": 464,
+  "block": "B14",
+  "text": "But it wasn't all fun.",
+  "scene": "the sky turning gray and stormy over a village",
+  "start": 1097.339,
+  "end": 1098.995
+ },
+ {
+  "n": 465,
+  "block": "B14",
+  "text": "Ancient people knew alcohol could also destroy lives.",
+  "scene": "an ancient man sitting alone in the dark, holding an empty jar, sad",
+  "start": 1098.995,
+  "end": 1103.234
+ },
+ {
+  "n": 466,
+  "block": "B14",
+  "text": "An Egyptian teacher wrote a letter scolding a student",
+  "scene": "{EGYPT} as an angry teacher holding a scroll, wagging his finger",
+  "start": 1103.234,
+  "end": 1106.566
+ },
+ {
+  "n": 467,
+  "block": "B14",
+  "text": "who was skipping his lessons,",
+  "scene": "an empty school bench with a writing tablet on it",
+  "start": 1106.566,
+  "end": 1108.496
+ },
+ {
+  "n": 468,
+  "block": "B14",
+  "text": "wandering from street to street,",
+  "scene": "a young {EGYPT} student stumbling down a street at night",
+  "start": 1108.496,
+  "end": 1110.6
+ },
+ {
+  "n": 469,
+  "block": "B14",
+  "text": "smelling of beer.",
+  "scene": "the student with green stink lines and a sheepish face",
+  "start": 1110.6,
+  "end": 1112.148
+ },
+ {
+  "n": 470,
+  "block": "B14",
+  "text": "More than three thousand years later,",
+  "scene": "a stone with \"3,000\" carved on it",
+  "start": 1112.148,
+  "end": 1114.284
+ },
+ {
+  "n": 471,
+  "block": "B14",
+  "text": "that letter could have been written by any parent today.",
+  "scene": "{GUY} as a parent waiting at the door at night, arms crossed, frowning",
+  "start": 1114.284,
+  "end": 1117.73
+ },
+ {
+  "n": 472,
+  "block": "B14",
+  "text": "In China, there's an old legend",
+  "scene": "a Chinese scroll painting with mountains and a palace",
+  "start": 1117.73,
+  "end": 1119.877
+ },
+ {
+  "n": 473,
+  "block": "B14",
+  "text": "about a woman named Yi Di",
+  "scene": "a Chinese woman in a long flowing robe holding a small jar",
+  "start": 1119.877,
+  "end": 1121.656
+ },
+ {
+  "n": 474,
+  "block": "B14",
+  "text": "who brewed a wonderful drink for an ancient king.",
+  "scene": "Yi Di offering a jar to a king sitting on a throne",
+  "start": 1121.656,
+  "end": 1125.227
+ },
+ {
+  "n": 475,
+  "block": "B14",
+  "text": "He tasted it, loved it,",
+  "scene": "the king sipping and smiling with sparkles around him",
+  "start": 1125.227,
+  "end": 1126.629
+ },
+ {
+  "n": 476,
+  "block": "B14",
+  "text": "and then banished her.",
+  "scene": "the king pointing to the door with a serious face, Yi Di walking away sadly",
+  "start": 1126.629,
+  "end": 1128.299
+ },
+ {
+  "n": 477,
+  "block": "B14",
+  "text": "Because, he said,",
+  "scene": "the king raising one finger with a wise face",
+  "start": 1128.299,
+  "end": 1129.407
+ },
+ {
+  "n": 478,
+  "block": "B14",
+  "text": "one day this drink would cost someone their kingdom.",
+  "scene": "a palace crumbling in a dark storm, wine jars tipped over on the floor",
+  "start": 1129.407,
+  "end": 1132.681
+ },
+ {
+  "n": 479,
+  "block": "B14",
+  "text": "And the Aztecs, despite their four hundred drunk rabbit gods,",
+  "scene": "the crowd of tipsy rabbit gods waving",
+  "start": 1132.681,
+  "end": 1136.827
+ },
+ {
+  "n": 480,
+  "block": "B14",
+  "text": "were famously strict.",
+  "scene": "an Aztec ruler with a feathered headdress frowning, arms crossed",
+  "start": 1136.827,
+  "end": 1138.742
+ },
+ {
+  "n": 481,
+  "block": "B14",
+  "text": "Public drunkenness could be severely punished,",
+  "scene": "an Aztec guard pointing at a drunk man, the crowd gasping",
+  "start": 1138.742,
+  "end": 1141.627
+ },
+ {
+  "n": 482,
+  "block": "B14",
+  "text": "while elders were often allowed to drink more freely.",
+  "scene": "an old Aztec man happily sipping pulque on a bench, smiling",
+  "start": 1141.627,
+  "end": 1145.235
+ },
+ {
+  "n": 483,
+  "block": "B14",
+  "text": "Getting old finally had a perk.",
+  "scene": "the old man raising his cup with a big grin and a tiny crown",
+  "start": 1145.235,
+  "end": 1147.575
+ },
+ {
+  "n": 484,
+  "block": "B14",
+  "text": "And in ancient China,",
+  "scene": "a Chinese palace with red columns and curved roofs",
+  "start": 1147.575,
+  "end": 1149.016
+ },
+ {
+  "n": 485,
+  "block": "B14",
+  "text": "the Shang kings were famous for their bronze wine vessels",
+  "scene": "a fancy bronze vessel on three legs with swirly patterns",
+  "start": 1149.016,
+  "end": 1152.53
+ },
+ {
+  "n": 486,
+  "block": "B14",
+  "text": "and huge drinking parties.",
+  "scene": "a Chinese king at a long feast table with many bronze cups and dancers",
+  "start": 1152.53,
+  "end": 1154.578
+ },
+ {
+  "n": 487,
+  "block": "B14",
+  "text": "When the Shang dynasty fell,",
+  "scene": "the palace collapsing in a storm, soldiers attacking",
+  "start": 1154.578,
+  "end": 1156.575
+ },
+ {
+  "n": 488,
+  "block": "B14",
+  "text": "the new rulers blamed it partly on too much drinking,",
+  "scene": "a new king in a yellow robe pointing at broken wine vessels with a stern face",
+  "start": 1156.575,
+  "end": 1160.131
+ },
+ {
+  "n": 489,
+  "block": "B14",
+  "text": "and issued one of the oldest known warnings against heavy drinking.",
+  "scene": "a bamboo scroll with writing, glowing with a red warning sign",
+  "start": 1160.131,
+  "end": 1164.882
+ },
+ {
+  "n": 490,
+  "block": "B14",
+  "text": "Every culture that discovered alcohol",
+  "scene": "a world map with many little jars",
+  "start": 1164.882,
+  "end": 1167.402
+ },
+ {
+  "n": 491,
+  "block": "B14",
+  "text": "also discovered the same problem.",
+  "scene": "a world map with many little warning signs next to the jars",
+  "start": 1167.402,
+  "end": 1169.996
+ },
+ {
+  "n": 492,
+  "block": "B14",
+  "text": "The thing that brings people together",
+  "scene": "a group of friends hugging around a fire",
+  "start": 1169.996,
+  "end": 1172.228
+ },
+ {
+  "n": 493,
+  "block": "B14",
+  "text": "can also tear them apart.",
+  "scene": "the same group divided by a crack in the ground, angry faces",
+  "start": 1172.228,
+  "end": 1174.707
+ },
+ {
+  "n": 494,
+  "block": "B15",
+  "text": "But here's the part I really want to leave you with.",
+  "scene": "{GUY} sitting on a chair facing the viewer, calm and serious",
+  "start": 1174.707,
+  "end": 1178.033
+ },
+ {
+  "n": 495,
+  "block": "B15",
+  "text": "In the 1950s,",
+  "scene": "a black and white photo style frame of old scientists in suits",
+  "start": 1178.033,
+  "end": 1179.195
+ },
+ {
+  "n": 496,
+  "block": "B15",
+  "text": "two scientists started a famous argument.",
+  "scene": "two scientists in suits arguing across a table, pointing at each other",
+  "start": 1179.195,
+  "end": 1182.592
+ },
+ {
+  "n": 497,
+  "block": "B15",
+  "text": "Why did humans start farming?",
+  "scene": "{CAVE} standing in a wheat field holding a stone sickle, confused",
+  "start": 1182.592,
+  "end": 1184.763
+ },
+ {
+  "n": 498,
+  "block": "B15",
+  "text": "The normal answer was bread.",
+  "scene": "a big loaf of bread on a pedestal with a spotlight",
+  "start": 1184.763,
+  "end": 1186.848
+ },
+ {
+  "n": 499,
+  "block": "B15",
+  "text": "Food security.",
+  "scene": "a full storehouse of grain sacks with a padlock on the door",
+  "start": 1186.848,
+  "end": 1188.412
+ },
+ {
+  "n": 500,
+  "block": "B15",
+  "text": "But some researchers proposed a crazier idea.",
+  "scene": "{SCI} with a wild excited face and a lightbulb above his head",
+  "start": 1188.412,
+  "end": 1191.74
+ },
+ {
+  "n": 501,
+  "block": "B15",
+  "text": "What if people started growing grain",
+  "scene": "{CAVE} planting seeds in a row of dirt",
+  "start": 1191.74,
+  "end": 1194.019
+ },
+ {
+  "n": 502,
+  "block": "B15",
+  "text": "not just for bread,",
+  "scene": "the bread crossed out with a thin line",
+  "start": 1194.019,
+  "end": 1195.33
+ },
+ {
+  "n": 503,
+  "block": "B15",
+  "text": "but for beer?",
+  "scene": "a giant foamy jar of beer rising above the wheat field like a sunrise",
+  "start": 1195.33,
+  "end": 1196.619
+ },
+ {
+  "n": 504,
+  "block": "B15",
+  "text": "Think about it.",
+  "scene": "{GUY} tapping his head with one finger",
+  "start": 1196.619,
+  "end": 1197.913
+ },
+ {
+  "n": 505,
+  "block": "B15",
+  "text": "Farming was hard.",
+  "scene": "{CAVE} sweating and exhausted, digging with a stick under a hot sun",
+  "start": 1197.913,
+  "end": 1199.491
+ },
+ {
+  "n": 506,
+  "block": "B15",
+  "text": "Early farmers were often shorter",
+  "scene": "a short farmer standing next to a tall hunter-gatherer",
+  "start": 1199.491,
+  "end": 1201.649
+ },
+ {
+  "n": 507,
+  "block": "B15",
+  "text": "and less healthy than hunter-gatherers.",
+  "scene": "the farmer with bandages and a sad face, the hunter-gatherer flexing",
+  "start": 1201.649,
+  "end": 1204.546
+ },
+ {
+  "n": 508,
+  "block": "B15",
+  "text": "So why would anyone choose that life?",
+  "scene": "{CAVE} sitting on a rock with his head in his hands",
+  "start": 1204.546,
+  "end": 1207.119
+ },
+ {
+  "n": 509,
+  "block": "B15",
+  "text": "One possible answer is feasts.",
+  "scene": "a huge feast with dozens of people around a fire, drums and food",
+  "start": 1207.119,
+  "end": 1209.459
+ },
+ {
+  "n": 510,
+  "block": "B15",
+  "text": "Gatherings, rituals, celebrations",
+  "scene": "people dancing in a circle around a fire under the stars",
+  "start": 1209.459,
+  "end": 1211.737
+ },
+ {
+  "n": 511,
+  "block": "B15",
+  "text": "where people built alliances",
+  "scene": "two leaders of different tribes shaking hands over a fire",
+  "start": 1211.737,
+  "end": 1213.707
+ },
+ {
+  "n": 512,
+  "block": "B15",
+  "text": "and shared fermented drinks.",
+  "scene": "everyone in the circle raising bowls of beer together",
+  "start": 1213.707,
+  "end": 1215.998
+ },
+ {
+  "n": 513,
+  "block": "B15",
+  "text": "And to make enough beer for those feasts,",
+  "scene": "a row of huge clay jars being filled with grain",
+  "start": 1215.998,
+  "end": 1218.47
+ },
+ {
+  "n": 514,
+  "block": "B15",
+  "text": "you need a lot of grain.",
+  "scene": "an enormous pile of grain sacks next to the jars",
+  "start": 1218.47,
+  "end": 1220.329
+ },
+ {
+  "n": 515,
+  "block": "B15",
+  "text": "A reliable supply.",
+  "scene": "neat rows of wheat growing in a field",
+  "start": 1220.329,
+  "end": 1222.058
+ },
+ {
+  "n": 516,
+  "block": "B15",
+  "text": "A field.",
+  "scene": "{CAVE} proudly standing in his first field, hands on his hips",
+  "start": 1222.058,
+  "end": 1223.251
+ },
+ {
+  "n": 517,
+  "block": "B15",
+  "text": "This \"beer before bread\" idea is still debated,",
+  "scene": "two scientists arguing with a big question mark floating between them",
+  "start": 1223.251,
+  "end": 1226.689
+ },
+ {
+  "n": 518,
+  "block": "B15",
+  "text": "and it probably wasn't the only reason.",
+  "scene": "a list on a chalkboard with several reasons, beer is only one of them",
+  "start": 1226.689,
+  "end": 1229.909
+ },
+ {
+  "n": 519,
+  "block": "B15",
+  "text": "But it's a wild thought.",
+  "scene": "{GUY} with his head exploding into colorful sparkles",
+  "start": 1229.909,
+  "end": 1231.613
+ },
+ {
+  "n": 520,
+  "block": "B15",
+  "text": "The first farmers may have been,",
+  "scene": "{CAVE} in a field with a big grin",
+  "start": 1231.613,
+  "end": 1233.542
+ },
+ {
+  "n": 521,
+  "block": "B15",
+  "text": "at least in part,",
+  "scene": "a pie chart with a small slice colored like beer",
+  "start": 1233.542,
+  "end": 1234.667
+ },
+ {
+  "n": 522,
+  "block": "B15",
+  "text": "working for a drink.",
+  "scene": "{CAVE} holding a bowl of beer at sunset after a long day, satisfied",
+  "start": 1234.667,
+  "end": 1236.273
+ },
+ {
+  "n": 523,
+  "block": "B15",
+  "text": "And there's one more twist.",
+  "scene": "{GUY} raising a finger with a mysterious face",
+  "start": 1236.273,
+  "end": 1238.093
+ },
+ {
+  "n": 524,
+  "block": "B15",
+  "text": "Our bodies evolved for fruit",
+  "scene": "{APE} eating a slightly fermented mango",
+  "start": 1238.093,
+  "end": 1240.217
+ },
+ {
+  "n": 525,
+  "block": "B15",
+  "text": "that was maybe one or two percent alcohol.",
+  "scene": "the mango with a tiny label showing \"1-2%\"",
+  "start": 1240.217,
+  "end": 1243.59
+ },
+ {
+  "n": 526,
+  "block": "B15",
+  "text": "Distilled spirits like vodka and whiskey",
+  "scene": "modern bottles of strong spirits lined up on a shelf",
+  "start": 1243.59,
+  "end": 1246.354
+ },
+ {
+  "n": 527,
+  "block": "B15",
+  "text": "only became common in the last few hundred years.",
+  "scene": "a short timeline segment at the far right end of a very long timeline",
+  "start": 1246.354,
+  "end": 1250.004
+ },
+ {
+  "n": 528,
+  "block": "B15",
+  "text": "That's a blink of an eye in evolution.",
+  "scene": "a giant eye blinking once over the timeline",
+  "start": 1250.004,
+  "end": 1252.603
+ },
+ {
+  "n": 529,
+  "block": "B15",
+  "text": "We are walking around with a jungle ape's love of rotten fruit",
+  "scene": "{GUY} with an ape shadow on the wall behind him holding a mango",
+  "start": 1252.603,
+  "end": 1256.677
+ },
+ {
+  "n": 530,
+  "block": "B15",
+  "text": "in a world full of drinks that are twenty or thirty times stronger.",
+  "scene": "a tiny mango next to a huge bottle, with a \"x20\" sign",
+  "start": 1256.677,
+  "end": 1261.38
+ },
+ {
+  "n": 531,
+  "block": "B15",
+  "text": "Our biology never got the update.",
+  "scene": "a cartoon computer screen inside a brain showing \"UPDATE FAILED\"",
+  "start": 1261.38,
+  "end": 1264.81
+ },
+ {
+  "n": 532,
+  "block": "B16",
+  "text": "So let's go back to that cave.",
+  "scene": "the limestone cave on the green hillside at sunset",
+  "start": 1264.81,
+  "end": 1266.911
+ },
+ {
+  "n": 533,
+  "block": "B16",
+  "text": "Thirteen thousand years ago.",
+  "scene": "a stone with \"13,000\" carved on it at the cave entrance",
+  "start": 1266.911,
+  "end": 1269.245
+ },
+ {
+  "n": 534,
+  "block": "B16",
+  "text": "A group of people sitting around a fire,",
+  "scene": "cavemen and cavewomen sitting around a fire inside the cave, warm orange light",
+  "start": 1269.245,
+  "end": 1271.963
+ },
+ {
+  "n": 535,
+  "block": "B16",
+  "text": "passing around a stone bowl of sour, lumpy beer.",
+  "scene": "{CAVE} passing the stone bowl to {WOMAN}, both smiling",
+  "start": 1271.963,
+  "end": 1275.495
+ },
+ {
+  "n": 536,
+  "block": "B16",
+  "text": "Maybe they were saying goodbye to someone they loved.",
+  "scene": "the group looking at a flower-covered grave, sad but together",
+  "start": 1275.495,
+  "end": 1278.772
+ },
+ {
+  "n": 537,
+  "block": "B16",
+  "text": "Maybe they were celebrating a good hunt.",
+  "scene": "the group cheering next to a roasted animal on a spit",
+  "start": 1278.772,
+  "end": 1281.434
+ },
+ {
+  "n": 538,
+  "block": "B16",
+  "text": "Maybe they were just happy to be alive.",
+  "scene": "the group laughing together, one caveman falling backward off a rock",
+  "start": 1281.434,
+  "end": 1284.038
+ },
+ {
+  "n": 539,
+  "block": "B16",
+  "text": "But they were doing something",
+  "scene": "close-up of several hands raising stone bowls together toward the fire",
+  "start": 1284.038,
+  "end": 1285.716
+ },
+ {
+  "n": 540,
+  "block": "B16",
+  "text": "that humans have done in every corner of the world ever since.",
+  "scene": "a montage of hands raising a stone bowl, a clay cup, a golden straw, a drinking horn and a modern glass",
+  "start": 1285.716,
+  "end": 1289.391
+ },
+ {
+  "n": 541,
+  "block": "B16",
+  "text": "Sitting together.",
+  "scene": "a circle of people around a fire seen from above",
+  "start": 1289.391,
+  "end": 1290.798
+ },
+ {
+  "n": 542,
+  "block": "B16",
+  "text": "Sharing a drink.",
+  "scene": "a bowl being passed from hand to hand",
+  "start": 1290.798,
+  "end": 1292.247
+ },
+ {
+  "n": 543,
+  "block": "B16",
+  "text": "Feeling, just for a moment,",
+  "scene": "{CAVE} with closed eyes and a peaceful smile, warm glow around him",
+  "start": 1292.247,
+  "end": 1293.952
+ },
+ {
+  "n": 544,
+  "block": "B16",
+  "text": "a little closer to each other.",
+  "scene": "everyone around the fire leaning together, shoulders touching, a big warm heart above them",
+  "start": 1293.952,
+  "end": 1296.143
+ },
+ {
+  "n": 545,
+  "block": "B16",
+  "text": "So the next time you see people raise their glasses,",
+  "scene": "{GUY} at a modern dinner table with friends, everyone raising glasses",
+  "start": 1296.143,
+  "end": 1299.372
+ },
+ {
+  "n": 546,
+  "block": "B16",
+  "text": "remember that it's not just a party trick.",
+  "scene": "{GUY} looking at his glass thoughtfully",
+  "start": 1299.372,
+  "end": 1302.345
+ },
+ {
+  "n": 547,
+  "block": "B16",
+  "text": "It's a ten million year old story",
+  "scene": "a ghostly {APE} holding a mango appearing behind the dinner table",
+  "start": 1302.345,
+  "end": 1304.447
+ },
+ {
+  "n": 548,
+  "block": "B16",
+  "text": "that started with a monkey",
+  "scene": "{APE} sitting in a jungle tree holding a fermented fruit",
+  "start": 1304.447,
+  "end": 1306.151
+ },
+ {
+  "n": 549,
+  "block": "B16",
+  "text": "and a piece of rotten fruit",
+  "scene": "close-up of a brown bubbling mango on the jungle floor",
+  "start": 1306.151,
+  "end": 1307.912
+ },
+ {
+  "n": 550,
+  "block": "B16",
+  "text": "and ended up shaping who we are.",
+  "scene": "the dinner table friends laughing together in warm golden light",
+  "start": 1307.912,
+  "end": 1310.277
+ },
+ {
+  "n": 551,
+  "block": "B16",
+  "text": "Just remember the drunk monkey.",
+  "scene": "{APE} wearing a tiny party hat, smiling and waving at the viewer",
+  "start": 1310.277,
+  "end": 1312.616
+ },
+ {
+  "n": 552,
+  "block": "B16",
+  "text": "And maybe drink some water too.",
+  "scene": "{GUY} raising a glass of clear water with a wink",
+  "start": 1312.616,
+  "end": 1315.469
+ }
+]
