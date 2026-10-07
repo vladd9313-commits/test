@@ -8,6 +8,8 @@ def build(text, out, seed=7):
     rnd = random.Random(seed)
     scene = Image.new("RGB", (W, H), "white"); p = P(scene, rnd)
     bg_village(p)
+    from paint_frames import STICKLY, mute_image
+    if STICKLY: mute_image(scene)
     human(p, "CAVE", 520, 1.12, "shock", "point")
     top = grain_pot(p, 1330, 1.1)
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0)); pl = P(layer, rnd)

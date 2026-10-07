@@ -9,6 +9,8 @@ def build(text, out, seed=11):
     scene = Image.new("RGB", (W, H), "white"); p = P(scene, rnd)
     bg_cave(p)
     grain_pot(p, 960, 1.0)
+    from paint_frames import STICKLY, mute_image
+    if STICKLY: mute_image(scene)
     for x, y in ((900, 400), (960, 360), (1020, 410)):
         p.ell((x - 18, y - 18, x + 18, y + 18), (255, 255, 255), 4)          # bubbles
     human(p, "CAVE", 480, 1.12, "happy", "up")
