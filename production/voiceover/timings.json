@@ -1,0 +1,4826 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "It's ten thousand years ago.",
+  "scene": "{CAVE} standing in a flat green valley at dawn, a big white clock icon with the hands spinning backwards floating in the sky",
+  "start": 0.0,
+  "end": 2.1
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "You're one of the very first farmers",
+  "scene": "{CAVE} proudly holding a primitive stone sickle next to a tiny patch of golden wheat",
+  "start": 2.1,
+  "end": 3.967
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "somewhere in the Middle East.",
+  "scene": "simple cartoon map of the Middle East with a red dot and a tiny {CAVE} standing on the dot",
+  "start": 3.967,
+  "end": 5.827
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "Your life is basically: plant seeds,",
+  "scene": "{CAVE} on his knees pushing seeds into dirt with one finger, sweating",
+  "start": 5.827,
+  "end": 8.183
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "wait,",
+  "scene": "{CAVE} sitting on a rock staring at bare dirt, bored, a fly buzzing around his head",
+  "start": 8.183,
+  "end": 8.713
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "pray nothing eats them,",
+  "scene": "{CAVE} kneeling with hands together looking at the sky with worried eyes",
+  "start": 8.713,
+  "end": 10.304
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "harvest,",
+  "scene": "{CAVE} cutting wheat with a stone sickle, golden stalks flying",
+  "start": 10.304,
+  "end": 11.011
+ },
+ {
+  "n": 7,
+  "block": "B01",
+  "text": "and then guard that harvest with your life.",
+  "scene": "{CAVE} sitting on top of a big pile of wheat sacks holding a spear, eyes wide and paranoid",
+  "start": 11.011,
+  "end": 14.1
+ },
+ {
+  "n": 8,
+  "block": "B01",
+  "text": "Because this grain is everything.",
+  "scene": "close-up of a clay pot overflowing with golden grain glowing with a soft yellow light",
+  "start": 14.1,
+  "end": 16.28
+ },
+ {
+  "n": 9,
+  "block": "B01",
+  "text": "It's your food for the whole winter.",
+  "scene": "{CAVE} and {WOMAN} hugging the clay grain pot while snow falls around them",
+  "start": 16.28,
+  "end": 18.569
+ },
+ {
+  "n": 10,
+  "block": "B01",
+  "text": "And one night, inside your little mud-brick storehouse,",
+  "scene": "night scene, a small mud-brick hut under a crescent moon and stars",
+  "start": 18.569,
+  "end": 21.597
+ },
+ {
+  "n": 11,
+  "block": "B01",
+  "text": "you hear something.",
+  "scene": "{CAVE} sitting up in bed of furs in the dark, eyes huge, a small question mark above his head",
+  "start": 21.597,
+  "end": 23.097
+ },
+ {
+  "n": 12,
+  "block": "B01",
+  "text": "A scratching. A squeaking.",
+  "scene": "dark storehouse interior, clay pots, tiny shadows of mice scurrying between them",
+  "start": 23.097,
+  "end": 24.948
+ },
+ {
+  "n": 13,
+  "block": "B01",
+  "text": "You grab a torch,",
+  "scene": "{CAVE} holding a burning torch, orange light on his frightened face",
+  "start": 24.948,
+  "end": 26.153
+ },
+ {
+  "n": 14,
+  "block": "B01",
+  "text": "you creep inside,",
+  "scene": "{CAVE} tiptoeing through a narrow doorway with the torch, sweating",
+  "start": 26.153,
+  "end": 27.359
+ },
+ {
+  "n": 15,
+  "block": "B01",
+  "text": "and your grain pots are crawling with mice.",
+  "scene": "a dozen tiny gray cartoon mice swarming over clay grain pots, munching grain, cheeks stuffed",
+  "start": 27.359,
+  "end": 30.376
+ },
+ {
+  "n": 16,
+  "block": "B01",
+  "text": "Dozens of them.",
+  "scene": "close-up of many tiny gray mice with huge round eyes staring at the viewer, mouths full of grain",
+  "start": 30.376,
+  "end": 31.874
+ },
+ {
+  "n": 17,
+  "block": "B01",
+  "text": "And then, in the corner,",
+  "scene": "dark corner of the storehouse, deep black shadow",
+  "start": 31.874,
+  "end": 33.332
+ },
+ {
+  "n": 18,
+  "block": "B01",
+  "text": "two glowing green eyes.",
+  "scene": "two glowing green eyes in total darkness, nothing else visible",
+  "start": 33.332,
+  "end": 35.057
+ },
+ {
+  "n": 19,
+  "block": "B01",
+  "text": "Something small. Something fast.",
+  "scene": "blurred sandy-tan shape dashing across the floor with motion lines",
+  "start": 35.057,
+  "end": 37.295
+ },
+ {
+  "n": 20,
+  "block": "B01",
+  "text": "And in one second, a mouse is gone.",
+  "scene": "{CAT} holding a mouse tail in its mouth, looking satisfied, the other mice frozen in horror",
+  "start": 37.295,
+  "end": 39.962
+ },
+ {
+  "n": 21,
+  "block": "B01",
+  "text": "Now, most wild animals at this point would run away from you.",
+  "scene": "{CAVE} with torch, a deer and a boar in the background running away",
+  "start": 39.962,
+  "end": 44.127
+ },
+ {
+  "n": 22,
+  "block": "B01",
+  "text": "But this one doesn't.",
+  "scene": "{CAT} sitting calmly on a grain pot, tail wrapped around its paws",
+  "start": 44.127,
+  "end": 45.781
+ },
+ {
+  "n": 23,
+  "block": "B01",
+  "text": "It just sits there.",
+  "scene": "{CAT} sitting perfectly still, staring at the viewer with huge round eyes",
+  "start": 45.781,
+  "end": 47.315
+ },
+ {
+  "n": 24,
+  "block": "B01",
+  "text": "On your grain pot.",
+  "scene": "wide shot, {CAVE} with torch in doorway, {CAT} on the pot, both staring at each other",
+  "start": 47.315,
+  "end": 48.94
+ },
+ {
+  "n": 25,
+  "block": "B01",
+  "text": "Staring at you.",
+  "scene": "extreme close-up of {CAT}'s big round eyes reflecting the torch flame",
+  "start": 48.94,
+  "end": 50.354
+ },
+ {
+  "n": 26,
+  "block": "B01",
+  "text": "Like it owns the place.",
+  "scene": "{CAT} lying lazily across the top of the grain pot like a king, a tiny cartoon crown above its head",
+  "start": 50.354,
+  "end": 52.325
+ },
+ {
+  "n": 27,
+  "block": "B01",
+  "text": "That moment is where the story of the house cat begins.",
+  "scene": "{CAT} on the grain pot in warm torchlight, with a soft golden glow around it",
+  "start": 52.325,
+  "end": 55.985
+ },
+ {
+  "n": 28,
+  "block": "B01",
+  "text": "And here's the thing.",
+  "scene": "{GUY} facing the viewer, one finger raised",
+  "start": 55.985,
+  "end": 57.492
+ },
+ {
+  "n": 29,
+  "block": "B01",
+  "text": "The way cats became our pets",
+  "scene": "{GUY} sitting on a couch, an orange tabby cat curled in his lap",
+  "start": 57.492,
+  "end": 59.479
+ },
+ {
+  "n": 30,
+  "block": "B01",
+  "text": "is one of the strangest,",
+  "scene": "{GUY} scratching his head with a confused face",
+  "start": 59.479,
+  "end": 61.217
+ },
+ {
+  "n": 31,
+  "block": "B01",
+  "text": "funniest,",
+  "scene": "{GUY} laughing with his hand on his belly",
+  "start": 61.217,
+  "end": 62.024
+ },
+ {
+  "n": 32,
+  "block": "B01",
+  "text": "and most misunderstood stories in all of history.",
+  "scene": "a giant question mark made of thick black lines floating above a grassy hill",
+  "start": 62.024,
+  "end": 65.635
+ },
+ {
+  "n": 33,
+  "block": "B01",
+  "text": "Because cats are the only animal",
+  "scene": "{HOUSECAT} sitting on a pedestal like a trophy, a spotlight shining on it",
+  "start": 65.635,
+  "end": 67.858
+ },
+ {
+  "n": 34,
+  "block": "B01",
+  "text": "that humans never really domesticated.",
+  "scene": "{CAVE} trying to put a rope leash on {CAT}, the cat walking away unbothered",
+  "start": 67.858,
+  "end": 71.352
+ },
+ {
+  "n": 35,
+  "block": "B02",
+  "text": "There was no ancient guy who woke up and said,",
+  "scene": "{CAVE} waking up on a fur bed, stretching, a light bulb appearing above his head",
+  "start": 71.352,
+  "end": 74.123
+ },
+ {
+  "n": 36,
+  "block": "B02",
+  "text": "\"You know what?",
+  "scene": "{CAVE} pointing a finger in the air with a determined face",
+  "start": 74.123,
+  "end": 75.495
+ },
+ {
+  "n": 37,
+  "block": "B02",
+  "text": "I'm going to adopt a tiny desert predator",
+  "scene": "{CAVE} pointing excitedly at {CAT} sitting on a sandy rock",
+  "start": 75.495,
+  "end": 78.258
+ },
+ {
+  "n": 38,
+  "block": "B02",
+  "text": "that will sleep eighteen hours a day,",
+  "scene": "{HOUSECAT} sleeping on its back with paws in the air, Z letters floating above",
+  "start": 78.258,
+  "end": 80.775
+ },
+ {
+  "n": 39,
+  "block": "B02",
+  "text": "ignore me when I call its name,",
+  "scene": "{GUY} calling with hands around his mouth, {HOUSECAT} facing away, ears back, ignoring him",
+  "start": 80.775,
+  "end": 82.923
+ },
+ {
+  "n": 40,
+  "block": "B02",
+  "text": "and knock my cup off the table",
+  "scene": "{HOUSECAT} on a table pushing a cup off the edge with one paw",
+  "start": 82.923,
+  "end": 85.01
+ },
+ {
+  "n": 41,
+  "block": "B02",
+  "text": "while making direct eye contact.\"",
+  "scene": "{HOUSECAT} with paw on the falling cup, staring straight at the viewer with a smug look",
+  "start": 85.01,
+  "end": 87.602
+ },
+ {
+  "n": 42,
+  "block": "B02",
+  "text": "No.",
+  "scene": "{GUY} shaking his head, arms crossed in an X",
+  "start": 87.602,
+  "end": 88.504
+ },
+ {
+  "n": 43,
+  "block": "B02",
+  "text": "It was way weirder than that.",
+  "scene": "{GUY} with spiral eyes, a cloud of question marks around his head",
+  "start": 88.504,
+  "end": 90.512
+ },
+ {
+  "n": 44,
+  "block": "B02",
+  "text": "And to understand it,",
+  "scene": "a stone tablet with a big black question mark carved on it",
+  "start": 90.512,
+  "end": 91.876
+ },
+ {
+  "n": 45,
+  "block": "B02",
+  "text": "we need to answer three questions.",
+  "scene": "three stone tablets in a row, each with a big number carved on it, 1, 2, 3",
+  "start": 91.876,
+  "end": 94.267
+ },
+ {
+  "n": 46,
+  "block": "B02",
+  "text": "Where did cats come from?",
+  "scene": "tablet number 1 glowing, a silhouette of a small wildcat on it",
+  "start": 94.267,
+  "end": 95.958
+ },
+ {
+  "n": 47,
+  "block": "B02",
+  "text": "Why did they come to us?",
+  "scene": "tablet number 2 glowing, a silhouette of a cat walking toward a hut",
+  "start": 95.958,
+  "end": 97.709
+ },
+ {
+  "n": 48,
+  "block": "B02",
+  "text": "And who, exactly, domesticated whom?",
+  "scene": "tablet number 3 glowing, a cat and a human silhouette with arrows pointing at each other",
+  "start": 97.709,
+  "end": 100.711
+ },
+ {
+  "n": 49,
+  "block": "B02",
+  "text": "And stick around until the end,",
+  "scene": "{GUY} pointing at the viewer with a sly smile",
+  "start": 100.711,
+  "end": 102.695
+ },
+ {
+  "n": 50,
+  "block": "B02",
+  "text": "because the answer to that last one",
+  "scene": "tablet number 3 shaking and glowing brighter",
+  "start": 102.695,
+  "end": 104.906
+ },
+ {
+  "n": 51,
+  "block": "B02",
+  "text": "might change the way you look at your cat forever.",
+  "scene": "{GUY} slowly turning his head to look at {HOUSECAT}, who is staring back suspiciously",
+  "start": 104.906,
+  "end": 108.867
+ },
+ {
+  "n": 52,
+  "block": "B03",
+  "text": "First, let's get something straight.",
+  "scene": "{GUY} standing in front of a classroom chalkboard, holding a pointer stick",
+  "start": 108.867,
+  "end": 111.058
+ },
+ {
+  "n": 53,
+  "block": "B03",
+  "text": "Every house cat on Earth,",
+  "scene": "a globe of the Earth covered in tiny cartoon cats of different colors",
+  "start": 111.058,
+  "end": 112.869
+ },
+ {
+  "n": 54,
+  "block": "B03",
+  "text": "from the fluffy Persian",
+  "scene": "a very fluffy white Persian cat with a flat grumpy face, sitting on a pink cushion",
+  "start": 112.869,
+  "end": 114.554
+ },
+ {
+  "n": 55,
+  "block": "B03",
+  "text": "to the hairless Sphynx",
+  "scene": "a pink wrinkly hairless Sphynx cat wearing a tiny sweater, shivering",
+  "start": 114.554,
+  "end": 116.177
+ },
+ {
+  "n": 56,
+  "block": "B03",
+  "text": "to the giant Maine Coon,",
+  "scene": "an enormous fluffy brown Maine Coon cat next to {GUY}, almost as tall as his waist",
+  "start": 116.177,
+  "end": 117.925
+ },
+ {
+  "n": 57,
+  "block": "B03",
+  "text": "descends from one wild animal.",
+  "scene": "all three cats standing in a line, a big arrow pointing from them back to a single {CAT}",
+  "start": 117.925,
+  "end": 120.368
+ },
+ {
+  "n": 58,
+  "block": "B03",
+  "text": "The African wildcat.",
+  "scene": "{CAT} standing proudly on a sandy rock in a dry savanna, bright sun",
+  "start": 120.368,
+  "end": 122.142
+ },
+ {
+  "n": 59,
+  "block": "B03",
+  "text": "Felis lybica.",
+  "scene": "{CAT} portrait in a simple wooden frame, like a museum painting",
+  "start": 122.142,
+  "end": 123.645
+ },
+ {
+  "n": 60,
+  "block": "B03",
+  "text": "A small, sandy, striped hunter",
+  "scene": "{CAT} crouched low in dry yellow grass, stalking, tail twitching",
+  "start": 123.645,
+  "end": 125.611
+ },
+ {
+  "n": 61,
+  "block": "B03",
+  "text": "that still lives today",
+  "scene": "{CAT} walking through a modern savanna with acacia trees",
+  "start": 125.611,
+  "end": 127.114
+ },
+ {
+  "n": 62,
+  "block": "B03",
+  "text": "across Africa and the Middle East.",
+  "scene": "simple map of Africa and the Middle East shaded in sandy yellow, little cat icons scattered on it",
+  "start": 127.114,
+  "end": 129.631
+ },
+ {
+  "n": 63,
+  "block": "B03",
+  "text": "And if you saw one in the wild,",
+  "scene": "{GUY} on a safari, holding binoculars, mouth open",
+  "start": 129.631,
+  "end": 131.534
+ },
+ {
+  "n": 64,
+  "block": "B03",
+  "text": "you would honestly think it was",
+  "scene": "{GUY} pointing at {CAT} with a confused face",
+  "start": 131.534,
+  "end": 133.437
+ },
+ {
+  "n": 65,
+  "block": "B03",
+  "text": "someone's lost pet tabby.",
+  "scene": "{GUY} holding a hand-drawn \"lost cat\" poster up next to {CAT}, the two look identical",
+  "start": 133.437,
+  "end": 135.333
+ },
+ {
+  "n": 66,
+  "block": "B03",
+  "text": "Same size. Same ears.",
+  "scene": "side-by-side comparison, {CAT} and {HOUSECAT} the same size, with arrows pointing at their identical ears",
+  "start": 135.333,
+  "end": 137.474
+ },
+ {
+  "n": 67,
+  "block": "B03",
+  "text": "Same tail. Same attitude.",
+  "scene": "side-by-side, {CAT} and {HOUSECAT} both with their tails up and the same smug face",
+  "start": 137.474,
+  "end": 139.77
+ },
+ {
+  "n": 68,
+  "block": "B03",
+  "text": "But try to pick one up,",
+  "scene": "{GUY} reaching out with both hands toward {CAT}",
+  "start": 139.77,
+  "end": 141.094
+ },
+ {
+  "n": 69,
+  "block": "B03",
+  "text": "and you'll lose a finger.",
+  "scene": "{CAT} hissing with fur puffed up, claws out, {GUY} jumping back with a bandaged finger",
+  "start": 141.094,
+  "end": 142.836
+ },
+ {
+  "n": 70,
+  "block": "B03",
+  "text": "That's the first clue.",
+  "scene": "a big magnifying glass over {CAT}'s face",
+  "start": 142.836,
+  "end": 144.493
+ },
+ {
+  "n": 71,
+  "block": "B03",
+  "text": "Wildcats and house cats are so close genetically",
+  "scene": "two cat silhouettes connected by a DNA double helix",
+  "start": 144.493,
+  "end": 147.728
+ },
+ {
+  "n": 72,
+  "block": "B03",
+  "text": "that they can still interbreed.",
+  "scene": "{CAT} and {HOUSECAT} sitting together with little red hearts above them, a tiny kitten between them",
+  "start": 147.728,
+  "end": 150.225
+ },
+ {
+  "n": 73,
+  "block": "B03",
+  "text": "Which tells us something wild.",
+  "scene": "{GUY} with his jaw dropped, eyes huge",
+  "start": 150.225,
+  "end": 152.275
+ },
+ {
+  "n": 74,
+  "block": "B03",
+  "text": "Your cat is only a few small genetic steps",
+  "scene": "a tiny staircase with only three steps, {HOUSECAT} sitting on top, {CAT} at the bottom",
+  "start": 152.275,
+  "end": 155.066
+ },
+ {
+  "n": 75,
+  "block": "B03",
+  "text": "away from being a wild animal.",
+  "scene": "{HOUSECAT} on a couch with a shadow on the wall behind it shaped like a roaring wildcat",
+  "start": 155.066,
+  "end": 158.029
+ },
+ {
+  "n": 76,
+  "block": "B04",
+  "text": "So when did this happen?",
+  "scene": "{SCI} scratching his chin, looking at a calendar made of stone",
+  "start": 158.029,
+  "end": 159.828
+ },
+ {
+  "n": 77,
+  "block": "B04",
+  "text": "For a long time, people believed",
+  "scene": "an old dusty book open on a table, candle burning beside it",
+  "start": 159.828,
+  "end": 162.025
+ },
+ {
+  "n": 78,
+  "block": "B04",
+  "text": "that ancient Egypt invented the house cat.",
+  "scene": "{EGYPT} holding a cat proudly in front of a pyramid",
+  "start": 162.025,
+  "end": 165.152
+ },
+ {
+  "n": 79,
+  "block": "B04",
+  "text": "Pyramids, pharaohs, cat statues.",
+  "scene": "a golden cat statue next to a pyramid and a pharaoh with a striped headdress",
+  "start": 165.152,
+  "end": 167.718
+ },
+ {
+  "n": 80,
+  "block": "B04",
+  "text": "Makes sense, right?",
+  "scene": "{GUY} shrugging, palms up",
+  "start": 167.718,
+  "end": 169.278
+ },
+ {
+  "n": 81,
+  "block": "B04",
+  "text": "Wrong.",
+  "scene": "big red X over the pyramid and {EGYPT}",
+  "start": 169.278,
+  "end": 170.245
+ },
+ {
+  "n": 82,
+  "block": "B04",
+  "text": "In 2004, archaeologists working on the island of Cyprus",
+  "scene": "{SCI} with a shovel digging on a rocky island surrounded by blue sea",
+  "start": 170.245,
+  "end": 174.531
+ },
+ {
+  "n": 83,
+  "block": "B04",
+  "text": "announced a find that rewrote the story.",
+  "scene": "{SCI} holding up an old bone, sparkles around it, shocked face",
+  "start": 174.531,
+  "end": 178.047
+ },
+ {
+  "n": 84,
+  "block": "B04",
+  "text": "A grave.",
+  "scene": "an open grave in the dirt with simple stones around it",
+  "start": 178.047,
+  "end": 179.232
+ },
+ {
+  "n": 85,
+  "block": "B04",
+  "text": "About nine and a half thousand years old.",
+  "scene": "a big stone with \"9,500\" carved into it, sitting next to the grave",
+  "start": 179.232,
+  "end": 181.957
+ },
+ {
+  "n": 86,
+  "block": "B04",
+  "text": "Inside, a human had been buried",
+  "scene": "a simple skeleton lying peacefully in the grave, surrounded by small seashells and tools",
+  "start": 181.957,
+  "end": 184.081
+ },
+ {
+  "n": 87,
+  "block": "B04",
+  "text": "with polished stones, tools, and seashells.",
+  "scene": "close-up of polished stones, a stone axe and seashells next to the skeleton",
+  "start": 184.081,
+  "end": 187.254
+ },
+ {
+  "n": 88,
+  "block": "B04",
+  "text": "And just forty centimeters away,",
+  "scene": "a measuring tape stretched between the human skeleton and a small skeleton",
+  "start": 187.254,
+  "end": 189.186
+ },
+ {
+  "n": 89,
+  "block": "B04",
+  "text": "in its own little grave,",
+  "scene": "a tiny separate grave dug next to the human one",
+  "start": 189.186,
+  "end": 190.689
+ },
+ {
+  "n": 90,
+  "block": "B04",
+  "text": "was a cat.",
+  "scene": "a small cat skeleton curled up peacefully in the little grave",
+  "start": 190.689,
+  "end": 191.76
+ },
+ {
+  "n": 91,
+  "block": "B04",
+  "text": "Laid out carefully.",
+  "scene": "{SCI} kneeling, gently brushing dirt off the cat skeleton with a small brush",
+  "start": 191.76,
+  "end": 193.337
+ },
+ {
+  "n": 92,
+  "block": "B04",
+  "text": "Facing the same direction as the human.",
+  "scene": "top-down view, human skeleton and cat skeleton lying side by side facing the same way, an arrow showing direction",
+  "start": 193.337,
+  "end": 196.159
+ },
+ {
+  "n": 93,
+  "block": "B04",
+  "text": "Now here's why that's insane.",
+  "scene": "{GUY} holding both hands on his head, eyes wide",
+  "start": 196.159,
+  "end": 198.256
+ },
+ {
+  "n": 94,
+  "block": "B04",
+  "text": "Cyprus is an island.",
+  "scene": "a small island in a big blue sea, seen from above",
+  "start": 198.256,
+  "end": 200.173
+ },
+ {
+  "n": 95,
+  "block": "B04",
+  "text": "There were no wild cats on Cyprus.",
+  "scene": "the island with a big crossed-out cat icon floating above it",
+  "start": 200.173,
+  "end": 202.778
+ },
+ {
+  "n": 96,
+  "block": "B04",
+  "text": "None.",
+  "scene": "a cartoon empty island with just one palm tree and a crab",
+  "start": 202.778,
+  "end": 203.703
+ },
+ {
+  "n": 97,
+  "block": "B04",
+  "text": "Which means someone",
+  "scene": "{CAVE} standing at the shore of the sea, looking at the horizon",
+  "start": 203.703,
+  "end": 205.07
+ },
+ {
+  "n": 98,
+  "block": "B04",
+  "text": "put a wild cat in a tiny boat",
+  "scene": "{CAVE} paddling a small wooden canoe across waves, {CAT} sitting at the front of the boat",
+  "start": 205.07,
+  "end": 207.03
+ },
+ {
+  "n": 99,
+  "block": "B04",
+  "text": "and sailed it across the Mediterranean Sea.",
+  "scene": "the canoe tiny in a huge blue sea, big waves, {CAT} looking extremely unhappy and wet",
+  "start": 207.03,
+  "end": 210.142
+ },
+ {
+  "n": 100,
+  "block": "B04",
+  "text": "If you've ever tried to put your cat in a carrier",
+  "scene": "{GUY} trying to push an angry {HOUSECAT} into a plastic pet carrier, claws stuck to the edge",
+  "start": 210.142,
+  "end": 213.035
+ },
+ {
+  "n": 101,
+  "block": "B04",
+  "text": "to go to the vet,",
+  "scene": "{GUY} covered in scratches holding a closed pet carrier, the cat glaring through the bars",
+  "start": 213.035,
+  "end": 214.182
+ },
+ {
+  "n": 102,
+  "block": "B04",
+  "text": "you understand what an achievement this was.",
+  "scene": "{CAVE} on the shore, covered in scratches and bandages, giving a thumbs up, {CAT} glaring at him",
+  "start": 214.182,
+  "end": 217.122
+ },
+ {
+  "n": 103,
+  "block": "B04",
+  "text": "And this was more than five thousand years",
+  "scene": "a long timeline arrow with \"5,000 years\" written above a gap",
+  "start": 217.122,
+  "end": 219.778
+ },
+ {
+  "n": 104,
+  "block": "B04",
+  "text": "before the first Egyptian pharaoh.",
+  "scene": "a tiny pharaoh at the far right end of the timeline, the Cyprus grave at the far left end",
+  "start": 219.778,
+  "end": 222.292
+ },
+ {
+  "n": 105,
+  "block": "B04",
+  "text": "And to be fair, scientists are still arguing about the details.",
+  "scene": "two scientists arguing over a table covered in bones, one holding a skull",
+  "start": 222.292,
+  "end": 226.685
+ },
+ {
+  "n": 106,
+  "block": "B04",
+  "text": "Ancient cat bones are small,",
+  "scene": "a tiny cat bone next to a big ruler",
+  "start": 226.685,
+  "end": 228.763
+ },
+ {
+  "n": 107,
+  "block": "B04",
+  "text": "they're easy to miss,",
+  "scene": "{SCI} accidentally stepping on a tiny bone while digging",
+  "start": 228.763,
+  "end": 230.387
+ },
+ {
+  "n": 108,
+  "block": "B04",
+  "text": "and a wildcat skeleton and a house cat skeleton look almost identical.",
+  "scene": "two cat skeletons side by side with a big \"?\" between them",
+  "start": 230.387,
+  "end": 235.513
+ },
+ {
+  "n": 109,
+  "block": "B04",
+  "text": "But the Cyprus grave tells us one thing for sure.",
+  "scene": "the Cyprus grave glowing softly in the dirt",
+  "start": 235.513,
+  "end": 238.797
+ },
+ {
+  "n": 110,
+  "block": "B04",
+  "text": "So cats were living with humans",
+  "scene": "{CAVE} sitting by a fire, {CAT} sitting a few steps away, both looking at the flames",
+  "start": 238.797,
+  "end": 240.948
+ },
+ {
+  "n": 111,
+  "block": "B04",
+  "text": "long before anybody built a pyramid.",
+  "scene": "{CAT} sitting on a tiny unfinished pyramid made of three stones, looking bored",
+  "start": 240.948,
+  "end": 243.727
+ },
+ {
+  "n": 112,
+  "block": "B04",
+  "text": "But they were not the first.",
+  "scene": "{CAT} in second place on a podium, looking annoyed",
+  "start": 243.727,
+  "end": 245.563
+ },
+ {
+  "n": 113,
+  "block": "B04",
+  "text": "Dogs beat them by thousands of years.",
+  "scene": "a happy brown dog standing on the first place podium step, the cat on second place glaring at it",
+  "start": 245.563,
+  "end": 248.337
+ },
+ {
+  "n": 114,
+  "block": "B04",
+  "text": "And that gap is the biggest clue of all.",
+  "scene": "a giant magnifying glass over a timeline showing a dog icon far left and a cat icon far right",
+  "start": 248.337,
+  "end": 250.991
+ },
+ {
+  "n": 115,
+  "block": "B04",
+  "text": "Because cats only show up",
+  "scene": "{CAT} peeking around the corner of a mud-brick wall",
+  "start": 250.991,
+  "end": 252.714
+ },
+ {
+  "n": 116,
+  "block": "B04",
+  "text": "right after humans invented something very specific.",
+  "scene": "{CAVE} holding up a bundle of golden wheat in triumph, rays of light behind him",
+  "start": 252.714,
+  "end": 256.361
+ },
+ {
+  "n": 117,
+  "block": "B04",
+  "text": "Farming.",
+  "scene": "a field of golden wheat under a blue sky with a small mud-brick village",
+  "start": 256.361,
+  "end": 258.023
+ },
+ {
+  "n": 118,
+  "block": "B05",
+  "text": "Now, the classic story goes like this.",
+  "scene": "an old storybook opening with sparkles coming out of the pages",
+  "start": 258.023,
+  "end": 260.645
+ },
+ {
+  "n": 119,
+  "block": "B05",
+  "text": "A kind prehistoric woman finds a litter of wild kittens.",
+  "scene": "{WOMAN} kneeling in tall grass, finding three tiny sandy-tan striped wildcat kittens with huge round eyes in a nest",
+  "start": 260.645,
+  "end": 265.189
+ },
+ {
+  "n": 120,
+  "block": "B05",
+  "text": "She takes them home.",
+  "scene": "{WOMAN} walking toward a hut carrying three kittens in her fur dress",
+  "start": 265.189,
+  "end": 266.786
+ },
+ {
+  "n": 121,
+  "block": "B05",
+  "text": "She raises them.",
+  "scene": "{WOMAN} feeding a kitten milk from a small clay bowl, hearts floating around",
+  "start": 266.786,
+  "end": 268.271
+ },
+ {
+  "n": 122,
+  "block": "B05",
+  "text": "And they become loyal, loving pets.",
+  "scene": "{WOMAN} cuddling a grown {CAT} by the fire, both smiling",
+  "start": 268.271,
+  "end": 270.77
+ },
+ {
+  "n": 123,
+  "block": "B05",
+  "text": "Beautiful. Heartwarming.",
+  "scene": "a pink background full of hearts and sparkles around the cat and the woman",
+  "start": 270.77,
+  "end": 272.626
+ },
+ {
+  "n": 124,
+  "block": "B05",
+  "text": "Completely not how it happened.",
+  "scene": "the storybook slammed shut, a big red X stamped on its cover",
+  "start": 272.626,
+  "end": 274.869
+ },
+ {
+  "n": 125,
+  "block": "B05",
+  "text": "Because here's what nobody tells you about wildcats.",
+  "scene": "{GUY} leaning toward the viewer, hand cupped to his mouth like telling a secret",
+  "start": 274.869,
+  "end": 278.457
+ },
+ {
+  "n": 126,
+  "block": "B05",
+  "text": "Researchers have tried raising African wildcat kittens by hand",
+  "scene": "{SCI} bottle-feeding a tiny sandy-tan striped wildcat kitten in a lab, clipboard in his other hand",
+  "start": 278.457,
+  "end": 282.621
+ },
+ {
+  "n": 127,
+  "block": "B05",
+  "text": "from the day they were born.",
+  "scene": "a tiny newborn sandy-tan striped wildcat kitten with closed eyes in a blanket",
+  "start": 282.621,
+  "end": 284.959
+ },
+ {
+  "n": 128,
+  "block": "B05",
+  "text": "And they grow up wild anyway.",
+  "scene": "an adult {CAT} hissing at {SCI} from on top of a lab shelf, test tubes falling",
+  "start": 284.959,
+  "end": 287.151
+ },
+ {
+  "n": 129,
+  "block": "B05",
+  "text": "They hide. They hiss.",
+  "scene": "{CAT} hiding under a table, only its glowing eyes visible, hissing",
+  "start": 287.151,
+  "end": 288.84
+ },
+ {
+  "n": 130,
+  "block": "B05",
+  "text": "They don't want to be touched.",
+  "scene": "{SCI} reaching toward {CAT}, the cat swatting his hand away with claws out",
+  "start": 288.84,
+  "end": 290.672
+ },
+ {
+  "n": 131,
+  "block": "B05",
+  "text": "And there's a deeper reason.",
+  "scene": "a cross-section of a cat's head showing a simple cartoon brain",
+  "start": 290.672,
+  "end": 292.501
+ },
+ {
+  "n": 132,
+  "block": "B05",
+  "text": "Dogs come from wolves.",
+  "scene": "a gray wolf standing next to a happy dog",
+  "start": 292.501,
+  "end": 294.382
+ },
+ {
+  "n": 133,
+  "block": "B05",
+  "text": "And wolves live in packs with a leader.",
+  "scene": "a pack of five gray wolves following one big leader wolf in a line",
+  "start": 294.382,
+  "end": 297.007
+ },
+ {
+  "n": 134,
+  "block": "B05",
+  "text": "So a dog can simply accept a human as the new boss.",
+  "scene": "a dog following {GUY} in a line like a pack, the man wearing a tiny crown",
+  "start": 297.007,
+  "end": 300.547
+ },
+ {
+  "n": 135,
+  "block": "B05",
+  "text": "But wildcats don't have packs.",
+  "scene": "{CAT} sitting all alone on a big rock, no other animals around",
+  "start": 300.547,
+  "end": 302.765
+ },
+ {
+  "n": 136,
+  "block": "B05",
+  "text": "They don't have bosses.",
+  "scene": "{CAT} ignoring a human holding a sign that says \"BOSS\"",
+  "start": 302.765,
+  "end": 304.486
+ },
+ {
+  "n": 137,
+  "block": "B05",
+  "text": "They live alone,",
+  "scene": "{CAT} walking alone across a sandy desert under a huge sun",
+  "start": 304.486,
+  "end": 305.612
+ },
+ {
+  "n": 138,
+  "block": "B05",
+  "text": "they hunt alone,",
+  "scene": "{CAT} pouncing on a mouse alone in tall grass",
+  "start": 305.612,
+  "end": 306.737
+ },
+ {
+  "n": 139,
+  "block": "B05",
+  "text": "and they do not take orders from anyone.",
+  "scene": "{CAVE} pointing and shouting a command, {CAT} yawning and turning its back",
+  "start": 306.737,
+  "end": 309.532
+ },
+ {
+  "n": 140,
+  "block": "B05",
+  "text": "There was no social system to hijack.",
+  "scene": "a broken chain lying on the ground next to {CAT}, who looks proud",
+  "start": 309.532,
+  "end": 312.145
+ },
+ {
+  "n": 141,
+  "block": "B05",
+  "text": "So if humans didn't tame cats...",
+  "scene": "{CAVE} sitting on a rock, head in his hands, confused",
+  "start": 312.145,
+  "end": 314.492
+ },
+ {
+  "n": 142,
+  "block": "B05",
+  "text": "what actually happened?",
+  "scene": "big glowing question mark over a mud-brick village at sunset",
+  "start": 314.492,
+  "end": 316.772
+ },
+ {
+  "n": 143,
+  "block": "B06",
+  "text": "The answer is mice.",
+  "scene": "a single tiny gray mouse holding a grain of wheat, standing in a spotlight",
+  "start": 316.772,
+  "end": 318.483
+ },
+ {
+  "n": 144,
+  "block": "B06",
+  "text": "Seriously.",
+  "scene": "{GUY} nodding with a completely serious face",
+  "start": 318.483,
+  "end": 319.684
+ },
+ {
+  "n": 145,
+  "block": "B06",
+  "text": "When humans started settling down and storing grain,",
+  "scene": "a small mud-brick village with clay pots full of wheat stacked outside the huts",
+  "start": 319.684,
+  "end": 323.335
+ },
+ {
+  "n": 146,
+  "block": "B06",
+  "text": "they created something no ecosystem had ever seen before.",
+  "scene": "aerial view of a village with a big glowing yellow circle around the grain storehouses",
+  "start": 323.335,
+  "end": 327.632
+ },
+ {
+  "n": 147,
+  "block": "B06",
+  "text": "A giant, all-you-can-eat buffet.",
+  "scene": "a long table covered in piles of grain with a sign \"ALL YOU CAN EAT\", mice lining up with plates",
+  "start": 327.632,
+  "end": 330.018
+ },
+ {
+  "n": 148,
+  "block": "B06",
+  "text": "And the first guests to arrive",
+  "scene": "a red carpet leading to a granary door",
+  "start": 330.018,
+  "end": 331.709
+ },
+ {
+  "n": 149,
+  "block": "B06",
+  "text": "were house mice.",
+  "scene": "a crowd of cheerful gray mice walking along the red carpet into the granary",
+  "start": 331.709,
+  "end": 333.023
+ },
+ {
+  "n": 150,
+  "block": "B06",
+  "text": "In fact, house mice moved in with humans",
+  "scene": "a mouse carrying a tiny suitcase into a hut",
+  "start": 333.023,
+  "end": 335.856
+ },
+ {
+  "n": 151,
+  "block": "B06",
+  "text": "even before full farming began,",
+  "scene": "{CAVE} gathering wild grain, a mouse sneaking behind him",
+  "start": 335.856,
+  "end": 338.11
+ },
+ {
+  "n": 152,
+  "block": "B06",
+  "text": "in some of the first permanent villages,",
+  "scene": "a small cluster of round stone huts in a green valley",
+  "start": 338.11,
+  "end": 340.943
+ },
+ {
+  "n": 153,
+  "block": "B06",
+  "text": "around fifteen thousand years ago.",
+  "scene": "a stone with \"15,000\" carved on it, a mouse sitting on top",
+  "start": 340.943,
+  "end": 343.71
+ },
+ {
+  "n": 154,
+  "block": "B06",
+  "text": "So now picture this from the wildcat's point of view.",
+  "scene": "{CAT} on a hill looking down at a village, a thought bubble above its head",
+  "start": 343.71,
+  "end": 347.126
+ },
+ {
+  "n": 155,
+  "block": "B06",
+  "text": "For millions of years,",
+  "scene": "a fast-forward montage of the sun rising and setting over a desert, {CAT} hunting",
+  "start": 347.126,
+  "end": 348.654
+ },
+ {
+  "n": 156,
+  "block": "B06",
+  "text": "you had to hunt across miles of open land",
+  "scene": "{CAT} running across a huge empty yellow landscape, tongue out, exhausted",
+  "start": 348.654,
+  "end": 351.3
+ },
+ {
+  "n": 157,
+  "block": "B06",
+  "text": "for a few scraps of food.",
+  "scene": "{CAT} finding one tiny lizard and looking disappointed",
+  "start": 351.3,
+  "end": 353.325
+ },
+ {
+  "n": 158,
+  "block": "B06",
+  "text": "And suddenly,",
+  "scene": "{CAT} freezing mid-step, ears straight up",
+  "start": 353.325,
+  "end": 354.13
+ },
+ {
+  "n": 159,
+  "block": "B06",
+  "text": "there's a place where the mice",
+  "scene": "a thought bubble showing hundreds of mice in a granary",
+  "start": 354.13,
+  "end": 355.741
+ },
+ {
+  "n": 160,
+  "block": "B06",
+  "text": "just...",
+  "scene": "{CAT} with its mouth wide open, drooling slightly",
+  "start": 355.741,
+  "end": 356.582
+ },
+ {
+  "n": 161,
+  "block": "B06",
+  "text": "never stop coming.",
+  "scene": "an endless line of mice walking into the granary like a conveyor belt",
+  "start": 356.582,
+  "end": 358.149
+ },
+ {
+  "n": 162,
+  "block": "B06",
+  "text": "For a cat, this was paradise.",
+  "scene": "{CAT} lying on a pile of grain surrounded by mice, heavenly golden light and tiny angel wings on its back",
+  "start": 358.149,
+  "end": 360.391
+ },
+ {
+  "n": 163,
+  "block": "B06",
+  "text": "But there was one problem.",
+  "scene": "{CAT} stopping at the edge of the village, a big red exclamation mark above its head",
+  "start": 360.391,
+  "end": 362.221
+ },
+ {
+  "n": 164,
+  "block": "B06",
+  "text": "The paradise came with humans.",
+  "scene": "{CAVE} standing in the doorway of the granary holding a spear, frowning",
+  "start": 362.221,
+  "end": 364.427
+ },
+ {
+  "n": 165,
+  "block": "B06",
+  "text": "Loud,",
+  "scene": "{CAVE} shouting with sound wave lines coming out of his mouth",
+  "start": 364.427,
+  "end": 364.942
+ },
+ {
+  "n": 166,
+  "block": "B06",
+  "text": "smelly,",
+  "scene": "{CAVE} with green stink lines around him, flies buzzing",
+  "start": 364.942,
+  "end": 365.571
+ },
+ {
+  "n": 167,
+  "block": "B06",
+  "text": "fire-wielding, spear-throwing humans.",
+  "scene": "{CAVE} holding a torch in one hand and a spear in the other, looking intimidating",
+  "start": 365.571,
+  "end": 368.237
+ },
+ {
+  "n": 168,
+  "block": "B06",
+  "text": "And this is the key moment.",
+  "scene": "a big golden key floating in the air with sparkles",
+  "start": 368.237,
+  "end": 370.244
+ },
+ {
+  "n": 169,
+  "block": "B06",
+  "text": "Most wildcats took one look at the humans",
+  "scene": "a group of five small sandy-tan striped African wildcats with huge round eyes peeking from behind bushes at a village",
+  "start": 370.244,
+  "end": 372.91
+ },
+ {
+  "n": 170,
+  "block": "B06",
+  "text": "and stayed far away.",
+  "scene": "four wildcats running away into the distance with dust clouds behind them",
+  "start": 372.91,
+  "end": 374.652
+ },
+ {
+  "n": 171,
+  "block": "B06",
+  "text": "But a few of them,",
+  "scene": "only one small sandy-tan striped African wildcat with huge round eyes left behind the bush, looking curious",
+  "start": 374.652,
+  "end": 375.802
+ },
+ {
+  "n": 172,
+  "block": "B06",
+  "text": "the slightly bolder ones,",
+  "scene": "{CAT} with its chest puffed out, looking brave",
+  "start": 375.802,
+  "end": 377.318
+ },
+ {
+  "n": 173,
+  "block": "B06",
+  "text": "the slightly calmer ones,",
+  "scene": "{CAT} sitting relaxed, eyes half closed, unbothered by a noisy village",
+  "start": 377.318,
+  "end": 378.834
+ },
+ {
+  "n": 174,
+  "block": "B06",
+  "text": "stayed.",
+  "scene": "{CAT} sitting right at the edge of the village next to the granary wall",
+  "start": 378.834,
+  "end": 379.729
+ },
+ {
+  "n": 175,
+  "block": "B06",
+  "text": "And they got all the mice.",
+  "scene": "{CAT} with a round full belly lying on its back, three mouse tails sticking out of its mouth",
+  "start": 379.729,
+  "end": 381.556
+ },
+ {
+  "n": 176,
+  "block": "B06",
+  "text": "They got fatter.",
+  "scene": "{CAT} so round it looks like a ball with tiny legs",
+  "start": 381.556,
+  "end": 382.898
+ },
+ {
+  "n": 177,
+  "block": "B06",
+  "text": "They had more kittens.",
+  "scene": "{CAT} proudly surrounded by six tiny kittens",
+  "start": 382.898,
+  "end": 384.539
+ },
+ {
+  "n": 178,
+  "block": "B06",
+  "text": "And those kittens inherited their calm personality.",
+  "scene": "kittens sitting calmly next to {CAVE}, not afraid at all",
+  "start": 384.539,
+  "end": 388.007
+ },
+ {
+  "n": 179,
+  "block": "B06",
+  "text": "Generation after generation,",
+  "scene": "a family tree diagram with cat faces getting friendlier from bottom to top",
+  "start": 388.007,
+  "end": 390.099
+ },
+ {
+  "n": 180,
+  "block": "B06",
+  "text": "the village cats became a little less afraid of us.",
+  "scene": "a series of cats getting closer and closer to a human, from far away to sitting at his feet",
+  "start": 390.099,
+  "end": 394.015
+ },
+ {
+  "n": 181,
+  "block": "B06",
+  "text": "Nobody planned this.",
+  "scene": "{CAVE} sleeping by the fire, completely unaware of the cats around him",
+  "start": 394.015,
+  "end": 395.74
+ },
+ {
+  "n": 182,
+  "block": "B06",
+  "text": "Nobody trained them.",
+  "scene": "a crossed-out picture of a man teaching a cat tricks",
+  "start": 395.74,
+  "end": 397.415
+ },
+ {
+  "n": 183,
+  "block": "B06",
+  "text": "The cats basically domesticated themselves.",
+  "scene": "{CAT} looking at itself in a puddle like a mirror, the reflection is a house cat",
+  "start": 397.415,
+  "end": 400.654
+ },
+ {
+  "n": 184,
+  "block": "B06",
+  "text": "And the humans?",
+  "scene": "{CAVE} and {WOMAN} standing together, looking at the viewer",
+  "start": 400.654,
+  "end": 402.064
+ },
+ {
+  "n": 185,
+  "block": "B06",
+  "text": "They were thrilled.",
+  "scene": "{CAVE} and {WOMAN} cheering with arms in the air",
+  "start": 402.064,
+  "end": 403.414
+ },
+ {
+  "n": 186,
+  "block": "B06",
+  "text": "Because a cat that eats the mice",
+  "scene": "{CAT} catching a mouse right next to a grain pot",
+  "start": 403.414,
+  "end": 405.499
+ },
+ {
+  "n": 187,
+  "block": "B06",
+  "text": "is a cat that saves your harvest.",
+  "scene": "a full undamaged grain pot shining with golden light, {CAVE} hugging it with tears of joy",
+  "start": 405.499,
+  "end": 407.962
+ },
+ {
+  "n": 188,
+  "block": "B06",
+  "text": "Free pest control.",
+  "scene": "a cartoon contract scroll with a cat paw print and a human handprint on it",
+  "start": 407.962,
+  "end": 409.574
+ },
+ {
+  "n": 189,
+  "block": "B06",
+  "text": "No training required.",
+  "scene": "{CAT} on a grain pot wearing a tiny guard helmet, {CAVE} giving a thumbs up",
+  "start": 409.574,
+  "end": 411.484
+ },
+ {
+  "n": 190,
+  "block": "B06",
+  "text": "So the humans tolerated them.",
+  "scene": "{CAVE} pretending not to notice {CAT} walking past his feet",
+  "start": 411.484,
+  "end": 413.731
+ },
+ {
+  "n": 191,
+  "block": "B06",
+  "text": "Then they started leaving them scraps.",
+  "scene": "{WOMAN} putting a small piece of fish down for {CAT}",
+  "start": 413.731,
+  "end": 416.006
+ },
+ {
+  "n": 192,
+  "block": "B06",
+  "text": "Then they let them sleep by the fire.",
+  "scene": "{CAT} curled up by a campfire next to {CAVE}, both sleeping",
+  "start": 416.006,
+  "end": 418.285
+ },
+ {
+  "n": 193,
+  "block": "B06",
+  "text": "And somewhere along the way,",
+  "scene": "soft sunset over a mud-brick village, smoke rising from huts",
+  "start": 418.285,
+  "end": 419.985
+ },
+ {
+  "n": 194,
+  "block": "B06",
+  "text": "people started to actually like them.",
+  "scene": "{CAVE} petting {CAT} with a big goofy smile, the cat purring with closed eyes",
+  "start": 419.985,
+  "end": 423.063
+ },
+ {
+  "n": 195,
+  "block": "B07",
+  "text": "And here's the strangest part.",
+  "scene": "{GUY} standing with a dramatic spotlight on him, everything else dark",
+  "start": 423.063,
+  "end": 425.134
+ },
+ {
+  "n": 196,
+  "block": "B07",
+  "text": "When scientists sequenced the cat genome",
+  "scene": "{SCI} in front of a giant computer screen showing a long colorful DNA strand",
+  "start": 425.134,
+  "end": 427.743
+ },
+ {
+  "n": 197,
+  "block": "B07",
+  "text": "and compared it to wildcats,",
+  "scene": "the screen split in two, {CAT} on one side and {HOUSECAT} on the other, DNA strands below each",
+  "start": 427.743,
+  "end": 429.64
+ },
+ {
+  "n": 198,
+  "block": "B07",
+  "text": "they expected huge differences.",
+  "scene": "{SCI} excitedly holding a huge magnifying glass",
+  "start": 429.64,
+  "end": 432.036
+ },
+ {
+  "n": 199,
+  "block": "B07",
+  "text": "They found...",
+  "scene": "{SCI} squinting at the screen",
+  "start": 432.036,
+  "end": 433.333
+ },
+ {
+  "n": 200,
+  "block": "B07",
+  "text": "almost nothing.",
+  "scene": "{SCI} with a blank shocked face, a single tiny dot highlighted on the DNA",
+  "start": 433.333,
+  "end": 434.7
+ },
+ {
+  "n": 201,
+  "block": "B07",
+  "text": "Dogs have been reshaped so dramatically",
+  "scene": "a lineup of dogs of wildly different sizes, a tiny chihuahua next to a huge Great Dane",
+  "start": 434.7,
+  "end": 437.412
+ },
+ {
+  "n": 202,
+  "block": "B07",
+  "text": "that a chihuahua and a wolf barely look like relatives.",
+  "scene": "a tiny chihuahua looking up at a huge gray wolf, both confused",
+  "start": 437.412,
+  "end": 441.453
+ },
+ {
+  "n": 203,
+  "block": "B07",
+  "text": "But cats?",
+  "scene": "{HOUSECAT} sitting next to {CAT}, they look almost identical",
+  "start": 441.453,
+  "end": 442.668
+ },
+ {
+  "n": 204,
+  "block": "B07",
+  "text": "Cats changed just a tiny bit.",
+  "scene": "a ruler measuring a tiny difference between the two cats",
+  "start": 442.668,
+  "end": 444.837
+ },
+ {
+  "n": 205,
+  "block": "B07",
+  "text": "The few genes that did change",
+  "scene": "the DNA strand with three small spots glowing in yellow",
+  "start": 444.837,
+  "end": 446.621
+ },
+ {
+  "n": 206,
+  "block": "B07",
+  "text": "are linked to memory,",
+  "scene": "a cartoon cat brain with a small lightbulb inside",
+  "start": 446.621,
+  "end": 447.973
+ },
+ {
+  "n": 207,
+  "block": "B07",
+  "text": "fear,",
+  "scene": "a cartoon cat brain with a tiny frightened face that is shrinking",
+  "start": 447.973,
+  "end": 448.46
+ },
+ {
+  "n": 208,
+  "block": "B07",
+  "text": "and reward.",
+  "scene": "a cartoon cat brain with a tiny treat icon and sparkles",
+  "start": 448.46,
+  "end": 449.591
+ },
+ {
+  "n": 209,
+  "block": "B07",
+  "text": "In other words, cats didn't change their bodies.",
+  "scene": "{CAT} flexing its muscles proudly, unchanged",
+  "start": 449.591,
+  "end": 452.802
+ },
+ {
+  "n": 210,
+  "block": "B07",
+  "text": "They changed their attitude toward us.",
+  "scene": "{CAT} walking from a hissing pose to a relaxed pose with a little smile",
+  "start": 452.802,
+  "end": 455.391
+ },
+ {
+  "n": 211,
+  "block": "B07",
+  "text": "Which is why scientists often call cats",
+  "scene": "{SCI} standing next to a chalkboard pointing at a cat drawing",
+  "start": 455.391,
+  "end": 458.07
+ },
+ {
+  "n": 212,
+  "block": "B07",
+  "text": "\"semi-domesticated.\"",
+  "scene": "{SCI} writing the word \"semi\" on the chalkboard with chalk",
+  "start": 458.07,
+  "end": 459.886
+ },
+ {
+  "n": 213,
+  "block": "B07",
+  "text": "Your cat could survive without you.",
+  "scene": "{HOUSECAT} walking out of a house with a tiny backpack, looking confident",
+  "start": 459.886,
+  "end": 462.199
+ },
+ {
+  "n": 214,
+  "block": "B07",
+  "text": "A dog left alone in the wild usually struggles.",
+  "scene": "a sad dog sitting alone in a forest in the rain",
+  "start": 462.199,
+  "end": 465.684
+ },
+ {
+  "n": 215,
+  "block": "B07",
+  "text": "A cat left alone in the wild",
+  "scene": "{HOUSECAT} stepping into tall grass, eyes narrowing",
+  "start": 465.684,
+  "end": 467.476
+ },
+ {
+  "n": 216,
+  "block": "B07",
+  "text": "just goes back to hunting like nothing happened.",
+  "scene": "{HOUSECAT} pouncing on a mouse in the grass with perfect wild technique",
+  "start": 467.476,
+  "end": 470.709
+ },
+ {
+  "n": 217,
+  "block": "B07",
+  "text": "It never fully signed the domestication contract.",
+  "scene": "a long scroll contract with a pen, {HOUSECAT} pushing the pen off the table",
+  "start": 470.709,
+  "end": 474.111
+ },
+ {
+  "n": 218,
+  "block": "B07",
+  "text": "It just agreed to live in our house.",
+  "scene": "{HOUSECAT} sitting on a couch in a modern living room like it owns it",
+  "start": 474.111,
+  "end": 476.58
+ },
+ {
+  "n": 219,
+  "block": "B07",
+  "text": "And this is the real difference between cats and dogs.",
+  "scene": "{HOUSECAT} and a brown dog sitting back to back, arms crossed",
+  "start": 476.58,
+  "end": 480.41
+ },
+ {
+  "n": 220,
+  "block": "B07",
+  "text": "Humans gave dogs jobs.",
+  "scene": "a dog herding sheep, a dog pulling a sled, a dog guarding a door",
+  "start": 480.41,
+  "end": 482.471
+ },
+ {
+  "n": 221,
+  "block": "B07",
+  "text": "Hunting, herding, guarding, pulling sleds.",
+  "scene": "four small panels with a dog doing each job, sweating and smiling",
+  "start": 482.471,
+  "end": 485.385
+ },
+ {
+  "n": 222,
+  "block": "B07",
+  "text": "So we bred them into hundreds of different shapes and sizes.",
+  "scene": "a huge lineup of very different dog breeds stretching off the screen",
+  "start": 485.385,
+  "end": 489.334
+ },
+ {
+  "n": 223,
+  "block": "B07",
+  "text": "But cats only ever had one job.",
+  "scene": "{HOUSECAT} holding a single tiny sign with a mouse icon on it",
+  "start": 489.334,
+  "end": 491.886
+ },
+ {
+  "n": 224,
+  "block": "B07",
+  "text": "Catch mice.",
+  "scene": "{HOUSECAT} catching a mouse",
+  "start": 491.886,
+  "end": 493.126
+ },
+ {
+  "n": 225,
+  "block": "B07",
+  "text": "And they were already perfect at it.",
+  "scene": "{HOUSECAT} with a gold medal and a trophy shaped like a mouse",
+  "start": 493.126,
+  "end": 495.301
+ },
+ {
+  "n": 226,
+  "block": "B07",
+  "text": "There was nothing to improve.",
+  "scene": "{SCI} looking at a blueprint of a cat and putting his pencil down, shrugging",
+  "start": 495.301,
+  "end": 497.298
+ },
+ {
+  "n": 227,
+  "block": "B07",
+  "text": "So for thousands of years, we basically left the cat design alone.",
+  "scene": "a cat-shaped blueprint with a stamp saying \"APPROVED\"",
+  "start": 497.298,
+  "end": 502.146
+ },
+ {
+  "n": 228,
+  "block": "B07",
+  "text": "Dogs work for us.",
+  "scene": "a dog fetching a newspaper for {GUY}, wagging its tail",
+  "start": 502.146,
+  "end": 503.802
+ },
+ {
+  "n": 229,
+  "block": "B07",
+  "text": "Cats work with us.",
+  "scene": "{HOUSECAT} sitting next to {GUY} at a desk, both looking at a laptop like coworkers",
+  "start": 503.802,
+  "end": 505.313
+ },
+ {
+  "n": 230,
+  "block": "B07",
+  "text": "And honestly,",
+  "scene": "{HOUSECAT} lying on the laptop keyboard while {GUY} sighs",
+  "start": 505.313,
+  "end": 506.26
+ },
+ {
+  "n": 231,
+  "block": "B07",
+  "text": "sometimes it feels like we work for them.",
+  "scene": "{GUY} serving {HOUSECAT} food on a silver tray like a butler, the cat wearing a crown",
+  "start": 506.26,
+  "end": 509.666
+ },
+ {
+  "n": 232,
+  "block": "B08",
+  "text": "But then,",
+  "scene": "a desert landscape with pyramids appearing on the horizon",
+  "start": 509.666,
+  "end": 510.376
+ },
+ {
+  "n": 233,
+  "block": "B08",
+  "text": "cats arrived in Egypt.",
+  "scene": "{CAT} walking along the Nile river with palm trees and pyramids in the background",
+  "start": 510.376,
+  "end": 512.116
+ },
+ {
+  "n": 234,
+  "block": "B08",
+  "text": "And everything changed.",
+  "scene": "{CAT} with a golden glow around it, Egyptians kneeling in the background",
+  "start": 512.116,
+  "end": 513.946
+ },
+ {
+  "n": 235,
+  "block": "B08",
+  "text": "Ancient Egypt had a massive problem.",
+  "scene": "{EGYPT} standing next to a huge pile of grain sacks, looking worried",
+  "start": 513.946,
+  "end": 516.7
+ },
+ {
+  "n": 236,
+  "block": "B08",
+  "text": "Its whole civilization ran on grain from the Nile.",
+  "scene": "a busy Nile river with boats carrying grain sacks, green fields on both banks",
+  "start": 516.7,
+  "end": 520.492
+ },
+ {
+  "n": 237,
+  "block": "B08",
+  "text": "Which meant mice.",
+  "scene": "grain sacks with holes chewed through them, mice peeking out",
+  "start": 520.492,
+  "end": 521.969
+ },
+ {
+  "n": 238,
+  "block": "B08",
+  "text": "Rats.",
+  "scene": "a big gray rat on top of a grain sack, chewing",
+  "start": 521.969,
+  "end": 522.963
+ },
+ {
+  "n": 239,
+  "block": "B08",
+  "text": "And snakes coming to eat the mice.",
+  "scene": "a green cobra slithering between grain sacks toward a mouse",
+  "start": 522.963,
+  "end": 525.21
+ },
+ {
+  "n": 240,
+  "block": "B08",
+  "text": "Cats handled all three.",
+  "scene": "{CAT} standing heroically on a grain sack, a mouse, a rat and a snake running away from it",
+  "start": 525.21,
+  "end": 527.093
+ },
+ {
+  "n": 241,
+  "block": "B08",
+  "text": "So the Egyptians didn't just like cats.",
+  "scene": "{EGYPT} petting {CAT} on his lap, smiling",
+  "start": 527.093,
+  "end": 529.853
+ },
+ {
+  "n": 242,
+  "block": "B08",
+  "text": "They worshipped them.",
+  "scene": "a crowd of {EGYPT} people bowing down to {CAT} sitting on a golden throne",
+  "start": 529.853,
+  "end": 531.332
+ },
+ {
+  "n": 243,
+  "block": "B08",
+  "text": "Their goddess Bastet",
+  "scene": "a tall Egyptian goddess with a black cat head and a golden dress, holding a sistrum",
+  "start": 531.332,
+  "end": 532.46
+ },
+ {
+  "n": 244,
+  "block": "B08",
+  "text": "had the head of a cat.",
+  "scene": "close-up of Bastet's black cat head with golden earrings and big round eyes",
+  "start": 532.46,
+  "end": 534.001
+ },
+ {
+  "n": 245,
+  "block": "B08",
+  "text": "Her temple city, Bubastis,",
+  "scene": "an ancient Egyptian temple with columns and cat statues lining the entrance",
+  "start": 534.001,
+  "end": 536.025
+ },
+ {
+  "n": 246,
+  "block": "B08",
+  "text": "held festivals that drew huge crowds.",
+  "scene": "crowds of Egyptians on boats sailing toward the temple, playing music and dancing",
+  "start": 536.025,
+  "end": 539.11
+ },
+ {
+  "n": 247,
+  "block": "B08",
+  "text": "And killing a cat in Egypt,",
+  "scene": "{EGYPT} gasping in horror, hands on his cheeks",
+  "start": 539.11,
+  "end": 540.817
+ },
+ {
+  "n": 248,
+  "block": "B08",
+  "text": "even by accident,",
+  "scene": "a chariot wheel near a startled cat, the driver looking terrified",
+  "start": 540.817,
+  "end": 541.974
+ },
+ {
+  "n": 249,
+  "block": "B08",
+  "text": "could get you killed.",
+  "scene": "an angry crowd of {EGYPT} people with torches and sticks",
+  "start": 541.974,
+  "end": 543.671
+ },
+ {
+  "n": 250,
+  "block": "B08",
+  "text": "A Greek historian named Diodorus",
+  "scene": "an old Greek man with a white beard and a scroll, writing",
+  "start": 543.671,
+  "end": 545.744
+ },
+ {
+  "n": 251,
+  "block": "B08",
+  "text": "wrote that he personally witnessed it.",
+  "scene": "Diodorus watching from a distance with a shocked face",
+  "start": 545.744,
+  "end": 548.483
+ },
+ {
+  "n": 252,
+  "block": "B08",
+  "text": "A Roman visitor accidentally killed a cat,",
+  "scene": "a Roman man in a red toga looking down at a cat with an \"oops\" expression",
+  "start": 548.483,
+  "end": 551.442
+ },
+ {
+  "n": 253,
+  "block": "B08",
+  "text": "and an angry mob killed him for it,",
+  "scene": "the Roman man running away from an angry crowd of Egyptians",
+  "start": 551.442,
+  "end": 553.951
+ },
+ {
+  "n": 254,
+  "block": "B08",
+  "text": "even though Egypt's own king",
+  "scene": "a nervous pharaoh on a throne, sweating",
+  "start": 553.951,
+  "end": 556.01
+ },
+ {
+  "n": 255,
+  "block": "B08",
+  "text": "was desperate to keep Rome happy.",
+  "scene": "the pharaoh trying to calm the crowd with his hands raised, a Roman eagle flag in the background",
+  "start": 556.01,
+  "end": 558.711
+ },
+ {
+  "n": 256,
+  "block": "B08",
+  "text": "There's even a famous legend",
+  "scene": "an old scroll unrolling with Egyptian drawings on it",
+  "start": 558.711,
+  "end": 560.626
+ },
+ {
+  "n": 257,
+  "block": "B08",
+  "text": "about a battle at a place called Pelusium,",
+  "scene": "a desert battlefield with Egyptian soldiers on one side and Persian soldiers on the other",
+  "start": 560.626,
+  "end": 563.38
+ },
+ {
+  "n": 258,
+  "block": "B08",
+  "text": "where the Persian army supposedly carried cats in front of them,",
+  "scene": "Persian soldiers marching forward holding cats up in front of their shields like a wall",
+  "start": 563.38,
+  "end": 567.451
+ },
+ {
+  "n": 259,
+  "block": "B08",
+  "text": "or painted cats on their shields.",
+  "scene": "a Persian shield with a big cartoon cat face painted on it",
+  "start": 567.451,
+  "end": 569.986
+ },
+ {
+  "n": 260,
+  "block": "B08",
+  "text": "And the Egyptian soldiers,",
+  "scene": "Egyptian soldiers holding bows, frozen in place",
+  "start": 569.986,
+  "end": 571.973
+ },
+ {
+  "n": 261,
+  "block": "B08",
+  "text": "terrified of harming a sacred animal,",
+  "scene": "an Egyptian soldier lowering his bow, sweating and staring at a cat",
+  "start": 571.973,
+  "end": 574.688
+ },
+ {
+  "n": 262,
+  "block": "B08",
+  "text": "supposedly refused to fight back.",
+  "scene": "Egyptian soldiers throwing their weapons down and running away, a smug cat on a Persian shield",
+  "start": 574.688,
+  "end": 577.459
+ },
+ {
+  "n": 263,
+  "block": "B08",
+  "text": "Historians think that story is probably exaggerated.",
+  "scene": "a historian with glasses holding a big stamp that says \"PROBABLY EXAGGERATED\"",
+  "start": 577.459,
+  "end": 581.459
+ },
+ {
+  "n": 264,
+  "block": "B08",
+  "text": "But the fact that people believed it",
+  "scene": "a crowd of ancient people listening to a storyteller by a fire",
+  "start": 581.459,
+  "end": 583.686
+ },
+ {
+  "n": 265,
+  "block": "B08",
+  "text": "tells you how seriously Egypt took its cats.",
+  "scene": "{EGYPT} bowing deeply in front of a sleeping house cat on a cushion",
+  "start": 583.686,
+  "end": 586.68
+ },
+ {
+  "n": 266,
+  "block": "B08",
+  "text": "And when a family cat died,",
+  "scene": "{EGYPT} family standing around a small cat lying on a pillow, sad faces",
+  "start": 586.68,
+  "end": 588.401
+ },
+ {
+  "n": 267,
+  "block": "B08",
+  "text": "the Greek historian Herodotus wrote",
+  "scene": "an old Greek man with a scroll and a quill pen",
+  "start": 588.401,
+  "end": 590.566
+ },
+ {
+  "n": 268,
+  "block": "B08",
+  "text": "that the whole household",
+  "scene": "an Egyptian family of four standing in a row, crying",
+  "start": 590.566,
+  "end": 592.12
+ },
+ {
+  "n": 269,
+  "block": "B08",
+  "text": "would shave off their eyebrows in mourning.",
+  "scene": "{EGYPT} shaving his eyebrows with a bronze razor in front of a mirror, tears in his eyes",
+  "start": 592.12,
+  "end": 595.05
+ },
+ {
+  "n": 270,
+  "block": "B08",
+  "text": "Their eyebrows.",
+  "scene": "close-up of {EGYPT}'s face with no eyebrows, looking extremely sad and slightly ridiculous",
+  "start": 595.05,
+  "end": 596.448
+ },
+ {
+  "n": 271,
+  "block": "B08",
+  "text": "Imagine walking into work and everyone just knows",
+  "scene": "an Egyptian office with scribes at desks, all turning to look at a man without eyebrows",
+  "start": 596.448,
+  "end": 599.778
+ },
+ {
+  "n": 272,
+  "block": "B08",
+  "text": "your cat died.",
+  "scene": "the scribes whispering to each other while the eyebrowless man walks past",
+  "start": 599.778,
+  "end": 601.229
+ },
+ {
+  "n": 273,
+  "block": "B08",
+  "text": "Rich Egyptian families decorated their cats with jewelry.",
+  "scene": "{EGYPT} putting a golden collar on a cat sitting on a cushion",
+  "start": 601.229,
+  "end": 605.457
+ },
+ {
+  "n": 274,
+  "block": "B08",
+  "text": "Gold earrings,",
+  "scene": "close-up of a cat's ear with a shiny gold earring",
+  "start": 605.457,
+  "end": 606.465
+ },
+ {
+  "n": 275,
+  "block": "B08",
+  "text": "beaded collars,",
+  "scene": "a cat wearing a colorful beaded collar, looking fancy",
+  "start": 606.465,
+  "end": 607.528
+ },
+ {
+  "n": 276,
+  "block": "B08",
+  "text": "and cat statues in their homes.",
+  "scene": "an Egyptian home with a bronze cat statue on a shelf",
+  "start": 607.528,
+  "end": 609.808
+ },
+ {
+  "n": 277,
+  "block": "B08",
+  "text": "And then there were the mummies.",
+  "scene": "a dark Egyptian tomb with torchlight, rows of small wrapped bundles on shelves",
+  "start": 609.808,
+  "end": 611.706
+ },
+ {
+  "n": 278,
+  "block": "B08",
+  "text": "Egyptians mummified cats.",
+  "scene": "a small cat mummy wrapped in linen with a painted cat face",
+  "start": 611.706,
+  "end": 613.967
+ },
+ {
+  "n": 279,
+  "block": "B08",
+  "text": "Not a few.",
+  "scene": "a shelf with five cat mummies",
+  "start": 613.967,
+  "end": 615.264
+ },
+ {
+  "n": 280,
+  "block": "B08",
+  "text": "Millions.",
+  "scene": "an enormous underground hall stacked floor to ceiling with countless cat mummies",
+  "start": 615.264,
+  "end": 616.411
+ },
+ {
+  "n": 281,
+  "block": "B08",
+  "text": "Entire cemeteries were packed with them.",
+  "scene": "{SCI} with a torch in a huge tunnel full of cat mummies, mouth open",
+  "start": 616.411,
+  "end": 619.091
+ },
+ {
+  "n": 282,
+  "block": "B08",
+  "text": "But here's the dark twist.",
+  "scene": "the tomb turning red, a dramatic shadow falling across the mummies",
+  "start": 619.091,
+  "end": 621.023
+ },
+ {
+  "n": 283,
+  "block": "B08",
+  "text": "Many of those mummies were kittens,",
+  "scene": "an x-ray image of a cat mummy showing a tiny kitten skeleton inside",
+  "start": 621.023,
+  "end": 623.447
+ },
+ {
+  "n": 284,
+  "block": "B08",
+  "text": "bred by temples specifically to be sacrificed",
+  "scene": "an Egyptian temple yard full of cages of kittens, a priest with a clipboard",
+  "start": 623.447,
+  "end": 626.493
+ },
+ {
+  "n": 285,
+  "block": "B08",
+  "text": "and sold to pilgrims as offerings to the goddess.",
+  "scene": "a pilgrim buying a cat mummy at a market stall, paying with a coin",
+  "start": 626.493,
+  "end": 630.107
+ },
+ {
+  "n": 286,
+  "block": "B08",
+  "text": "Ancient Egypt basically ran a cat mummy industry.",
+  "scene": "a cartoon factory with a conveyor belt of cat mummies and a smoking chimney",
+  "start": 630.107,
+  "end": 633.666
+ },
+ {
+  "n": 287,
+  "block": "B08",
+  "text": "And it gets worse.",
+  "scene": "{GUY} covering his eyes with his hand",
+  "start": 633.666,
+  "end": 635.163
+ },
+ {
+  "n": 288,
+  "block": "B08",
+  "text": "In the 1800s,",
+  "scene": "a Victorian steamship with smoke coming out of its chimney",
+  "start": 635.163,
+  "end": 636.307
+ },
+ {
+  "n": 289,
+  "block": "B08",
+  "text": "a single shipment carried around nineteen tons of ancient cat mummies",
+  "scene": "a ship deck piled with a huge mountain of cat mummies",
+  "start": 636.307,
+  "end": 641.217
+ },
+ {
+  "n": 290,
+  "block": "B08",
+  "text": "from Egypt to England,",
+  "scene": "the ship arriving at a gray foggy English port",
+  "start": 641.217,
+  "end": 642.966
+ },
+ {
+  "n": 291,
+  "block": "B08",
+  "text": "where they were sold off as fertilizer.",
+  "scene": "a Victorian farmer spreading powdered mummies on a field with a shovel, a cat mummy face in the pile",
+  "start": 642.966,
+  "end": 646.179
+ },
+ {
+  "n": 292,
+  "block": "B08",
+  "text": "Gods for three thousand years.",
+  "scene": "a golden statue of a cat in a temple glowing",
+  "start": 646.179,
+  "end": 648.581
+ },
+ {
+  "n": 293,
+  "block": "B08",
+  "text": "Fertilizer in England.",
+  "scene": "the same cat statue sitting sadly in a muddy English field with cabbages around",
+  "start": 648.581,
+  "end": 650.549
+ },
+ {
+  "n": 294,
+  "block": "B08",
+  "text": "Even cats couldn't escape the British Empire.",
+  "scene": "a British flag waving over a pile of cat mummies, a sad cat ghost floating above",
+  "start": 650.549,
+  "end": 653.903
+ },
+ {
+  "n": 295,
+  "block": "B09",
+  "text": "So how did cats get from Egypt",
+  "scene": "a map of the Mediterranean with a tiny cat sitting on Egypt",
+  "start": 653.903,
+  "end": 655.941
+ },
+ {
+  "n": 296,
+  "block": "B09",
+  "text": "to literally every country on Earth?",
+  "scene": "a world map with cat icons popping up on every continent",
+  "start": 655.941,
+  "end": 658.659
+ },
+ {
+  "n": 297,
+  "block": "B09",
+  "text": "Boats.",
+  "scene": "a wooden sailing ship with a striped sail on blue waves",
+  "start": 658.659,
+  "end": 659.661
+ },
+ {
+  "n": 298,
+  "block": "B09",
+  "text": "Every ship carrying grain",
+  "scene": "the ship's cargo hold full of grain sacks",
+  "start": 659.661,
+  "end": 661.291
+ },
+ {
+  "n": 299,
+  "block": "B09",
+  "text": "also carried mice.",
+  "scene": "mice peeking out of holes in the grain sacks inside the ship",
+  "start": 661.291,
+  "end": 662.848
+ },
+ {
+  "n": 300,
+  "block": "B09",
+  "text": "So every ship needed a cat.",
+  "scene": "{HOUSECAT} wearing a tiny sailor hat standing on a ship's deck",
+  "start": 662.848,
+  "end": 664.872
+ },
+ {
+  "n": 301,
+  "block": "B09",
+  "text": "Greek traders,",
+  "scene": "a Greek ship with a cat sitting on the front",
+  "start": 664.872,
+  "end": 665.931
+ },
+ {
+  "n": 302,
+  "block": "B09",
+  "text": "Phoenician merchants,",
+  "scene": "a purple-sailed Phoenician ship with a cat on top of the mast",
+  "start": 665.931,
+  "end": 667.401
+ },
+ {
+  "n": 303,
+  "block": "B09",
+  "text": "Roman legions,",
+  "scene": "Roman soldiers marching with shields, a cat marching along with them",
+  "start": 667.401,
+  "end": 668.46
+ },
+ {
+  "n": 304,
+  "block": "B09",
+  "text": "and later Viking sailors",
+  "scene": "a Viking longship with a dragon head, Vikings rowing",
+  "start": 668.46,
+  "end": 670.107
+ },
+ {
+  "n": 305,
+  "block": "B09",
+  "text": "all took cats with them.",
+  "scene": "a big Viking with horned helmet holding a small cat gently in his huge hands",
+  "start": 670.107,
+  "end": 672.074
+ },
+ {
+  "n": 306,
+  "block": "B09",
+  "text": "In 2017, scientists analyzed ancient DNA",
+  "scene": "{SCI} looking at glowing DNA strands under a microscope",
+  "start": 672.074,
+  "end": 675.458
+ },
+ {
+  "n": 307,
+  "block": "B09",
+  "text": "from hundreds of cats across nine thousand years.",
+  "scene": "a long row of ancient cat skulls on a lab table with labels",
+  "start": 675.458,
+  "end": 679.854
+ },
+ {
+  "n": 308,
+  "block": "B09",
+  "text": "And they found that cats spread out of the Middle East",
+  "scene": "a map with arrows spreading from the Middle East into Europe",
+  "start": 679.854,
+  "end": 682.7
+ },
+ {
+  "n": 309,
+  "block": "B09",
+  "text": "in two big waves.",
+  "scene": "two big colored arrows across the map, one blue and one orange",
+  "start": 682.7,
+  "end": 684.051
+ },
+ {
+  "n": 310,
+  "block": "B09",
+  "text": "The first with early farmers.",
+  "scene": "farmers walking with sheep and a cat following them along the blue arrow",
+  "start": 684.051,
+  "end": 686.212
+ },
+ {
+  "n": 311,
+  "block": "B09",
+  "text": "The second along ancient sea trade routes",
+  "scene": "ships sailing along the orange arrow across the Mediterranean",
+  "start": 686.212,
+  "end": 688.877
+ },
+ {
+  "n": 312,
+  "block": "B09",
+  "text": "carrying Egyptian cats.",
+  "scene": "an Egyptian cat with a golden collar sitting proudly on a ship",
+  "start": 688.877,
+  "end": 690.796
+ },
+ {
+  "n": 313,
+  "block": "B09",
+  "text": "Viking-age cat bones have even turned up",
+  "scene": "{SCI} digging up a cat bone near a Viking longship wreck",
+  "start": 690.796,
+  "end": 693.471
+ },
+ {
+  "n": 314,
+  "block": "B09",
+  "text": "around the Baltic Sea.",
+  "scene": "a cold gray Baltic sea coast with a small Viking village",
+  "start": 693.471,
+  "end": 695.371
+ },
+ {
+  "n": 315,
+  "block": "B09",
+  "text": "And the story is still being rewritten.",
+  "scene": "{SCI} erasing a timeline on a chalkboard and drawing a new one",
+  "start": 695.371,
+  "end": 697.765
+ },
+ {
+  "n": 316,
+  "block": "B09",
+  "text": "A big genetic study published in 2025",
+  "scene": "{SCI} holding up a thick scientific journal with a cat on the cover",
+  "start": 697.765,
+  "end": 700.472
+ },
+ {
+  "n": 317,
+  "block": "B09",
+  "text": "suggested that true house cats may have reached Europe much later than anyone thought,",
+  "scene": "a map of Europe with a cat icon arriving late, a clock spinning",
+  "start": 700.472,
+  "end": 706.413
+ },
+ {
+  "n": 318,
+  "block": "B09",
+  "text": "possibly only around two thousand years ago,",
+  "scene": "a Roman soldier walking with a cat on a stone road",
+  "start": 706.413,
+  "end": 709.582
+ },
+ {
+  "n": 319,
+  "block": "B09",
+  "text": "which means the Romans may deserve a lot of the credit.",
+  "scene": "a Roman emperor in a laurel crown proudly holding a cat, everyone applauding",
+  "start": 709.582,
+  "end": 713.796
+ },
+ {
+  "n": 320,
+  "block": "B09",
+  "text": "And here's a fun detail.",
+  "scene": "{GUY} with a sparkly smile, finger raised",
+  "start": 713.796,
+  "end": 715.705
+ },
+ {
+  "n": 321,
+  "block": "B09",
+  "text": "The classic blotchy tabby pattern you see on so many cats today",
+  "scene": "close-up of a cat's side with swirly dark blotched tabby stripes",
+  "start": 715.705,
+  "end": 719.85
+ },
+ {
+  "n": 322,
+  "block": "B09",
+  "text": "didn't show up",
+  "scene": "a striped wildcat looking at a blotched tabby cat in surprise",
+  "start": 719.85,
+  "end": 720.964
+ },
+ {
+  "n": 323,
+  "block": "B09",
+  "text": "until the Middle Ages.",
+  "scene": "a medieval castle with a tabby cat sitting on the wall",
+  "start": 720.964,
+  "end": 722.892
+ },
+ {
+  "n": 324,
+  "block": "B09",
+  "text": "Meanwhile, on the other side of the planet,",
+  "scene": "the globe spinning, focusing on East Asia",
+  "start": 722.892,
+  "end": 725.434
+ },
+ {
+  "n": 325,
+  "block": "B09",
+  "text": "something even weirder happened.",
+  "scene": "a misty Chinese landscape with tall mountains and a river",
+  "start": 725.434,
+  "end": 727.7
+ },
+ {
+  "n": 326,
+  "block": "B09",
+  "text": "In an ancient Chinese farming village",
+  "scene": "a small Neolithic Chinese village with thatched huts and millet fields",
+  "start": 727.7,
+  "end": 730.379
+ },
+ {
+  "n": 327,
+  "block": "B09",
+  "text": "about five thousand years ago,",
+  "scene": "a stone with \"5,000\" carved on it in front of the village",
+  "start": 730.379,
+  "end": 732.601
+ },
+ {
+  "n": 328,
+  "block": "B09",
+  "text": "archaeologists found cats that had eaten grain-fed rodents and human scraps.",
+  "scene": "{SCI} holding a cat bone, a thought bubble showing a cat eating a mouse and millet",
+  "start": 732.601,
+  "end": 738.148
+ },
+ {
+  "n": 329,
+  "block": "B09",
+  "text": "But they weren't wildcats from Africa.",
+  "scene": "the African wildcat with a big red X over it",
+  "start": 738.148,
+  "end": 740.731
+ },
+ {
+  "n": 330,
+  "block": "B09",
+  "text": "They were leopard cats.",
+  "scene": "a small spotted leopard cat with big round eyes, sitting in a millet field",
+  "start": 740.731,
+  "end": 742.374
+ },
+ {
+  "n": 331,
+  "block": "B09",
+  "text": "A completely different species.",
+  "scene": "{CAT} and the spotted leopard cat facing each other, a big \"not equal\" sign between them",
+  "start": 742.374,
+  "end": 744.665
+ },
+ {
+  "n": 332,
+  "block": "B09",
+  "text": "Which means cats moved in with humans more than once,",
+  "scene": "a world map with two separate glowing spots, the Middle East and China",
+  "start": 744.665,
+  "end": 747.905
+ },
+ {
+  "n": 333,
+  "block": "B09",
+  "text": "in different parts of the world,",
+  "scene": "two villages far apart, each with a cat sitting by a hut",
+  "start": 747.905,
+  "end": 749.951
+ },
+ {
+  "n": 334,
+  "block": "B09",
+  "text": "independently.",
+  "scene": "a cat and a leopard cat on separate globes, both pointing at themselves",
+  "start": 749.951,
+  "end": 751.294
+ },
+ {
+  "n": 335,
+  "block": "B09",
+  "text": "And then the Chinese leopard cats",
+  "scene": "the spotted leopard cat walking out of the village",
+  "start": 751.294,
+  "end": 753.07
+ },
+ {
+  "n": 336,
+  "block": "B09",
+  "text": "just...",
+  "scene": "the leopard cat glancing back over its shoulder",
+  "start": 753.07,
+  "end": 753.918
+ },
+ {
+  "n": 337,
+  "block": "B09",
+  "text": "left.",
+  "scene": "the leopard cat disappearing into a bamboo forest, only its tail visible",
+  "start": 753.918,
+  "end": 754.92
+ },
+ {
+  "n": 338,
+  "block": "B09",
+  "text": "They went back to the wild,",
+  "scene": "a leopard cat sitting alone on a tree branch in the forest",
+  "start": 754.92,
+  "end": 756.728
+ },
+ {
+  "n": 339,
+  "block": "B09",
+  "text": "and later the African cat lineage arrived and took over.",
+  "scene": "an orange tabby cat stepping off a merchant cart into the Chinese village, villagers waving",
+  "start": 756.728,
+  "end": 760.548
+ },
+ {
+  "n": 340,
+  "block": "B09",
+  "text": "Cats don't just domesticate themselves.",
+  "scene": "{HOUSECAT} sitting on a pedestal with a tiny crown",
+  "start": 760.548,
+  "end": 763.393
+ },
+ {
+  "n": 341,
+  "block": "B09",
+  "text": "Apparently they can un-domesticate themselves too.",
+  "scene": "{HOUSECAT} taking off its collar and walking into the forest with a small bag over its shoulder",
+  "start": 763.393,
+  "end": 767.489
+ },
+ {
+  "n": 342,
+  "block": "B10",
+  "text": "Now, if you think cats had it easy all the way through history,",
+  "scene": "{HOUSECAT} sitting on a sunny windowsill, relaxed",
+  "start": 767.489,
+  "end": 771.221
+ },
+ {
+  "n": 343,
+  "block": "B10",
+  "text": "think again.",
+  "scene": "the sky turning dark and stormy above the windowsill, lightning",
+  "start": 771.221,
+  "end": 772.433
+ },
+ {
+  "n": 344,
+  "block": "B10",
+  "text": "Because in medieval Europe,",
+  "scene": "a dark medieval village with crooked houses and a church tower under a gray sky",
+  "start": 772.433,
+  "end": 774.224
+ },
+ {
+  "n": 345,
+  "block": "B10",
+  "text": "cats went from gods",
+  "scene": "a golden cat statue on a pedestal",
+  "start": 774.224,
+  "end": 775.553
+ },
+ {
+  "n": 346,
+  "block": "B10",
+  "text": "to suspects.",
+  "scene": "the same cat behind wooden prison bars, looking confused",
+  "start": 775.553,
+  "end": 776.797
+ },
+ {
+  "n": 347,
+  "block": "B10",
+  "text": "The same independence that made cats mysterious",
+  "scene": "{HOUSECAT} walking alone at night on a medieval rooftop under a full moon",
+  "start": 776.797,
+  "end": 779.585
+ },
+ {
+  "n": 348,
+  "block": "B10",
+  "text": "started to look...",
+  "scene": "medieval villagers peeking at the cat from behind a wall, whispering",
+  "start": 779.585,
+  "end": 781.108
+ },
+ {
+  "n": 349,
+  "block": "B10",
+  "text": "suspicious.",
+  "scene": "villagers pointing at the cat with frightened faces",
+  "start": 781.108,
+  "end": 782.363
+ },
+ {
+  "n": 350,
+  "block": "B10",
+  "text": "They prowl at night.",
+  "scene": "a black cat silhouette prowling on a rooftop, glowing yellow eyes",
+  "start": 782.363,
+  "end": 783.971
+ },
+ {
+  "n": 351,
+  "block": "B10",
+  "text": "Their eyes glow in the dark.",
+  "scene": "close-up of two glowing yellow eyes in darkness",
+  "start": 783.971,
+  "end": 786.029
+ },
+ {
+  "n": 352,
+  "block": "B10",
+  "text": "They don't obey anyone.",
+  "scene": "a medieval man ordering a black cat to come, the cat sitting still and staring",
+  "start": 786.029,
+  "end": 787.782
+ },
+ {
+  "n": 353,
+  "block": "B10",
+  "text": "And to a frightened medieval mind,",
+  "scene": "a medieval peasant with a thought bubble full of devils and bats",
+  "start": 787.782,
+  "end": 790.126
+ },
+ {
+  "n": 354,
+  "block": "B10",
+  "text": "that sounded a lot like witchcraft.",
+  "scene": "an old woman with a pointed hat stirring a cauldron with a black cat beside her",
+  "start": 790.126,
+  "end": 792.852
+ },
+ {
+  "n": 355,
+  "block": "B10",
+  "text": "In 1233, a document from Pope Gregory the Ninth",
+  "scene": "a medieval pope in white robes and tall hat holding a scroll with a red seal",
+  "start": 792.852,
+  "end": 796.584
+ },
+ {
+  "n": 356,
+  "block": "B10",
+  "text": "described secret rituals",
+  "scene": "a dark candlelit room with hooded figures in a circle",
+  "start": 796.584,
+  "end": 798.634
+ },
+ {
+  "n": 357,
+  "block": "B10",
+  "text": "involving a black cat.",
+  "scene": "a black cat sitting in the middle of the circle of hooded figures, looking confused",
+  "start": 798.634,
+  "end": 800.857
+ },
+ {
+  "n": 358,
+  "block": "B10",
+  "text": "Historians still argue about how much this one document actually mattered.",
+  "scene": "two historians arguing at a table full of old books, pointing at each other",
+  "start": 800.857,
+  "end": 805.966
+ },
+ {
+  "n": 359,
+  "block": "B10",
+  "text": "But over the following centuries,",
+  "scene": "a medieval calendar with pages flying away",
+  "start": 805.966,
+  "end": 807.924
+ },
+ {
+  "n": 360,
+  "block": "B10",
+  "text": "black cats became linked with the devil",
+  "scene": "a black cat with a tiny cartoon devil standing behind it",
+  "start": 807.924,
+  "end": 810.198
+ },
+ {
+  "n": 361,
+  "block": "B10",
+  "text": "and with witches.",
+  "scene": "a witch flying on a broomstick across the moon with a black cat sitting behind her",
+  "start": 810.198,
+  "end": 811.629
+ },
+ {
+  "n": 362,
+  "block": "B10",
+  "text": "And in parts of Europe,",
+  "scene": "a map of medieval Europe with some regions shaded dark",
+  "start": 811.629,
+  "end": 813.057
+ },
+ {
+  "n": 363,
+  "block": "B10",
+  "text": "cats were killed in festivals",
+  "scene": "a medieval town square with a bonfire and a crowd",
+  "start": 813.057,
+  "end": 814.802
+ },
+ {
+  "n": 364,
+  "block": "B10",
+  "text": "just for entertainment.",
+  "scene": "a crowd of medieval villagers cheering, a scared cat hiding under a cart nearby",
+  "start": 814.802,
+  "end": 816.549
+ },
+ {
+  "n": 365,
+  "block": "B10",
+  "text": "There's a popular theory",
+  "scene": "{GUY} holding up a book with a question mark on the cover",
+  "start": 816.549,
+  "end": 818.222
+ },
+ {
+  "n": 366,
+  "block": "B10",
+  "text": "that killing so many cats",
+  "scene": "a medieval street with no cats, only empty alleyways",
+  "start": 818.222,
+  "end": 819.954
+ },
+ {
+  "n": 367,
+  "block": "B10",
+  "text": "let rats multiply",
+  "scene": "dozens of rats running through a medieval street",
+  "start": 819.954,
+  "end": 821.209
+ },
+ {
+  "n": 368,
+  "block": "B10",
+  "text": "and made the Black Death worse.",
+  "scene": "a dark medieval town with a gloomy black cloud over it and rats in the streets",
+  "start": 821.209,
+  "end": 823.62
+ },
+ {
+  "n": 369,
+  "block": "B10",
+  "text": "Historians are skeptical,",
+  "scene": "a historian with glasses raising one eyebrow, arms crossed",
+  "start": 823.62,
+  "end": 825.362
+ },
+ {
+  "n": 370,
+  "block": "B10",
+  "text": "since the plague spread in more ways than just rats.",
+  "scene": "a simple diagram showing a flea, a rat and a sick person connected by arrows",
+  "start": 825.362,
+  "end": 829.046
+ },
+ {
+  "n": 371,
+  "block": "B10",
+  "text": "But it's a reminder of how fast the story can flip.",
+  "scene": "a coin spinning in the air, one side a golden cat statue, the other side a witch's black cat",
+  "start": 829.046,
+  "end": 832.366
+ },
+ {
+  "n": 372,
+  "block": "B10",
+  "text": "For thousands of years, cats were heroes.",
+  "scene": "{CAT} standing heroically with a cape fluttering",
+  "start": 832.366,
+  "end": 835.245
+ },
+ {
+  "n": 373,
+  "block": "B10",
+  "text": "For a few hundred, they were villains.",
+  "scene": "the same cat with a dark shadow and a frightened crowd pointing at it",
+  "start": 835.245,
+  "end": 837.589
+ },
+ {
+  "n": 374,
+  "block": "B10",
+  "text": "And through all of it,",
+  "scene": "{HOUSECAT} sitting calmly in the middle of chaos, flames and crowds around it",
+  "start": 837.589,
+  "end": 839.004
+ },
+ {
+  "n": 375,
+  "block": "B10",
+  "text": "the cats stayed exactly the same.",
+  "scene": "{HOUSECAT} licking its paw, completely unbothered",
+  "start": 839.004,
+  "end": 841.337
+ },
+ {
+  "n": 376,
+  "block": "B10",
+  "text": "Still catching mice.",
+  "scene": "{HOUSECAT} catching a mouse in a medieval barn",
+  "start": 841.337,
+  "end": 843.003
+ },
+ {
+  "n": 377,
+  "block": "B10",
+  "text": "Still ignoring everyone.",
+  "scene": "{HOUSECAT} with its back turned to a shouting medieval crowd",
+  "start": 843.003,
+  "end": 845.53
+ },
+ {
+  "n": 378,
+  "block": "B11",
+  "text": "And that brings us to something you can see in your own home,",
+  "scene": "{GUY} standing in a messy living room pointing at his cat",
+  "start": 845.53,
+  "end": 849.084
+ },
+ {
+  "n": 379,
+  "block": "B11",
+  "text": "every single day.",
+  "scene": "{HOUSECAT} lying in a sunbeam on the floor",
+  "start": 849.084,
+  "end": 850.553
+ },
+ {
+  "n": 380,
+  "block": "B11",
+  "text": "Because almost every weird thing your cat does",
+  "scene": "a collage of a cat in a box, a cat on a laptop and a cat knocking over a glass",
+  "start": 850.553,
+  "end": 853.528
+ },
+ {
+  "n": 381,
+  "block": "B11",
+  "text": "makes perfect sense",
+  "scene": "{SCI} nodding at a checklist with green ticks",
+  "start": 853.528,
+  "end": 854.896
+ },
+ {
+  "n": 382,
+  "block": "B11",
+  "text": "if you remember it's a desert wildcat.",
+  "scene": "a ghostly {CAT} in a desert appearing behind {HOUSECAT}",
+  "start": 854.896,
+  "end": 857.715
+ },
+ {
+  "n": 383,
+  "block": "B11",
+  "text": "Why does your cat love sitting on your warm laptop?",
+  "scene": "{HOUSECAT} lying across a laptop keyboard, eyes closed, {GUY} unable to work",
+  "start": 857.715,
+  "end": 860.987
+ },
+ {
+  "n": 384,
+  "block": "B11",
+  "text": "Because its ancestors came from hot, dry lands",
+  "scene": "{CAT} lying on a sun-baked rock in the desert, heat waves around it",
+  "start": 860.987,
+  "end": 863.873
+ },
+ {
+  "n": 385,
+  "block": "B11",
+  "text": "and cats are comfortable at temperatures that would make you sweat.",
+  "scene": "{GUY} sweating in front of a heater while {HOUSECAT} snuggles right next to it, happy",
+  "start": 863.873,
+  "end": 868.291
+ },
+ {
+  "n": 386,
+  "block": "B11",
+  "text": "Why does your cat hate getting wet?",
+  "scene": "{GUY} holding a soaking wet, furious {HOUSECAT} in a bathtub",
+  "start": 868.291,
+  "end": 870.441
+ },
+ {
+  "n": 387,
+  "block": "B11",
+  "text": "Because there aren't many rivers in the desert,",
+  "scene": "{CAT} standing in a dry desert looking at a tiny puddle suspiciously",
+  "start": 870.441,
+  "end": 873.34
+ },
+ {
+  "n": 388,
+  "block": "B11",
+  "text": "and a cat's fur soaks up water and takes forever to dry.",
+  "scene": "{HOUSECAT} sitting in a towel looking extremely offended, drops falling from its fur",
+  "start": 873.34,
+  "end": 877.07
+ },
+ {
+  "n": 389,
+  "block": "B11",
+  "text": "Why does your cat barely drink water?",
+  "scene": "{HOUSECAT} sniffing a full water bowl and walking away",
+  "start": 877.07,
+  "end": 879.462
+ },
+ {
+  "n": 390,
+  "block": "B11",
+  "text": "Because desert cats got most of their water from their prey.",
+  "scene": "{CAT} eating a mouse in the desert, a tiny water drop icon above the mouse",
+  "start": 879.462,
+  "end": 883.266
+ },
+ {
+  "n": 391,
+  "block": "B11",
+  "text": "Why does it go crazy at three in the morning?",
+  "scene": "{HOUSECAT} sprinting down a dark hallway with wild eyes, a clock showing 3:00",
+  "start": 883.266,
+  "end": 886.015
+ },
+ {
+  "n": 392,
+  "block": "B11",
+  "text": "Because wildcats hunt mostly at dusk and at night,",
+  "scene": "{CAT} stalking through moonlit grass",
+  "start": 886.015,
+  "end": 889.457
+ },
+ {
+  "n": 393,
+  "block": "B11",
+  "text": "when mice and rats are most active.",
+  "scene": "mice scurrying under a crescent moon",
+  "start": 889.457,
+  "end": 892.263
+ },
+ {
+  "n": 394,
+  "block": "B11",
+  "text": "Why does it love cardboard boxes?",
+  "scene": "{HOUSECAT} squeezed into a small cardboard box, only its head sticking out",
+  "start": 892.263,
+  "end": 895.026
+ },
+ {
+  "n": 395,
+  "block": "B11",
+  "text": "Because a small hidden space is the perfect place",
+  "scene": "{CAT} hiding in a narrow rock crevice in the desert, eyes peeking out",
+  "start": 895.026,
+  "end": 898.312
+ },
+ {
+  "n": 396,
+  "block": "B11",
+  "text": "to feel safe and ambush prey.",
+  "scene": "{HOUSECAT} leaping out of a box at {GUY}'s feet, {GUY} jumping in fright",
+  "start": 898.312,
+  "end": 900.678
+ },
+ {
+  "n": 397,
+  "block": "B11",
+  "text": "Why does it knock things off your table?",
+  "scene": "{HOUSECAT} tapping a pen toward the edge of a desk with one paw",
+  "start": 900.678,
+  "end": 903.294
+ },
+ {
+  "n": 398,
+  "block": "B11",
+  "text": "One idea is that it's testing objects the same way it tests prey.",
+  "scene": "{HOUSECAT} poking a small mouse-shaped object with its paw, curious",
+  "start": 903.294,
+  "end": 908.063
+ },
+ {
+  "n": 399,
+  "block": "B11",
+  "text": "Does it move? Is it alive?",
+  "scene": "the pen falling off the desk, {HOUSECAT} watching it with huge round eyes",
+  "start": 908.063,
+  "end": 910.175
+ },
+ {
+  "n": 400,
+  "block": "B11",
+  "text": "Can I eat it?",
+  "scene": "{HOUSECAT} peering over the edge of the desk at the fallen pen, licking its lips",
+  "start": 910.175,
+  "end": 911.544
+ },
+ {
+  "n": 401,
+  "block": "B11",
+  "text": "And why does it bring you dead mice?",
+  "scene": "{HOUSECAT} proudly dropping a dead mouse on {GUY}'s shoe",
+  "start": 911.544,
+  "end": 913.924
+ },
+ {
+  "n": 402,
+  "block": "B11",
+  "text": "Nobody knows for sure.",
+  "scene": "{SCI} shrugging with a question mark above his head",
+  "start": 913.924,
+  "end": 915.701
+ },
+ {
+  "n": 403,
+  "block": "B11",
+  "text": "But one popular theory is a little insulting.",
+  "scene": "{GUY} with a slightly offended face",
+  "start": 915.701,
+  "end": 919.019
+ },
+ {
+  "n": 404,
+  "block": "B11",
+  "text": "Mother cats bring prey to their kittens",
+  "scene": "a mother wildcat bringing a mouse to her kittens in a den",
+  "start": 919.019,
+  "end": 921.203
+ },
+ {
+  "n": 405,
+  "block": "B11",
+  "text": "to teach them how to hunt.",
+  "scene": "kittens pouncing on a mouse clumsily while the mother watches",
+  "start": 921.203,
+  "end": 923.046
+ },
+ {
+  "n": 406,
+  "block": "B11",
+  "text": "So your cat may be looking at you,",
+  "scene": "{HOUSECAT} sitting next to {GUY}, looking at him with pity",
+  "start": 923.046,
+  "end": 925.273
+ },
+ {
+  "n": 407,
+  "block": "B11",
+  "text": "the giant, slow, hairless creature",
+  "scene": "{GUY} on the couch eating chips, crumbs on his shirt",
+  "start": 925.273,
+  "end": 927.5
+ },
+ {
+  "n": 408,
+  "block": "B11",
+  "text": "who has never caught a single mouse in his life,",
+  "scene": "{GUY} trying to catch a mouse with a pot and falling over",
+  "start": 927.5,
+  "end": 930.548
+ },
+ {
+  "n": 409,
+  "block": "B11",
+  "text": "and thinking,",
+  "scene": "{HOUSECAT} with a thought bubble above its head",
+  "start": 930.548,
+  "end": 931.544
+ },
+ {
+  "n": 410,
+  "block": "B11",
+  "text": "\"This poor thing is going to starve without me.\"",
+  "scene": "{HOUSECAT} gently placing a mouse in front of {GUY} like a kind teacher, {GUY} confused",
+  "start": 931.544,
+  "end": 935.492
+ },
+ {
+  "n": 411,
+  "block": "B12",
+  "text": "Now let's talk about what living with us did to cats.",
+  "scene": "{HOUSECAT} lying on a couch next to {GUY}, both looking at the viewer",
+  "start": 935.492,
+  "end": 938.996
+ },
+ {
+  "n": 412,
+  "block": "B12",
+  "text": "Because cats might not have changed much on the outside,",
+  "scene": "{HOUSECAT} looking at itself in a mirror, the reflection looks exactly the same",
+  "start": 938.996,
+  "end": 942.404
+ },
+ {
+  "n": 413,
+  "block": "B12",
+  "text": "but they learned something remarkable.",
+  "scene": "a glowing lightbulb above {HOUSECAT}'s head",
+  "start": 942.404,
+  "end": 945.109
+ },
+ {
+  "n": 414,
+  "block": "B12",
+  "text": "They learned how to talk to us.",
+  "scene": "{HOUSECAT} opening its mouth with a speech bubble, {GUY} leaning in to listen",
+  "start": 945.109,
+  "end": 947.084
+ },
+ {
+  "n": 415,
+  "block": "B12",
+  "text": "Here's a fact that surprises almost everyone.",
+  "scene": "{GUY} with a surprised face and sparkles around him",
+  "start": 947.084,
+  "end": 950.244
+ },
+ {
+  "n": 416,
+  "block": "B12",
+  "text": "Adult cats almost never meow at each other.",
+  "scene": "two adult cats sitting face to face in silence, a big crossed-out speech bubble between them",
+  "start": 950.244,
+  "end": 953.348
+ },
+ {
+  "n": 417,
+  "block": "B12",
+  "text": "Kittens meow at their mothers.",
+  "scene": "a tiny kitten meowing at a big mother cat, a small speech bubble with a musical note",
+  "start": 953.348,
+  "end": 955.405
+ },
+ {
+  "n": 418,
+  "block": "B12",
+  "text": "But adult cats talking to other cats",
+  "scene": "two cats facing each other, one hissing, one with puffed fur",
+  "start": 955.405,
+  "end": 957.865
+ },
+ {
+  "n": 419,
+  "block": "B12",
+  "text": "use hisses, growls, body language, scent.",
+  "scene": "four small panels showing a hiss, a growl, a raised tail and a cat rubbing a fence post",
+  "start": 957.865,
+  "end": 960.952
+ },
+ {
+  "n": 420,
+  "block": "B12",
+  "text": "The meow,",
+  "scene": "a single big speech bubble with the word \"meow\"",
+  "start": 960.952,
+  "end": 961.768
+ },
+ {
+  "n": 421,
+  "block": "B12",
+  "text": "the sound you probably hear every single morning,",
+  "scene": "{GUY} asleep in bed, {HOUSECAT} sitting on his chest meowing into his face",
+  "start": 961.768,
+  "end": 965.092
+ },
+ {
+  "n": 422,
+  "block": "B12",
+  "text": "is something adult cats mostly use with humans.",
+  "scene": "{HOUSECAT} meowing at {GUY}, a big arrow pointing from the cat to the human",
+  "start": 965.092,
+  "end": 968.611
+ },
+ {
+  "n": 423,
+  "block": "B12",
+  "text": "Feral cats that grow up without people",
+  "scene": "a group of scruffy feral cats in an alley, silent",
+  "start": 968.611,
+  "end": 971.142
+ },
+ {
+  "n": 424,
+  "block": "B12",
+  "text": "meow a lot less.",
+  "scene": "the feral cats with tiny quiet speech bubbles with dots",
+  "start": 971.142,
+  "end": 972.667
+ },
+ {
+  "n": 425,
+  "block": "B12",
+  "text": "Cats basically kept a baby sound into adulthood",
+  "scene": "a kitten and an adult cat side by side, both meowing with the same speech bubble",
+  "start": 972.667,
+  "end": 975.739
+ },
+ {
+  "n": 426,
+  "block": "B12",
+  "text": "because it works on us.",
+  "scene": "{GUY} melting into a puddle of love while {HOUSECAT} meows at him",
+  "start": 975.739,
+  "end": 977.685
+ },
+ {
+  "n": 427,
+  "block": "B12",
+  "text": "And then there's the purr.",
+  "scene": "{HOUSECAT} with closed eyes, purring with vibrating lines around it",
+  "start": 977.685,
+  "end": 979.291
+ },
+ {
+  "n": 428,
+  "block": "B12",
+  "text": "In 2009, researchers at the University of Sussex",
+  "scene": "{SCI} in a lab recording a cat with a big microphone",
+  "start": 979.291,
+  "end": 983.015
+ },
+ {
+  "n": 429,
+  "block": "B12",
+  "text": "studied something called the solicitation purr.",
+  "scene": "{SCI} pointing at a sound wave on a computer screen",
+  "start": 983.015,
+  "end": 986.987
+ },
+ {
+  "n": 430,
+  "block": "B12",
+  "text": "That's the special purr cats make",
+  "scene": "{HOUSECAT} sitting next to an empty food bowl, purring",
+  "start": 986.987,
+  "end": 988.775
+ },
+ {
+  "n": 431,
+  "block": "B12",
+  "text": "when they want food.",
+  "scene": "{HOUSECAT} looking at {GUY} with big pleading eyes, the bowl in front of it",
+  "start": 988.775,
+  "end": 990.254
+ },
+ {
+  "n": 432,
+  "block": "B12",
+  "text": "And they found that hidden inside that purr",
+  "scene": "a sound wave diagram with a hidden high-pitched spike highlighted in red",
+  "start": 990.254,
+  "end": 992.912
+ },
+ {
+  "n": 433,
+  "block": "B12",
+  "text": "is a high-pitched cry.",
+  "scene": "a small cartoon kitten crying inside the sound wave",
+  "start": 992.912,
+  "end": 994.702
+ },
+ {
+  "n": 434,
+  "block": "B12",
+  "text": "A frequency surprisingly similar to a human baby's cry.",
+  "scene": "the sound wave next to a crying human baby, with matching red spikes",
+  "start": 994.702,
+  "end": 998.995
+ },
+ {
+  "n": 435,
+  "block": "B12",
+  "text": "People rated these purrs as more urgent",
+  "scene": "{GUY} sitting up straight, alarmed, looking at the cat",
+  "start": 998.995,
+  "end": 1001.451
+ },
+ {
+  "n": 436,
+  "block": "B12",
+  "text": "and less pleasant to hear.",
+  "scene": "{GUY} covering his ears with a tense face while the cat purrs",
+  "start": 1001.451,
+  "end": 1003.485
+ },
+ {
+  "n": 437,
+  "block": "B12",
+  "text": "Your cat may have figured out",
+  "scene": "{HOUSECAT} sitting with its paws together like an evil genius, a little smirk",
+  "start": 1003.485,
+  "end": 1005.136
+ },
+ {
+  "n": 438,
+  "block": "B12",
+  "text": "how to sound a little like a baby",
+  "scene": "{HOUSECAT} with a baby bonnet on its head, eyes huge and innocent",
+  "start": 1005.136,
+  "end": 1006.987
+ },
+ {
+  "n": 439,
+  "block": "B12",
+  "text": "to make you get up and feed it.",
+  "scene": "{GUY} sleepy in pajamas, filling a food bowl at night while {HOUSECAT} watches",
+  "start": 1006.987,
+  "end": 1009.058
+ },
+ {
+  "n": 440,
+  "block": "B12",
+  "text": "It's not just cute.",
+  "scene": "{HOUSECAT} with a sparkly cute face",
+  "start": 1009.058,
+  "end": 1010.628
+ },
+ {
+  "n": 441,
+  "block": "B12",
+  "text": "It's strategy.",
+  "scene": "{HOUSECAT} in front of a chalkboard with a battle plan drawn on it, arrows pointing to a food bowl",
+  "start": 1010.628,
+  "end": 1011.955
+ },
+ {
+  "n": 442,
+  "block": "B12",
+  "text": "And the hacks don't stop there.",
+  "scene": "{HOUSECAT} with a toolbox, pulling out tools labeled with hearts",
+  "start": 1011.955,
+  "end": 1013.838
+ },
+ {
+  "n": 443,
+  "block": "B12",
+  "text": "In 2019, researchers in Japan showed",
+  "scene": "{SCI} in a small apartment with a cat, a Japanese paper lantern hanging behind him",
+  "start": 1013.838,
+  "end": 1016.665
+ },
+ {
+  "n": 444,
+  "block": "B12",
+  "text": "that cats can recognize their own names.",
+  "scene": "{SCI} saying a name, {HOUSECAT}'s ears turning toward him",
+  "start": 1016.665,
+  "end": 1020.094
+ },
+ {
+  "n": 445,
+  "block": "B12",
+  "text": "They just often choose not to respond.",
+  "scene": "{HOUSECAT} with its ears turned toward the man, but its body facing the wall",
+  "start": 1020.094,
+  "end": 1023.004
+ },
+ {
+  "n": 446,
+  "block": "B12",
+  "text": "Which, honestly, explains a lot.",
+  "scene": "{GUY} facepalming",
+  "start": 1023.004,
+  "end": 1025.531
+ },
+ {
+  "n": 447,
+  "block": "B12",
+  "text": "Another study found that the majority of cats",
+  "scene": "a bar chart with cartoon cats standing on top of the bars",
+  "start": 1025.531,
+  "end": 1028.56
+ },
+ {
+  "n": 448,
+  "block": "B12",
+  "text": "form a secure attachment to their owners,",
+  "scene": "{HOUSECAT} running to {GUY} at the door when he comes home",
+  "start": 1028.56,
+  "end": 1031.341
+ },
+ {
+  "n": 449,
+  "block": "B12",
+  "text": "similar to the way babies bond with their parents.",
+  "scene": "a split image, a baby hugging a parent on one side and a cat rubbing against an owner on the other",
+  "start": 1031.341,
+  "end": 1034.998
+ },
+ {
+  "n": 450,
+  "block": "B12",
+  "text": "And there's the slow blink.",
+  "scene": "close-up of {HOUSECAT}'s face with eyes half closed, relaxed",
+  "start": 1034.998,
+  "end": 1036.796
+ },
+ {
+  "n": 451,
+  "block": "B12",
+  "text": "When a cat looks at you",
+  "scene": "{HOUSECAT} looking at {GUY} from across the room",
+  "start": 1036.796,
+  "end": 1038.414
+ },
+ {
+  "n": 452,
+  "block": "B12",
+  "text": "and slowly closes its eyes,",
+  "scene": "{HOUSECAT} slowly closing its eyes with a calm face",
+  "start": 1038.414,
+  "end": 1040.272
+ },
+ {
+  "n": 453,
+  "block": "B12",
+  "text": "researchers found it works like a kind of cat smile.",
+  "scene": "{HOUSECAT} with closed eyes and a tiny smile, small pink hearts floating",
+  "start": 1040.272,
+  "end": 1043.949
+ },
+ {
+  "n": 454,
+  "block": "B12",
+  "text": "And when humans slow-blink back,",
+  "scene": "{GUY} slowly closing his eyes back at the cat, looking silly",
+  "start": 1043.949,
+  "end": 1046.006
+ },
+ {
+  "n": 455,
+  "block": "B12",
+  "text": "cats are more likely to approach them.",
+  "scene": "{HOUSECAT} walking toward {GUY}, rubbing against his leg",
+  "start": 1046.006,
+  "end": 1048.726
+ },
+ {
+  "n": 456,
+  "block": "B12",
+  "text": "Even the head rubs have a hidden meaning.",
+  "scene": "{HOUSECAT} rubbing its cheek against {GUY}'s leg with closed eyes",
+  "start": 1048.726,
+  "end": 1051.247
+ },
+ {
+  "n": 457,
+  "block": "B12",
+  "text": "Cats have scent glands on their cheeks,",
+  "scene": "close-up of a cat's cheek with small glowing dots",
+  "start": 1051.247,
+  "end": 1053.806
+ },
+ {
+  "n": 458,
+  "block": "B12",
+  "text": "so when your cat rubs its face on you,",
+  "scene": "{HOUSECAT} rubbing its face on {GUY}'s hand, {GUY} smiling",
+  "start": 1053.806,
+  "end": 1056.305
+ },
+ {
+  "n": 459,
+  "block": "B12",
+  "text": "it's not only saying \"I love you.\"",
+  "scene": "a pink heart above the cat",
+  "start": 1056.305,
+  "end": 1058.886
+ },
+ {
+  "n": 460,
+  "block": "B12",
+  "text": "It's also saying \"this human is mine.\"",
+  "scene": "{HOUSECAT} sticking a little flag with a paw print onto {GUY}'s head",
+  "start": 1058.886,
+  "end": 1061.627
+ },
+ {
+  "n": 461,
+  "block": "B12",
+  "text": "And many cat owners notice",
+  "scene": "{GUY} on the phone, talking excitedly about his cat",
+  "start": 1061.627,
+  "end": 1063.606
+ },
+ {
+  "n": 462,
+  "block": "B12",
+  "text": "that their cat has its own personal set of meows,",
+  "scene": "{HOUSECAT} with several different speech bubbles, each with a different musical note",
+  "start": 1063.606,
+  "end": 1067.102
+ },
+ {
+  "n": 463,
+  "block": "B12",
+  "text": "one for food, one for the door, one for \"pay attention to me.\"",
+  "scene": "three panels, the cat meowing at a food bowl, at a closed door, and at {GUY} on his laptop",
+  "start": 1067.102,
+  "end": 1071.776
+ },
+ {
+  "n": 464,
+  "block": "B12",
+  "text": "Studies suggest people are usually much better at understanding their own cat's meows",
+  "scene": "{GUY} understanding his cat perfectly, a translation bubble showing a fish",
+  "start": 1071.776,
+  "end": 1077.682
+ },
+ {
+  "n": 465,
+  "block": "B12",
+  "text": "than a stranger's.",
+  "scene": "a stranger scratching his head at the same cat's meow, completely confused",
+  "start": 1077.682,
+  "end": 1079.462
+ },
+ {
+  "n": 466,
+  "block": "B12",
+  "text": "Every cat and its human slowly build a private little language.",
+  "scene": "{GUY} and {HOUSECAT} sitting face to face, speech bubbles with hearts and fish going back and forth",
+  "start": 1079.462,
+  "end": 1083.873
+ },
+ {
+  "n": 467,
+  "block": "B12",
+  "text": "You thought you trained your cat.",
+  "scene": "{GUY} holding a treat proudly, a cat sitting in front of him",
+  "start": 1083.873,
+  "end": 1085.817
+ },
+ {
+  "n": 468,
+  "block": "B12",
+  "text": "But your cat spent ten thousand years",
+  "scene": "a long timeline with cat icons getting smarter from left to right",
+  "start": 1085.817,
+  "end": 1088.156
+ },
+ {
+  "n": 469,
+  "block": "B12",
+  "text": "learning exactly which buttons to push.",
+  "scene": "{HOUSECAT} pressing big buttons on a control panel shaped like a human brain",
+  "start": 1088.156,
+  "end": 1091.51
+ },
+ {
+  "n": 470,
+  "block": "B13",
+  "text": "For most of history,",
+  "scene": "a long scroll unrolling across the screen with tiny pictures of farms and ships",
+  "start": 1091.51,
+  "end": 1092.845
+ },
+ {
+  "n": 471,
+  "block": "B13",
+  "text": "cats were employees.",
+  "scene": "{HOUSECAT} wearing a tiny work badge, standing next to a barn",
+  "start": 1092.845,
+  "end": 1094.5
+ },
+ {
+  "n": 472,
+  "block": "B13",
+  "text": "Their job was mice.",
+  "scene": "{HOUSECAT} punching a time clock with its paw, then chasing a mouse",
+  "start": 1094.5,
+  "end": 1096.316
+ },
+ {
+  "n": 473,
+  "block": "B13",
+  "text": "They lived in barns,",
+  "scene": "{HOUSECAT} sleeping on a pile of hay in a wooden barn",
+  "start": 1096.316,
+  "end": 1097.696
+ },
+ {
+  "n": 474,
+  "block": "B13",
+  "text": "on ships,",
+  "scene": "{HOUSECAT} sitting on a coil of rope on a ship's deck",
+  "start": 1097.696,
+  "end": 1098.444
+ },
+ {
+  "n": 475,
+  "block": "B13",
+  "text": "in warehouses,",
+  "scene": "{HOUSECAT} sitting on top of wooden crates in a big warehouse",
+  "start": 1098.444,
+  "end": 1099.48
+ },
+ {
+  "n": 476,
+  "block": "B13",
+  "text": "and in post offices.",
+  "scene": "{HOUSECAT} sitting on a pile of letters in a Victorian post office",
+  "start": 1099.48,
+  "end": 1101.18
+ },
+ {
+  "n": 477,
+  "block": "B13",
+  "text": "The British post office actually kept official cats on the payroll",
+  "scene": "a Victorian postmaster writing a cat's name in a big payroll book",
+  "start": 1101.18,
+  "end": 1105.464
+ },
+ {
+  "n": 478,
+  "block": "B13",
+  "text": "to protect the mail from mice.",
+  "scene": "{HOUSECAT} guarding a sack of letters, a mouse running away",
+  "start": 1105.464,
+  "end": 1107.865
+ },
+ {
+  "n": 479,
+  "block": "B13",
+  "text": "Some ship cats even became war heroes.",
+  "scene": "a black and white ship cat wearing a tiny medal, standing on a navy warship",
+  "start": 1107.865,
+  "end": 1111.004
+ },
+ {
+  "n": 480,
+  "block": "B13",
+  "text": "In 1949, a cat named Simon",
+  "scene": "a black and white cat with a scar on its face sitting on a gray British warship",
+  "start": 1111.004,
+  "end": 1112.983
+ },
+ {
+  "n": 481,
+  "block": "B13",
+  "text": "was injured when his British warship came under fire,",
+  "scene": "the warship with smoke and small explosions, the cat hiding behind a rope coil",
+  "start": 1112.983,
+  "end": 1116.745
+ },
+ {
+  "n": 482,
+  "block": "B13",
+  "text": "and he still kept hunting the rats",
+  "scene": "the bandaged cat chasing a big rat along the ship's deck",
+  "start": 1116.745,
+  "end": 1119.252
+ },
+ {
+  "n": 483,
+  "block": "B13",
+  "text": "that were eating the crew's food.",
+  "scene": "sailors cheering for the cat, a rescued sack of food behind them",
+  "start": 1119.252,
+  "end": 1122.014
+ },
+ {
+  "n": 484,
+  "block": "B13",
+  "text": "He was later awarded a medal for bravery.",
+  "scene": "the cat receiving a bronze medal on a ribbon from a navy officer, sailors saluting",
+  "start": 1122.014,
+  "end": 1124.938
+ },
+ {
+  "n": 485,
+  "block": "B13",
+  "text": "Then, in 1871,",
+  "scene": "a big Victorian glass building, the Crystal Palace, under a blue sky",
+  "start": 1124.938,
+  "end": 1126.203
+ },
+ {
+  "n": 486,
+  "block": "B13",
+  "text": "something new happened in London.",
+  "scene": "a crowd of Victorian people in top hats and long dresses walking into the glass building",
+  "start": 1126.203,
+  "end": 1129.125
+ },
+ {
+  "n": 487,
+  "block": "B13",
+  "text": "The world's first big cat show.",
+  "scene": "rows of cats in cages with ribbons, Victorian judges inspecting them through monocles",
+  "start": 1129.125,
+  "end": 1131.34
+ },
+ {
+  "n": 488,
+  "block": "B13",
+  "text": "Suddenly people weren't asking",
+  "scene": "a Victorian man in a top hat looking at a cat with a thinking face",
+  "start": 1131.34,
+  "end": 1133.203
+ },
+ {
+  "n": 489,
+  "block": "B13",
+  "text": "\"Is this cat good at catching mice?\"",
+  "scene": "a thought bubble with a cat catching a mouse, crossed out",
+  "start": 1133.203,
+  "end": 1135.714
+ },
+ {
+  "n": 490,
+  "block": "B13",
+  "text": "They were asking,",
+  "scene": "the same Victorian man with a monocle, leaning closer",
+  "start": 1135.714,
+  "end": 1136.815
+ },
+ {
+  "n": 491,
+  "block": "B13",
+  "text": "\"Is this cat beautiful?\"",
+  "scene": "a fluffy white Persian cat sitting on a velvet cushion with a blue ribbon",
+  "start": 1136.815,
+  "end": 1138.603
+ },
+ {
+  "n": 492,
+  "block": "B13",
+  "text": "And that's when cat breeds really took off.",
+  "scene": "a family tree branching out with many different cat breeds at the ends",
+  "start": 1138.603,
+  "end": 1141.304
+ },
+ {
+  "n": 493,
+  "block": "B13",
+  "text": "Most of the breeds you know today",
+  "scene": "a lineup of a Siamese, a Persian, a Maine Coon and a Scottish Fold",
+  "start": 1141.304,
+  "end": 1143.413
+ },
+ {
+  "n": 494,
+  "block": "B13",
+  "text": "are less than about a hundred and fifty years old.",
+  "scene": "a stone with \"150\" carved on it next to the lineup",
+  "start": 1143.413,
+  "end": 1146.81
+ },
+ {
+  "n": 495,
+  "block": "B13",
+  "text": "For ten thousand years, a cat was just a cat.",
+  "scene": "{CAT} sitting next to a hut, simple and plain",
+  "start": 1146.81,
+  "end": 1150.124
+ },
+ {
+  "n": 496,
+  "block": "B13",
+  "text": "Then Victorians showed up",
+  "scene": "a Victorian lady in a big hat with a tiny pampered cat on a pillow",
+  "start": 1150.124,
+  "end": 1151.629
+ },
+ {
+  "n": 497,
+  "block": "B13",
+  "text": "and turned it into a fashion show.",
+  "scene": "cats walking on a runway with spotlights and photographers taking pictures",
+  "start": 1151.629,
+  "end": 1153.921
+ },
+ {
+  "n": 498,
+  "block": "B13",
+  "text": "And today?",
+  "scene": "modern city skyline with a giant cat silhouette above it",
+  "start": 1153.921,
+  "end": 1155.099
+ },
+ {
+  "n": 499,
+  "block": "B13",
+  "text": "Cats have completely taken over.",
+  "scene": "{HOUSECAT} sitting on top of the Earth like a throne",
+  "start": 1155.099,
+  "end": 1157.462
+ },
+ {
+  "n": 500,
+  "block": "B13",
+  "text": "In 1963, France even sent a cat into space.",
+  "scene": "a small rocket blasting off into a dark blue sky full of stars",
+  "start": 1157.462,
+  "end": 1162.01
+ },
+ {
+  "n": 501,
+  "block": "B13",
+  "text": "Her name was Félicette.",
+  "scene": "a black and white cat in a tiny space helmet, looking calm",
+  "start": 1162.01,
+  "end": 1163.836
+ },
+ {
+  "n": 502,
+  "block": "B13",
+  "text": "She flew past the edge of space",
+  "scene": "the cat floating in a little capsule above the curve of the Earth",
+  "start": 1163.836,
+  "end": 1165.871
+ },
+ {
+  "n": 503,
+  "block": "B13",
+  "text": "and came back alive.",
+  "scene": "a parachute bringing a capsule down to the ground, the cat stepping out unbothered",
+  "start": 1165.871,
+  "end": 1167.587
+ },
+ {
+  "n": 504,
+  "block": "B13",
+  "text": "From a desert rock to outer space",
+  "scene": "a split image, {CAT} on a desert rock on the left, Félicette in space on the right",
+  "start": 1167.587,
+  "end": 1169.66
+ },
+ {
+  "n": 505,
+  "block": "B13",
+  "text": "in ten thousand years.",
+  "scene": "a long timeline arrow between the two images",
+  "start": 1169.66,
+  "end": 1171.436
+ },
+ {
+  "n": 506,
+  "block": "B13",
+  "text": "In Japan, there are cat cafés where people pay",
+  "scene": "a cozy Japanese café full of cats on shelves and cushions, customers sipping coffee",
+  "start": 1171.436,
+  "end": 1174.462
+ },
+ {
+  "n": 507,
+  "block": "B13",
+  "text": "just to sit in a room full of cats that ignore them.",
+  "scene": "a customer reaching out to pet a cat, all the cats turning their backs",
+  "start": 1174.462,
+  "end": 1178.17
+ },
+ {
+  "n": 508,
+  "block": "B13",
+  "text": "There are even islands",
+  "scene": "a small island in a blue sea with fishing boats",
+  "start": 1178.17,
+  "end": 1179.565
+ },
+ {
+  "n": 509,
+  "block": "B13",
+  "text": "where cats outnumber the people.",
+  "scene": "an island village with dozens of cats on every roof and only one old fisherman",
+  "start": 1179.565,
+  "end": 1181.815
+ },
+ {
+  "n": 510,
+  "block": "B13",
+  "text": "There are hundreds of millions of pet cats in the world.",
+  "scene": "a world map completely covered with tiny cat faces",
+  "start": 1181.815,
+  "end": 1185.331
+ },
+ {
+  "n": 511,
+  "block": "B13",
+  "text": "They live in our apartments.",
+  "scene": "{HOUSECAT} sitting on a windowsill of a tall apartment building",
+  "start": 1185.331,
+  "end": 1187.467
+ },
+ {
+  "n": 512,
+  "block": "B13",
+  "text": "They sleep on our pillows.",
+  "scene": "{GUY} squeezed into the edge of the bed while {HOUSECAT} sleeps on the whole pillow",
+  "start": 1187.467,
+  "end": 1189.37
+ },
+ {
+  "n": 513,
+  "block": "B13",
+  "text": "They sit on our keyboards in the middle of important meetings.",
+  "scene": "{GUY} in a video call, {HOUSECAT} lying across his laptop keyboard, typing gibberish",
+  "start": 1189.37,
+  "end": 1193.503
+ },
+ {
+  "n": 514,
+  "block": "B13",
+  "text": "They basically built the internet.",
+  "scene": "a giant computer screen full of cat photos and cat videos",
+  "start": 1193.503,
+  "end": 1195.644
+ },
+ {
+  "n": 515,
+  "block": "B13",
+  "text": "There is a cat in the United Kingdom",
+  "scene": "{HOUSECAT} sitting in front of a black door with a number 10 on it",
+  "start": 1195.644,
+  "end": 1198.061
+ },
+ {
+  "n": 516,
+  "block": "B13",
+  "text": "with the official government title",
+  "scene": "a fancy official certificate with a red wax seal and a cat paw print",
+  "start": 1198.061,
+  "end": 1200.356
+ },
+ {
+  "n": 517,
+  "block": "B13",
+  "text": "\"Chief Mouser to the Cabinet Office.\"",
+  "scene": "the tabby cat wearing a tiny official badge, standing proudly at the black door",
+  "start": 1200.356,
+  "end": 1203.153
+ },
+ {
+  "n": 518,
+  "block": "B13",
+  "text": "His name is Larry.",
+  "scene": "a brown and white tabby cat sitting on the steps of the black door, looking unimpressed",
+  "start": 1203.153,
+  "end": 1204.811
+ },
+ {
+  "n": 519,
+  "block": "B13",
+  "text": "He has outlasted several prime ministers.",
+  "scene": "a line of men in suits walking away out of the door with boxes, the cat still sitting there",
+  "start": 1204.811,
+  "end": 1207.805
+ },
+ {
+  "n": 520,
+  "block": "B13",
+  "text": "In Japan, a cat named Tama",
+  "scene": "a white calico cat with orange and black patches wearing a tiny station master hat",
+  "start": 1207.805,
+  "end": 1209.683
+ },
+ {
+  "n": 521,
+  "block": "B13",
+  "text": "was made the official station master",
+  "scene": "Tama sitting at a small rural train station, a little red train arriving",
+  "start": 1209.683,
+  "end": 1212.187
+ },
+ {
+  "n": 522,
+  "block": "B13",
+  "text": "of a struggling little train station,",
+  "scene": "an empty rural Japanese train platform with a sad station sign",
+  "start": 1212.187,
+  "end": 1214.754
+ },
+ {
+  "n": 523,
+  "block": "B13",
+  "text": "and so many tourists came to see her",
+  "scene": "crowds of tourists with cameras filling the platform, all smiling at the cat",
+  "start": 1214.754,
+  "end": 1217.257
+ },
+ {
+  "n": 524,
+  "block": "B13",
+  "text": "that she's widely credited with helping save the train line.",
+  "scene": "the little red train full of happy passengers, Tama waving a tiny paw",
+  "start": 1217.257,
+  "end": 1221.584
+ },
+ {
+  "n": 525,
+  "block": "B13",
+  "text": "The descendants of a desert hunter",
+  "scene": "{CAT} in the desert on one side, {HOUSECAT} on a velvet sofa on the other",
+  "start": 1221.584,
+  "end": 1223.939
+ },
+ {
+  "n": 526,
+  "block": "B13",
+  "text": "that once stole mice from a mud-brick granary",
+  "scene": "{CAT} in the dark granary with a mouse in its mouth",
+  "start": 1223.939,
+  "end": 1226.977
+ },
+ {
+  "n": 527,
+  "block": "B13",
+  "text": "now have job titles,",
+  "scene": "{HOUSECAT} sitting behind a little office desk with a nameplate",
+  "start": 1226.977,
+  "end": 1228.464
+ },
+ {
+  "n": 528,
+  "block": "B13",
+  "text": "fan clubs,",
+  "scene": "crowds of fans holding up signs with a cat's face on them",
+  "start": 1228.464,
+  "end": 1229.332
+ },
+ {
+  "n": 529,
+  "block": "B13",
+  "text": "and their own birthday cakes.",
+  "scene": "{HOUSECAT} in a party hat in front of a fish-shaped birthday cake with a candle",
+  "start": 1229.332,
+  "end": 1231.698
+ },
+ {
+  "n": 530,
+  "block": "B13",
+  "text": "And somewhere in the world right now,",
+  "scene": "the Earth at night with tiny lights in the windows of houses",
+  "start": 1231.698,
+  "end": 1234.324
+ },
+ {
+  "n": 531,
+  "block": "B13",
+  "text": "a grown adult is spending a ridiculous amount of money",
+  "scene": "{GUY} at a pet store checkout with a huge cart full of cat toys and a long receipt",
+  "start": 1234.324,
+  "end": 1238.04
+ },
+ {
+  "n": 532,
+  "block": "B13",
+  "text": "on a giant cat tower",
+  "scene": "{GUY} building a huge, tall carpeted cat tower in his apartment",
+  "start": 1238.04,
+  "end": 1239.577
+ },
+ {
+  "n": 533,
+  "block": "B13",
+  "text": "only for the cat to sit in the cardboard box it came in.",
+  "scene": "{HOUSECAT} happily sitting in an empty cardboard box, ignoring the giant cat tower behind it",
+  "start": 1239.577,
+  "end": 1244.321
+ },
+ {
+  "n": 534,
+  "block": "B14",
+  "text": "But here's the part I really want to leave you with.",
+  "scene": "{GUY} sitting on a chair, facing the viewer, calm and serious",
+  "start": 1244.321,
+  "end": 1247.647
+ },
+ {
+  "n": 535,
+  "block": "B14",
+  "text": "Because the more you look at this story,",
+  "scene": "a magnifying glass moving across a long timeline",
+  "start": 1247.647,
+  "end": 1249.957
+ },
+ {
+  "n": 536,
+  "block": "B14",
+  "text": "the stranger it gets.",
+  "scene": "the timeline twisting into a spiral",
+  "start": 1249.957,
+  "end": 1251.589
+ },
+ {
+  "n": 537,
+  "block": "B14",
+  "text": "In almost every other case of domestication,",
+  "scene": "a farm with cows, sheep, horses and goats inside fences",
+  "start": 1251.589,
+  "end": 1254.601
+ },
+ {
+  "n": 538,
+  "block": "B14",
+  "text": "humans were clearly in charge.",
+  "scene": "{CAVE} holding a rope tied to a cow, pulling it, a little crown on his head",
+  "start": 1254.601,
+  "end": 1257.055
+ },
+ {
+  "n": 539,
+  "block": "B14",
+  "text": "We captured animals.",
+  "scene": "{CAVE} throwing a net over a wild goat",
+  "start": 1257.055,
+  "end": 1258.846
+ },
+ {
+  "n": 540,
+  "block": "B14",
+  "text": "We fenced them in.",
+  "scene": "sheep behind a wooden fence looking bored",
+  "start": 1258.846,
+  "end": 1260.317
+ },
+ {
+  "n": 541,
+  "block": "B14",
+  "text": "We bred them for meat,",
+  "scene": "a cow standing in a field",
+  "start": 1260.317,
+  "end": 1261.573
+ },
+ {
+  "n": 542,
+  "block": "B14",
+  "text": "milk,",
+  "scene": "a goat being milked into a clay bowl",
+  "start": 1261.573,
+  "end": 1262.008
+ },
+ {
+  "n": 543,
+  "block": "B14",
+  "text": "wool,",
+  "scene": "a sheep being sheared, wool flying",
+  "start": 1262.008,
+  "end": 1262.443
+ },
+ {
+  "n": 544,
+  "block": "B14",
+  "text": "and work.",
+  "scene": "a horse pulling a wooden plow across a field",
+  "start": 1262.443,
+  "end": 1263.391
+ },
+ {
+  "n": 545,
+  "block": "B14",
+  "text": "But cats?",
+  "scene": "{HOUSECAT} sitting alone in the middle of the farm, outside of every fence",
+  "start": 1263.391,
+  "end": 1264.605
+ },
+ {
+  "n": 546,
+  "block": "B14",
+  "text": "We never fenced them in.",
+  "scene": "{HOUSECAT} jumping easily over a tall wooden fence",
+  "start": 1264.605,
+  "end": 1266.334
+ },
+ {
+  "n": 547,
+  "block": "B14",
+  "text": "We never really needed them for meat or milk.",
+  "scene": "a crossed-out milk bottle and a crossed-out piece of meat next to the cat",
+  "start": 1266.334,
+  "end": 1269.319
+ },
+ {
+  "n": 548,
+  "block": "B14",
+  "text": "And for most of history, we didn't even control who they had kittens with.",
+  "scene": "{HOUSECAT} sneaking out at night over a garden wall, a tomcat waiting on the other side under the moon",
+  "start": 1269.319,
+  "end": 1274.047
+ },
+ {
+  "n": 549,
+  "block": "B14",
+  "text": "Cats chose us.",
+  "scene": "{CAT} walking toward a village by its own choice, the village glowing warmly",
+  "start": 1274.047,
+  "end": 1275.461
+ },
+ {
+  "n": 550,
+  "block": "B14",
+  "text": "They moved into our villages on their own terms.",
+  "scene": "{CAT} carrying a tiny bag into a mud-brick hut, looking confident",
+  "start": 1275.461,
+  "end": 1278.722
+ },
+ {
+  "n": 551,
+  "block": "B14",
+  "text": "They changed their behavior just enough to get what they wanted.",
+  "scene": "{CAT} acting cute for {CAVE} while secretly holding a fish behind its back",
+  "start": 1278.722,
+  "end": 1282.847
+ },
+ {
+  "n": 552,
+  "block": "B14",
+  "text": "And they kept everything else.",
+  "scene": "{HOUSECAT} with a wild shadow on the wall behind it showing sharp claws and teeth",
+  "start": 1282.847,
+  "end": 1284.845
+ },
+ {
+  "n": 553,
+  "block": "B14",
+  "text": "Their wild instincts.",
+  "scene": "{HOUSECAT} stalking a toy mouse in a living room in full hunting pose",
+  "start": 1284.845,
+  "end": 1286.591
+ },
+ {
+  "n": 554,
+  "block": "B14",
+  "text": "Their independence.",
+  "scene": "{HOUSECAT} walking away from {GUY} who is holding out his arms for a hug",
+  "start": 1286.591,
+  "end": 1288.312
+ },
+ {
+  "n": 555,
+  "block": "B14",
+  "text": "Their freedom to just walk away.",
+  "scene": "{HOUSECAT} walking out of an open door into a sunny garden",
+  "start": 1288.312,
+  "end": 1290.542
+ },
+ {
+  "n": 556,
+  "block": "B14",
+  "text": "In fact, cats are so good at being wild",
+  "scene": "{HOUSECAT} creeping through a garden in hunting pose",
+  "start": 1290.542,
+  "end": 1293.315
+ },
+ {
+  "n": 557,
+  "block": "B14",
+  "text": "that scientists consider them one of the most destructive invasive predators in the world.",
+  "scene": "a world map with red warning icons and cat silhouettes on many islands",
+  "start": 1293.315,
+  "end": 1299.698
+ },
+ {
+  "n": 558,
+  "block": "B14",
+  "text": "Outdoor cats in the United States alone",
+  "scene": "a map of the United States with cat icons scattered everywhere",
+  "start": 1299.698,
+  "end": 1302.536
+ },
+ {
+  "n": 559,
+  "block": "B14",
+  "text": "are estimated to kill more than a billion birds every year.",
+  "scene": "a huge pile of feathers next to a satisfied {HOUSECAT}, birds fleeing in the sky",
+  "start": 1302.536,
+  "end": 1307.013
+ },
+ {
+  "n": 560,
+  "block": "B14",
+  "text": "That sweet thing purring on your lap",
+  "scene": "{HOUSECAT} purring sweetly on {GUY}'s lap",
+  "start": 1307.013,
+  "end": 1309.376
+ },
+ {
+  "n": 561,
+  "block": "B14",
+  "text": "is still, technically, one of nature's most efficient hunters.",
+  "scene": "the same cat's shadow on the wall shaped like a roaring lion",
+  "start": 1309.376,
+  "end": 1313.594
+ },
+ {
+  "n": 562,
+  "block": "B14",
+  "text": "And some scientists even wonder",
+  "scene": "{SCI} at a desk with a thoughtful face, a light bulb flickering above",
+  "start": 1313.594,
+  "end": 1315.712
+ },
+ {
+  "n": 563,
+  "block": "B14",
+  "text": "if cats have been changing us in ways we haven't fully understood yet.",
+  "scene": "a human head silhouette with a tiny cat sitting inside the brain at a control desk",
+  "start": 1315.712,
+  "end": 1320.511
+ },
+ {
+  "n": 564,
+  "block": "B14",
+  "text": "There's a tiny parasite called Toxoplasma",
+  "scene": "a cute cartoon microscopic parasite with a little smile, seen through a microscope lens",
+  "start": 1320.511,
+  "end": 1323.643
+ },
+ {
+  "n": 565,
+  "block": "B14",
+  "text": "that reproduces inside cats.",
+  "scene": "the parasite waving from inside a cartoon cat's belly",
+  "start": 1323.643,
+  "end": 1326.191
+ },
+ {
+  "n": 566,
+  "block": "B14",
+  "text": "Infected rats can lose their fear of cat smell.",
+  "scene": "a rat walking happily toward a cat, with hearts instead of fear, the cat licking its lips",
+  "start": 1326.191,
+  "end": 1329.449
+ },
+ {
+  "n": 567,
+  "block": "B14",
+  "text": "And a huge number of humans carry it too,",
+  "scene": "a crowd of people with tiny parasite icons floating above some of their heads",
+  "start": 1329.449,
+  "end": 1332.341
+ },
+ {
+  "n": 568,
+  "block": "B14",
+  "text": "usually without any obvious symptoms.",
+  "scene": "{GUY} shrugging, smiling, a tiny parasite on his shoulder waving",
+  "start": 1332.341,
+  "end": 1335.295
+ },
+ {
+  "n": 569,
+  "block": "B14",
+  "text": "Some studies have linked it to small changes in human behavior,",
+  "scene": "{SCI} looking at a brain scan with a few highlighted spots",
+  "start": 1335.295,
+  "end": 1339.228
+ },
+ {
+  "n": 570,
+  "block": "B14",
+  "text": "though the evidence is still debated.",
+  "scene": "two scientists arguing in front of a whiteboard with question marks",
+  "start": 1339.228,
+  "end": 1341.954
+ },
+ {
+  "n": 571,
+  "block": "B14",
+  "text": "But think about how wild that question is.",
+  "scene": "{GUY} with his head exploding into colorful sparkles",
+  "start": 1341.954,
+  "end": 1344.769
+ },
+ {
+  "n": 572,
+  "block": "B14",
+  "text": "Think about the whole chain of events.",
+  "scene": "a long chain of icons connected by arrows, glowing one by one",
+  "start": 1344.769,
+  "end": 1347.08
+ },
+ {
+  "n": 573,
+  "block": "B14",
+  "text": "Humans started storing grain.",
+  "scene": "{CAVE} putting grain into a clay pot",
+  "start": 1347.08,
+  "end": 1349.292
+ },
+ {
+  "n": 574,
+  "block": "B14",
+  "text": "The grain attracted mice.",
+  "scene": "mice running toward the clay pot",
+  "start": 1349.292,
+  "end": 1351.253
+ },
+ {
+  "n": 575,
+  "block": "B14",
+  "text": "The mice attracted wildcats.",
+  "scene": "{CAT} running toward the mice",
+  "start": 1351.253,
+  "end": 1353.536
+ },
+ {
+  "n": 576,
+  "block": "B14",
+  "text": "And the wildcats found humans.",
+  "scene": "{CAT} sitting on the clay pot looking at {CAVE}",
+  "start": 1353.536,
+  "end": 1355.78
+ },
+ {
+  "n": 577,
+  "block": "B14",
+  "text": "A tiny accident of farming",
+  "scene": "a single grain of wheat glowing in a big hand",
+  "start": 1355.78,
+  "end": 1357.589
+ },
+ {
+  "n": 578,
+  "block": "B14",
+  "text": "created one of the strangest friendships in history.",
+  "scene": "{CAVE} and {CAT} sitting together by the fire under the stars, shown from behind",
+  "start": 1357.589,
+  "end": 1361.287
+ },
+ {
+  "n": 579,
+  "block": "B14",
+  "text": "We spent ten thousand years thinking we domesticated cats.",
+  "scene": "{CAVE} proudly holding a cat, with a \"WINNER\" medal on his chest",
+  "start": 1361.287,
+  "end": 1365.545
+ },
+ {
+  "n": 580,
+  "block": "B14",
+  "text": "Maybe they were negotiating with us the whole time.",
+  "scene": "{HOUSECAT} and {CAVE} sitting across a table, signing a contract, the cat holding the pen",
+  "start": 1365.545,
+  "end": 1369.774
+ },
+ {
+  "n": 581,
+  "block": "B15",
+  "text": "That wildcat",
+  "scene": "{CAT} sitting on the grain pot in the dark storehouse, eyes glowing green",
+  "start": 1369.774,
+  "end": 1370.757
+ },
+ {
+  "n": 582,
+  "block": "B15",
+  "text": "that sat on a grain pot ten thousand years ago,",
+  "scene": "the dark storehouse in warm torchlight, {CAVE} in the doorway",
+  "start": 1370.757,
+  "end": 1373.888
+ },
+ {
+  "n": 583,
+  "block": "B15",
+  "text": "staring at a farmer with a torch,",
+  "scene": "{CAVE} slowly lowering his torch and his spear, his face softening",
+  "start": 1373.888,
+  "end": 1376.159
+ },
+ {
+  "n": 584,
+  "block": "B15",
+  "text": "wasn't asking for permission.",
+  "scene": "{CAT} looking calm and confident, not afraid at all",
+  "start": 1376.159,
+  "end": 1378.505
+ },
+ {
+  "n": 585,
+  "block": "B15",
+  "text": "It was making an offer.",
+  "scene": "{CAT} holding out a dead mouse toward {CAVE} like a gift",
+  "start": 1378.505,
+  "end": 1380.356
+ },
+ {
+  "n": 586,
+  "block": "B15",
+  "text": "I'll protect your food.",
+  "scene": "{CAT} standing guard in front of the grain pots, mice running away",
+  "start": 1380.356,
+  "end": 1382.124
+ },
+ {
+  "n": 587,
+  "block": "B15",
+  "text": "You leave me alone.",
+  "scene": "{CAVE} walking away and closing the door gently, {CAT} sitting on the pot satisfied",
+  "start": 1382.124,
+  "end": 1383.649
+ },
+ {
+  "n": 588,
+  "block": "B15",
+  "text": "Deal?",
+  "scene": "{CAT} and {CAVE} shaking hand and paw, golden light around them",
+  "start": 1383.649,
+  "end": 1384.644
+ },
+ {
+  "n": 589,
+  "block": "B15",
+  "text": "And amazingly,",
+  "scene": "the scene morphing, the mud-brick hut slowly turning into a modern apartment",
+  "start": 1384.644,
+  "end": 1385.632
+ },
+ {
+  "n": 590,
+  "block": "B15",
+  "text": "we're still living under that deal today.",
+  "scene": "{GUY} on a couch, {HOUSECAT} on the back of the couch, both looking at the viewer",
+  "start": 1385.632,
+  "end": 1388.421
+ },
+ {
+  "n": 591,
+  "block": "B15",
+  "text": "So the next time your cat wakes you up at five in the morning,",
+  "scene": "{GUY} in bed at night, the clock showing 5:00, {HOUSECAT} sitting on his face",
+  "start": 1388.421,
+  "end": 1392.414
+ },
+ {
+  "n": 592,
+  "block": "B15",
+  "text": "or knocks something off the table just to watch you react,",
+  "scene": "{HOUSECAT} pushing a glass off a table, looking right at {GUY}",
+  "start": 1392.414,
+  "end": 1396.165
+ },
+ {
+  "n": 593,
+  "block": "B15",
+  "text": "or slowly blinks at you from across the room,",
+  "scene": "{HOUSECAT} across the living room slowly blinking, soft light from a window",
+  "start": 1396.165,
+  "end": 1399.13
+ },
+ {
+  "n": 594,
+  "block": "B15",
+  "text": "just remember.",
+  "scene": "{GUY} smiling softly, looking at his cat",
+  "start": 1399.13,
+  "end": 1400.539
+ },
+ {
+  "n": 595,
+  "block": "B15",
+  "text": "That is a desert hunter",
+  "scene": "a ghostly image of {CAT} in the desert appearing behind {HOUSECAT}",
+  "start": 1400.539,
+  "end": 1402.101
+ },
+ {
+  "n": 596,
+  "block": "B15",
+  "text": "who walked into a human village ten thousand years ago,",
+  "scene": "{CAT} walking into a mud-brick village at sunset",
+  "start": 1402.101,
+  "end": 1405.514
+ },
+ {
+  "n": 597,
+  "block": "B15",
+  "text": "looked at us,",
+  "scene": "{CAT} looking at {CAVE} with big round eyes",
+  "start": 1405.514,
+  "end": 1406.497
+ },
+ {
+  "n": 598,
+  "block": "B15",
+  "text": "and decided we were worth keeping.",
+  "scene": "{CAT} curling up in {CAVE}'s lap by the fire, both falling asleep",
+  "start": 1406.497,
+  "end": 1409.015
+ },
+ {
+  "n": 599,
+  "block": "B15",
+  "text": "We didn't tame cats.",
+  "scene": "{GUY} shaking his head with a smile",
+  "start": 1409.015,
+  "end": 1410.692
+ },
+ {
+  "n": 600,
+  "block": "B15",
+  "text": "Cats agreed to live with us.",
+  "scene": "{HOUSECAT} sleeping on {GUY}'s chest on the couch, both peaceful",
+  "start": 1410.692,
+  "end": 1412.809
+ },
+ {
+  "n": 601,
+  "block": "B15",
+  "text": "And honestly,",
+  "scene": "{GUY} gently petting the sleeping cat",
+  "start": 1412.809,
+  "end": 1413.709
+ },
+ {
+  "n": 602,
+  "block": "B15",
+  "text": "we got the better end of the deal.",
+  "scene": "{GUY} and {HOUSECAT} sitting at the window together looking at the sunset, warm golden light",
+  "start": 1413.709,
+  "end": 1416.621
+ }
+]
