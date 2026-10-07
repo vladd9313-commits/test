@@ -20,6 +20,11 @@ STYLE = ("simple MS Paint style cartoon illustration, flat solid colors, thick u
 SHORT = {"CAVE": "the caveman", "WOMAN": "the woman", "GUY": "the man", "CAT": "the wildcat",
          "HOUSECAT": "the house cat", "EGYPT": "the Egyptian man", "SCI": "the scientist", "APE": "the ape", "SUMER": "the Sumerian man"}
 
+STYLE_STICKLY = ("minimalist stick figure cartoon, characters with big round cream-colored heads, small black dot eyes "
+                 "with heavy half-closed lids and a deadpan expression, thin black stick legs, small black hands, simple "
+                 "clothing in muted colors, clean smooth black outlines, flat muted desaturated colors, plain slate blue-gray "
+                 "background with a khaki ground line, very simple props, no shading, educational YouTube explainer style, 16:9, no captions")
+
 def expand(scene):
     scene = re.sub(r"\{(\w+)\}'s", lambda m: SHORT[m.group(1)] + "'s", scene)
     # "a tiny {CAVE}" -> "a tiny prehistoric caveman ..." (drop the description's own article)

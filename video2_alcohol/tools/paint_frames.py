@@ -5,7 +5,7 @@ Each frame is built from the line's scene description: a setting (day, night, de
 up to four characters with an expression, a few props/symbols, and the narration line as a caption.
 """
 import math, os, random, re, sys
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageEnhance
 
 sys.path.insert(0, os.path.dirname(__file__))
 from parse_script import load
@@ -17,11 +17,23 @@ FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 SKIN = (255, 222, 186)
 
 # ----------------------------------------------------------------------------- drawing helpers
+STICKLY = os.environ.get("FRAME_STYLE") == "stickly"   # minimalist muted stickman style
+CREAM = (246, 241, 222)
+
+def mute(c, k=0.5, base=(165, 158, 130)):
+    return tuple(int(v * (1 - k) + b * k) for v, b in zip(c, base)) if STICKLY else c
+
+def mute_image(img):
+    m = ImageEnhance.Color(img).enhance(0.35)
+    m = Image.blend(m, Image.new("RGB", img.size, (140, 160, 165)), 0.22)
+    img.paste(m)
+
 class P:
     def __init__(self, img, rnd):
         self.img, self.d, self.r = img, ImageDraw.Draw(img), rnd
 
     def wob(self, pts, amt=3):
+        if STICKLY: return list(pts)
         return [(x + self.r.uniform(-amt, amt), y + self.r.uniform(-amt, amt)) for x, y in pts]
 
     def poly(self, pts, fill, w=6, wob=2):
@@ -218,6 +230,24 @@ def expression(scene):
     return "neutral"
 
 def eyes(p, cx, cy, r, e, look=0):
+    if STICKLY:
+        for sx in (-1, 1):
+            x = cx + sx * r * 1.05 + look * r * 0.25
+            if e in ("sleep", "happy"):
+                if e == "sleep": p.line([(x - r * 0.5, cy), (x + r * 0.5, cy)], 5)
+                else: p.d.arc((x - r * 0.45, cy - r * 0.3, x + r * 0.45, cy + r * 0.5), 200, 340, fill=OL, width=6)
+                continue
+            dr = r * (0.3 if e == "shock" else 0.24)
+            p.d.ellipse((x - dr, cy - dr, x + dr, cy + dr), fill=OL)
+            if e in ("neutral", "smug", "confused"):        # heavy deadpan lid
+                p.line([(x - r * 0.6, cy - r * 0.32), (x + r * 0.55, cy - r * 0.38)], 5)
+            elif e == "angry":
+                p.line([(x - sx * r * 0.6, cy - r * 0.75), (x + sx * r * 0.5, cy - r * 0.3)], 6)
+            elif e == "sad":
+                p.line([(x - sx * r * 0.6, cy - r * 0.35), (x + sx * r * 0.5, cy - r * 0.75)], 6)
+            elif e == "shock":
+                p.d.arc((x - r * 0.6, cy - r * 1.1, x + r * 0.6, cy - r * 0.3), 200, 340, fill=OL, width=5)
+        return
     for dx in (-r * 1.05, r * 1.05):
         x = cx + dx
         if e == "sleep":
@@ -233,6 +263,12 @@ def eyes(p, cx, cy, r, e, look=0):
             p.line([(x - rr, cy - rr * 1.1 + (0 if dx < 0 else rr * 0.4)), (x + rr, cy - rr * 1.1 + (rr * 0.4 if dx < 0 else 0))], 6)
 
 def mouth(p, cx, cy, s, e):
+    if STICKLY:
+        if e == "happy": p.d.arc((cx - 28 * s, cy - 22 * s, cx + 28 * s, cy + 14 * s), 20, 160, fill=OL, width=5)
+        elif e == "shock": p.d.ellipse((cx - 9 * s, cy - 6 * s, cx + 9 * s, cy + 16 * s), fill=OL)
+        elif e in ("sad", "angry"): p.d.arc((cx - 24 * s, cy, cx + 24 * s, cy + 26 * s), 200, 340, fill=OL, width=5)
+        elif e != "sleep": p.line([(cx - 20 * s, cy + 6 * s), (cx + 22 * s, cy + 4 * s)], 5)
+        return
     if e in ("happy", "smug"):
         p.d.arc((cx - 40 * s, cy - 30 * s, cx + 40 * s, cy + 25 * s), 20 if e == "smug" else 10, 160 if e == "happy" else 120, fill=OL, width=7)
     elif e == "shock":
@@ -257,7 +293,52 @@ HUMANS = {
     "PERSON": dict(shirt=(156, 204, 101), legs=(120, 100, 80), hair="short", hair_col=(60, 40, 20)),
 }
 
+def human_stickly(p, kind, x, s, e, arms, look, hold):
+    c = HUMANS[kind]; gy = GROUND + 40
+    hip = gy - 200 * s; neck = hip - 210 * s; hr = 120 * s; hy = neck - hr * 0.92
+    for dx in (-28, 28):
+        p.line([(x + dx * s * 0.6, hip), (x + dx * s, gy)], 6)
+        p.d.ellipse((x + dx * s - 30 * s + (12 * s if dx > 0 else -12 * s), gy - 14 * s, x + dx * s + 30 * s + (12 * s if dx > 0 else -12 * s), gy + 12 * s), fill=OL)
+    coat = mute(c["shirt"])
+    p.poly([(x - 62 * s, neck), (x + 62 * s, neck), (x + 82 * s, hip + 50 * s), (x - 82 * s, hip + 50 * s)], coat, 5)
+    p.line([(x, neck + 5), (x, hip + 45 * s)], 4)
+    for sx in (-1, 1): p.line([(x + sx * 4, neck), (x + sx * 38 * s, neck + 55 * s)], 4)
+    if arms == "up": targets = [(x - 150 * s, neck - 160 * s), (x + 150 * s, neck - 160 * s)]
+    elif arms == "point": targets = [(x - 95 * s, hip + 10 * s), (x + 210 * s, neck + 20 * s)]
+    elif arms == "head": targets = [(x - 65 * s, hy - 30 * s), (x + 65 * s, hy - 30 * s)]
+    elif arms == "shrug": targets = [(x - 170 * s, neck - 20 * s), (x + 170 * s, neck - 20 * s)]
+    else: targets = [(x - 105 * s, hip + 20 * s), (x + 105 * s, hip + 20 * s)]
+    for (tx, ty), sx in zip(targets, (-1, 1)):
+        a = (x + sx * 52 * s, neck + 18 * s)
+        p.line([a, (tx, ty)], int(30 * s) + 8); p.line([a, (tx, ty)], int(30 * s), coat)
+        p.d.ellipse((tx - 17 * s, ty - 17 * s, tx + 17 * s, ty + 17 * s), fill=OL)
+    if hold: prop(p, hold, targets[1][0], targets[1][1], s)
+    hair = {"messy": (70, 50, 38), "short": (45, 38, 32), "long": (20, 20, 20), "bob": (20, 20, 20)}.get(c["hair"])
+    if c.get("fur"): hair = (90, 68, 52)
+    if c["hair"] == "long":
+        p.poly([(x - hr * 1.1, hy - hr * 0.2), (x + hr * 1.1, hy - hr * 0.2), (x + hr * 1.15, hy + hr * 1.5), (x - hr * 1.15, hy + hr * 1.5)], hair, 5)
+    if c.get("ears"):
+        for sx in (-1, 1): p.ell((x + sx * hr - hr * 0.3, hy - hr * 0.2, x + sx * hr + hr * 0.3, hy + hr * 0.35), CREAM, 5)
+    p.ell((x - hr, hy - hr, x + hr, hy + hr), CREAM, 5)
+    if c["hair"] == "messy":
+        pts = [(x + hr * (1.18 if i % 2 else 1.0) * math.cos(math.pi + i * math.pi / 12), hy - hr * 0.12 + hr * (1.18 if i % 2 else 1.0) * math.sin(math.pi + i * math.pi / 12) * 0.9) for i in range(13)]
+        p.poly(pts, hair, 5)
+    elif c["hair"] in ("short", "long"):
+        p.d.chord((x - hr, hy - hr, x + hr, hy + hr * 0.2), 180, 360, fill=hair, outline=OL, width=5)
+    elif c["hair"] == "bob":
+        p.d.chord((x - hr * 1.12, hy - hr * 1.12, x + hr * 1.12, hy + hr * 0.9), 160, 380, fill=hair, outline=OL, width=5)
+        p.ell((x - hr * 0.8, hy - hr * 0.45, x + hr * 0.8, hy + hr), CREAM, 0)
+    if c.get("helmet"):
+        p.d.chord((x - hr * 1.05, hy - hr * 1.1, x + hr * 1.05, hy + hr * 0.3), 180, 360, fill=(140, 140, 140), outline=OL, width=5)
+    if c.get("beard"):
+        p.d.chord((x - hr * 0.75, hy + hr * 0.1, x + hr * 0.75, hy + hr * 1.5), 0, 180, fill=(30, 30, 30), outline=OL, width=5)
+    eyes(p, x, hy + hr * 0.02, hr * 0.33, e, look)
+    if c.get("glasses"):
+        for dx in (-1, 1): p.d.ellipse((x + dx * hr * 0.35 - hr * 0.3, hy - hr * 0.3, x + dx * hr * 0.35 + hr * 0.3, hy + hr * 0.3), outline=OL, width=5)
+    if not c.get("beard"): mouth(p, x, hy + hr * 0.42, s, e)
+
 def human(p, kind, x, s, e, arms="down", look=0, hold=None):
+    if STICKLY: return human_stickly(p, kind, x, s, e, arms, look, hold)
     c = HUMANS[kind]; skin = c.get("skin", SKIN)
     gy = GROUND + 40
     hip = gy - 230 * s; neck = hip - 230 * s; hr = 105 * s; hy = neck - hr * 0.9
@@ -328,7 +409,9 @@ CATS = {
 }
 
 def cat(p, kind, x, s, e, flip=1, look=0):
-    c = CATS[kind]; gy = GROUND + 40
+    c = dict(CATS[kind]); gy = GROUND + 40
+    for k_ in ("body", "stripe", "spots"):
+        if c.get(k_): c[k_] = mute(c[k_], 0.35)
     by = gy - 110 * s
     # tail
     p.line([(x - flip * 90 * s, gy - 40 * s), (x - flip * 200 * s, gy - 90 * s), (x - flip * 180 * s, gy - 230 * s)], int(26 * s) + 6)
@@ -527,6 +610,7 @@ def render(scene, caption, seed, out, ctx):
         elif name == "mummy": mummy(p, x, GROUND + 40, 1.2 * scale)
         elif name == "skeleton": skeleton(p, x - 150, GROUND + 60, 0.8)
         elif name == "box": p.rect((x - 170, GROUND - 120, x + 170, GROUND + 60), (215, 160, 90), 7)
+    if STICKLY: mute_image(img)
     for i, (name, _) in enumerate(items):
         if name not in HUMAN_KINDS and name not in CATS: continue
         x = slots[i]; look = 1 if x < W / 2 else -1
