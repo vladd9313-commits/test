@@ -1,0 +1,3642 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "It's two hundred thousand years ago.",
+  "scene": "{CAVE} standing in a dry African savanna at sunset, a big clock icon spinning backwards in the sky",
+  "start": 0.0,
+  "end": 2.666
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "You live on the African savanna.",
+  "scene": "a wide savanna with acacia trees and tall yellow grass under an orange sky",
+  "start": 2.666,
+  "end": 5.237
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "And the sun is going down.",
+  "scene": "the sun sinking behind the horizon, the sky turning purple",
+  "start": 5.237,
+  "end": 7.375
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "That should feel peaceful.",
+  "scene": "{CAVE} sitting on a rock watching the sunset, calm",
+  "start": 7.375,
+  "end": 9.292
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "It doesn't.",
+  "scene": "{CAVE} with wide eyes slowly turning his head",
+  "start": 9.292,
+  "end": 10.713
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "Because the moment it gets dark,",
+  "scene": "the savanna at night under a crescent moon, everything black and blue",
+  "start": 10.713,
+  "end": 12.75
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "the night shift starts.",
+  "scene": "silhouettes of a lion, a hyena and a leopard walking out of the tall grass at night",
+  "start": 12.75,
+  "end": 14.698
+ },
+ {
+  "n": 7,
+  "block": "B01",
+  "text": "Lions hunt at night.",
+  "scene": "a lion crouching in the grass at night with glowing yellow eyes",
+  "start": 14.698,
+  "end": 16.567
+ },
+ {
+  "n": 8,
+  "block": "B01",
+  "text": "Hyenas hunt at night.",
+  "scene": "a spotted hyena laughing in the moonlight",
+  "start": 16.567,
+  "end": 18.583
+ },
+ {
+  "n": 9,
+  "block": "B01",
+  "text": "Leopards hunt at night.",
+  "scene": "a leopard lying on a tree branch at night, tail hanging down",
+  "start": 18.583,
+  "end": 20.574
+ },
+ {
+  "n": 10,
+  "block": "B01",
+  "text": "And you can't see in the dark.",
+  "scene": "{CAVE} squinting into total darkness, only his eyes visible",
+  "start": 20.574,
+  "end": 22.74
+ },
+ {
+  "n": 11,
+  "block": "B01",
+  "text": "You can't run very fast.",
+  "scene": "{CAVE} running slowly while a lion runs past him easily",
+  "start": 22.74,
+  "end": 25.012
+ },
+ {
+  "n": 12,
+  "block": "B01",
+  "text": "You don't have claws,",
+  "scene": "{CAVE} looking at his own hands sadly",
+  "start": 25.012,
+  "end": 26.532
+ },
+ {
+  "n": 13,
+  "block": "B01",
+  "text": "or fangs,",
+  "scene": "{CAVE} showing his small flat teeth in a mirror",
+  "start": 26.532,
+  "end": 27.323
+ },
+ {
+  "n": 14,
+  "block": "B01",
+  "text": "or fur thick enough to stop a bite.",
+  "scene": "{CAVE} pinching the thin skin on his arm",
+  "start": 27.323,
+  "end": 30.114
+ },
+ {
+  "n": 15,
+  "block": "B01",
+  "text": "And in a few hours,",
+  "scene": "a moon moving across the night sky",
+  "start": 30.114,
+  "end": 31.535
+ },
+ {
+  "n": 16,
+  "block": "B01",
+  "text": "you are going to do the most dangerous thing a human can do.",
+  "scene": "{CAVE} yawning hugely, eyes half closed",
+  "start": 31.535,
+  "end": 35.91
+ },
+ {
+  "n": 17,
+  "block": "B01",
+  "text": "You're going to fall asleep.",
+  "scene": "{CAVE} lying down on the grass, eyes closing, Z letters floating up",
+  "start": 35.91,
+  "end": 38.104
+ },
+ {
+  "n": 18,
+  "block": "B01",
+  "text": "For about seven hours.",
+  "scene": "a sleeping {CAVE} with a tiny clock showing seven hours above him",
+  "start": 38.104,
+  "end": 40.175
+ },
+ {
+  "n": 19,
+  "block": "B01",
+  "text": "Completely unconscious.",
+  "scene": "{CAVE} snoring with his mouth open",
+  "start": 40.175,
+  "end": 42.349
+ },
+ {
+  "n": 20,
+  "block": "B01",
+  "text": "Surrounded by animals that would love to eat you.",
+  "scene": "the sleeping {CAVE} surrounded by glowing pairs of eyes in the dark grass",
+  "start": 42.349,
+  "end": 45.924
+ },
+ {
+  "n": 21,
+  "block": "B01",
+  "text": "So here's the question.",
+  "scene": "{GUY} facing the viewer, one finger raised",
+  "start": 45.924,
+  "end": 47.908
+ },
+ {
+  "n": 22,
+  "block": "B01",
+  "text": "How did our ancestors survive the night?",
+  "scene": "{GUY} holding a candle in the dark with a worried face",
+  "start": 47.908,
+  "end": 51.021
+ },
+ {
+  "n": 23,
+  "block": "B01",
+  "text": "And why does the answer explain",
+  "scene": "{GUY} in bed in a modern bedroom, staring at the ceiling",
+  "start": 51.021,
+  "end": 53.362
+ },
+ {
+  "n": 24,
+  "block": "B01",
+  "text": "why you wake up at three in the morning,",
+  "scene": "{GUY} in bed at night wide awake, an alarm clock showing 3:00",
+  "start": 53.362,
+  "end": 56.306
+ },
+ {
+  "n": 25,
+  "block": "B01",
+  "text": "why you sleep badly in hotels,",
+  "scene": "{GUY} lying awake in a hotel bed with a suitcase next to it",
+  "start": 56.306,
+  "end": 58.581
+ },
+ {
+  "n": 26,
+  "block": "B01",
+  "text": "and why you jerk awake just as you're falling asleep?",
+  "scene": "{GUY} jolting upright in bed with motion lines and a shocked face",
+  "start": 58.581,
+  "end": 63.395
+ },
+ {
+  "n": 27,
+  "block": "B02",
+  "text": "Because when you think about it,",
+  "scene": "{SCI} rubbing his chin thoughtfully",
+  "start": 63.395,
+  "end": 65.616
+ },
+ {
+  "n": 28,
+  "block": "B02",
+  "text": "sleep is a terrible idea.",
+  "scene": "{SCI} pointing at a chalkboard with the word SLEEP crossed out",
+  "start": 65.616,
+  "end": 67.826
+ },
+ {
+  "n": 29,
+  "block": "B02",
+  "text": "For a third of your life,",
+  "scene": "a pie chart with one third colored dark blue with a moon icon",
+  "start": 67.826,
+  "end": 69.476
+ },
+ {
+  "n": 30,
+  "block": "B02",
+  "text": "you can't eat,",
+  "scene": "a crossed-out plate of food",
+  "start": 69.476,
+  "end": 70.5
+ },
+ {
+  "n": 31,
+  "block": "B02",
+  "text": "you can't find a partner,",
+  "scene": "a crossed-out heart",
+  "start": 70.5,
+  "end": 72.15
+ },
+ {
+  "n": 32,
+  "block": "B02",
+  "text": "and you can't run from danger.",
+  "scene": "a crossed-out running man",
+  "start": 72.15,
+  "end": 74.505
+ },
+ {
+  "n": 33,
+  "block": "B02",
+  "text": "Evolution should have deleted it a long time ago.",
+  "scene": "a cartoon delete button with a sleeping person on it",
+  "start": 74.505,
+  "end": 78.261
+ },
+ {
+  "n": 34,
+  "block": "B02",
+  "text": "But it didn't.",
+  "scene": "{SCI} shaking his head",
+  "start": 78.261,
+  "end": 79.688
+ },
+ {
+  "n": 35,
+  "block": "B02",
+  "text": "Every animal with a brain sleeps in some way.",
+  "scene": "a row of animals sleeping: a dog, a bird on a branch, a fish, a cat",
+  "start": 79.688,
+  "end": 82.979
+ },
+ {
+  "n": 36,
+  "block": "B02",
+  "text": "Dolphins sleep with half their brain at a time.",
+  "scene": "a dolphin swimming with one eye closed and one eye open",
+  "start": 82.979,
+  "end": 86.216
+ },
+ {
+  "n": 37,
+  "block": "B02",
+  "text": "Some birds sleep while flying.",
+  "scene": "a bird gliding over the ocean with one eye closed and Z letters behind it",
+  "start": 86.216,
+  "end": 88.692
+ },
+ {
+  "n": 38,
+  "block": "B02",
+  "text": "Sleep is so important",
+  "scene": "a glowing golden pillow on a pedestal",
+  "start": 88.692,
+  "end": 90.255
+ },
+ {
+  "n": 39,
+  "block": "B02",
+  "text": "that every species found a way to do it",
+  "scene": "many different animals curled up asleep in a circle",
+  "start": 90.255,
+  "end": 92.943
+ },
+ {
+  "n": 40,
+  "block": "B02",
+  "text": "without getting killed.",
+  "scene": "the circle of sleeping animals with a protective glowing bubble around them",
+  "start": 92.943,
+  "end": 95.051
+ },
+ {
+  "n": 41,
+  "block": "B02",
+  "text": "And humans found one of the strangest solutions of all.",
+  "scene": "{CAVE} and {WOMAN} sleeping by a fire with a big question mark above them",
+  "start": 95.051,
+  "end": 99.076
+ },
+ {
+  "n": 42,
+  "block": "B02",
+  "text": "Stick around until the end,",
+  "scene": "{GUY} pointing at the viewer with a sly smile",
+  "start": 99.076,
+  "end": 100.927
+ },
+ {
+  "n": 43,
+  "block": "B02",
+  "text": "because the way your ancestors slept",
+  "scene": "a ghostly {CAVE} sleeping behind {GUY}'s bed",
+  "start": 100.927,
+  "end": 103.316
+ },
+ {
+  "n": 44,
+  "block": "B02",
+  "text": "might have helped make you human.",
+  "scene": "a glowing human brain with a crown on top",
+  "start": 103.316,
+  "end": 106.527
+ },
+ {
+  "n": 45,
+  "block": "B03",
+  "text": "To understand human sleep,",
+  "scene": "a green jungle with tall trees and vines",
+  "start": 106.527,
+  "end": 108.403
+ },
+ {
+  "n": 46,
+  "block": "B03",
+  "text": "we have to go back to the trees.",
+  "scene": "{APE} sitting on a high tree branch at sunset",
+  "start": 108.403,
+  "end": 111.075
+ },
+ {
+  "n": 47,
+  "block": "B03",
+  "text": "Every night, chimpanzees climb high into the trees",
+  "scene": "{APE} climbing a tall tree trunk as the sky turns orange",
+  "start": 111.075,
+  "end": 114.808
+ },
+ {
+  "n": 48,
+  "block": "B03",
+  "text": "and build a brand new bed.",
+  "scene": "{APE} bending leafy branches together into a round nest",
+  "start": 114.808,
+  "end": 117.302
+ },
+ {
+  "n": 49,
+  "block": "B03",
+  "text": "They bend branches,",
+  "scene": "close-up of hairy hands bending thick branches into a circle",
+  "start": 117.302,
+  "end": 118.78
+ },
+ {
+  "n": 50,
+  "block": "B03",
+  "text": "weave them together,",
+  "scene": "{APE} weaving leaves and twigs into a bowl shape",
+  "start": 118.78,
+  "end": 120.322
+ },
+ {
+  "n": 51,
+  "block": "B03",
+  "text": "and add a soft layer of leaves on top.",
+  "scene": "{APE} placing soft green leaves inside the nest like a pillow",
+  "start": 120.322,
+  "end": 123.441
+ },
+ {
+  "n": 52,
+  "block": "B03",
+  "text": "It takes them just a few minutes.",
+  "scene": "a tiny stopwatch showing a few minutes next to the finished nest",
+  "start": 123.441,
+  "end": 125.935
+ },
+ {
+  "n": 53,
+  "block": "B03",
+  "text": "And here's the funny part.",
+  "scene": "{GUY} holding back a laugh",
+  "start": 125.935,
+  "end": 128.046
+ },
+ {
+  "n": 54,
+  "block": "B03",
+  "text": "Scientists compared chimp nests",
+  "scene": "{SCI} swabbing a chimp nest with a cotton stick, wearing gloves",
+  "start": 128.046,
+  "end": 130.065
+ },
+ {
+  "n": 55,
+  "block": "B03",
+  "text": "to human beds.",
+  "scene": "{SCI} swabbing a messy human bed in a bedroom",
+  "start": 130.065,
+  "end": 131.523
+ },
+ {
+  "n": 56,
+  "block": "B03",
+  "text": "And the chimp nests had far fewer bacteria.",
+  "scene": "a microscope view: a chimp nest with three tiny germs, a human bed with a crowd of germs",
+  "start": 131.523,
+  "end": 134.857
+ },
+ {
+  "n": 57,
+  "block": "B03",
+  "text": "Your mattress is dirtier than an ape's bed made of sticks.",
+  "scene": "{GUY} staring at his mattress in horror while an {APE} relaxes in a clean nest",
+  "start": 134.857,
+  "end": 139.188
+ },
+ {
+  "n": 58,
+  "block": "B03",
+  "text": "High up in a tree,",
+  "scene": "a tall tree with a nest at the very top under the stars",
+  "start": 139.188,
+  "end": 140.438
+ },
+ {
+  "n": 59,
+  "block": "B03",
+  "text": "you're safe from most predators on the ground.",
+  "scene": "a lion looking up at the tree with an annoyed face, unable to reach",
+  "start": 140.438,
+  "end": 143.699
+ },
+ {
+  "n": 60,
+  "block": "B03",
+  "text": "But you have to be careful",
+  "scene": "{APE} sleeping on the edge of the nest",
+  "start": 143.699,
+  "end": 145.225
+ },
+ {
+  "n": 61,
+  "block": "B03",
+  "text": "not to fall.",
+  "scene": "{APE} rolling toward the edge of the nest with a shocked face",
+  "start": 145.225,
+  "end": 146.459
+ },
+ {
+  "n": 62,
+  "block": "B03",
+  "text": "And that might explain something weird your body still does today.",
+  "scene": "{GUY} lying in bed, eyes half closed",
+  "start": 146.459,
+  "end": 151.079
+ },
+ {
+  "n": 63,
+  "block": "B03",
+  "text": "You know that moment when you're just drifting off to sleep,",
+  "scene": "{GUY} slowly falling asleep with a peaceful face",
+  "start": 151.079,
+  "end": 154.716
+ },
+ {
+  "n": 64,
+  "block": "B03",
+  "text": "and suddenly your whole body jerks",
+  "scene": "{GUY} jolting violently in bed, the blanket flying up",
+  "start": 154.716,
+  "end": 156.875
+ },
+ {
+  "n": 65,
+  "block": "B03",
+  "text": "like you're falling?",
+  "scene": "{GUY} in a dream bubble, falling through the air with arms flailing",
+  "start": 156.875,
+  "end": 158.659
+ },
+ {
+  "n": 66,
+  "block": "B03",
+  "text": "That's called a hypnic jerk.",
+  "scene": "a big sign reading HYPNIC JERK with a jolting stick figure on it",
+  "start": 158.659,
+  "end": 160.936
+ },
+ {
+  "n": 67,
+  "block": "B03",
+  "text": "Nobody knows exactly why it happens.",
+  "scene": "{SCI} shrugging with a question mark above his head",
+  "start": 160.936,
+  "end": 164.225
+ },
+ {
+  "n": 68,
+  "block": "B03",
+  "text": "But one popular idea is that it's an ancient reflex",
+  "scene": "{APE} in a nest suddenly grabbing a branch as it starts to slip",
+  "start": 164.225,
+  "end": 168.259
+ },
+ {
+  "n": 69,
+  "block": "B03",
+  "text": "from when our ancestors slept in trees.",
+  "scene": "{APE} holding on tightly to the branch with a relieved face",
+  "start": 168.259,
+  "end": 171.833
+ },
+ {
+  "n": 70,
+  "block": "B03",
+  "text": "A last check:",
+  "scene": "{APE} with one eye open while drifting off",
+  "start": 171.833,
+  "end": 172.902
+ },
+ {
+  "n": 71,
+  "block": "B03",
+  "text": "am I about to fall off this branch?",
+  "scene": "{APE} looking down from a very high branch, the ground far below",
+  "start": 172.902,
+  "end": 176.356
+ },
+ {
+  "n": 72,
+  "block": "B04",
+  "text": "But at some point, our ancestors came down.",
+  "scene": "{APE} climbing down a tree to the ground in the savanna",
+  "start": 176.356,
+  "end": 179.994
+ },
+ {
+  "n": 73,
+  "block": "B04",
+  "text": "As forests shrank and grasslands spread,",
+  "scene": "a map showing a green forest shrinking and yellow grassland spreading",
+  "start": 179.994,
+  "end": 182.822
+ },
+ {
+  "n": 74,
+  "block": "B04",
+  "text": "early humans started spending their lives on the ground.",
+  "scene": "an early human walking upright across tall yellow grass",
+  "start": 182.822,
+  "end": 187.098
+ },
+ {
+  "n": 75,
+  "block": "B04",
+  "text": "And some scientists think",
+  "scene": "{SCI} pointing at a chalkboard with a tree and a campfire drawn on it",
+  "start": 187.098,
+  "end": 188.971
+ },
+ {
+  "n": 76,
+  "block": "B04",
+  "text": "Homo erectus, around a million and a half years ago,",
+  "scene": "an early human with a heavy brow ridge holding a stone hand axe",
+  "start": 188.971,
+  "end": 192.589
+ },
+ {
+  "n": 77,
+  "block": "B04",
+  "text": "may have been one of the first of our relatives to sleep on the ground.",
+  "scene": "the early human lying down on the ground next to a small fire",
+  "start": 192.589,
+  "end": 197.854
+ },
+ {
+  "n": 78,
+  "block": "B04",
+  "text": "That was a huge gamble.",
+  "scene": "{GUY} holding his head with both hands, worried",
+  "start": 197.854,
+  "end": 199.912
+ },
+ {
+  "n": 79,
+  "block": "B04",
+  "text": "On the ground, you're a snack.",
+  "scene": "a lion with a napkin tied around its neck looking at a sleeping human",
+  "start": 199.912,
+  "end": 201.999
+ },
+ {
+  "n": 80,
+  "block": "B04",
+  "text": "And we have proof of how dangerous it was.",
+  "scene": "{SCI} holding up an old skull carefully with both hands",
+  "start": 201.999,
+  "end": 205.399
+ },
+ {
+  "n": 81,
+  "block": "B04",
+  "text": "In a cave in South Africa called Swartkrans,",
+  "scene": "a dark limestone cave entrance on a rocky hillside",
+  "start": 205.399,
+  "end": 208.999
+ },
+ {
+  "n": 82,
+  "block": "B04",
+  "text": "archaeologists found the skull of a young early human relative",
+  "scene": "{SCI} brushing dirt off a small skull on the cave floor",
+  "start": 208.999,
+  "end": 213.949
+ },
+ {
+  "n": 83,
+  "block": "B04",
+  "text": "with two small round holes in the back.",
+  "scene": "close-up of the back of a skull with two round holes",
+  "start": 213.949,
+  "end": 217.593
+ },
+ {
+  "n": 84,
+  "block": "B04",
+  "text": "The holes match the lower canine teeth of a leopard perfectly.",
+  "scene": "a leopard's jaw lined up next to the skull, the fangs fitting the holes exactly",
+  "start": 217.593,
+  "end": 222.266
+ },
+ {
+  "n": 85,
+  "block": "B04",
+  "text": "The leopard probably dragged its victim up into a tree",
+  "scene": "a leopard climbing a tree at night with something hanging from its mouth",
+  "start": 222.266,
+  "end": 225.986
+ },
+ {
+  "n": 86,
+  "block": "B04",
+  "text": "near the cave,",
+  "scene": "a tree growing at the edge of the cave opening",
+  "start": 225.986,
+  "end": 227.14
+ },
+ {
+  "n": 87,
+  "block": "B04",
+  "text": "and the bones later fell inside.",
+  "scene": "bones falling from the tree into a dark cave hole",
+  "start": 227.14,
+  "end": 229.869
+ },
+ {
+  "n": 88,
+  "block": "B04",
+  "text": "For millions of years,",
+  "scene": "a long timeline stretching across the screen",
+  "start": 229.869,
+  "end": 231.466
+ },
+ {
+  "n": 89,
+  "block": "B04",
+  "text": "our ancestors weren't the hunters.",
+  "scene": "a group of early humans hiding behind a rock, sweating",
+  "start": 231.466,
+  "end": 234.221
+ },
+ {
+  "n": 90,
+  "block": "B04",
+  "text": "They were the menu.",
+  "scene": "a restaurant menu with drawings of early humans on it, held by a leopard wearing a bow tie",
+  "start": 234.221,
+  "end": 235.894
+ },
+ {
+  "n": 91,
+  "block": "B04",
+  "text": "So how do you survive the night on the ground",
+  "scene": "{CAVE} standing alone on the dark savanna, looking around nervously",
+  "start": 235.894,
+  "end": 238.259
+ },
+ {
+  "n": 92,
+  "block": "B04",
+  "text": "when you're on the menu?",
+  "scene": "glowing eyes appearing all around him in the darkness",
+  "start": 238.259,
+  "end": 240.61
+ },
+ {
+  "n": 93,
+  "block": "B05",
+  "text": "The first answer was fire.",
+  "scene": "a bright orange campfire crackling in the dark",
+  "start": 240.61,
+  "end": 242.925
+ },
+ {
+  "n": 94,
+  "block": "B05",
+  "text": "Fire changed everything about the night.",
+  "scene": "{CAVE} holding his hands toward a fire, his face glowing orange",
+  "start": 242.925,
+  "end": 246.023
+ },
+ {
+  "n": 95,
+  "block": "B05",
+  "text": "It gave you light,",
+  "scene": "the fire lighting up a circle of ground around it in the dark",
+  "start": 246.023,
+  "end": 247.123
+ },
+ {
+  "n": 96,
+  "block": "B05",
+  "text": "so you could see what was coming.",
+  "scene": "{CAVE} pointing at a pair of glowing eyes in the dark with a torch",
+  "start": 247.123,
+  "end": 249.393
+ },
+ {
+  "n": 97,
+  "block": "B05",
+  "text": "It gave you warmth,",
+  "scene": "{CAVE} and {WOMAN} warming their hands by the fire, smiling",
+  "start": 249.393,
+  "end": 250.793
+ },
+ {
+  "n": 98,
+  "block": "B05",
+  "text": "so you could survive cold nights without fur.",
+  "scene": "a snowy night, the two cavepeople huddled close to the fire",
+  "start": 250.793,
+  "end": 254.198
+ },
+ {
+  "n": 99,
+  "block": "B05",
+  "text": "And most animals are afraid of it.",
+  "scene": "a lion stopping at the edge of the firelight, backing away",
+  "start": 254.198,
+  "end": 256.723
+ },
+ {
+  "n": 100,
+  "block": "B05",
+  "text": "A wall of flame and smoke",
+  "scene": "a big fire with thick smoke rising into the night sky",
+  "start": 256.723,
+  "end": 258.722
+ },
+ {
+  "n": 101,
+  "block": "B05",
+  "text": "was the closest thing to a front door",
+  "scene": "a cartoon door drawn around the fire with a doorbell",
+  "start": 258.722,
+  "end": 261.547
+ },
+ {
+  "n": 102,
+  "block": "B05",
+  "text": "that Stone Age humans had.",
+  "scene": "{CAVE} sitting by the fire with his arms crossed proudly",
+  "start": 261.547,
+  "end": 264.034
+ },
+ {
+  "n": 103,
+  "block": "B05",
+  "text": "And here's something strange.",
+  "scene": "{GUY} sitting in front of a fireplace in a modern living room",
+  "start": 264.034,
+  "end": 266.258
+ },
+ {
+  "n": 104,
+  "block": "B05",
+  "text": "In one study, people sat and watched a video of a crackling fire.",
+  "scene": "{GUY} watching a fireplace video on a TV screen",
+  "start": 266.258,
+  "end": 271.348
+ },
+ {
+  "n": 105,
+  "block": "B05",
+  "text": "Their blood pressure went down.",
+  "scene": "a blood pressure gauge with the needle moving down",
+  "start": 271.348,
+  "end": 273.647
+ },
+ {
+  "n": 106,
+  "block": "B05",
+  "text": "And the effect was stronger with sound",
+  "scene": "{GUY} wearing headphones, listening to the fire crackling",
+  "start": 273.647,
+  "end": 276.102
+ },
+ {
+  "n": 107,
+  "block": "B05",
+  "text": "and lasted longer the more they watched.",
+  "scene": "{GUY} relaxing deeper into the couch with a peaceful smile",
+  "start": 276.102,
+  "end": 279.094
+ },
+ {
+  "n": 108,
+  "block": "B05",
+  "text": "That cozy feeling you get from a fireplace",
+  "scene": "a cozy room with a fireplace, a cat sleeping in front of it",
+  "start": 279.094,
+  "end": 282.105
+ },
+ {
+  "n": 109,
+  "block": "B05",
+  "text": "may be one of the oldest feelings you have.",
+  "scene": "a ghostly {CAVE} by a campfire appearing behind the modern fireplace",
+  "start": 282.105,
+  "end": 285.602
+ },
+ {
+  "n": 110,
+  "block": "B05",
+  "text": "Your brain still reads fire as:",
+  "scene": "a thought bubble above {GUY}'s head with a campfire in it",
+  "start": 285.602,
+  "end": 287.829
+ },
+ {
+  "n": 111,
+  "block": "B05",
+  "text": "we're safe tonight.",
+  "scene": "{GUY} falling asleep on the couch by the fire, Z letters floating up",
+  "start": 287.829,
+  "end": 290.292
+ },
+ {
+  "n": 112,
+  "block": "B06",
+  "text": "And fire gave humans something no other animal had.",
+  "scene": "{CAVE} looking at the fire with wonder, sparks rising into the stars",
+  "start": 290.292,
+  "end": 294.322
+ },
+ {
+  "n": 113,
+  "block": "B06",
+  "text": "Extra hours in the evening.",
+  "scene": "a clock face with the evening hours glowing orange",
+  "start": 294.322,
+  "end": 296.615
+ },
+ {
+  "n": 114,
+  "block": "B06",
+  "text": "Time after dark when you couldn't hunt or gather,",
+  "scene": "a bow and a basket lying unused next to the fire",
+  "start": 296.615,
+  "end": 299.485
+ },
+ {
+  "n": 115,
+  "block": "B06",
+  "text": "but you weren't asleep yet either.",
+  "scene": "{CAVE} and {WOMAN} sitting awake by the fire, eyes wide open",
+  "start": 299.485,
+  "end": 301.962
+ },
+ {
+  "n": 116,
+  "block": "B06",
+  "text": "An anthropologist named Polly Wiessner",
+  "scene": "a female anthropologist with a notebook sitting near a fire in a desert camp",
+  "start": 301.962,
+  "end": 305.007
+ },
+ {
+  "n": 117,
+  "block": "B06",
+  "text": "recorded conversations among the Ju/'hoansi people of southern Africa.",
+  "scene": "a small desert camp with grass huts and people talking around a fire",
+  "start": 305.007,
+  "end": 310.791
+ },
+ {
+  "n": 118,
+  "block": "B06",
+  "text": "During the day, people mostly talked about practical things.",
+  "scene": "people in daylight pointing at the ground, arguing about food and work",
+  "start": 310.791,
+  "end": 315.356
+ },
+ {
+  "n": 119,
+  "block": "B06",
+  "text": "Food,",
+  "scene": "a pile of roots and berries",
+  "start": 315.356,
+  "end": 315.856
+ },
+ {
+  "n": 120,
+  "block": "B06",
+  "text": "tasks,",
+  "scene": "a basket and a digging stick",
+  "start": 315.856,
+  "end": 316.411
+ },
+ {
+  "n": 121,
+  "block": "B06",
+  "text": "complaints.",
+  "scene": "a man grumbling with a small storm cloud over his head",
+  "start": 316.411,
+  "end": 317.664
+ },
+ {
+  "n": 122,
+  "block": "B06",
+  "text": "But around the fire at night,",
+  "scene": "the same people sitting around a fire at night under the stars",
+  "start": 317.664,
+  "end": 319.769
+ },
+ {
+  "n": 123,
+  "block": "B06",
+  "text": "most of the conversation turned into stories.",
+  "scene": "an old storyteller waving his arms dramatically, everyone listening closely",
+  "start": 319.769,
+  "end": 323.315
+ },
+ {
+  "n": 124,
+  "block": "B06",
+  "text": "Stories about people who lived far away,",
+  "scene": "a speech bubble showing faraway people and mountains",
+  "start": 323.315,
+  "end": 326.283
+ },
+ {
+  "n": 125,
+  "block": "B06",
+  "text": "about ancestors,",
+  "scene": "a speech bubble with ghostly ancestors",
+  "start": 326.283,
+  "end": 327.632
+ },
+ {
+  "n": 126,
+  "block": "B06",
+  "text": "about spirits and adventures.",
+  "scene": "a speech bubble with a spirit animal and a hunter",
+  "start": 327.632,
+  "end": 330.279
+ },
+ {
+  "n": 127,
+  "block": "B06",
+  "text": "The night around the fire may be where the bedtime story was born.",
+  "scene": "a modern parent reading a book to a sleepy child in bed, a ghostly campfire behind them",
+  "start": 330.279,
+  "end": 335.297
+ },
+ {
+  "n": 128,
+  "block": "B06",
+  "text": "And maybe a good part of human culture with it.",
+  "scene": "a glowing campfire with music notes, stories and drawings floating up into the night sky",
+  "start": 335.297,
+  "end": 339.378
+ },
+ {
+  "n": 129,
+  "block": "B07",
+  "text": "But early humans didn't just sleep on the dirt.",
+  "scene": "{CAVE} lying on bare rocky ground, uncomfortable, with a rock under his back",
+  "start": 339.378,
+  "end": 342.671
+ },
+ {
+  "n": 130,
+  "block": "B07",
+  "text": "They made beds.",
+  "scene": "{CAVE} carrying a big armful of grass into a cave",
+  "start": 342.671,
+  "end": 344.342
+ },
+ {
+  "n": 131,
+  "block": "B07",
+  "text": "In Border Cave, in South Africa,",
+  "scene": "a rocky cave high in a mountain cliff",
+  "start": 344.342,
+  "end": 346.874
+ },
+ {
+  "n": 132,
+  "block": "B07",
+  "text": "archaeologists found layers of grass bedding",
+  "scene": "{SCI} kneeling over a layer of old dried grass in the cave floor with a brush",
+  "start": 346.874,
+  "end": 350.249
+ },
+ {
+  "n": 133,
+  "block": "B07",
+  "text": "that are around two hundred thousand years old.",
+  "scene": "a stone with \"200,000\" carved on it next to the grass bedding",
+  "start": 350.249,
+  "end": 354.255
+ },
+ {
+  "n": 134,
+  "block": "B07",
+  "text": "And the people who made them did something clever.",
+  "scene": "{CAVE} with a lightbulb glowing above his head",
+  "start": 354.255,
+  "end": 357.661
+ },
+ {
+  "n": 135,
+  "block": "B07",
+  "text": "They laid the grass on top of layers of ash.",
+  "scene": "{WOMAN} spreading grey ash on the cave floor, then grass on top",
+  "start": 357.661,
+  "end": 361.082
+ },
+ {
+  "n": 136,
+  "block": "B07",
+  "text": "Ash makes it harder for crawling insects to get into your bed.",
+  "scene": "tiny cartoon ants trying to walk across ash and turning back",
+  "start": 361.082,
+  "end": 365.573
+ },
+ {
+  "n": 137,
+  "block": "B07",
+  "text": "In another cave, called Sibudu,",
+  "scene": "another cave entrance in a green hillside with trees",
+  "start": 365.573,
+  "end": 367.953
+ },
+ {
+  "n": 138,
+  "block": "B07",
+  "text": "people made bedding about seventy-seven thousand years ago",
+  "scene": "a stone with \"77,000\" carved on it next to a layered bed of leaves",
+  "start": 367.953,
+  "end": 372.169
+ },
+ {
+  "n": 139,
+  "block": "B07",
+  "text": "from grasses and sedges,",
+  "scene": "{WOMAN} cutting tall green sedges near a river",
+  "start": 372.169,
+  "end": 374.074
+ },
+ {
+  "n": 140,
+  "block": "B07",
+  "text": "topped with leaves from a tree",
+  "scene": "a tree with dark green aromatic leaves",
+  "start": 374.074,
+  "end": 376.386
+ },
+ {
+  "n": 141,
+  "block": "B07",
+  "text": "that contains natural insect-repelling chemicals.",
+  "scene": "mosquitoes flying away from the leaves holding their noses",
+  "start": 376.386,
+  "end": 380.41
+ },
+ {
+  "n": 142,
+  "block": "B07",
+  "text": "And every so often,",
+  "scene": "a calendar with pages flipping",
+  "start": 380.41,
+  "end": 381.903
+ },
+ {
+  "n": 143,
+  "block": "B07",
+  "text": "they burned the old bedding,",
+  "scene": "the old dry bed of grass going up in flames inside the cave",
+  "start": 381.903,
+  "end": 383.979
+ },
+ {
+  "n": 144,
+  "block": "B07",
+  "text": "probably to kill pests and keep the cave clean.",
+  "scene": "tiny cartoon bugs running away from the fire with tiny suitcases",
+  "start": 383.979,
+  "end": 387.709
+ },
+ {
+  "n": 145,
+  "block": "B07",
+  "text": "Two hundred thousand years ago,",
+  "scene": "a stone with \"200,000\" carved on it",
+  "start": 387.709,
+  "end": 389.853
+ },
+ {
+  "n": 146,
+  "block": "B07",
+  "text": "people already had bug spray and fresh sheets.",
+  "scene": "{CAVE} proudly showing a neat bed of leaves like a hotel room, with a tiny mint on top",
+  "start": 389.853,
+  "end": 393.916
+ },
+ {
+  "n": 147,
+  "block": "B08",
+  "text": "And here's something that might surprise you.",
+  "scene": "{GUY} sitting alone in a big empty bed in a modern bedroom",
+  "start": 393.916,
+  "end": 396.896
+ },
+ {
+  "n": 148,
+  "block": "B08",
+  "text": "For almost all of human history,",
+  "scene": "a long timeline with tiny groups of people huddled together",
+  "start": 396.896,
+  "end": 399.398
+ },
+ {
+  "n": 149,
+  "block": "B08",
+  "text": "nobody slept alone.",
+  "scene": "a pile of cavepeople sleeping close together under one big fur blanket",
+  "start": 399.398,
+  "end": 401.417
+ },
+ {
+  "n": 150,
+  "block": "B08",
+  "text": "Families slept together,",
+  "scene": "{CAVE}, {WOMAN} and a small child sleeping side by side on a grass bed",
+  "start": 401.417,
+  "end": 403.035
+ },
+ {
+  "n": 151,
+  "block": "B08",
+  "text": "in one big pile,",
+  "scene": "a whole group of cavepeople snuggled together, feet sticking out from under the furs",
+  "start": 403.035,
+  "end": 404.191
+ },
+ {
+  "n": 152,
+  "block": "B08",
+  "text": "sharing body heat.",
+  "scene": "red warmth waves rising from the sleeping pile",
+  "start": 404.191,
+  "end": 405.882
+ },
+ {
+  "n": 153,
+  "block": "B08",
+  "text": "Babies slept right next to their mothers.",
+  "scene": "{WOMAN} sleeping with a baby curled up against her chest",
+  "start": 405.882,
+  "end": 408.825
+ },
+ {
+  "n": 154,
+  "block": "B08",
+  "text": "And in many parts of the world,",
+  "scene": "a world map with little families sleeping on every continent",
+  "start": 408.825,
+  "end": 411.178
+ },
+ {
+  "n": 155,
+  "block": "B08",
+  "text": "families sharing a bed or a room",
+  "scene": "a modern family sleeping together on a big mattress on the floor",
+  "start": 411.178,
+  "end": 413.6
+ },
+ {
+  "n": 156,
+  "block": "B08",
+  "text": "is still completely normal today.",
+  "scene": "{GUY} looking surprised next to the family",
+  "start": 413.6,
+  "end": 416.508
+ },
+ {
+  "n": 157,
+  "block": "B08",
+  "text": "Sleeping in a group was warmer,",
+  "scene": "a thermometer next to the sleeping pile showing warm",
+  "start": 416.508,
+  "end": 418.584
+ },
+ {
+  "n": 158,
+  "block": "B08",
+  "text": "safer,",
+  "scene": "a predator walking away from the big sleeping pile",
+  "start": 418.584,
+  "end": 419.177
+ },
+ {
+  "n": 159,
+  "block": "B08",
+  "text": "and someone was always close enough",
+  "scene": "one cavewoman opening her eyes and checking on the others",
+  "start": 419.177,
+  "end": 421.49
+ },
+ {
+  "n": 160,
+  "block": "B08",
+  "text": "to hear if something went wrong.",
+  "scene": "the cavewoman listening carefully to a sound in the dark",
+  "start": 421.49,
+  "end": 424.045
+ },
+ {
+  "n": 161,
+  "block": "B08",
+  "text": "The idea of a private bedroom just for you",
+  "scene": "a modern bedroom with a door that says PRIVATE",
+  "start": 424.045,
+  "end": 427.32
+ },
+ {
+  "n": 162,
+  "block": "B08",
+  "text": "is, in human terms, brand new.",
+  "scene": "a tiny dot at the very end of a long timeline labeled BEDROOMS",
+  "start": 427.32,
+  "end": 430.74
+ },
+ {
+  "n": 163,
+  "block": "B09",
+  "text": "And then the Ice Age made things even harder.",
+  "scene": "a frozen landscape with snow and ice under a dark sky",
+  "start": 430.74,
+  "end": 434.246
+ },
+ {
+  "n": 164,
+  "block": "B09",
+  "text": "Imagine sleeping outside",
+  "scene": "{CAVE} wrapped in furs, shivering in a snowstorm",
+  "start": 434.246,
+  "end": 436.097
+ },
+ {
+  "n": 165,
+  "block": "B09",
+  "text": "when it's thirty degrees below zero.",
+  "scene": "a thermometer showing minus thirty with ice crystals",
+  "start": 436.097,
+  "end": 439.162
+ },
+ {
+  "n": 166,
+  "block": "B09",
+  "text": "Ice Age people slept in caves,",
+  "scene": "{CAVE} and {WOMAN} sleeping deep inside a cave with a fire at the entrance",
+  "start": 439.162,
+  "end": 441.607
+ },
+ {
+  "n": 167,
+  "block": "B09",
+  "text": "under rock shelters,",
+  "scene": "a big overhanging rock with people sleeping underneath it",
+  "start": 441.607,
+  "end": 443.334
+ },
+ {
+  "n": 168,
+  "block": "B09",
+  "text": "and in tents made of animal skins.",
+  "scene": "a cone-shaped tent made of animal hides in the snow",
+  "start": 443.334,
+  "end": 446.487
+ },
+ {
+  "n": 169,
+  "block": "B09",
+  "text": "In Ukraine, archaeologists found huts",
+  "scene": "{SCI} brushing snow off a huge pile of giant bones",
+  "start": 446.487,
+  "end": 449.381
+ },
+ {
+  "n": 170,
+  "block": "B09",
+  "text": "built from mammoth bones,",
+  "scene": "a dome-shaped hut made of huge curved mammoth bones and tusks",
+  "start": 449.381,
+  "end": 451.429
+ },
+ {
+  "n": 171,
+  "block": "B09",
+  "text": "around fifteen thousand years old.",
+  "scene": "a stone with \"15,000\" carved on it next to the hut",
+  "start": 451.429,
+  "end": 454.531
+ },
+ {
+  "n": 172,
+  "block": "B09",
+  "text": "Huge jaws and tusks stacked into walls,",
+  "scene": "close-up of mammoth jawbones stacked like bricks",
+  "start": 454.531,
+  "end": 457.613
+ },
+ {
+  "n": 173,
+  "block": "B09",
+  "text": "probably covered with hides,",
+  "scene": "the bone hut covered with brown animal skins",
+  "start": 457.613,
+  "end": 459.906
+ },
+ {
+  "n": 174,
+  "block": "B09",
+  "text": "with a fire burning inside.",
+  "scene": "a warm orange glow coming from the door of the hut at night",
+  "start": 459.906,
+  "end": 462.547
+ },
+ {
+  "n": 175,
+  "block": "B09",
+  "text": "They slept on piles of furs,",
+  "scene": "cavepeople sleeping on thick piles of fur inside the hut",
+  "start": 462.547,
+  "end": 464.509
+ },
+ {
+  "n": 176,
+  "block": "B09",
+  "text": "close together,",
+  "scene": "the group huddled very close under the furs",
+  "start": 464.509,
+  "end": 465.674
+ },
+ {
+  "n": 177,
+  "block": "B09",
+  "text": "with the fire kept burning all night.",
+  "scene": "{CAVE} waking up to add a bone to the fire, sparks flying",
+  "start": 465.674,
+  "end": 468.609
+ },
+ {
+  "n": 178,
+  "block": "B09",
+  "text": "Imagine your bedroom walls",
+  "scene": "{GUY} looking at a bedroom wall made of mammoth bones",
+  "start": 468.609,
+  "end": 470.478
+ },
+ {
+  "n": 179,
+  "block": "B09",
+  "text": "being made of the animal you ate for dinner.",
+  "scene": "{GUY} holding a giant mammoth drumstick with a confused face",
+  "start": 470.478,
+  "end": 474.469
+ },
+ {
+  "n": 180,
+  "block": "B10",
+  "text": "But fire and beds weren't enough.",
+  "scene": "{CAVE} sleeping by a small dying fire, a glowing pair of eyes in the dark behind him",
+  "start": 474.469,
+  "end": 477.02
+ },
+ {
+  "n": 181,
+  "block": "B10",
+  "text": "Fires burn out.",
+  "scene": "the campfire shrinking down to a few glowing embers",
+  "start": 477.02,
+  "end": 478.81
+ },
+ {
+  "n": 182,
+  "block": "B10",
+  "text": "Predators get brave.",
+  "scene": "a hyena creeping closer to the embers, licking its lips",
+  "start": 478.81,
+  "end": 480.753
+ },
+ {
+  "n": 183,
+  "block": "B10",
+  "text": "So you need something else.",
+  "scene": "{CAVE} sitting up, holding a spear, looking into the darkness",
+  "start": 480.753,
+  "end": 482.826
+ },
+ {
+  "n": 184,
+  "block": "B10",
+  "text": "Someone has to stay awake.",
+  "scene": "{CAVE} sitting up awake by the fire while everyone else sleeps around him",
+  "start": 482.826,
+  "end": 485.041
+ },
+ {
+  "n": 185,
+  "block": "B10",
+  "text": "And here's where it gets really interesting.",
+  "scene": "{GUY} leaning toward the viewer with excited eyes",
+  "start": 485.041,
+  "end": 488.002
+ },
+ {
+  "n": 186,
+  "block": "B10",
+  "text": "Scientists studied the Hadza,",
+  "scene": "{SCI} walking with a notebook through a dry Tanzanian landscape with baobab trees",
+  "start": 488.002,
+  "end": 490.298
+ },
+ {
+  "n": 187,
+  "block": "B10",
+  "text": "a group of hunter-gatherers in Tanzania",
+  "scene": "a small camp of grass huts under a big baobab tree",
+  "start": 490.298,
+  "end": 493.291
+ },
+ {
+  "n": 188,
+  "block": "B10",
+  "text": "who still live in a way that's similar to how our ancestors lived.",
+  "scene": "Hadza people sitting around a fire with bows and arrows next to them",
+  "start": 493.291,
+  "end": 498.582
+ },
+ {
+  "n": 189,
+  "block": "B10",
+  "text": "Researchers gave thirty-three people motion-tracking watches",
+  "scene": "{SCI} strapping a small watch onto someone's wrist",
+  "start": 498.582,
+  "end": 502.661
+ },
+ {
+  "n": 190,
+  "block": "B10",
+  "text": "and recorded their sleep for twenty nights.",
+  "scene": "a calendar with twenty boxes ticked off",
+  "start": 502.661,
+  "end": 506.077
+ },
+ {
+  "n": 191,
+  "block": "B10",
+  "text": "And they found something amazing.",
+  "scene": "{SCI} staring at a laptop screen with his jaw dropped",
+  "start": 506.077,
+  "end": 508.457
+ },
+ {
+  "n": 192,
+  "block": "B10",
+  "text": "In all those nights,",
+  "scene": "a long night sky with twenty moons in a row",
+  "start": 508.457,
+  "end": 509.891
+ },
+ {
+  "n": 193,
+  "block": "B10",
+  "text": "there were only about eighteen minutes in total",
+  "scene": "a tiny stopwatch showing 18 minutes",
+  "start": 509.891,
+  "end": 512.939
+ },
+ {
+  "n": 194,
+  "block": "B10",
+  "text": "when everyone was asleep at the same time.",
+  "scene": "a whole camp of people all asleep with Z letters, a red alarm light on",
+  "start": 512.939,
+  "end": 516.109
+ },
+ {
+  "n": 195,
+  "block": "B10",
+  "text": "The rest of the time,",
+  "scene": "a clock face spinning through the night",
+  "start": 516.109,
+  "end": 517.75
+ },
+ {
+  "n": 196,
+  "block": "B10",
+  "text": "at least one person was awake or sleeping lightly.",
+  "scene": "one person sitting up by the fire while the others sleep, a glowing shield around the camp",
+  "start": 517.75,
+  "end": 521.715
+ },
+ {
+  "n": 197,
+  "block": "B10",
+  "text": "Nobody planned a night watch.",
+  "scene": "a crossed-out schedule board with names and times",
+  "start": 521.715,
+  "end": 524.063
+ },
+ {
+  "n": 198,
+  "block": "B10",
+  "text": "It happened naturally.",
+  "scene": "{SCI} pointing at a simple chart with overlapping sleep bars of different colors",
+  "start": 524.063,
+  "end": 525.984
+ },
+ {
+  "n": 199,
+  "block": "B10",
+  "text": "Because people's body clocks are different.",
+  "scene": "a row of people with different clocks above their heads showing different times",
+  "start": 525.984,
+  "end": 528.871
+ },
+ {
+  "n": 200,
+  "block": "B10",
+  "text": "Some people are natural early birds.",
+  "scene": "an old woman waking up before sunrise, stretching happily",
+  "start": 528.871,
+  "end": 531.856
+ },
+ {
+  "n": 201,
+  "block": "B10",
+  "text": "Some people are night owls.",
+  "scene": "a teenager wide awake under the moon, looking at the stars",
+  "start": 531.856,
+  "end": 534.203
+ },
+ {
+  "n": 202,
+  "block": "B10",
+  "text": "And that difference might be ancient security.",
+  "scene": "a glowing shield over a sleeping camp, with an early bird and a night owl standing guard on either side",
+  "start": 534.203,
+  "end": 537.611
+ },
+ {
+  "n": 203,
+  "block": "B10",
+  "text": "Your grandmother waking up at five in the morning,",
+  "scene": "an old woman in a modern kitchen at dawn, making tea",
+  "start": 537.611,
+  "end": 541.152
+ },
+ {
+  "n": 204,
+  "block": "B10",
+  "text": "your teenage cousin wide awake at two a.m.,",
+  "scene": "a teenager in a dark bedroom at night, wide awake",
+  "start": 541.152,
+  "end": 544.234
+ },
+ {
+  "n": 205,
+  "block": "B10",
+  "text": "they might be running an ancient night watch",
+  "scene": "a ghostly ancient camp behind them, with figures standing guard by a fire",
+  "start": 544.234,
+  "end": 547.381
+ },
+ {
+  "n": 206,
+  "block": "B10",
+  "text": "that kept our ancestors alive.",
+  "scene": "the whole ancient camp waking up safely in the morning sunshine, smiling",
+  "start": 547.381,
+  "end": 550.03
+ },
+ {
+  "n": 207,
+  "block": "B10",
+  "text": "And eventually, our ancestors got some help with the night shift.",
+  "scene": "a wolf sitting at the edge of the firelight, ears up",
+  "start": 550.03,
+  "end": 554.859
+ },
+ {
+  "n": 208,
+  "block": "B10",
+  "text": "Wolves that hung around human camps",
+  "scene": "a few wolves lying near a campfire, watching the dark",
+  "start": 554.859,
+  "end": 557.426
+ },
+ {
+  "n": 209,
+  "block": "B10",
+  "text": "became the first dogs.",
+  "scene": "a brown dog curled up next to a sleeping caveman",
+  "start": 557.426,
+  "end": 559.557
+ },
+ {
+  "n": 210,
+  "block": "B10",
+  "text": "And a dog sleeping by the fire",
+  "scene": "the dog lying by the fire with one ear twitching",
+  "start": 559.557,
+  "end": 561.988
+ },
+ {
+  "n": 211,
+  "block": "B10",
+  "text": "is basically a living alarm system.",
+  "scene": "the dog jumping up and barking at the dark, the humans waking up",
+  "start": 561.988,
+  "end": 565.196
+ },
+ {
+  "n": 212,
+  "block": "B10",
+  "text": "It hears things you can't,",
+  "scene": "a big ear with sound waves coming from far away",
+  "start": 565.196,
+  "end": 567.021
+ },
+ {
+  "n": 213,
+  "block": "B10",
+  "text": "smells things you can't,",
+  "scene": "a dog's nose with smell lines leading into the dark grass",
+  "start": 567.021,
+  "end": 568.725
+ },
+ {
+  "n": 214,
+  "block": "B10",
+  "text": "and it barks before the leopard gets close.",
+  "scene": "the dog barking at a leopard hiding in the bushes, the leopard sneaking away embarrassed",
+  "start": 568.725,
+  "end": 572.584
+ },
+ {
+  "n": 215,
+  "block": "B11",
+  "text": "And there's another night watch",
+  "scene": "{GUY} pointing at his own head",
+  "start": 572.584,
+  "end": 574.382
+ },
+ {
+  "n": 216,
+  "block": "B11",
+  "text": "running inside your own head.",
+  "scene": "a cartoon brain with a tiny guard standing on top of it holding a flashlight",
+  "start": 574.382,
+  "end": 576.497
+ },
+ {
+  "n": 217,
+  "block": "B11",
+  "text": "Have you ever noticed",
+  "scene": "{GUY} lying in a hotel bed, eyes wide open at night",
+  "start": 576.497,
+  "end": 577.893
+ },
+ {
+  "n": 218,
+  "block": "B11",
+  "text": "that you sleep terribly the first night in a new place?",
+  "scene": "{GUY} tossing and turning in the hotel bed, the sheets tangled",
+  "start": 577.893,
+  "end": 581.606
+ },
+ {
+  "n": 219,
+  "block": "B11",
+  "text": "Scientists call it the first-night effect.",
+  "scene": "a sign that says FIRST NIGHT EFFECT on a hotel door",
+  "start": 581.606,
+  "end": 584.631
+ },
+ {
+  "n": 220,
+  "block": "B11",
+  "text": "In one study, researchers scanned people's brains",
+  "scene": "{SCI} next to a person sleeping in a lab bed with wires on their head",
+  "start": 584.631,
+  "end": 587.772
+ },
+ {
+  "n": 221,
+  "block": "B11",
+  "text": "on their first night in a sleep lab.",
+  "scene": "a sleep lab with a bed, machines and blinking lights",
+  "start": 587.772,
+  "end": 590.563
+ },
+ {
+  "n": 222,
+  "block": "B11",
+  "text": "And they found that one half of the brain",
+  "scene": "a cartoon brain split down the middle, one half glowing",
+  "start": 590.563,
+  "end": 593.111
+ },
+ {
+  "n": 223,
+  "block": "B11",
+  "text": "stayed more alert than the other.",
+  "scene": "the glowing half of the brain with an open eye drawn on it, the other half with a closed eye",
+  "start": 593.111,
+  "end": 595.627
+ },
+ {
+  "n": 224,
+  "block": "B11",
+  "text": "That half reacted more to strange sounds,",
+  "scene": "a strange beeping sound wave reaching the brain, the glowing half reacting",
+  "start": 595.627,
+  "end": 598.541
+ },
+ {
+  "n": 225,
+  "block": "B11",
+  "text": "and woke people up faster.",
+  "scene": "{GUY} jolting awake in the lab bed",
+  "start": 598.541,
+  "end": 600.903
+ },
+ {
+  "n": 226,
+  "block": "B11",
+  "text": "It's like part of your brain is on guard duty",
+  "scene": "the tiny guard with a flashlight standing on the brain, looking around",
+  "start": 600.903,
+  "end": 604.141
+ },
+ {
+  "n": 227,
+  "block": "B11",
+  "text": "in an unfamiliar place.",
+  "scene": "a hotel room at night with strange shadows",
+  "start": 604.141,
+  "end": 606.345
+ },
+ {
+  "n": 228,
+  "block": "B11",
+  "text": "Dolphins and birds do something similar on a bigger scale.",
+  "scene": "a dolphin and a bird each sleeping with one eye open",
+  "start": 606.345,
+  "end": 611.098
+ },
+ {
+  "n": 229,
+  "block": "B11",
+  "text": "Your brain keeps a little piece of that ancient trick.",
+  "scene": "{GUY} sleeping with one eye slightly open in the hotel bed",
+  "start": 611.098,
+  "end": 614.658
+ },
+ {
+  "n": 230,
+  "block": "B11",
+  "text": "Just in case there's a leopard in the hotel room.",
+  "scene": "a leopard wearing a bellhop hat standing next to the hotel bed with a tray",
+  "start": 614.658,
+  "end": 619.027
+ },
+ {
+  "n": 231,
+  "block": "B12",
+  "text": "And now let's talk about three in the morning.",
+  "scene": "{GUY} sitting up in bed at night, an alarm clock showing 3:00",
+  "start": 619.027,
+  "end": 622.082
+ },
+ {
+  "n": 232,
+  "block": "B12",
+  "text": "Many people today wake up in the middle of the night",
+  "scene": "{GUY} staring at the ceiling in a dark bedroom",
+  "start": 622.082,
+  "end": 625.398
+ },
+ {
+  "n": 233,
+  "block": "B12",
+  "text": "and panic that something's wrong with them.",
+  "scene": "{GUY} with a worried face and a storm cloud of thoughts above his head",
+  "start": 625.398,
+  "end": 628.6
+ },
+ {
+  "n": 234,
+  "block": "B12",
+  "text": "But there's a fascinating historical clue.",
+  "scene": "{SCI} holding a stack of very old books and scrolls",
+  "start": 628.6,
+  "end": 631.787
+ },
+ {
+  "n": 235,
+  "block": "B12",
+  "text": "A historian named Roger Ekirch",
+  "scene": "a historian with glasses reading old papers at a desk with a candle",
+  "start": 631.787,
+  "end": 634.319
+ },
+ {
+  "n": 236,
+  "block": "B12",
+  "text": "found hundreds of references in old documents",
+  "scene": "{SCI} surrounded by piles of old letters and books with bookmarks",
+  "start": 634.319,
+  "end": 637.967
+ },
+ {
+  "n": 237,
+  "block": "B12",
+  "text": "to something called first sleep and second sleep.",
+  "scene": "a candle-lit page with the words FIRST SLEEP and SECOND SLEEP glowing",
+  "start": 637.967,
+  "end": 642.333
+ },
+ {
+  "n": 238,
+  "block": "B12",
+  "text": "Before electric lights,",
+  "scene": "a medieval village at night with no lights except the moon",
+  "start": 642.333,
+  "end": 644.13
+ },
+ {
+  "n": 239,
+  "block": "B12",
+  "text": "many people in Europe went to bed soon after dark,",
+  "scene": "a medieval family going to bed by candlelight, blowing out the candle",
+  "start": 644.13,
+  "end": 647.723
+ },
+ {
+  "n": 240,
+  "block": "B12",
+  "text": "slept for a few hours,",
+  "scene": "the family asleep with Z letters floating above their beds",
+  "start": 647.723,
+  "end": 649.453
+ },
+ {
+  "n": 241,
+  "block": "B12",
+  "text": "and then woke up in the middle of the night",
+  "scene": "the family waking up in the dark, sitting up in bed",
+  "start": 649.453,
+  "end": 652.581
+ },
+ {
+  "n": 242,
+  "block": "B12",
+  "text": "for an hour or so.",
+  "scene": "a small candle being lit again at midnight",
+  "start": 652.581,
+  "end": 654.465
+ },
+ {
+  "n": 243,
+  "block": "B12",
+  "text": "And they didn't panic about it.",
+  "scene": "a medieval man relaxed in bed with his hands behind his head",
+  "start": 654.465,
+  "end": 656.676
+ },
+ {
+  "n": 244,
+  "block": "B12",
+  "text": "They prayed,",
+  "scene": "a medieval woman kneeling and praying by candlelight",
+  "start": 656.676,
+  "end": 657.633
+ },
+ {
+  "n": 245,
+  "block": "B12",
+  "text": "thought about their dreams,",
+  "scene": "a man in bed with a thought bubble showing a dream",
+  "start": 657.633,
+  "end": 659.488
+ },
+ {
+  "n": 246,
+  "block": "B12",
+  "text": "talked to whoever was next to them,",
+  "scene": "a husband and wife chatting quietly in bed by candlelight",
+  "start": 659.488,
+  "end": 661.821
+ },
+ {
+  "n": 247,
+  "block": "B12",
+  "text": "visited neighbors,",
+  "scene": "a man carrying a lantern, knocking on a neighbor's door at night",
+  "start": 661.821,
+  "end": 663.137
+ },
+ {
+  "n": 248,
+  "block": "B12",
+  "text": "or got a bit of work done.",
+  "scene": "a woman stirring the fire and mending clothes at midnight",
+  "start": 663.137,
+  "end": 665.352
+ },
+ {
+  "n": 249,
+  "block": "B12",
+  "text": "Then they went back to bed for their second sleep.",
+  "scene": "the family lying back down, Z letters floating up again",
+  "start": 665.352,
+  "end": 668.544
+ },
+ {
+  "n": 250,
+  "block": "B12",
+  "text": "Even Geoffrey Chaucer, writing in the 1300s,",
+  "scene": "a medieval poet with a quill and a long hat writing in a big book",
+  "start": 668.544,
+  "end": 672.108
+ },
+ {
+  "n": 251,
+  "block": "B12",
+  "text": "mentions a character going back to bed after her \"first sleep\".",
+  "scene": "a medieval woman in a long dress going back to bed with a candle",
+  "start": 672.108,
+  "end": 677.504
+ },
+ {
+  "n": 252,
+  "block": "B12",
+  "text": "It was so normal that nobody bothered to explain it.",
+  "scene": "a medieval reader nodding casually at a book",
+  "start": 677.504,
+  "end": 681.436
+ },
+ {
+  "n": 253,
+  "block": "B12",
+  "text": "And in the early 1990s,",
+  "scene": "a calendar showing the early 1990s",
+  "start": 681.436,
+  "end": 683.409
+ },
+ {
+  "n": 254,
+  "block": "B12",
+  "text": "a sleep researcher ran an experiment.",
+  "scene": "{SCI} in a lab next to a bedroom with blackout curtains",
+  "start": 683.409,
+  "end": 686.826
+ },
+ {
+  "n": 255,
+  "block": "B12",
+  "text": "He kept volunteers in darkness for fourteen hours every night,",
+  "scene": "a dark room with a clock showing fourteen hours",
+  "start": 686.826,
+  "end": 691.417
+ },
+ {
+  "n": 256,
+  "block": "B12",
+  "text": "like a long winter night without electricity.",
+  "scene": "a snowy cabin at night with no lights",
+  "start": 691.417,
+  "end": 695.246
+ },
+ {
+  "n": 257,
+  "block": "B12",
+  "text": "After a few weeks,",
+  "scene": "a calendar with pages flipping",
+  "start": 695.246,
+  "end": 696.685
+ },
+ {
+  "n": 258,
+  "block": "B12",
+  "text": "many of them started sleeping in two blocks,",
+  "scene": "a chart showing two blue sleep bars separated by a gap",
+  "start": 696.685,
+  "end": 699.827
+ },
+ {
+  "n": 259,
+  "block": "B12",
+  "text": "with a calm, awake period in the middle.",
+  "scene": "a volunteer lying awake peacefully in the dark between the two sleep bars",
+  "start": 699.827,
+  "end": 703.126
+ },
+ {
+  "n": 260,
+  "block": "B12",
+  "text": "Some scientists argue about how universal this pattern really was.",
+  "scene": "two scientists arguing with a question mark between them",
+  "start": 703.126,
+  "end": 708.451
+ },
+ {
+  "n": 261,
+  "block": "B12",
+  "text": "But it means that waking up at three in the morning",
+  "scene": "{GUY} awake in bed at 3:00, looking calmer",
+  "start": 708.451,
+  "end": 711.932
+ },
+ {
+  "n": 262,
+  "block": "B12",
+  "text": "isn't always a sign that your body is broken.",
+  "scene": "{GUY} giving a relieved thumbs up in bed",
+  "start": 711.932,
+  "end": 715.453
+ },
+ {
+  "n": 263,
+  "block": "B12",
+  "text": "Sometimes it's just old software.",
+  "scene": "a cartoon computer inside {GUY}'s head showing an old pixelated screen labeled SLEEP V1.0",
+  "start": 715.453,
+  "end": 718.816
+ },
+ {
+  "n": 264,
+  "block": "B13",
+  "text": "So did ancient humans sleep longer than us?",
+  "scene": "{CAVE} sleeping peacefully next to {GUY} who is checking his phone in bed",
+  "start": 718.816,
+  "end": 721.9
+ },
+ {
+  "n": 265,
+  "block": "B13",
+  "text": "It's a nice idea.",
+  "scene": "a dreamy pink cloud with a sleeping caveman on it",
+  "start": 721.9,
+  "end": 723.861
+ },
+ {
+  "n": 266,
+  "block": "B13",
+  "text": "No phones, no emails, no alarm clocks.",
+  "scene": "a crossed-out phone, a crossed-out laptop and a crossed-out alarm clock",
+  "start": 723.861,
+  "end": 727.532
+ },
+ {
+  "n": 267,
+  "block": "B13",
+  "text": "But when scientists studied three hunter-gatherer and farming groups",
+  "scene": "{SCI} with a map showing three dots in Africa and South America",
+  "start": 727.532,
+  "end": 732.418
+ },
+ {
+  "n": 268,
+  "block": "B13",
+  "text": "in Tanzania, Namibia and Bolivia,",
+  "scene": "three small villages, one with grass huts, one in the desert, one in a jungle",
+  "start": 732.418,
+  "end": 734.929
+ },
+ {
+  "n": 269,
+  "block": "B13",
+  "text": "they found that people slept around six to seven hours a night.",
+  "scene": "a sleeping person with a small clock showing about 6 or 7 hours",
+  "start": 734.929,
+  "end": 739.895
+ },
+ {
+  "n": 270,
+  "block": "B13",
+  "text": "About the same as many people today.",
+  "scene": "{CAVE} and {GUY} lying side by side, both with the same small clock above them",
+  "start": 739.895,
+  "end": 742.733
+ },
+ {
+  "n": 271,
+  "block": "B13",
+  "text": "They usually didn't go to bed when the sun went down.",
+  "scene": "a group of people still sitting and talking by a fire after sunset",
+  "start": 742.733,
+  "end": 746.483
+ },
+ {
+  "n": 272,
+  "block": "B13",
+  "text": "They stayed up for a few hours after dark,",
+  "scene": "people laughing and telling stories around a campfire under the stars",
+  "start": 746.483,
+  "end": 749.395
+ },
+ {
+  "n": 273,
+  "block": "B13",
+  "text": "and fell asleep as the night got colder.",
+  "scene": "a thermometer going down, the people pulling furs over themselves and falling asleep",
+  "start": 749.395,
+  "end": 752.6
+ },
+ {
+  "n": 274,
+  "block": "B13",
+  "text": "And they woke up around the coldest part of the night, near dawn.",
+  "scene": "people waking up at dawn, the sky turning pink, breath steaming in the cold air",
+  "start": 752.6,
+  "end": 757.088
+ },
+ {
+  "n": 275,
+  "block": "B13",
+  "text": "And in hot places,",
+  "scene": "a scorching sun over a dry landscape",
+  "start": 757.088,
+  "end": 758.449
+ },
+ {
+  "n": 276,
+  "block": "B13",
+  "text": "many people took a rest during the hottest part of the day.",
+  "scene": "{CAVE} napping in the shade of a big tree while the sun blazes",
+  "start": 758.449,
+  "end": 762.767
+ },
+ {
+  "n": 277,
+  "block": "B13",
+  "text": "The afternoon nap",
+  "scene": "a hammock between two trees with a person sleeping in it",
+  "start": 762.767,
+  "end": 764.132
+ },
+ {
+  "n": 278,
+  "block": "B13",
+  "text": "is probably much older than the office.",
+  "scene": "a tiny office desk next to a huge ancient tree with someone napping under it",
+  "start": 764.132,
+  "end": 767.349
+ },
+ {
+  "n": 279,
+  "block": "B13",
+  "text": "But here's the big difference.",
+  "scene": "{GUY} raising one finger seriously",
+  "start": 767.349,
+  "end": 769.625
+ },
+ {
+  "n": 280,
+  "block": "B13",
+  "text": "Chronic insomnia was rare in these groups.",
+  "scene": "a happy village waking up in the morning, everyone stretching and smiling",
+  "start": 769.625,
+  "end": 773.139
+ },
+ {
+  "n": 281,
+  "block": "B13",
+  "text": "In two of the languages studied,",
+  "scene": "two speech bubbles with question marks",
+  "start": 773.139,
+  "end": 775.532
+ },
+ {
+  "n": 282,
+  "block": "B13",
+  "text": "researchers reported there wasn't even a common word for insomnia.",
+  "scene": "an empty dictionary page with a blank space where a word should be",
+  "start": 775.532,
+  "end": 780.603
+ },
+ {
+  "n": 283,
+  "block": "B13",
+  "text": "They didn't sleep more.",
+  "scene": "the caveman's clock showing 7 hours",
+  "start": 780.603,
+  "end": 782.457
+ },
+ {
+  "n": 284,
+  "block": "B13",
+  "text": "They just slept with the rhythm of the world around them.",
+  "scene": "{CAVE} sleeping under the stars with the moon and sun drawn on a circle around him",
+  "start": 782.457,
+  "end": 786.823
+ },
+ {
+  "n": 285,
+  "block": "B14",
+  "text": "And then there are dreams.",
+  "scene": "{CAVE} sleeping with a big dream bubble above his head",
+  "start": 786.823,
+  "end": 788.804
+ },
+ {
+  "n": 286,
+  "block": "B14",
+  "text": "Why do we dream at all?",
+  "scene": "a big question mark floating among the stars",
+  "start": 788.804,
+  "end": 790.752
+ },
+ {
+  "n": 287,
+  "block": "B14",
+  "text": "Nobody knows for certain,",
+  "scene": "{SCI} shrugging in front of a chalkboard full of scribbles",
+  "start": 790.752,
+  "end": 792.74
+ },
+ {
+  "n": 288,
+  "block": "B14",
+  "text": "but one idea is called the threat simulation theory.",
+  "scene": "a sign with the words THREAT SIMULATION and a running stick figure on it",
+  "start": 792.74,
+  "end": 796.998
+ },
+ {
+  "n": 289,
+  "block": "B14",
+  "text": "It suggests dreams might be a kind of training program.",
+  "scene": "a cartoon video game screen inside a dream bubble with a level labeled \"SURVIVE\"",
+  "start": 796.998,
+  "end": 801.049
+ },
+ {
+  "n": 290,
+  "block": "B14",
+  "text": "A safe place to practice escaping danger.",
+  "scene": "a dream bubble showing {CAVE} running away from a lion, then climbing a tree to safety",
+  "start": 801.049,
+  "end": 804.424
+ },
+ {
+  "n": 291,
+  "block": "B14",
+  "text": "That might be why so many people around the world",
+  "scene": "a world map with tiny people sleeping on every continent",
+  "start": 804.424,
+  "end": 807.644
+ },
+ {
+  "n": 292,
+  "block": "B14",
+  "text": "have the same kinds of nightmares.",
+  "scene": "many dream bubbles above the map, all showing the same scene of being chased",
+  "start": 807.644,
+  "end": 810.372
+ },
+ {
+  "n": 293,
+  "block": "B14",
+  "text": "Being chased.",
+  "scene": "{GUY} running in a dream with a shadowy monster behind him",
+  "start": 810.372,
+  "end": 811.917
+ },
+ {
+  "n": 294,
+  "block": "B14",
+  "text": "Falling.",
+  "scene": "{GUY} falling through clouds in a dream with a scared face",
+  "start": 811.917,
+  "end": 813.177
+ },
+ {
+  "n": 295,
+  "block": "B14",
+  "text": "Losing your teeth.",
+  "scene": "{GUY} looking in a dream mirror, a tooth falling out, horrified",
+  "start": 813.177,
+  "end": 814.954
+ },
+ {
+  "n": 296,
+  "block": "B14",
+  "text": "Being lost.",
+  "scene": "{GUY} lost in a dark maze in a dream",
+  "start": 814.954,
+  "end": 816.435
+ },
+ {
+  "n": 297,
+  "block": "B14",
+  "text": "Your brain may still be rehearsing",
+  "scene": "a cartoon brain wearing a tracksuit, jogging on a treadmill",
+  "start": 816.435,
+  "end": 818.672
+ },
+ {
+  "n": 298,
+  "block": "B14",
+  "text": "for a world full of predators",
+  "scene": "a dream bubble full of lions and hyenas",
+  "start": 818.672,
+  "end": 820.615
+ },
+ {
+  "n": 299,
+  "block": "B14",
+  "text": "that you will probably never meet.",
+  "scene": "{GUY} waking up in a safe, cozy bedroom, sighing with relief, a cat sleeping at his feet",
+  "start": 820.615,
+  "end": 823.272
+ },
+ {
+  "n": 300,
+  "block": "B14",
+  "text": "And dreams come with a strange safety feature.",
+  "scene": "{GUY} sleeping, a little padlock icon floating above his body",
+  "start": 823.272,
+  "end": 826.535
+ },
+ {
+  "n": 301,
+  "block": "B14",
+  "text": "During the deepest dreaming sleep,",
+  "scene": "the sleeping brain glowing with purple dream swirls",
+  "start": 826.535,
+  "end": 828.93
+ },
+ {
+  "n": 302,
+  "block": "B14",
+  "text": "your brain switches off most of your muscles.",
+  "scene": "{GUY}'s body with a little switch turned to OFF",
+  "start": 828.93,
+  "end": 832.439
+ },
+ {
+  "n": 303,
+  "block": "B14",
+  "text": "So you don't act out your dreams",
+  "scene": "a dream bubble showing {GUY} running, while his real body lies still in bed",
+  "start": 832.439,
+  "end": 834.41
+ },
+ {
+  "n": 304,
+  "block": "B14",
+  "text": "and run straight into the fire.",
+  "scene": "a sleepwalking caveman heading toward a campfire, crossed out",
+  "start": 834.41,
+  "end": 836.746
+ },
+ {
+  "n": 305,
+  "block": "B14",
+  "text": "But sometimes,",
+  "scene": "a dark bedroom at night",
+  "start": 836.746,
+  "end": 837.86
+ },
+ {
+  "n": 306,
+  "block": "B14",
+  "text": "the brain wakes up before the body does.",
+  "scene": "{GUY} with his eyes wide open in bed but unable to move, a frozen expression",
+  "start": 837.86,
+  "end": 841.002
+ },
+ {
+  "n": 307,
+  "block": "B14",
+  "text": "You're awake, but you can't move.",
+  "scene": "{GUY} trying to move his fingers, nothing happening",
+  "start": 841.002,
+  "end": 843.41
+ },
+ {
+  "n": 308,
+  "block": "B14",
+  "text": "That's sleep paralysis.",
+  "scene": "a sign that says SLEEP PARALYSIS on a dark wall",
+  "start": 843.41,
+  "end": 845.46
+ },
+ {
+  "n": 309,
+  "block": "B14",
+  "text": "And because your brain is still half dreaming,",
+  "scene": "half of {GUY}'s head glowing with dream swirls",
+  "start": 845.46,
+  "end": 848.593
+ },
+ {
+  "n": 310,
+  "block": "B14",
+  "text": "people often feel a presence in the room,",
+  "scene": "a dark shadowy figure standing in the corner of the bedroom",
+  "start": 848.593,
+  "end": 851.412
+ },
+ {
+  "n": 311,
+  "block": "B14",
+  "text": "or a weight on their chest.",
+  "scene": "a shadowy creature sitting on {GUY}'s chest",
+  "start": 851.412,
+  "end": 853.775
+ },
+ {
+  "n": 312,
+  "block": "B14",
+  "text": "Cultures all over the world have stories about this.",
+  "scene": "a world map with little shadowy monsters on different continents",
+  "start": 853.775,
+  "end": 857.697
+ },
+ {
+  "n": 313,
+  "block": "B14",
+  "text": "In English folklore it was called \"the old hag\".",
+  "scene": "an old witch-like shadow sitting on a sleeper's chest in a medieval bed",
+  "start": 857.697,
+  "end": 861.384
+ },
+ {
+  "n": 314,
+  "block": "B14",
+  "text": "In other places it was a demon,",
+  "scene": "a small horned shadow figure perched on a bed",
+  "start": 861.384,
+  "end": 863.526
+ },
+ {
+  "n": 315,
+  "block": "B14",
+  "text": "a ghost,",
+  "scene": "a white ghost floating above a bed",
+  "start": 863.526,
+  "end": 864.26
+ },
+ {
+  "n": 316,
+  "block": "B14",
+  "text": "or a witch sitting on your chest.",
+  "scene": "a witch with a pointy hat sitting on a sleeper's chest",
+  "start": 864.26,
+  "end": 866.945
+ },
+ {
+  "n": 317,
+  "block": "B14",
+  "text": "Thousands of years of ghost stories",
+  "scene": "a pile of old books of ghost stories",
+  "start": 866.945,
+  "end": 869.43
+ },
+ {
+  "n": 318,
+  "block": "B14",
+  "text": "may come from a brain that woke up a little too early.",
+  "scene": "a cartoon brain with an alarm clock ringing too early, a sheepish face",
+  "start": 869.43,
+  "end": 874.126
+ },
+ {
+  "n": 319,
+  "block": "B15",
+  "text": "And some of our sleep habits might be ancient survival tools too.",
+  "scene": "{GUY} yawning hugely in a dark living room",
+  "start": 874.126,
+  "end": 878.972
+ },
+ {
+  "n": 320,
+  "block": "B15",
+  "text": "Take yawning.",
+  "scene": "close-up of a giant open mouth yawning",
+  "start": 878.972,
+  "end": 880.441
+ },
+ {
+  "n": 321,
+  "block": "B15",
+  "text": "Yawning is famously contagious.",
+  "scene": "a row of people yawning one after another like dominoes",
+  "start": 880.441,
+  "end": 883.215
+ },
+ {
+  "n": 322,
+  "block": "B15",
+  "text": "One person yawns, and the whole room starts yawning.",
+  "scene": "a room full of people all yawning at the same time",
+  "start": 883.215,
+  "end": 887.245
+ },
+ {
+  "n": 323,
+  "block": "B15",
+  "text": "Some scientists think contagious yawning",
+  "scene": "{SCI} yawning while writing on a chalkboard",
+  "start": 887.245,
+  "end": 890.07
+ },
+ {
+  "n": 324,
+  "block": "B15",
+  "text": "might have helped groups sync up their alertness and their bedtimes.",
+  "scene": "a group of cavepeople yawning together by the fire as the moon rises",
+  "start": 890.07,
+  "end": 895.113
+ },
+ {
+  "n": 325,
+  "block": "B15",
+  "text": "Then there are lullabies.",
+  "scene": "{WOMAN} rocking a baby by the fire and singing, music notes floating up",
+  "start": 895.113,
+  "end": 897.246
+ },
+ {
+  "n": 326,
+  "block": "B15",
+  "text": "In one study, people listened to songs from cultures all over the world,",
+  "scene": "a world map with music notes coming from every continent",
+  "start": 897.246,
+  "end": 902.471
+ },
+ {
+  "n": 327,
+  "block": "B15",
+  "text": "in languages they didn't speak.",
+  "scene": "a man with headphones and a confused face, foreign letters floating around him",
+  "start": 902.471,
+  "end": 905.298
+ },
+ {
+  "n": 328,
+  "block": "B15",
+  "text": "And they could still often tell which ones were lullabies.",
+  "scene": "the man smiling and pointing at a gentle music note with a sleeping baby icon",
+  "start": 905.298,
+  "end": 909.088
+ },
+ {
+  "n": 329,
+  "block": "B15",
+  "text": "Soft, slow and repetitive.",
+  "scene": "a gentle wavy music line",
+  "start": 909.088,
+  "end": 911.473
+ },
+ {
+  "n": 330,
+  "block": "B15",
+  "text": "The sound of a parent saying: you're safe, go to sleep.",
+  "scene": "a mother humming to a sleeping baby, a warm glow around them",
+  "start": 911.473,
+  "end": 915.658
+ },
+ {
+  "n": 331,
+  "block": "B15",
+  "text": "And almost every young child goes through a phase",
+  "scene": "a small child in bed peeking out from under the blanket at a dark closet",
+  "start": 915.658,
+  "end": 918.585
+ },
+ {
+  "n": 332,
+  "block": "B15",
+  "text": "of being scared of the dark.",
+  "scene": "the child's thought bubble showing a monster with glowing eyes in the closet",
+  "start": 918.585,
+  "end": 920.773
+ },
+ {
+  "n": 333,
+  "block": "B15",
+  "text": "Parents everywhere know it.",
+  "scene": "a tired parent checking under a bed with a flashlight",
+  "start": 920.773,
+  "end": 922.848
+ },
+ {
+  "n": 334,
+  "block": "B15",
+  "text": "And some researchers think it may make sense:",
+  "scene": "{SCI} nodding thoughtfully",
+  "start": 922.848,
+  "end": 926.046
+ },
+ {
+  "n": 335,
+  "block": "B15",
+  "text": "for most of history, a small child alone in the dark",
+  "scene": "a tiny caveman child alone at the edge of the firelight, eyes wide",
+  "start": 926.046,
+  "end": 929.701
+ },
+ {
+  "n": 336,
+  "block": "B15",
+  "text": "really was in danger.",
+  "scene": "a hyena's glowing eyes in the dark grass behind the child",
+  "start": 929.701,
+  "end": 931.753
+ },
+ {
+  "n": 337,
+  "block": "B15",
+  "text": "That monster under the bed",
+  "scene": "a cartoon monster peeking out from under a modern bed",
+  "start": 931.753,
+  "end": 933.653
+ },
+ {
+  "n": 338,
+  "block": "B15",
+  "text": "may be a very old leopard.",
+  "scene": "the monster's shadow on the wall shaped like a leopard",
+  "start": 933.653,
+  "end": 935.973
+ },
+ {
+  "n": 339,
+  "block": "B15",
+  "text": "And then there's the moon.",
+  "scene": "a giant full moon rising over a city",
+  "start": 935.973,
+  "end": 937.782
+ },
+ {
+  "n": 340,
+  "block": "B15",
+  "text": "Some studies have found people sleep a little less",
+  "scene": "{GUY} in bed with a full moon shining through the window, eyes open",
+  "start": 937.782,
+  "end": 941.194
+ },
+ {
+  "n": 341,
+  "block": "B15",
+  "text": "and fall asleep later in the nights before a full moon,",
+  "scene": "a calendar with a full moon circled and a small clock showing a later bedtime",
+  "start": 941.194,
+  "end": 944.921
+ },
+ {
+  "n": 342,
+  "block": "B15",
+  "text": "even in cities with electric light.",
+  "scene": "a bright city skyline with a full moon above it",
+  "start": 944.921,
+  "end": 947.805
+ },
+ {
+  "n": 343,
+  "block": "B15",
+  "text": "One idea is that our ancestors used those bright nights",
+  "scene": "{CAVE} walking under a full moon with a torch, the landscape lit up silver",
+  "start": 947.805,
+  "end": 951.724
+ },
+ {
+  "n": 344,
+  "block": "B15",
+  "text": "to stay up longer.",
+  "scene": "a group of cavepeople talking and laughing by moonlight",
+  "start": 951.724,
+  "end": 953.604
+ },
+ {
+  "n": 345,
+  "block": "B15",
+  "text": "Free light.",
+  "scene": "the full moon with a little light bulb icon next to it",
+  "start": 953.604,
+  "end": 955.543
+ },
+ {
+  "n": 346,
+  "block": "B16",
+  "text": "And then there's snoring.",
+  "scene": "{GUY} snoring loudly in bed with big sound waves and a woman covering her ears",
+  "start": 955.543,
+  "end": 957.333
+ },
+ {
+  "n": 347,
+  "block": "B16",
+  "text": "Snoring is loud.",
+  "scene": "a big speaker icon with sound waves next to a sleeping man",
+  "start": 957.333,
+  "end": 959.165
+ },
+ {
+  "n": 348,
+  "block": "B16",
+  "text": "Some snoring has been measured",
+  "scene": "{SCI} holding a sound meter next to a snoring man",
+  "start": 959.165,
+  "end": 961.463
+ },
+ {
+  "n": 349,
+  "block": "B16",
+  "text": "at a volume similar to a loud vacuum cleaner.",
+  "scene": "a vacuum cleaner next to the snoring man, both with big sound waves",
+  "start": 961.463,
+  "end": 965.194
+ },
+ {
+  "n": 350,
+  "block": "B16",
+  "text": "So you'd think snoring would be a disaster in lion country.",
+  "scene": "a lion with its ears up, following loud snoring sounds across the savanna",
+  "start": 965.194,
+  "end": 969.514
+ },
+ {
+  "n": 351,
+  "block": "B16",
+  "text": "A loud noise every night saying:",
+  "scene": "a snoring caveman with a big speech bubble shouting HERE",
+  "start": 969.514,
+  "end": 971.786
+ },
+ {
+  "n": 352,
+  "block": "B16",
+  "text": "dinner is over here.",
+  "scene": "the lion holding a fork and knife, walking toward the snoring caveman",
+  "start": 971.786,
+  "end": 973.72
+ },
+ {
+  "n": 353,
+  "block": "B16",
+  "text": "Some people have joked",
+  "scene": "{GUY} laughing with one hand on his belly",
+  "start": 973.72,
+  "end": 975.26
+ },
+ {
+  "n": 354,
+  "block": "B16",
+  "text": "that snoring might even have scared predators away,",
+  "scene": "a lion running away from a snoring caveman, terrified by the sound",
+  "start": 975.26,
+  "end": 978.517
+ },
+ {
+  "n": 355,
+  "block": "B16",
+  "text": "like a growl in the dark.",
+  "scene": "a snoring caveman with a lion-shaped shadow on the cave wall behind him",
+  "start": 978.517,
+  "end": 980.654
+ },
+ {
+  "n": 356,
+  "block": "B16",
+  "text": "There's no real evidence for that one.",
+  "scene": "a big red X over the scared lion picture",
+  "start": 980.654,
+  "end": 983.581
+ },
+ {
+  "n": 357,
+  "block": "B16",
+  "text": "But one thing is true:",
+  "scene": "{SCI} raising a finger",
+  "start": 983.581,
+  "end": 985.269
+ },
+ {
+  "n": 358,
+  "block": "B16",
+  "text": "ancient humans with jaws and teeth that grew differently",
+  "scene": "an ancient skull with a wide jaw and straight teeth next to a modern skull with crowded teeth",
+  "start": 985.269,
+  "end": 989.163
+ },
+ {
+  "n": 359,
+  "block": "B16",
+  "text": "may have had more room in their airways.",
+  "scene": "a simple diagram of a wide open airway compared to a narrow one",
+  "start": 989.163,
+  "end": 992.44
+ },
+ {
+  "n": 360,
+  "block": "B16",
+  "text": "Our softer modern food",
+  "scene": "a plate of soft modern food like pasta and bread",
+  "start": 992.44,
+  "end": 994.011
+ },
+ {
+  "n": 361,
+  "block": "B16",
+  "text": "may have helped make our jaws smaller",
+  "scene": "a shrinking jaw icon with an arrow pointing down",
+  "start": 994.011,
+  "end": 996.488
+ },
+ {
+  "n": 362,
+  "block": "B16",
+  "text": "and our snoring louder.",
+  "scene": "{GUY} snoring so loudly the picture frames on the wall are shaking",
+  "start": 996.488,
+  "end": 999.119
+ },
+ {
+  "n": 363,
+  "block": "B17",
+  "text": "And cities brought a whole new kind of sleep problem.",
+  "scene": "a crowded ancient Roman street at night lit by torches",
+  "start": 999.119,
+  "end": 1002.528
+ },
+ {
+  "n": 364,
+  "block": "B17",
+  "text": "In ancient Rome, wheeled carts were largely banned from the city during the day",
+  "scene": "a Roman official holding a sign with a crossed-out cart under the sun",
+  "start": 1002.528,
+  "end": 1007.71
+ },
+ {
+  "n": 365,
+  "block": "B17",
+  "text": "to reduce traffic.",
+  "scene": "a jammed Roman street packed with carts and angry people",
+  "start": 1007.71,
+  "end": 1009.503
+ },
+ {
+  "n": 366,
+  "block": "B17",
+  "text": "So the deliveries happened at night.",
+  "scene": "carts with clattering wheels rolling down a dark Roman street under the moon",
+  "start": 1009.503,
+  "end": 1012.013
+ },
+ {
+  "n": 367,
+  "block": "B17",
+  "text": "The Roman poet Juvenal complained",
+  "scene": "an old Roman poet in a toga lying awake in bed, holding his ears",
+  "start": 1012.013,
+  "end": 1014.406
+ },
+ {
+  "n": 368,
+  "block": "B17",
+  "text": "that in Rome, only the rich could afford to sleep.",
+  "scene": "a rich Roman sleeping peacefully in a quiet villa while carts rumble past a poor man's window",
+  "start": 1014.406,
+  "end": 1018.317
+ },
+ {
+  "n": 369,
+  "block": "B17",
+  "text": "Noisy neighbors,",
+  "scene": "a Roman apartment building with people shouting from the windows",
+  "start": 1018.317,
+  "end": 1019.528
+ },
+ {
+  "n": 370,
+  "block": "B17",
+  "text": "rumbling carts,",
+  "scene": "a cart wheel bouncing over stones with big sound waves",
+  "start": 1019.528,
+  "end": 1020.679
+ },
+ {
+  "n": 371,
+  "block": "B17",
+  "text": "and shouting drivers all night long.",
+  "scene": "a cart driver yelling at a mule at midnight",
+  "start": 1020.679,
+  "end": 1023.52
+ },
+ {
+  "n": 372,
+  "block": "B17",
+  "text": "Two thousand years later,",
+  "scene": "a stone with \"2,000\" carved on it",
+  "start": 1023.52,
+  "end": 1025.277
+ },
+ {
+  "n": 373,
+  "block": "B17",
+  "text": "city people still can't sleep because of traffic.",
+  "scene": "{GUY} lying awake in a city apartment with car headlights shining through the window",
+  "start": 1025.277,
+  "end": 1028.907
+ },
+ {
+  "n": 374,
+  "block": "B17",
+  "text": "And for much of history, if you traveled,",
+  "scene": "a muddy road with a tired traveler carrying a bag at dusk",
+  "start": 1028.907,
+  "end": 1031.635
+ },
+ {
+  "n": 375,
+  "block": "B17",
+  "text": "you might share a bed at an inn",
+  "scene": "an old inn with a sign showing a bed hanging above the door",
+  "start": 1031.635,
+  "end": 1033.756
+ },
+ {
+  "n": 376,
+  "block": "B17",
+  "text": "with complete strangers.",
+  "scene": "{GUY} lying stiffly in a bed between two snoring strangers, eyes wide open",
+  "start": 1033.756,
+  "end": 1035.874
+ },
+ {
+  "n": 377,
+  "block": "B17",
+  "text": "Two, three, sometimes more people in one bed.",
+  "scene": "three people squeezed under one blanket, one falling off the edge",
+  "start": 1035.874,
+  "end": 1040.077
+ },
+ {
+  "n": 378,
+  "block": "B18",
+  "text": "And while we're talking about beds,",
+  "scene": "{GUY} fluffing a big soft pillow",
+  "start": 1040.077,
+  "end": 1042.287
+ },
+ {
+  "n": 379,
+  "block": "B18",
+  "text": "let's talk about pillows.",
+  "scene": "a soft white pillow floating in a spotlight",
+  "start": 1042.287,
+  "end": 1044.35
+ },
+ {
+  "n": 380,
+  "block": "B18",
+  "text": "Ancient Egyptians often slept with headrests.",
+  "scene": "an ancient Egyptian wooden headrest shaped like a curved stand",
+  "start": 1044.35,
+  "end": 1047.801
+ },
+ {
+  "n": 381,
+  "block": "B18",
+  "text": "A curved stand made of wood, ivory or stone,",
+  "scene": "three headrests side by side, one wooden, one white ivory, one grey stone",
+  "start": 1047.801,
+  "end": 1050.947
+ },
+ {
+  "n": 382,
+  "block": "B18",
+  "text": "that held up your neck.",
+  "scene": "{EGYPT} lying on a bed with his neck resting on the curved stand, looking stiff",
+  "start": 1050.947,
+  "end": 1053.137
+ },
+ {
+  "n": 383,
+  "block": "B18",
+  "text": "Some were carved with protective gods",
+  "scene": "a headrest carved with a small bearded god with a funny face",
+  "start": 1053.137,
+  "end": 1055.884
+ },
+ {
+  "n": 384,
+  "block": "B18",
+  "text": "to keep away snakes, scorpions and nightmares.",
+  "scene": "a snake and a scorpion running away from the headrest",
+  "start": 1055.884,
+  "end": 1059.655
+ },
+ {
+  "n": 385,
+  "block": "B18",
+  "text": "In ancient China, many people slept on hard ceramic pillows.",
+  "scene": "a shiny blue and white ceramic pillow shaped like a little box",
+  "start": 1059.655,
+  "end": 1064.858
+ },
+ {
+  "n": 386,
+  "block": "B18",
+  "text": "They stayed cool in hot weather,",
+  "scene": "a ceramic pillow with little ice crystals around it",
+  "start": 1064.858,
+  "end": 1067.183
+ },
+ {
+  "n": 387,
+  "block": "B18",
+  "text": "and kept elaborate hairstyles in place.",
+  "scene": "a woman with a tall elaborate hairstyle sleeping carefully on a ceramic pillow",
+  "start": 1067.183,
+  "end": 1070.38
+ },
+ {
+  "n": 388,
+  "block": "B18",
+  "text": "So the next time you complain about a flat pillow,",
+  "scene": "{GUY} punching his flat pillow with a grumpy face",
+  "start": 1070.38,
+  "end": 1073.571
+ },
+ {
+  "n": 389,
+  "block": "B18",
+  "text": "remember that people once slept with their heads on a rock.",
+  "scene": "{GUY} lying with his head on a stone headrest, eyes wide, very uncomfortable",
+  "start": 1073.571,
+  "end": 1078.294
+ },
+ {
+  "n": 390,
+  "block": "B19",
+  "text": "But here's the part I really want to leave you with.",
+  "scene": "{GUY} sitting on a chair facing the viewer, calm and serious",
+  "start": 1078.294,
+  "end": 1081.901
+ },
+ {
+  "n": 391,
+  "block": "B19",
+  "text": "Compared to other primates,",
+  "scene": "a lineup of a chimp, a gorilla, an orangutan and a human, each with a clock above them",
+  "start": 1081.901,
+  "end": 1083.857
+ },
+ {
+  "n": 392,
+  "block": "B19",
+  "text": "humans are actually short sleepers.",
+  "scene": "the human's clock showing a shorter time than the others",
+  "start": 1083.857,
+  "end": 1086.738
+ },
+ {
+  "n": 393,
+  "block": "B19",
+  "text": "Based on our body and brain size,",
+  "scene": "{SCI} pointing at a chart comparing primate sleep times",
+  "start": 1086.738,
+  "end": 1089.235
+ },
+ {
+  "n": 394,
+  "block": "B19",
+  "text": "some researchers estimate we'd be expected to sleep around ten hours a night.",
+  "scene": "a clock showing 10 hours with a big question mark",
+  "start": 1089.235,
+  "end": 1095.122
+ },
+ {
+  "n": 395,
+  "block": "B19",
+  "text": "We sleep about seven.",
+  "scene": "a clock showing 7 hours with a check mark",
+  "start": 1095.122,
+  "end": 1097.092
+ },
+ {
+  "n": 396,
+  "block": "B19",
+  "text": "But a bigger share of our sleep is the deep, dreaming kind,",
+  "scene": "a chart where the dreaming REM part of the human sleep bar is bigger and glowing purple",
+  "start": 1097.092,
+  "end": 1101.344
+ },
+ {
+  "n": 397,
+  "block": "B19",
+  "text": "called REM sleep.",
+  "scene": "a sleeping brain glowing with colorful dream swirls",
+  "start": 1101.344,
+  "end": 1103.182
+ },
+ {
+  "n": 398,
+  "block": "B19",
+  "text": "So we sleep less,",
+  "scene": "a short sleep bar",
+  "start": 1103.182,
+  "end": 1104.385
+ },
+ {
+  "n": 399,
+  "block": "B19",
+  "text": "but we sleep more intensely.",
+  "scene": "the short sleep bar glowing brightly like it's charged with energy",
+  "start": 1104.385,
+  "end": 1106.639
+ },
+ {
+  "n": 400,
+  "block": "B19",
+  "text": "And some scientists think",
+  "scene": "{SCI} with a lightbulb above his head",
+  "start": 1106.639,
+  "end": 1108.329
+ },
+ {
+  "n": 401,
+  "block": "B19",
+  "text": "this happened when we came down from the trees.",
+  "scene": "{APE} climbing down from a tree, the ground below with a campfire and sleeping humans",
+  "start": 1108.329,
+  "end": 1111.72
+ },
+ {
+  "n": 402,
+  "block": "B19",
+  "text": "In a tree nest, you can't fully relax.",
+  "scene": "{APE} sleeping tensely in a tree nest, holding a branch with one hand",
+  "start": 1111.72,
+  "end": 1114.71
+ },
+ {
+  "n": 403,
+  "block": "B19",
+  "text": "Deep sleep makes your muscles go limp,",
+  "scene": "a sleeping figure going floppy like a noodle",
+  "start": 1114.71,
+  "end": 1117.366
+ },
+ {
+  "n": 404,
+  "block": "B19",
+  "text": "and a limp ape falls out of the tree.",
+  "scene": "{APE} slipping out of the nest and falling, eyes wide",
+  "start": 1117.366,
+  "end": 1120.379
+ },
+ {
+  "n": 405,
+  "block": "B19",
+  "text": "But on the ground,",
+  "scene": "a group of early humans sleeping on the ground around a fire",
+  "start": 1120.379,
+  "end": 1121.803
+ },
+ {
+  "n": 406,
+  "block": "B19",
+  "text": "protected by fire,",
+  "scene": "the fire glowing brightly around the sleeping group",
+  "start": 1121.803,
+  "end": 1123.227
+ },
+ {
+  "n": 407,
+  "block": "B19",
+  "text": "by a group,",
+  "scene": "one person sitting awake on guard while the others sleep",
+  "start": 1123.227,
+  "end": 1124.198
+ },
+ {
+  "n": 408,
+  "block": "B19",
+  "text": "and by someone always on watch,",
+  "scene": "the guard smiling and waving at the viewer",
+  "start": 1124.198,
+  "end": 1126.464
+ },
+ {
+  "n": 409,
+  "block": "B19",
+  "text": "you could finally sleep deeply.",
+  "scene": "the sleeping humans fully relaxed, arms spread out, peaceful smiles",
+  "start": 1126.464,
+  "end": 1129.149
+ },
+ {
+  "n": 410,
+  "block": "B19",
+  "text": "And deep, dreaming sleep",
+  "scene": "a sleeping brain with colorful swirls and sparkles",
+  "start": 1129.149,
+  "end": 1130.711
+ },
+ {
+  "n": 411,
+  "block": "B19",
+  "text": "is linked to memory,",
+  "scene": "a little filing cabinet inside the brain being filled with photos",
+  "start": 1130.711,
+  "end": 1132.049
+ },
+ {
+  "n": 412,
+  "block": "B19",
+  "text": "learning,",
+  "scene": "a brain with a graduation cap",
+  "start": 1132.049,
+  "end": 1132.774
+ },
+ {
+  "n": 413,
+  "block": "B19",
+  "text": "and creativity.",
+  "scene": "a brain painting a picture on a canvas",
+  "start": 1132.774,
+  "end": 1134.253
+ },
+ {
+  "n": 414,
+  "block": "B19",
+  "text": "It's only a hypothesis.",
+  "scene": "a big question mark with a small sign saying HYPOTHESIS",
+  "start": 1134.253,
+  "end": 1136.571
+ },
+ {
+  "n": 415,
+  "block": "B19",
+  "text": "But it's a wild thought.",
+  "scene": "{GUY} with his head exploding into colorful sparkles",
+  "start": 1136.571,
+  "end": 1138.534
+ },
+ {
+  "n": 416,
+  "block": "B19",
+  "text": "Maybe a fire, a grass bed and a friend on night watch",
+  "scene": "a cozy ancient camp at night: fire, grass beds and one person awake on guard",
+  "start": 1138.534,
+  "end": 1142.153
+ },
+ {
+  "n": 417,
+  "block": "B19",
+  "text": "helped give us the sleep",
+  "scene": "the sleeping humans with glowing brains above their heads",
+  "start": 1142.153,
+  "end": 1143.931
+ },
+ {
+  "n": 418,
+  "block": "B19",
+  "text": "that helped build the human mind.",
+  "scene": "a glowing human brain rising above the campfire like the moon",
+  "start": 1143.931,
+  "end": 1147.28
+ },
+ {
+  "n": 419,
+  "block": "B20",
+  "text": "So let's go back to that night on the savanna.",
+  "scene": "the dark savanna under the moon, acacia trees silhouetted",
+  "start": 1147.28,
+  "end": 1150.462
+ },
+ {
+  "n": 420,
+  "block": "B20",
+  "text": "Two hundred thousand years ago.",
+  "scene": "a stone with \"200,000\" carved on it in the grass",
+  "start": 1150.462,
+  "end": 1152.954
+ },
+ {
+  "n": 421,
+  "block": "B20",
+  "text": "A small group of people lying on beds of grass,",
+  "scene": "{CAVE} and {WOMAN} lying on grass beds in a cave mouth",
+  "start": 1152.954,
+  "end": 1156.394
+ },
+ {
+  "n": 422,
+  "block": "B20",
+  "text": "around a crackling fire.",
+  "scene": "the fire crackling between them, warm orange light on their faces",
+  "start": 1156.394,
+  "end": 1158.703
+ },
+ {
+  "n": 423,
+  "block": "B20",
+  "text": "Somewhere in the dark, a lion roars.",
+  "scene": "a lion roaring in the dark with sound waves",
+  "start": 1158.703,
+  "end": 1161.733
+ },
+ {
+  "n": 424,
+  "block": "B20",
+  "text": "And one old woman by the fire opens her eyes,",
+  "scene": "an old cavewoman by the fire opening her eyes, calm and alert",
+  "start": 1161.733,
+  "end": 1165.281
+ },
+ {
+  "n": 425,
+  "block": "B20",
+  "text": "throws another branch on the flames,",
+  "scene": "the old woman tossing a branch into the fire, sparks flying up",
+  "start": 1165.281,
+  "end": 1168.177
+ },
+ {
+  "n": 426,
+  "block": "B20",
+  "text": "and the lion decides to go somewhere else.",
+  "scene": "the lion turning around and walking away into the dark, annoyed",
+  "start": 1168.177,
+  "end": 1171.927
+ },
+ {
+  "n": 427,
+  "block": "B20",
+  "text": "Everyone else keeps sleeping.",
+  "scene": "the whole group sleeping peacefully, Z letters floating up into the stars",
+  "start": 1171.927,
+  "end": 1174.05
+ },
+ {
+  "n": 428,
+  "block": "B20",
+  "text": "Safe.",
+  "scene": "close-up of a sleeping child smiling in the firelight",
+  "start": 1174.05,
+  "end": 1175.233
+ },
+ {
+  "n": 429,
+  "block": "B20",
+  "text": "Now jump forward to tonight.",
+  "scene": "the scene morphing into a modern apartment at night",
+  "start": 1175.233,
+  "end": 1177.595
+ },
+ {
+  "n": 430,
+  "block": "B20",
+  "text": "You wake up at three in the morning.",
+  "scene": "{GUY} sitting up in bed, the clock showing 3:00",
+  "start": 1177.595,
+  "end": 1180.0
+ },
+ {
+  "n": 431,
+  "block": "B20",
+  "text": "You hear a strange sound.",
+  "scene": "{GUY} with wide eyes, a small sound wave near the window",
+  "start": 1180.0,
+  "end": 1182.148
+ },
+ {
+  "n": 432,
+  "block": "B20",
+  "text": "Your heart starts racing.",
+  "scene": "a cartoon heart beating fast with motion lines",
+  "start": 1182.148,
+  "end": 1184.221
+ },
+ {
+  "n": 433,
+  "block": "B20",
+  "text": "There is no lion.",
+  "scene": "an empty city street outside the window under a streetlight",
+  "start": 1184.221,
+  "end": 1186.001
+ },
+ {
+  "n": 434,
+  "block": "B20",
+  "text": "There hasn't been a lion for a very, very long time.",
+  "scene": "a lion on a tiny calendar from 200,000 years ago, crossed out",
+  "start": 1186.001,
+  "end": 1190.065
+ },
+ {
+  "n": 435,
+  "block": "B20",
+  "text": "But your brain doesn't know that.",
+  "scene": "a ghostly {CAVE} standing behind {GUY}, both looking toward the window",
+  "start": 1190.065,
+  "end": 1192.287
+ },
+ {
+  "n": 436,
+  "block": "B20",
+  "text": "It's the same brain.",
+  "scene": "{GUY} and {CAVE} side by side, the same glowing brain above both their heads",
+  "start": 1192.287,
+  "end": 1194.113
+ },
+ {
+  "n": 437,
+  "block": "B20",
+  "text": "Still listening for footsteps in the grass.",
+  "scene": "{GUY} listening carefully in the dark, a ghostly savanna outside his window",
+  "start": 1194.113,
+  "end": 1197.081
+ },
+ {
+  "n": 438,
+  "block": "B20",
+  "text": "And our world has changed faster than our brains.",
+  "scene": "a fast-forward of a caveman's fire turning into a candle, a lightbulb and a phone screen",
+  "start": 1197.081,
+  "end": 1200.426
+ },
+ {
+  "n": 439,
+  "block": "B20",
+  "text": "For hundreds of thousands of years,",
+  "scene": "a long timeline with tiny fires along it",
+  "start": 1200.426,
+  "end": 1202.955
+ },
+ {
+  "n": 440,
+  "block": "B20",
+  "text": "night meant darkness,",
+  "scene": "a dark night sky full of stars",
+  "start": 1202.955,
+  "end": 1204.576
+ },
+ {
+  "n": 441,
+  "block": "B20",
+  "text": "firelight and stars.",
+  "scene": "a campfire glowing under the Milky Way",
+  "start": 1204.576,
+  "end": 1206.552
+ },
+ {
+  "n": 442,
+  "block": "B20",
+  "text": "Now we have streetlights,",
+  "scene": "a bright city street at night full of streetlights",
+  "start": 1206.552,
+  "end": 1208.34
+ },
+ {
+  "n": 443,
+  "block": "B20",
+  "text": "screens,",
+  "scene": "{GUY} in bed with his face glowing blue from his phone",
+  "start": 1208.34,
+  "end": 1209.08
+ },
+ {
+  "n": 444,
+  "block": "B20",
+  "text": "and notifications at midnight.",
+  "scene": "a phone lighting up with a pile of notifications at 12:00",
+  "start": 1209.08,
+  "end": 1211.596
+ },
+ {
+  "n": 445,
+  "block": "B20",
+  "text": "Our ancestors' night watch",
+  "scene": "the ghostly old woman by the fire looking at {GUY}'s phone in confusion",
+  "start": 1211.596,
+  "end": 1213.463
+ },
+ {
+  "n": 446,
+  "block": "B20",
+  "text": "was never designed for that.",
+  "scene": "the old woman shaking her head with a sigh",
+  "start": 1213.463,
+  "end": 1215.875
+ },
+ {
+  "n": 447,
+  "block": "B20",
+  "text": "So the next time you can't sleep in a new place,",
+  "scene": "{GUY} lying awake in a hotel bed",
+  "start": 1215.875,
+  "end": 1219.561
+ },
+ {
+  "n": 448,
+  "block": "B20",
+  "text": "or you wake up at three a.m. for no reason,",
+  "scene": "{GUY} awake in bed at 3:00, calmer this time",
+  "start": 1219.561,
+  "end": 1222.892
+ },
+ {
+  "n": 449,
+  "block": "B20",
+  "text": "or a crackling fireplace makes you feel strangely safe,",
+  "scene": "{GUY} relaxing in front of a fireplace with a blanket",
+  "start": 1222.892,
+  "end": 1227.074
+ },
+ {
+  "n": 450,
+  "block": "B20",
+  "text": "just remember.",
+  "scene": "{GUY} smiling softly",
+  "start": 1227.074,
+  "end": 1228.77
+ },
+ {
+  "n": 451,
+  "block": "B20",
+  "text": "That's your ancestors,",
+  "scene": "a ghostly group of cavepeople sitting around a fire behind {GUY}",
+  "start": 1228.77,
+  "end": 1230.204
+ },
+ {
+  "n": 452,
+  "block": "B20",
+  "text": "still keeping watch.",
+  "scene": "the ghostly old woman by the fire nodding at {GUY}",
+  "start": 1230.204,
+  "end": 1231.947
+ },
+ {
+  "n": 453,
+  "block": "B20",
+  "text": "And honestly,",
+  "scene": "{GUY} pulling his blanket up and lying down",
+  "start": 1231.947,
+  "end": 1232.984
+ },
+ {
+  "n": 454,
+  "block": "B20",
+  "text": "they did a pretty good job.",
+  "scene": "{GUY} falling asleep peacefully, Z letters floating up, a tiny ghostly campfire glowing on the nightstand",
+  "start": 1232.984,
+  "end": 1235.874
+ }
+]
