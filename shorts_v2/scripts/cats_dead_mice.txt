@@ -1,12 +1,12 @@
 # title: WHY CATS BRING DEAD MICE
-Your cat may think you can't hunt. | {HOUSECAT} sitting next to {GUY} on the living room couch, staring at him, smug; {GUY} confused
-Maybe that's why it brings you dead mice. | {HOUSECAT} dropping a dead mouse on {GUY}'s shoe in the living room, {HOUSECAT} happy, {GUY} shocked
+Your cat may think you can't hunt. | {HOUSECAT} proudly dropping a dead mouse at {GUY}'s feet in the living room, {GUY} shocked
+Maybe that's why it brings you dead mice. | {HOUSECAT} sitting on a box like a king beside a dead mouse in the living room, smug
 Nobody knows for sure. | {SCI} shrugging in a lab with a question mark above his head, confused
 But one popular theory is a little insulting. | {GUY} sitting on the living room couch with an offended face, angry
-Mother cats bring prey to their kittens | a mother {CAT} carrying a mouse in her mouth toward two small {CAT} kittens in the desert, happy
-to teach them how to hunt. | two small {CAT} kittens pouncing clumsily on a mouse while the mother {CAT} watches in the desert, happy
-And you? Giant, slow, hairless, | {GUY} sprawled lazily on the living room couch with a big belly, happy
+Mother cats bring prey to their kittens | a mother {CAT} proudly bringing a dead mouse to two small {CAT} kittens in the desert, happy
+to teach them how to hunt. | two small {CAT} kittens pouncing clumsily on a mouse while the mother {CAT} watches in the desert, a light bulb above the mother, happy
+And you? Giant, slow, hairless, | {GUY} lazy and asleep on the living room couch with Z letters
 never caught a single mouse in your life. | {GUY} trying to catch a mouse with a clay jar and falling over in the living room, a big red X, shocked
-Your cat may look at you and think, | {HOUSECAT} looking up at {GUY} with pitying eyes in the living room, sad
-"This poor thing is going to starve without me." | {HOUSECAT} gently placing a mouse in front of {GUY} like a kind teacher in the living room, {GUY} confused
-So that mouse may be a lesson, because | {HOUSECAT} pointing a paw at a mouse in front of a chalkboard, smug; {GUY} confused
+Your cat may look at you and think, | {HOUSECAT} looking up with pitying eyes, sad, at {GUY} in the living room, {GUY} confused
+"This poor thing is going to starve without me." | {HOUSECAT} smug, gently placing a dead mouse at {GUY}'s feet, a heart above the cat; {GUY} confused in the living room
+So that mouse may be a lesson, because | {HOUSECAT} smug, sitting like a teacher in front of a chalkboard next to a dead mouse; {GUY} confused

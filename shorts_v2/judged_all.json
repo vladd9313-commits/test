@@ -11,11 +11,11 @@
    "lines": [
     {
      "text": "Your cat may think you can't hunt.",
-     "scene": "{HOUSECAT} sitting next to {GUY} on the living room couch, staring at him, smug; {GUY} confused"
+     "scene": "{HOUSECAT} proudly dropping a dead mouse at {GUY}'s feet in the living room, {GUY} shocked"
     },
     {
      "text": "Maybe that's why it brings you dead mice.",
-     "scene": "{HOUSECAT} dropping a dead mouse on {GUY}'s shoe in the living room, {HOUSECAT} happy, {GUY} shocked"
+     "scene": "{HOUSECAT} sitting on a box like a king beside a dead mouse in the living room, smug"
     },
     {
      "text": "Nobody knows for sure.",
@@ -27,15 +27,15 @@
     },
     {
      "text": "Mother cats bring prey to their kittens",
-     "scene": "a mother {CAT} carrying a mouse in her mouth toward two small {CAT} kittens in the desert, happy"
+     "scene": "a mother {CAT} proudly bringing a dead mouse to two small {CAT} kittens in the desert, happy"
     },
     {
      "text": "to teach them how to hunt.",
-     "scene": "two small {CAT} kittens pouncing clumsily on a mouse while the mother {CAT} watches in the desert, happy"
+     "scene": "two small {CAT} kittens pouncing clumsily on a mouse while the mother {CAT} watches in the desert, a light bulb above the mother, happy"
     },
     {
      "text": "And you? Giant, slow, hairless,",
-     "scene": "{GUY} sprawled lazily on the living room couch with a big belly, happy"
+     "scene": "{GUY} lazy and asleep on the living room couch with Z letters"
     },
     {
      "text": "never caught a single mouse in your life.",
@@ -43,15 +43,15 @@
     },
     {
      "text": "Your cat may look at you and think,",
-     "scene": "{HOUSECAT} looking up at {GUY} with pitying eyes in the living room, sad"
+     "scene": "{HOUSECAT} looking up with pitying eyes, sad, at {GUY} in the living room, {GUY} confused"
     },
     {
      "text": "\"This poor thing is going to starve without me.\"",
-     "scene": "{HOUSECAT} gently placing a mouse in front of {GUY} like a kind teacher in the living room, {GUY} confused"
+     "scene": "{HOUSECAT} smug, gently placing a dead mouse at {GUY}'s feet, a heart above the cat; {GUY} confused in the living room"
     },
     {
      "text": "So that mouse may be a lesson, because",
-     "scene": "{HOUSECAT} pointing a paw at a mouse in front of a chalkboard, smug; {GUY} confused"
+     "scene": "{HOUSECAT} smug, sitting like a teacher in front of a chalkboard next to a dead mouse; {GUY} confused"
     }
    ],
    "yt_title": "Why Your Cat Brings You Dead Mice 🐭",
@@ -73,7 +73,7 @@
    "lines": [
     {
      "text": "Lose your cat, lose your eyebrows.",
-     "scene": "Egypt/pyramid setting: {EGYPT} touching his bare forehead, no eyebrows, a big red X over his brow, shocked"
+     "scene": "Egypt/pyramid setting: {EGYPT} shocked with no eyebrows, hands on his head, beside {CAT} wearing a crown"
     },
     {
      "text": "Picture yourself in ancient Egypt.",
@@ -85,19 +85,19 @@
     },
     {
      "text": "Here, cats are worshipped.",
-     "scene": "Egypt/pyramid setting: {EGYPT} bowing down to {CAT} wearing a crown, sparkles around the cat, {CAT} smug"
+     "scene": "Egypt/pyramid setting: {EGYPT} cheering with arms in the air, happy, beside {CAT} wearing a crown, sparkles around the cat, smug"
     },
     {
      "text": "Then one day, your cat dies.",
-     "scene": "Egypt/pyramid setting: {CAT} lying still on the ground with eyes closed, {EGYPT} kneeling beside it crying, sad"
+     "scene": "Egypt/pyramid setting: {EGYPT} crying with tears beside a cat mummy, sad"
     },
     {
      "text": "According to the Greek historian Herodotus,",
-     "scene": "Greek/Roman setting with columns: {SUMER} bearded old man as a Greek historian holding a stone tablet, smug"
+     "scene": "Greek setting with marble columns: {SUMER} bearded old Greek writer with one finger raised, smug"
     },
     {
      "text": "your whole household shaves their eyebrows in mourning.",
-     "scene": "Egypt/pyramid setting: three {EGYPT} standing in a row, each with a big red X over his eyebrows, all sad and crying"
+     "scene": "Egypt/pyramid setting: three {EGYPT} standing in a row with no eyebrows, all crying with tears, sad"
     },
     {
      "text": "Every single eyebrow. Gone.",
@@ -105,15 +105,15 @@
     },
     {
      "text": "Now walk into work like that,",
-     "scene": "Egypt/pyramid setting: {EGYPT} with no eyebrows and a big red X over his brow, carrying a clay jar, walking, sad"
+     "scene": "Egypt/pyramid setting: {EGYPT} with no eyebrows, nervous and sweating, carrying a clay jar"
     },
     {
      "text": "and everyone instantly knows your cat died.",
-     "scene": "Egypt/pyramid setting: two {EGYPT} pointing at a third {EGYPT} with no eyebrows and a big red X over his brow, the two shocked, he is sad"
+     "scene": "Egypt/pyramid setting: two {EGYPT} pointing, shocked, at a third {EGYPT}, sad, with no eyebrows"
     },
     {
      "text": "That's ancient Egypt for you:",
-     "scene": "Egypt/pyramid setting: {EGYPT} touching his bare forehead, no eyebrows, a big red X over his brow, shrugging, sad"
+     "scene": "Egypt/pyramid setting: {EGYPT} with no eyebrows shrugging with palms up, smug, beside {CAT} wearing a crown"
     }
    ],
    "yt_title": "In Ancient Egypt, Losing Your Cat Cost Your Eyebrows 😿",
@@ -135,7 +135,7 @@
    "lines": [
     {
      "text": "You were told cats meow to each other.",
-     "scene": "{GUY} on the living room couch, smug and confident, {HOUSECAT} and a black cat beside him, the word \"meow\" above them"
+     "scene": "a smug {HOUSECAT} and a black cat face to face in the living room, the word \"meow\" above them"
     },
     {
      "text": "Adult cats almost never do.",
@@ -143,7 +143,7 @@
     },
     {
      "text": "Kittens meow at their mothers.",
-     "scene": "a tiny {HOUSECAT} baby meowing up at its big mother, a black cat, a heart above them, both happy"
+     "scene": "a tiny {HOUSECAT} kitten meowing up at its big {HOUSECAT} mother, a heart above them, both happy"
     },
     {
      "text": "But grown cats talk to each other",
@@ -151,7 +151,7 @@
     },
     {
      "text": "with hisses, growls, body language and scent.",
-     "scene": "{HOUSECAT} with a raised tail rubbing its cheek on a clay jar, smug, a black cat growling nearby"
+     "scene": "a black cat hissing at {HOUSECAT}, both furious and glaring, the word \"hiss\" above them"
     },
     {
      "text": "Feral cats that grow up without people",
@@ -167,11 +167,11 @@
     },
     {
      "text": "the sound you probably hear every morning,",
-     "scene": "{GUY} asleep in bed with Z letters, {HOUSECAT} sitting on his chest meowing into his face"
+     "scene": "{HOUSECAT} meowing loudly, angry, at {GUY} who is sleepy in bed, an exclamation mark"
     },
     {
      "text": "is something adult cats mostly use with humans.",
-     "scene": "{HOUSECAT} meowing up at {GUY} on the living room couch, {GUY} pointing at himself, surprised"
+     "scene": "{HOUSECAT} meowing up at a happy {GUY} in the living room, the word \"meow\" above them, a heart above them"
     },
     {
      "text": "Yet somehow, all your life,",
@@ -197,7 +197,7 @@
    "lines": [
     {
      "text": "You're alive because a goddess got drunk.",
-     "scene": "{GUY} pointing at himself, shocked, next to a lion wearing a crown (the goddess Sekhmet) sleeping with Z letters beside a tipped-over clay jar, Egypt pyramid background"
+     "scene": "{GUY} shocked, jaw dropped, hands on his head, next to a lion wearing a crown, asleep with Z letters, by a tipped-over clay jar, Egypt pyramid background"
     },
     {
      "text": "In an Egyptian myth, Ra got angry at humans.",
@@ -205,11 +205,11 @@
     },
     {
      "text": "He sent Sekhmet, a lioness goddess, to punish them.",
-     "scene": "a lion wearing a crown (the goddess Sekhmet), angry, running across the desert toward a scared {EGYPT}"
+     "scene": "a lion wearing a crown (the goddess Sekhmet), angry, running across the desert toward {EGYPT}, scared"
     },
     {
      "text": "Once she started, she wouldn't stop.",
-     "scene": "the crowned lion goddess, angry, chasing two terrified {EGYPT} around a pyramid"
+     "scene": "two {EGYPT} terrified, hands on their heads, fleeing from a lion wearing a crown, angry, Egypt pyramid background"
     },
     {
      "text": "So Ra had thousands of beer jars",
@@ -217,15 +217,15 @@
     },
     {
      "text": "dyed red and poured over the fields.",
-     "scene": "{EGYPT} wearing a crown, smug, pouring red beer from a clay jar across the desert ground at night, moon in the sky"
+     "scene": "{EGYPT} wearing a crown, smug, pouring red beer from a clay jar, everything turning red, dramatic"
     },
     {
      "text": "Sekhmet thought it was blood.",
-     "scene": "the crowned lion goddess stopping at a big red puddle in the desert at night, shocked wide eyes, moon in the sky"
+     "scene": "a lion wearing a crown, shocked, eyes wide, staring at a red puddle, everything turning red, dramatic"
     },
     {
      "text": "She drank all of it,",
-     "scene": "the crowned lion goddess lying on her belly gulping from the red puddle, happy, desert at night with the moon"
+     "scene": "the crowned lion goddess, happy, licking her lips next to an empty clay jar, desert at night with the moon"
     },
     {
      "text": "got completely drunk, and fell asleep.",
@@ -233,11 +233,11 @@
     },
     {
      "text": "Humanity was saved by a hangover.",
-     "scene": "two {EGYPT} cheering, happy, sparkles around them, next to the crowned lion goddess holding her aching head, sad, desert background"
+     "scene": "two {EGYPT} cheering, happy, arms in the air, sparkles around them, next to the crowned lion goddess holding her aching head, sad, desert background"
     },
     {
      "text": "Egyptians celebrated with a festival of drunkenness.",
-     "scene": "two {EGYPT} dancing happily and raising clay jars at a night festival by the pyramids, moon in the sky"
+     "scene": "two {EGYPT} celebrating, happy, arms in the air, next to a fire and a clay jar at a night festival by the pyramids, moon in the sky"
     },
     {
      "text": "After all, according to them,",
@@ -263,7 +263,7 @@
    "lines": [
     {
      "text": "She's spitting in your beer. On purpose.",
-     "scene": "village/hut setting, {WOMAN} spitting a little stream into a clay jar, {GUY} holding out his cup, shocked"
+     "scene": "{WOMAN} spitting into a clay jar, smug, {GUY} shocked with eyes wide and mouth open, dramatic"
     },
     {
      "text": "This is chicha, a corn beer",
@@ -271,19 +271,19 @@
     },
     {
      "text": "from the Andes of South America.",
-     "scene": "map setting, South America with the Andes mountains marked, {WOMAN} standing on the map pointing at it, happy"
+     "scene": "village/hut setting with mountains, {WOMAN} pointing at the mountains, happy"
     },
     {
      "text": "One traditional way to start it?",
-     "scene": "village/hut setting, {WOMAN} sitting by a clay jar, {GUY} next to her, both confused"
+     "scene": "village/hut setting, {WOMAN} confused, question mark"
     },
     {
      "text": "Chew the corn,",
-     "scene": "village/hut setting, {WOMAN} chewing corn with big puffy cheeks next to the clay jar, happy"
+     "scene": "village/hut setting, {WOMAN} holding wheat next to a clay jar, happy"
     },
     {
      "text": "then spit it into the pot.",
-     "scene": "village/hut setting, {WOMAN} spitting into the clay jar, {GUY} covering his eyes, shocked"
+     "scene": "village/hut setting, {WOMAN} spitting into the clay jar, happy, {GUY} covering his eyes, shocked"
     },
     {
      "text": "Why? Human saliva has enzymes.",
@@ -291,7 +291,7 @@
     },
     {
      "text": "They turn the starch into sugar,",
-     "scene": "chalkboard setting, {SCI} pointing at a chalk arrow from grain to sugar cubes, sparkles, happy"
+     "scene": "lab setting, {SCI} happy, light bulb"
     },
     {
      "text": "so the yeast can make alcohol.",
@@ -307,11 +307,11 @@
     },
     {
      "text": "an old rice drink made by chewing rice.",
-     "scene": "village/hut setting, {WOMAN} chewing rice with puffy cheeks and spitting into a clay jar, {GUY} beside her, confused"
+     "scene": "village/hut setting, {WOMAN} spitting into a clay jar, smug, {GUY} shocked with hands raised"
     },
     {
      "text": "Two continents, same trick. So yes,",
-     "scene": "map setting, two glowing spots on the world map, {GUY} pointing at them, shocked"
+     "scene": "dramatic red setting, {WOMAN} smug, smirking next to a clay jar"
     }
    ],
    "yt_title": "She Spat in Your Beer... On Purpose 🌽",
@@ -333,7 +333,7 @@
    "lines": [
     {
      "text": "You'd need a straw to drink Sumerian beer.",
-     "scene": "{SUMER} in Sumer sipping from a big clay jar through a very long straw, smug"
+     "scene": "{SUMER} in Sumer sipping from a big clay jar through a very long straw, sparkles, smug"
     },
     {
      "text": "It looked nothing like the beer you know.",
@@ -341,11 +341,11 @@
     },
     {
      "text": "It was thick, cloudy,",
-     "scene": "close-up of a big clay jar in Sumer full of thick cloudy brown beer, {GUY} confused"
+     "scene": "{GUY} in Sumer pointing at a big clay jar of thick cloudy beer, frowning disgusted"
     },
     {
      "text": "and full of floating grain husks.",
-     "scene": "grain husks floating on top of the beer in a clay jar like messy soup, Sumer, {GUY} shocked"
+     "scene": "{GUY} in Sumer with hands on his head next to a big clay jar, horror, shocked"
     },
     {
      "text": "So they drank it through long straws,",
@@ -353,7 +353,7 @@
     },
     {
      "text": "to reach past the gunk floating on top.",
-     "scene": "a long straw going down into a big clay jar under the floating husks, Sumer, {SUMER} sipping, happy"
+     "scene": "{SUMER} in Sumer pointing at the top of a big clay jar, smug"
     },
     {
      "text": "Sumerian art shows people around one jar,",
@@ -365,19 +365,19 @@
     },
     {
      "text": "And in the royal tombs of Ur,",
-     "scene": "{SCI} in a dark royal tomb at Ur in Sumer at night, bones and a crown on the ground, sparkles, surprised"
+     "scene": "{SCI} surprised in the darkness of a royal grave, skeleton bones on the floor, torch"
     },
     {
      "text": "archaeologists found a drinking straw",
-     "scene": "{SCI} in Sumer holding up a long thin golden straw, sparkles around it, shocked"
+     "scene": "{SCI} in Sumer showing a long thin golden straw, sparkles, shocked"
     },
     {
      "text": "made of gold and lapis lazuli.",
-     "scene": "close-up of a golden straw with bright blue lapis bands in Sumer, sparkles, {SCI} happy"
+     "scene": "{SCI} in Sumer holding up a golden straw with blue lapis bands, sparkles, happy"
     },
     {
      "text": "The world's first luxury straw, because",
-     "scene": "the golden straw glowing under a crown in Sumer, sparkles, {SUMER} smug"
+     "scene": "{SUMER} wearing a crown in Sumer sipping from a big clay jar through a golden straw, sparkles, smug"
     }
    ],
    "yt_title": "You'd Need a Straw to Drink Sumerian Beer 🍺",
@@ -399,7 +399,7 @@
    "lines": [
     {
      "text": "Your weird sleep schedule might be ancient security.",
-     "scene": "{GUY} wide awake at night under the moon, a {CAVE} with a spear standing guard by a campfire behind him, smug"
+     "scene": "{GUY} shocked with eyes wide at night under the moon, a hunter with a spear guarding him from a lion with glowing eyes"
     },
     {
      "text": "Scientists tracked the Hadza in Tanzania,",
@@ -407,7 +407,7 @@
     },
     {
      "text": "hunter-gatherers living much like our ancestors.",
-     "scene": "Hadza people with bows sitting around a campfire by a hut on the savanna, happy"
+     "scene": "Hadza people and a hunter with a spear sitting by a campfire on the savanna, happy"
     },
     {
      "text": "Thirty-three people. Twenty nights.",
@@ -415,11 +415,11 @@
     },
     {
      "text": "Everyone asleep at the same time?",
-     "scene": "a whole camp of Hadza people lying around a campfire at night with Z letters, a big question mark above them"
+     "scene": "three Hadza people asleep with Z letters around a campfire at night under the stars, a big question mark"
     },
     {
      "text": "Only about eighteen minutes total.",
-     "scene": "{SCI} and {GUY} shocked with jaws dropped on either side of a stone tablet with \"18\" in the lab"
+     "scene": "{SCI} shocked with jaw dropped in the lab next to a stone tablet with \"18\", exclamation mark"
     },
     {
      "text": "Otherwise, someone was awake or sleeping lightly.",
@@ -427,15 +427,15 @@
     },
     {
      "text": "Nobody planned it. Body clocks just differ.",
-     "scene": "{SCI} at a chalkboard with a big red X over a guard schedule, three clocks showing different times, confused"
+     "scene": "{SCI} shrugging with palms up at a chalkboard, confused"
     },
     {
      "text": "Grandma up at five? Cousin still awake at two?",
-     "scene": "an old grandmother smiling under a clock showing \"5:00\" next to a young {GUY} wide awake under the moon, happy"
+     "scene": "an old grandmother happy beside {GUY} wide awake at night under the moon"
     },
     {
      "text": "They might be running an ancient night watch.",
-     "scene": "{WOMAN} and {CAVE} with a spear standing guard on either side of a campfire at night, proud"
+     "scene": "{WOMAN} and a hunter with a spear standing guard by a campfire at night under the moon, smug"
     },
     {
      "text": "So, early bird or night owl?",
@@ -461,7 +461,7 @@
    "lines": [
     {
      "text": "Your 3 a.m. wake-up might be ancient.",
-     "scene": "{GUY} sitting up in bed at night, moon in the window, confused, question mark above his head"
+     "scene": "{GUY} sitting up in bed, shocked, eyes wide, next to a caveman, shocked, at night in a dark bedroom"
     },
     {
      "text": "Historian Roger Ekirch searched old documents",
@@ -477,11 +477,11 @@
     },
     {
      "text": "Before electric lights, many Europeans",
-     "scene": "medieval village at night, no lights except the moon, calm"
+     "scene": "a medieval peasant standing beside a hut at night under the moon and stars, calm"
     },
     {
      "text": "went to bed soon after dark,",
-     "scene": "medieval couple going to bed inside a hut at night, moon in the window, sleepy"
+     "scene": "a medieval husband and {WOMAN} yawning, sleepy, beside a hut at night under the moon"
     },
     {
      "text": "slept a few hours, then woke up",
@@ -493,7 +493,7 @@
     },
     {
      "text": "They prayed, chatted, visited neighbors,",
-     "scene": "medieval man holding a small torch fire, knocking on a neighbor's hut door at night, both happy"
+     "scene": "a medieval peasant visiting {WOMAN}, his neighbor, at her hut at night, both smiling and chatting"
     },
     {
      "text": "then went back for second sleep.",
@@ -505,11 +505,11 @@
     },
     {
      "text": "Some scientists debate how universal this was,",
-     "scene": "{SCI} in a lab scratching his head, big question mark above him, confused"
+     "scene": "{SCI} at a chalkboard scratching his head, big question mark, confused"
     },
     {
      "text": "but your body may not be broken, because",
-     "scene": "{GUY} in a modern bed at night, relieved, giving a thumbs up, heart above his head"
+     "scene": "{GUY} sitting up in bed at night, relieved and happy, giving a thumbs up, a light bulb above his head"
     }
    ],
    "yt_title": "Waking Up at 3 A.M.? It Might Be Ancient 🌙",
@@ -531,27 +531,27 @@
    "lines": [
     {
      "text": "Your bed is dirtier than a chimp's.",
-     "scene": "{GUY} in a bedroom pointing at his own bed in shock, a smug {APE} standing next to him with sparkles around it"
+     "scene": "{GUY} in a bedroom shocked with hands on his head next to his messy bed, a smug {APE} with sparkles, exclamation mark"
     },
     {
      "text": "Every night, chimpanzees climb high into the trees",
-     "scene": "{APE} climbing a tall tree trunk in the jungle at night under the moon, determined"
+     "scene": "{APE} in the jungle at night under the moon, climbing, arms in the air, excited"
     },
     {
      "text": "and build a brand new bed.",
-     "scene": "{APE} high in a jungle tree bending leafy branches into a round nest, happy"
+     "scene": "{APE} sitting in a brand new leafy nest in the jungle, proud, sparkles"
     },
     {
      "text": "They bend branches, weave them together,",
-     "scene": "{APE} in a jungle tree weaving branches and twigs together into a bowl shape, focused"
+     "scene": "{APE} in the jungle weaving branches into a nest, excited, a light bulb above his head"
     },
     {
      "text": "and add a soft layer of leaves.",
-     "scene": "{APE} in a jungle tree placing soft green leaves inside the nest like a pillow, happy"
+     "scene": "{APE} in the jungle sitting in a soft leafy nest, happy, hearts"
     },
     {
      "text": "It takes them just a few minutes.",
-     "scene": "{APE} lying back in the finished leafy nest in a jungle tree with sparkles around it, smug"
+     "scene": "{APE} in the jungle, smug, next to a stone tablet with \"5\""
     },
     {
      "text": "Scientists compared those chimp nests",
@@ -559,19 +559,19 @@
     },
     {
      "text": "to human beds.",
-     "scene": "{SCI} in a bedroom wearing gloves, bending over a messy bed, confused"
+     "scene": "{SCI} in a bedroom next to a bed, confused, question mark"
     },
     {
      "text": "The chimp nests had far fewer bacteria.",
-     "scene": "{SCI} in a lab, shocked, a happy {APE} with sparkles on one side and a sad {GUY} under a big red X on the other"
+     "scene": "{APE} in a lab, proud, with sparkles"
     },
     {
      "text": "Your mattress lost to a pile of sticks.",
-     "scene": "{GUY} sitting on his bed in a bedroom with a big red X above the mattress, angry, a smug {APE} next to him with sparkles"
+     "scene": "{GUY} in a bedroom next to his bed under a big red X, angry"
     },
     {
      "text": "So tonight, when you climb into bed, remember:",
-     "scene": "{GUY} in a dark bedroom at night with the moon in the window, about to climb into bed, pausing and staring at the mattress, confused"
+     "scene": "{GUY} in a dark bedroom at night next to his bed, worried, question mark"
     }
    ],
    "yt_title": "Your Bed Is Dirtier Than a Chimp's Nest 🐒",

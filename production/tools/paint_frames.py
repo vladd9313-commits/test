@@ -210,10 +210,10 @@ def eyes(p, cx, cy, r, e, look=0):
             p.d.ellipse((x - dr, cy - dr, x + dr, cy + dr), fill=OL)
             if e in ("neutral", "smug", "confused"):        # heavy deadpan lid
                 p.line([(x - r * 0.6, cy - r * 0.32), (x + r * 0.55, cy - r * 0.38)], 5)
-            elif e == "angry":
-                p.line([(x - sx * r * 0.6, cy - r * 0.75), (x + sx * r * 0.5, cy - r * 0.3)], 6)
-            elif e == "sad":
-                p.line([(x - sx * r * 0.6, cy - r * 0.35), (x + sx * r * 0.5, cy - r * 0.75)], 6)
+            elif e == "angry":                               # inner end low, outer end high: a frowning V
+                p.line([(x - sx * r * 0.6, cy - r * 0.3), (x + sx * r * 0.5, cy - r * 0.75)], 6)
+            elif e == "sad":                                 # inner end high: worried brows
+                p.line([(x - sx * r * 0.6, cy - r * 0.75), (x + sx * r * 0.5, cy - r * 0.35)], 6)
             elif e == "shock":
                 p.d.arc((x - r * 0.6, cy - r * 1.1, x + r * 0.6, cy - r * 0.3), 200, 340, fill=OL, width=5)
         return

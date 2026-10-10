@@ -10,6 +10,7 @@ usage: python3 make_short_v2.py <script.txt> <kokoro_dir> <out.mp4> [--music tra
 """
 import argparse, json, os, re, subprocess, sys, tempfile
 import numpy as np, soundfile as sf
+from PIL import ImageFont
 
 here = os.path.dirname(os.path.abspath(__file__))
 ap = argparse.ArgumentParser()
@@ -20,7 +21,7 @@ a = ap.parse_args()
 
 SR = 24000
 os.environ.update(FRAME_STYLE=os.environ.get("FRAME_STYLE", "stickly"), FRAME_W="1080", FRAME_H="1920",
-                  FRAME_GROUND="1300", FRAME_SCALE="1.2")
+                  FRAME_GROUND="1320", FRAME_SCALE="1.1")
 sys.path.insert(0, here)
 import paint_frames as pf                      # picks up the vertical canvas settings above
 from kokoro_onnx import Kokoro
@@ -105,15 +106,18 @@ def esc(s): return s.replace("{", "(").replace("}", ")")
 ass = ["[Script Info]", "ScriptType: v4.00+", "PlayResX: 1080", "PlayResY: 1920", "WrapStyle: 0", "",
        "[V4+ Styles]",
        "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
-       "Style: Cap,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,9,3,5,60,60,0,1",
+       "Style: Cap,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,9,3,5,60,60,0,1",
        "Style: Title,DejaVu Sans,88,&H003BEBFF,&H003BEBFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,10,4,8,70,70,190,1",
        "", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"]
 if title:
     ass.append(f"Dialogue: 1,{ts(0)},{ts(t + 0.5)},Title,,0,0,0,,{esc(title.upper())}")
-# group words into chunks of max 3 words that never cross a line boundary
+# group words into chunks of max 3 words that never cross a line boundary and always fit on one line,
+# clear of the Shorts buttons on the right (x > ~920) and the channel/description block at the bottom
+CAPF = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 88)
+def cap_w(ws): return CAPF.getlength(" ".join(x["w"].upper() for x in ws)) * 1.08 + 20
 groups, g = [], []
 for wd in words:
-    if g and (len(g) == 3 or g[-1]["line"] != wd["line"] or re.search(r"[.?!,]$", g[-1]["w"])):
+    if g and (len(g) == 3 or g[-1]["line"] != wd["line"] or re.search(r"[.?!,]$", g[-1]["w"]) or cap_w(g + [wd]) > 770):
         groups.append(g); g = []
     g.append(wd)
 if g: groups.append(g)
@@ -122,7 +126,7 @@ for gi, g in enumerate(groups):
     for wi, wd in enumerate(g):
         end = g[wi + 1]["s"] if wi + 1 < len(g) else g_end
         txt = " ".join((r"{\c&H003BEBFF&\fscx108\fscy108}" + esc(x["w"]) + r"{\r}") if j == wi else esc(x["w"]) for j, x in enumerate(g))
-        ass.append(f"Dialogue: 0,{ts(wd['s'])},{ts(end)},Cap,,0,0,0,,{{\\pos(540,1475)}}{txt.upper()}")
+        ass.append(f"Dialogue: 0,{ts(wd['s'])},{ts(end)},Cap,,0,0,0,,{{\\pos(510,1470)}}{txt.upper()}")
 assf = os.path.join(tmp, "caps.ass"); open(assf, "w", encoding="utf-8").write("\n".join(ass) + "\n")
 
 # ---------------------------------------------------------------- final mux: captions + optional music + loudness

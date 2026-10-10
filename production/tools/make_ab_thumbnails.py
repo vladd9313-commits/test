@@ -3,7 +3,7 @@
 usage: FRAME_STYLE=stickly python3 tools/make_ab_thumbnails.py <out_dir>
 """
 import math, os, random, sys
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 sys.path.insert(0, os.path.dirname(__file__))
 import paint_frames as pf
 
@@ -37,10 +37,11 @@ def thumb_a(out):
     img = radial((40, 120, 130), (12, 48, 56))
     fg = Image.new("RGBA", (W, H), (0, 0, 0, 0)); p = pf.P(fg, random.Random(3))
     top = pf.grain_pot(p, 1180, 1.0)
-    lay = cat_layer("HOUSECAT", 1.5, "smug", flip=-1, look=-1)
-    fg.paste(lay, (int(1180 - W / 2), int(top - (pf.GROUND + 40) + 55)), lay)
     for x, y in ((330, 740), (520, 790)): pf.mouse(p, x, y, 1.6)
     img.paste(fg, (0, 260), fg)
+    # the cat goes straight onto the frame so its ears are not cut off by the shifted pot layer
+    lay = cat_layer("HOUSECAT", 1.5, "smug", flip=-1, look=-1)
+    img.paste(lay, (int(1180 - W / 2), int(top - (pf.GROUND + 40) + 95 + 260)), lay)
     headline(img, "NOBODY TAMED IT", y=112)
     img.resize((1280, 720), Image.LANCZOS).save(out, quality=95)
 
@@ -84,7 +85,9 @@ def thumb_c(out):
     p.d.arc((620, 780, 860, 940), 180, 360, fill=bone, width=14)
     for i in range(5): x = 660 + i * 38; p.line([(x, 810), (x, 850)], 7, bone)
     p.d.arc((820, 830, 960, 950), 260, 80, fill=bone, width=9)
-    lay = Image.new("RGBA", (W, H), (0, 0, 0, 0)); pf.human(pf.P(lay, random.Random(9)), "SCI", 1560, 1.05, "shock", "point")
+    # drawn on the left and mirrored, so the scientist stands on the right and points at the grave
+    lay = Image.new("RGBA", (W, H), (0, 0, 0, 0)); pf.human(pf.P(lay, random.Random(9)), "SCI", W - 1560, 1.05, "shock", "point")
+    lay = ImageOps.mirror(lay)
     img.paste(lay, (0, 60), lay)
     headline(img, "WHY A CAT?", y=112)
     img.resize((1280, 720), Image.LANCZOS).save(out, quality=95)
