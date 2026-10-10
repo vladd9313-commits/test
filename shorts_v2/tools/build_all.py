@@ -13,10 +13,10 @@ a = ap.parse_args()
 RELATED = {"cats": "Why Did Cats Choose Ancient Humans?",
            "alcohol": "How Ancient Humans Actually Discovered Alcohol?",
            "sleep": "How Did Ancient Humans Sleep Without Getting Eaten?"}
-items = json.load(open(a.judged))
-if a.only: items = [i for i in items if i["slug"] in a.only.split(",")]
+all_items = json.load(open(a.judged))
+items = [i for i in all_items if not a.only or i["slug"] in a.only.split(",")]
 os.makedirs(os.path.join(root, "scripts"), exist_ok=True)
-for it in items:
+for it in all_items:
     f = it["final"]
     with open(os.path.join(root, "scripts", it["slug"] + ".txt"), "w", encoding="utf-8") as fh:
         fh.write(f"# title: {f['title_overlay'].strip()}\n")
@@ -35,8 +35,14 @@ with ThreadPoolExecutor(a.jobs) as ex:
 for k, v in done.items(): print(k, v)
 
 meta = ["SHORTS v2 — titles, descriptions, tags and the long video to link (YouTube Studio > Content > Short > Related video)", ""]
-for it in items:
-    f = it["final"]; d = done.get(it["slug"], {})
+def dur(slug):
+    try:
+        return round(float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
+                                                     os.path.join(root, "out", slug + ".mp4")]).decode()), 1)
+    except Exception:
+        return "?"
+for it in all_items:
+    f = it["final"]; d = {"duration": dur(it["slug"])}
     meta += [f"=== {it['slug']}.mp4 ({d.get('duration', '?')} s) ===",
              f"RELATED VIDEO: {RELATED[it['video']]}",
              "TITLE", f["yt_title"], "DESCRIPTION", f["yt_description"], "TAGS", f["yt_tags"], ""]

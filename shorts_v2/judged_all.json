@@ -1,0 +1,584 @@
+[
+ {
+  "slug": "cats_dead_mice",
+  "video": "cats",
+  "winner_index": 0,
+  "reasons": "Candidate 1 wins. (a) Its hook \"Your cat may think you can't hunt.\" is the brief's own hook with the source's \"may\" added. It speaks straight to the viewer and gives away the punchline idea within 7 words. (b) It sticks to one topic, and the surprising image is the source's: mother cats bring prey to kittens to teach them to hunt, so your cat may think you will starve. (c) It is tight at 78 words, 11 lines and about 27 seconds, and it ends on the strongest line in the source, \"This poor thing is going to starve without me.\" (d) It has the cleanest loop: \"So that mouse may be a lesson, because / Your cat may think you can't hunt.\" reads as one sentence. (e) It keeps all three of the source's hedges (\"Nobody knows for sure\", \"one popular theory\", \"may\").\n\nCandidate 2: the \"Zero\" hook does not mention cats or mice in its first second. A stone tablet in a living room is a strange image, and the script drops the quote that makes the payoff. Candidate 3: it brings in a \"gift\" framing the source never uses. It also states \"It's a lesson, not a present.\" with no hedge, which breaks the hedging rule.\n\nFixes made to Candidate 1 (narration unchanged, all edits are in scenes):\n1. Removed the \"HUNTING LESSON\" text from the chalkboard. The renderer only writes quoted numbers on stone tablets, so free text is risky.\n2. Replaced \"kittens\" with small {CAT} tokens, because kittens are not a supported character.\n3. Dropped \"den\", which is not a supported setting, and kept desert.\n4. Replaced \"chips\" and \"crumbs\", which are not supported props, with a lazy pose on the couch.\n5. Changed \"pot\" to the supported \"clay jar\".\n6. Mapped unsupported emotions to the supported ones: disappointed to smug, proud to happy, panic to shocked, pitying to sad.\n7. Added a setting keyword (\"in the living room\") to the one scene that had none.\n8. Kept every scene to 1-3 characters.",
+  "fact_check_notes": "Checked against block B11 in /home/user/test/production/script_part3.txt.\n- \"Nobody knows for sure.\" and \"But one popular theory is a little insulting.\" are word for word from the source.\n- \"Mother cats bring prey to their kittens / to teach them how to hunt.\" is word for word.\n- \"Giant, slow, hairless\" and \"never caught a single mouse in your life\" match the source (\"the giant, slow, hairless creature who has never caught a single mouse in his life\"). Only the person changed, from \"his\" to \"your\".\n- \"This poor thing is going to starve without me.\" is word for word.\n- \"Your cat may think you can't hunt\" and \"Maybe that's why it brings you dead mice\" are hedged paraphrases of the source's \"your cat may be looking at you ... and thinking\". The hedge is kept.\n- \"So that mouse may be a lesson\" applies the source's teaching theory to the owner. That link is only implied in the source, so the line keeps \"may\" and does not state it as fact.\n- No new facts, numbers or names were added.\n- Rejected Candidate 3's \"Maybe not a gift\" and \"It's a lesson, not a present\": the source never mentions gifts, and the second line drops the hedge.\n- The description's second sentence keeps \"One popular theory\" and \"may\".",
+  "final": {
+   "angle": "Direct 'you' hook, hedged with 'may'. The source's theory: mother cats bring prey to teach kittens to hunt, so your cat may think you will starve. The last line ends on 'because' and runs straight back into the hook.",
+   "title_overlay": "WHY CATS BRING DEAD MICE",
+   "lines": [
+    {
+     "text": "Your cat may think you can't hunt.",
+     "scene": "{HOUSECAT} sitting next to {GUY} on the living room couch, staring at him, smug; {GUY} confused"
+    },
+    {
+     "text": "Maybe that's why it brings you dead mice.",
+     "scene": "{HOUSECAT} dropping a dead mouse on {GUY}'s shoe in the living room, {HOUSECAT} happy, {GUY} shocked"
+    },
+    {
+     "text": "Nobody knows for sure.",
+     "scene": "{SCI} shrugging in a lab with a question mark above his head, confused"
+    },
+    {
+     "text": "But one popular theory is a little insulting.",
+     "scene": "{GUY} sitting on the living room couch with an offended face, angry"
+    },
+    {
+     "text": "Mother cats bring prey to their kittens",
+     "scene": "a mother {CAT} carrying a mouse in her mouth toward two small {CAT} kittens in the desert, happy"
+    },
+    {
+     "text": "to teach them how to hunt.",
+     "scene": "two small {CAT} kittens pouncing clumsily on a mouse while the mother {CAT} watches in the desert, happy"
+    },
+    {
+     "text": "And you? Giant, slow, hairless,",
+     "scene": "{GUY} sprawled lazily on the living room couch with a big belly, happy"
+    },
+    {
+     "text": "never caught a single mouse in your life.",
+     "scene": "{GUY} trying to catch a mouse with a clay jar and falling over in the living room, a big red X, shocked"
+    },
+    {
+     "text": "Your cat may look at you and think,",
+     "scene": "{HOUSECAT} looking up at {GUY} with pitying eyes in the living room, sad"
+    },
+    {
+     "text": "\"This poor thing is going to starve without me.\"",
+     "scene": "{HOUSECAT} gently placing a mouse in front of {GUY} like a kind teacher in the living room, {GUY} confused"
+    },
+    {
+     "text": "So that mouse may be a lesson, because",
+     "scene": "{HOUSECAT} pointing a paw at a mouse in front of a chalkboard, smug; {GUY} confused"
+    }
+   ],
+   "yt_title": "Why Your Cat Brings You Dead Mice 🐭",
+   "yt_description": "Nobody knows for sure why cats bring you dead mice. One popular theory says your cat may think you can't hunt. Full story on the channel! #shorts #cats #catfacts",
+   "yt_tags": "why do cats bring dead mice, cat brings dead mouse, cat gifts, cat behavior, cat facts, cat hunting lesson, mother cat teaching kittens, why cats hunt, house cat instincts, african wildcat, desert wildcat, cat psychology, funny cat facts, ancient humans explained, stick figure animation, shorts"
+  },
+  "problems": [],
+  "words": 78
+ },
+ {
+  "slug": "cats_egypt",
+  "video": "cats",
+  "winner_index": 0,
+  "reasons": "Winner is candidate 1 (array index 0, angle \"1: direct 'you' claim hook\").\n\n(a) Hook: \"Lose your cat, lose your eyebrows.\" has 6 words, is spoken in the second person and gives away the payoff in the first second. Candidate 2's \"This man shaved his eyebrows for a cat\" is a strong image, but it talks about a third person, not to the viewer. Candidate 3's \"Crying over your dead cat isn't dramatic\" does not hint at eyebrows, so its hook is the weakest.\n(b) All three stick to one fact (Herodotus, eyebrows). Candidate 2 gives the fact away in lines 1-2 and then repeats it in lines 8-9, which makes it redundant.\n(c) Candidate 1 is the tightest: 11 lines and no repeated beat. Its weak spots were two lines that both start with \"Then\" and a slightly vague \"Then you walk into work\". I fixed that with a line taken from candidate 3: \"Now walk into work like that,\". It is also closer to the source line \"Imagine walking into work...\".\n(d) Loop: \"That's ancient Egypt for you:\" leads straight into \"Lose your cat, lose your eyebrows.\" and reads as one sentence. The line-11 scene now mirrors the line-1 scene so the replay is visually seamless.\n(e) It is faithful to the source. The claim is still credited to Herodotus (\"According to the Greek historian Herodotus\"), and nothing is added.\n(f) I rewrote every scene to fit the renderer. All three candidates used things the renderer cannot draw: a bronze razor, mirror, window, pillow, temple, desks or coworkers, scroll and quill, a non-token \"Herodotus\" figure, a text sign reading \"NO EYEBROWS\", the Nile, tissues and an empty cat bed. Herodotus is now played by {SUMER} (the only bearded ancient-man token) in the Greek/Roman setting, holding a stone tablet. A stick figure may not draw eyebrows at all, so missing eyebrows are shown with the supported \"big red X\" over the brow, plus sparkles on the bare brow for the \"Gone\" beat. Every scene now uses tokens, supported settings and props, 1-3 characters and an emotion.\n(g) Format: 11 lines, 63 words (about 21.6 s at 175 wpm), each line 4-8 words, hook 6 words and not starting with a banned word, no call to action in the narration, title overlay 6 words in all caps. The YouTube title is 54 characters. I rewrote the description because \"In ancient Egypt, the Greek historian Herodotus wrote...\" read as if Herodotus was writing in Egypt; it now has 2 short sentences, then \"Full story on the channel!\", then 3 hashtags including #shorts.",
+  "fact_check_notes": "Source: /home/user/test/production/script_part2.txt, block \"## B08 | Egypt: when cats became gods\" (lines 121-184).\n\n- Eyebrow fact is in the source: \"And when a family cat died, / the Greek historian Herodotus wrote / that the whole household / would shave off their eyebrows in mourning. / Their eyebrows.\" (lines 156-160). The final script keeps the attribution (\"According to the Greek historian Herodotus\") and the words \"whole household\" and \"in mourning\".\n- \"cats are worshipped\" matches \"So the Egyptians didn't just like cats. / They worshipped them.\" (lines 131-132).\n- \"walk into work... everyone instantly knows your cat died\" is the source's own humorous framing (lines 161-162: \"Imagine walking into work and everyone just knows / your cat died.\").\n- \"Every single eyebrow. Gone.\" restates \"Their eyebrows.\" as a rhetorical punch. It is not a new fact, since the household shaving their eyebrows is the claim being credited.\n- The hook \"Lose your cat, lose your eyebrows\" states the claim without attribution, but line 6 credits it to Herodotus within 7 seconds, so the attribution is kept. The source puts no other hedge on this fact.\n- Nothing from the other two candidate facts (Diodorus, Pelusium, 19 tons of mummies) and no Bastet, dates or numbers were added.\n- None of the three candidates broke facts. Their problems were with drawability and structure, not accuracy.\n- Bastet is in the source but not in the narration; it appears only in the tags, which is fine.",
+  "final": {
+   "angle": "1: direct 'you' claim hook, second-person walk-through. Fact: Herodotus says the whole household shaved off their eyebrows when the family cat died. Line 9 taken from candidate 3, scenes rebuilt from supported renderer vocabulary, and the line-11 scene mirrors line 1 for a seamless loop.",
+   "title_overlay": "LOSE YOUR CAT, LOSE YOUR EYEBROWS",
+   "lines": [
+    {
+     "text": "Lose your cat, lose your eyebrows.",
+     "scene": "Egypt/pyramid setting: {EGYPT} touching his bare forehead, no eyebrows, a big red X over his brow, shocked"
+    },
+    {
+     "text": "Picture yourself in ancient Egypt.",
+     "scene": "Egypt/pyramid desert setting: {GUY} looking around at the pyramids, a question mark above his head, confused"
+    },
+    {
+     "text": "Your cat isn't just a pet.",
+     "scene": "Egypt/pyramid setting: {EGYPT} petting {CAT} on his lap, a heart above them, both happy"
+    },
+    {
+     "text": "Here, cats are worshipped.",
+     "scene": "Egypt/pyramid setting: {EGYPT} bowing down to {CAT} wearing a crown, sparkles around the cat, {CAT} smug"
+    },
+    {
+     "text": "Then one day, your cat dies.",
+     "scene": "Egypt/pyramid setting: {CAT} lying still on the ground with eyes closed, {EGYPT} kneeling beside it crying, sad"
+    },
+    {
+     "text": "According to the Greek historian Herodotus,",
+     "scene": "Greek/Roman setting with columns: {SUMER} bearded old man as a Greek historian holding a stone tablet, smug"
+    },
+    {
+     "text": "your whole household shaves their eyebrows in mourning.",
+     "scene": "Egypt/pyramid setting: three {EGYPT} standing in a row, each with a big red X over his eyebrows, all sad and crying"
+    },
+    {
+     "text": "Every single eyebrow. Gone.",
+     "scene": "Egypt/pyramid setting: close-up of {EGYPT} with no eyebrows, sparkles on his bare shiny brow, shocked"
+    },
+    {
+     "text": "Now walk into work like that,",
+     "scene": "Egypt/pyramid setting: {EGYPT} with no eyebrows and a big red X over his brow, carrying a clay jar, walking, sad"
+    },
+    {
+     "text": "and everyone instantly knows your cat died.",
+     "scene": "Egypt/pyramid setting: two {EGYPT} pointing at a third {EGYPT} with no eyebrows and a big red X over his brow, the two shocked, he is sad"
+    },
+    {
+     "text": "That's ancient Egypt for you:",
+     "scene": "Egypt/pyramid setting: {EGYPT} touching his bare forehead, no eyebrows, a big red X over his brow, shrugging, sad"
+    }
+   ],
+   "yt_title": "In Ancient Egypt, Losing Your Cat Cost Your Eyebrows 😿",
+   "yt_description": "Herodotus wrote that when a family cat died in ancient Egypt, the whole household shaved off their eyebrows. Imagine walking into work like that. Full story on the channel!\n#ancientegypt #cats #shorts",
+   "yt_tags": "ancient egypt cats, egyptians shaved eyebrows, cat mourning, herodotus, egyptian cats worshipped, bastet, cats in ancient egypt, why egyptians worshipped cats, cat history, history facts, ancient history, ancient humans, weird history, cat facts, shorts"
+  },
+  "problems": [],
+  "words": 63
+ },
+ {
+  "slug": "cats_meow",
+  "video": "cats",
+  "winner_index": 2,
+  "reasons": "Winner: candidate 3, \"THE MEOW MYTH\" (0-based index 2). Scores out of 5, in the order hook / one topic + fact / payoff density / loop / faithfulness / drawable scenes / format:\n- C1 \"THE MEOW IS FOR YOU\": 4/3/3/4/4/3/5. Its hook is strong. But lines 6-7 just repeat the hook, and lines 8-9 drift into a side fact (one meow for food, one for the door). It also drops the feral-cat fact from the brief, and the hook \"saves its meow for you\" loses the source's \"mostly\" hedge.\n- C2 \"SECRET BABY CRY\": 5/2/4/3/4/2/5. It has the strongest single image, but it is two topics in one Short: meow-for-humans plus the 2009 Sussex solicitation purr, which the brief marks optional. It skips the feral-cat fact. The loop from \"So next time your cat begs for food,\" into the hook is forced. Several scenes can't be drawn: sound wave, microphone, crying baby, a spike drawn on a chalkboard.\n- C3 \"THE MEOW MYTH\": 4/5/4/5/4/3/5. It is the only candidate that covers the whole brief: adult cats almost never meow at each other, kittens meow at mothers, how cats actually talk to each other, feral cats meow less, and the meow is mostly for humans. Every line stays on that one topic, and the payoff lands on the second-to-last line. Its loop is the cleanest: \"Yet somehow, all your life,\" / \"You were told cats meow to each other.\"\n\nFixes applied (minimal edits):\n1) Line 4 changed from \"But grown cats talk with hisses,\" to \"But grown cats talk to each other\". Line 5 changed from \"growls, body language and scent.\" to \"with hisses, growls, body language and scent.\" The source says these are how adult cats talk TO OTHER CATS; the old wording made them sound like cats' general way of talking.\n2) Scenes reworked so they can actually be drawn. I checked every scene by rendering it with shorts_v2/tools/paint_frames.py on the vertical v2 canvas:\n   - Removed speech bubbles, the arrow and the drawing on the chalkboard, which the renderer can't draw. The word bubbles became a quoted \"meow\" label, which the renderer prints as text.\n   - Removed \"medieval village\" (a misleading era backdrop) and swapped in a night/moon alley.\n   - \"feral cats\" is not a character keyword, so I named the cats explicitly: a black cat plus {HOUSECAT}.\n   - Dropped the word \"kitten\" from the line 3 scene, because the renderer would turn it into a sandy {CAT} wildcat.\n   - \"amazed\" maps to no expression, so it became \"surprised\" plus pointing at himself.\n   - Avoided keyword traps: \"people\" in a scene spawns an extra human, and \"mouths shut\" drew a hut because the renderer matches \"hut\" inside \"shut\".\n   - Lines 1 and 11 are now the same couch shot of {GUY} with both cats, so the replay looks continuous.\n3) Format check: 65 words, 11 lines, 2-8 words per line. The hook is 8 words, spoken to the viewer, and doesn't start with And/So/Now/But. No call to action in the narration. Overlay is 3 words in all caps. yt_title is 42 characters, tags are 249 characters, and the description is 2 sentences + \"Full story on the channel!\" + 3 hashtags including #shorts.",
+  "fact_check_notes": "Checked against /home/user/test/production/script_part3.txt, block B12 \"How cats hacked the human brain\".\n- Lines 2-3 match the source: \"Adult cats almost never meow at each other. Kittens meow at their mothers.\" The hedge \"almost never\" is kept.\n- Lines 4-5 match: \"But adult cats talking to other cats use hisses, growls, body language, scent.\" The meaning is restored to \"to each other\".\n- Lines 6-7 match the source word for word: \"Feral cats that grow up without people meow a lot less.\"\n- Lines 8-10 match: \"The meow, the sound you probably hear every single morning, is something adult cats mostly use with humans.\" The hedges \"probably\" and \"mostly\" are kept; only \"single\" was dropped.\n- Hook and loop line (\"You were told cats meow to each other\" / \"all your life\"): this is framing about what the viewer believes, not a claim about cats. It is backed by the source's \"Here's a fact that surprises almost everyone.\"\n- No new facts were added. I left out the 2009 Sussex solicitation purr (optional in the brief) to keep one topic; its source details (\"more urgent\", \"surprisingly similar to a human baby's cry\") remain available for a separate Short.\n- I also dropped C1's \"one meow for food, one for the door\": it is in the source, but it is off-topic here.\n- The description uses only source facts: \"almost never\", \"mostly for humans\", kittens/mothers, feral cats meow a lot less.",
+  "final": {
+   "angle": "Myth-bust hook spoken to the viewer: cats almost never meow at each other. The middle is the evidence (kittens meow at mothers, adult cats use hisses, growls, body language and scent, feral cats meow a lot less). The payoff is that the meow is mostly for humans, and the last line loops back into the myth. 65 words, 11 lines.",
+   "title_overlay": "THE MEOW MYTH",
+   "lines": [
+    {
+     "text": "You were told cats meow to each other.",
+     "scene": "{GUY} on the living room couch, smug and confident, {HOUSECAT} and a black cat beside him, the word \"meow\" above them"
+    },
+    {
+     "text": "Adult cats almost never do.",
+     "scene": "{HOUSECAT} and a black cat face to face in total silence, a big red X between them, {GUY} shocked"
+    },
+    {
+     "text": "Kittens meow at their mothers.",
+     "scene": "a tiny {HOUSECAT} baby meowing up at its big mother, a black cat, a heart above them, both happy"
+    },
+    {
+     "text": "But grown cats talk to each other",
+     "scene": "a black cat hissing angrily at {HOUSECAT}, who has puffed-up fur and a shocked face"
+    },
+    {
+     "text": "with hisses, growls, body language and scent.",
+     "scene": "{HOUSECAT} with a raised tail rubbing its cheek on a clay jar, smug, a black cat growling nearby"
+    },
+    {
+     "text": "Feral cats that grow up without people",
+     "scene": "a scruffy black cat and a scruffy {HOUSECAT} alone in a dark alley at night under the moon, wary"
+    },
+    {
+     "text": "meow a lot less.",
+     "scene": "the same scruffy black cat and {HOUSECAT} sitting silent under the moon, a big red X above them, bored"
+    },
+    {
+     "text": "The meow,",
+     "scene": "{HOUSECAT} alone in the living room with the word \"meow\" above it, sparkles around it, smug"
+    },
+    {
+     "text": "the sound you probably hear every morning,",
+     "scene": "{GUY} asleep in bed with Z letters, {HOUSECAT} sitting on his chest meowing into his face"
+    },
+    {
+     "text": "is something adult cats mostly use with humans.",
+     "scene": "{HOUSECAT} meowing up at {GUY} on the living room couch, {GUY} pointing at himself, surprised"
+    },
+    {
+     "text": "Yet somehow, all your life,",
+     "scene": "{GUY} on the living room couch scratching his head, confused, a big question mark above him, {HOUSECAT} and a black cat beside him"
+    }
+   ],
+   "yt_title": "Do Cats Meow at Each Other? Almost Never 🐈",
+   "yt_description": "Adult cats almost never meow at each other: the meow is mostly for humans. Kittens meow at their mothers, and feral cats meow a lot less. Full story on the channel! #shorts #cats #catfacts",
+   "yt_tags": "do cats meow at each other, cat meow myth, why do cats meow, feral cats meow, cats meow at humans, kitten meow, cat communication, cat body language, cat hiss, cat behavior, cat facts, cats explained, animated history, stick figure animation, shorts"
+  },
+  "problems": [],
+  "words": 65
+ },
+ {
+  "slug": "alcohol_drunk_goddess",
+  "video": "alcohol",
+  "winner_index": 0,
+  "reasons": "Candidate 1 (index 0) wins. (a) Hook: \"You're alive because a goddess got drunk.\" is 7 words, speaks to the viewer, and already contains the payoff. Candidate 2's hook (\"Thousands of jars of red beer saved humanity\") has a good image but does not address the viewer. Candidate 3's hook works, but its line 2 (\"At least in an Egyptian myth.\") is filler, and its loop line \"So tell me, do you still\" sounds like a call to action and is weak. (b) All three stick to one topic: Sekhmet, the blood-red beer, the hangover. Candidate 1 also lands the brief's \"saved by a hangover\" line, which Candidate 2 leaves out. (c) Candidate 1 packs the most payoff into its lines: every one moves the story forward. (d) Candidate 1's loop \"Because, according to them,\" + \"You're alive because a goddess got drunk\" said \"because\" twice in a row, which sounds clumsy. (e) The facts in all three match the SOURCE. (f) Several scenes in all three use things the renderer can't draw: \"tiny humans\" (no character token), \"a big sun\" (not a supported prop), \"a red dress\", \"fields\" (not a supported setting). (g) Candidate 1 met the format rules.\n\nMinimal fixes applied to Candidate 1:\n1. Loop line changed from \"Because, according to them,\" to \"After all, according to them,\". On replay it reads \"Egyptians celebrated with a festival of drunkenness. After all, according to them, you're alive because a goddess got drunk.\" That removes the doubled \"because\" and keeps the myth hedge.\n2. Scenes cleaned up for the renderer. Every human is now a {EGYPT} token (at most 3 characters per scene). Sekhmet is drawn as a lion wearing a crown, Ra as {EGYPT} with a crown. The unsupported sun, dress and \"field\" are gone. Each night scene uses desert + night/moon. Each scene has one clear emotion.\n3. The hangover line's scene now shows the actual hangover (Sekhmet holding her aching head while the people cheer), taken from the SOURCE's visual for \"By a hangover.\"\n4. Tags: removed the off-topic \"ancient humans\". The total is 259 characters.\nFinal count: 12 lines, 79 words (~27 s at 175 wpm), every line 5-9 words, hook 7 words, no line starts with And/So/Now/But except line 5 (\"So Ra...\"), which is allowed because the rule only covers line 1. No call to action in the narration.",
+  "fact_check_notes": "I checked every narration claim against SOURCE block B09 (/home/user/test/video2_alcohol/script_part3.txt, lines 26-45):\n- \"In an Egyptian myth\" — SOURCE: \"the Egyptians even had a myth about how beer saved humanity\" / \"In the story...\". The myth framing is kept, and the loop line adds \"according to them\".\n- \"Ra got angry at humans\" — SOURCE line 28: \"the sun god Ra got angry at humans.\"\n- \"He sent Sekhmet, a lioness goddess, to punish them\" — SOURCE lines 29-30.\n- \"Once she started, she wouldn't stop\" — SOURCE lines 31-32, word for word.\n- \"thousands of beer jars dyed red and poured over the fields\" — SOURCE lines 35-37: \"thousands of jars of beer dyed red, so it looked like blood, and poured it all over the fields.\"\n- \"Sekhmet thought it was blood / drank all of it / got completely drunk, and fell asleep\" — SOURCE lines 39-42, word for word.\n- \"Humanity was saved by a hangover\" — SOURCE lines 43-44: \"Humanity was saved. By a hangover.\"\n- \"Egyptians celebrated with a festival of drunkenness\" — SOURCE lines 45-46: \"the Egyptians celebrated this story with an actual festival of drunkenness.\"\n- The hook \"You're alive because a goddess got drunk\" retells the myth's point that beer saved humanity. Line 2 and the loop (\"according to them\") make it clear it's a myth, not history.\nNo new facts were added: no dates, no festival name, nothing about Hathor. The description, title and tags contain only SOURCE facts. The description's \"dyed red like blood\" restates the SOURCE's \"so it looked like blood\".\nNot used, kept out on purpose: the pyramid workers' beer ration (4-5 liters, a hedged estimate) and the tetracycline in Nubian bones. Both are separate topics.",
+  "final": {
+   "angle": "Direct 'you' claim hook: you're only alive because a goddess got drunk. The myth unfolds (Ra's anger, Sekhmet's rampage, blood-red beer, drunk sleep, hangover, festival). The last line 'After all, according to them,' flows straight into the hook on replay: '...according to them, you're alive because a goddess got drunk.'",
+   "title_overlay": "SAVED BY A DRUNK GODDESS",
+   "lines": [
+    {
+     "text": "You're alive because a goddess got drunk.",
+     "scene": "{GUY} pointing at himself, shocked, next to a lion wearing a crown (the goddess Sekhmet) sleeping with Z letters beside a tipped-over clay jar, Egypt pyramid background"
+    },
+    {
+     "text": "In an Egyptian myth, Ra got angry at humans.",
+     "scene": "{EGYPT} wearing a crown (the sun god Ra), angry, frowning down at a small scared {EGYPT}, Egypt pyramid background"
+    },
+    {
+     "text": "He sent Sekhmet, a lioness goddess, to punish them.",
+     "scene": "a lion wearing a crown (the goddess Sekhmet), angry, running across the desert toward a scared {EGYPT}"
+    },
+    {
+     "text": "Once she started, she wouldn't stop.",
+     "scene": "the crowned lion goddess, angry, chasing two terrified {EGYPT} around a pyramid"
+    },
+    {
+     "text": "So Ra had thousands of beer jars",
+     "scene": "{EGYPT} wearing a crown with a glowing light bulb above his head, smug, next to a long row of clay jars, Egypt pyramid background"
+    },
+    {
+     "text": "dyed red and poured over the fields.",
+     "scene": "{EGYPT} wearing a crown, smug, pouring red beer from a clay jar across the desert ground at night, moon in the sky"
+    },
+    {
+     "text": "Sekhmet thought it was blood.",
+     "scene": "the crowned lion goddess stopping at a big red puddle in the desert at night, shocked wide eyes, moon in the sky"
+    },
+    {
+     "text": "She drank all of it,",
+     "scene": "the crowned lion goddess lying on her belly gulping from the red puddle, happy, desert at night with the moon"
+    },
+    {
+     "text": "got completely drunk, and fell asleep.",
+     "scene": "the crowned lion goddess sleeping in the desert at night with a dizzy smile, Z letters floating above her, a tipped-over clay jar beside her"
+    },
+    {
+     "text": "Humanity was saved by a hangover.",
+     "scene": "two {EGYPT} cheering, happy, sparkles around them, next to the crowned lion goddess holding her aching head, sad, desert background"
+    },
+    {
+     "text": "Egyptians celebrated with a festival of drunkenness.",
+     "scene": "two {EGYPT} dancing happily and raising clay jars at a night festival by the pyramids, moon in the sky"
+    },
+    {
+     "text": "After all, according to them,",
+     "scene": "{EGYPT} smugly winking at the viewer and raising a clay jar, Egypt pyramid background"
+    }
+   ],
+   "yt_title": "You're Alive Because a Goddess Got Drunk 🍺",
+   "yt_description": "In an Egyptian myth, Ra stopped the lioness goddess Sekhmet with thousands of jars of beer dyed red like blood. She drank it all, fell asleep, and humanity was saved by a hangover. Full story on the channel! #shorts #ancientegypt #mythology",
+   "yt_tags": "ancient egypt, egyptian mythology, sekhmet, ra, drunk goddess, egyptian myth, beer history, history of alcohol, ancient beer, red beer, festival of drunkenness, hangover, lioness goddess, ancient history, mythology shorts, history shorts, stick figure history"
+  },
+  "problems": [],
+  "words": 79
+ },
+ {
+  "slug": "alcohol_spit_beer",
+  "video": "alcohol",
+  "winner_index": 1,
+  "reasons": "Winner is candidate 2 (index 1, \"She's spitting in your beer. On purpose.\").\n(a) Hook: it is the strongest of the three. It opens on a concrete, disgusting image aimed straight at the viewer (\"your beer\") and already gives away the payoff (spit, done deliberately). It is 7 words and does not start with a filler word. Candidate 1 (\"You'd never guess this beer's secret ingredient\") is a vague curiosity gap that hides the payoff. Candidate 3 (\"You were told never spit in drinks\") is a weaker setup that reads a bit oddly.\n(b) It sticks to one topic, chewing and spitting to start fermentation. The single surprising fact is concrete (chew the corn, spit it into the pot) and the enzyme line explains it.\n(c) Payoff density: it is the tightest of the three, with no filler. \"Why? Human saliva has enzymes.\" does the job of candidate 1's \"Gross? Actually, it's chemistry.\" plus the enzyme line in fewer words. The standalone \"Spit beer.\" punch follows the source order.\n(d) Loop: it has the best loop. \"Two continents, same trick. So yes, / She's spitting in your beer. On purpose.\" is one continuous sentence when replayed. Candidate 1's \"Which is exactly why you'd never guess...\" does not follow logically. Candidate 3's \"Which is funny, because you were told never spit in drinks\" works but is flat.\n(g) Format: 72 words over 13 lines, every line 2-8 words, about 25 s at 175 wpm. The overlay is 5 words in all caps.\nFixes applied (scenes only; narration unchanged):\n- Line 3: the map had no character, so the frame was empty. Added {WOMAN} pointing, happy.\n- Line 4: the renderer draws the \"?\" at top-right, right on top of the right-hand character's head. Removed the question mark and kept \"both confused\".\n- Line 5: added the clay jar so the frame stays consistent.\n- Line 6: changed \"covering his mouth\" to \"covering his eyes\". This gives a real pose (hands to head), and the frame no longer matches the hook frame exactly.\n- Line 7: the light bulb is drawn at top-center and covered the face of the lone, centered {SCI}. Replaced it with {SCI} pointing at a clay jar.\n- Line 10: the scene mixed emotions (\"angry and disgusted\" plus \"{WOMAN} smug\"). The renderer uses one expression per scene, so the woman would also have looked angry. Now it is {GUY} glaring at the jar, angry.\n- Lines 11-12: \"grain pot\" is a keyword for the storehouse/interior background and is matched before \"village\", so both frames would have rendered indoors. Changed it to \"clay jar\". Line 11 is now smug without sparkles, so it doesn't duplicate line 9.\n- Line 13: removed the clay jars, which the renderer never draws on a map background.\n- Description: tightened it and added the saliva-enzyme fact from the source. Tags: added \"saliva enzymes\" and \"South America history\"; 314 chars.\nAll 13 frames were test-rendered with shorts_v2/tools/paint_frames.py. Every line produced the intended setting, characters and expression, and nothing overlaps.",
+  "fact_check_notes": "Checked against SOURCE block B11 \"Every culture found its own drink\" in /home/user/test/video2_alcohol/script_part3.txt:\n- \"This is chicha, a corn beer from the Andes of South America.\" Source: \"In the Andes of South America, people made a corn beer called chicha.\" OK.\n- \"One traditional way to start it? Chew the corn, then spit it into the pot.\" Source: \"traditionally, one way to start the fermentation was to chew the corn and spit it into the pot.\" OK. The hedge (\"one traditional way\", not \"the way\") is kept.\n- \"Human saliva has enzymes. They turn the starch into sugar, so the yeast can make alcohol.\" Source: \"Enzymes in human saliva turn the starch into sugar so the yeast can turn it into alcohol.\" OK.\n- \"Spit beer.\" is the source's own line, in the same position.\n- \"Japan had its own version, an old rice drink made by chewing rice.\" This is the source wording verbatim. OK.\n- \"Two continents, same trick.\" This is not a new fact. The Andes are in South America and Japan is in Asia, and it echoes the source's closing \"Completely different continents... The same idea.\"\n- Hook \"She's spitting in your beer. On purpose.\" This is a dramatized image, not a historical claim. The source's own scenes show a woman doing the spitting, and \"on purpose\" matches the source's framing that this was a deliberate way to start fermentation.\n- No numbers, dates or names beyond the source. I left out tags like \"kuchikamizake\" and \"chicha de muko\", which appear in the old short2 metadata but not in the fact-checked source.",
+  "final": {
+   "angle": "Shocking-image hook: open on the brewer spitting into 'your' beer on purpose, then explain why it works (saliva enzymes), add Japan's chewed rice drink, and loop back with 'So yes, she's spitting in your beer.'",
+   "title_overlay": "SHE SPITS IN YOUR BEER",
+   "lines": [
+    {
+     "text": "She's spitting in your beer. On purpose.",
+     "scene": "village/hut setting, {WOMAN} spitting a little stream into a clay jar, {GUY} holding out his cup, shocked"
+    },
+    {
+     "text": "This is chicha, a corn beer",
+     "scene": "village/hut setting, a big clay jar of yellow corn beer with sparkles, {WOMAN} next to it, smug"
+    },
+    {
+     "text": "from the Andes of South America.",
+     "scene": "map setting, South America with the Andes mountains marked, {WOMAN} standing on the map pointing at it, happy"
+    },
+    {
+     "text": "One traditional way to start it?",
+     "scene": "village/hut setting, {WOMAN} sitting by a clay jar, {GUY} next to her, both confused"
+    },
+    {
+     "text": "Chew the corn,",
+     "scene": "village/hut setting, {WOMAN} chewing corn with big puffy cheeks next to the clay jar, happy"
+    },
+    {
+     "text": "then spit it into the pot.",
+     "scene": "village/hut setting, {WOMAN} spitting into the clay jar, {GUY} covering his eyes, shocked"
+    },
+    {
+     "text": "Why? Human saliva has enzymes.",
+     "scene": "lab setting, {SCI} pointing at a clay jar, smug"
+    },
+    {
+     "text": "They turn the starch into sugar,",
+     "scene": "chalkboard setting, {SCI} pointing at a chalk arrow from grain to sugar cubes, sparkles, happy"
+    },
+    {
+     "text": "so the yeast can make alcohol.",
+     "scene": "village/hut setting, clay jar bubbling with sparkles, {WOMAN} next to it, happy"
+    },
+    {
+     "text": "Spit beer.",
+     "scene": "village/hut setting, {GUY} glaring at a clay jar, angry"
+    },
+    {
+     "text": "Japan had its own version,",
+     "scene": "village/hut setting, {WOMAN} holding a clay jar full of rice, smug"
+    },
+    {
+     "text": "an old rice drink made by chewing rice.",
+     "scene": "village/hut setting, {WOMAN} chewing rice with puffy cheeks and spitting into a clay jar, {GUY} beside her, confused"
+    },
+    {
+     "text": "Two continents, same trick. So yes,",
+     "scene": "map setting, two glowing spots on the world map, {GUY} pointing at them, shocked"
+    }
+   ],
+   "yt_title": "She Spat in Your Beer... On Purpose 🌽",
+   "yt_description": "Chicha is a corn beer from the Andes, and one traditional way to start it was to chew the corn and spit it into the pot. Enzymes in saliva turn the starch into sugar, and Japan had its own chewed rice drink. Full story on the channel! #shorts #history #spitbeer",
+   "yt_tags": "spit beer, chicha, corn beer, Andes, ancient beer, chewing corn, saliva fermentation, saliva enzymes, starch to sugar, yeast, history of alcohol, ancient drinks, Japan rice drink, chewed rice drink, South America history, ancient humans explained, stick figure history, history shorts, weird history, gross history"
+  },
+  "problems": [],
+  "words": 72
+ },
+ {
+  "slug": "alcohol_beer_straws",
+  "video": "alcohol",
+  "winner_index": 1,
+  "reasons": "Candidate 1 wins. Its hook (\"You'd need a straw to drink Sumerian beer.\") is 8 words, speaks to the viewer and hints at the payoff without giving it away. It follows the SOURCE beat for beat (beer unlike yours, thick/cloudy/husks, long straws past the gunk, shared jar in Sumerian art, the gold and lapis straw from Ur, \"world's first luxury straw\"). The gold straw is held back as the payoff, and the last line ends on \"because\" so it runs straight into the hook.\nCandidate 2 opens with the gold straw, which spends the payoff in the first second. The hook isn't spoken to the viewer, and \"This drinking straw is made of gold\" only gets corrected to \"gold and lapis\" one line later.\nCandidate 3's hook (\"You think straws are just for kids?\") argues against a belief nobody holds, so it hints at nothing. Its juice-box and couch opening uses props the renderer doesn't support.\nFixes to Candidate 1:\n(1) Line 2 \"Nothing like the beer you know.\" became \"It looked nothing like the beer you know.\" This matches the SOURCE wording (\"didn't look like\") and reads as a full sentence.\n(2) Line 6 became \"to reach past the gunk floating on top.\", the SOURCE's own wording.\n(3) Scenes rewritten to fit the renderer. \"People\" became three {SUMER} men, so each scene has at most 3 characters. The cross-section shot became a simple straw going down into the jar. The torch-lit tomb became a dark tomb at night with bones and a crown. The red velvet pillow and spotlight became a golden straw under a crown with sparkles. The unsupported modern beer glass became {GUY} confused at the clay jar with a question mark. Emotions now use the supported words (happy instead of laughing or smiling, confused instead of squinting).\nFormat check: 78 words, 12 lines, 4-8 words per line, about 26.7 s at 175 wpm. Line 1 is 8 words and doesn't start with And/So/Now/But. No call to action in the narration. title_overlay is 4 words in all caps. yt_title is 43 characters. Tags are 304 characters.",
+  "fact_check_notes": "Every narration claim maps to SOURCE block B08 (script_part2.txt lines 100-113):\n- \"didn't look like the beer you know\" (line 100) -> line 2.\n- \"thick, cloudy, and full of floating grain husks\" (lines 101-103) -> lines 3-4.\n- \"With straws. Long straws, to reach past the gunk floating on top\" (lines 105-107) -> lines 5-6.\n- \"Sumerian art shows people sitting around a big jar, all drinking from it together through long straws\" (lines 108-109) -> lines 7-8.\n- \"in the royal tombs of Ur, archaeologists found a drinking straw made of gold and lapis lazuli\" (lines 110-112) -> lines 9-11.\n- \"The world's first luxury straw\" (line 113) -> line 12.\nThe SOURCE has no hedges in this passage, so none were dropped. No new facts were added.\nOne mild point: the hook's \"You'd need a straw\" is a viewer-facing paraphrase of the SOURCE's \"So how did they drink it? With straws... to reach past the gunk.\" I judged that a fair dramatization, not a new claim.\nFacts left out on purpose to keep one topic: beer as wages and rations, Gilgamesh/Enkidu, Ninkasi.\nRenderer note: \"straw\" isn't on the named prop list. It's the whole subject of this Short, so scenes describe it as a simple long thin line (golden with blue bands for the Ur straw). The renderer needs to draw it as a plain line.\nThe description's \"Full story on the channel!\" is required by the template and appears only in yt_description, not in the narration.",
+  "final": {
+   "angle": "Direct 'you' hook: you'd need a straw to drink Sumerian beer. It covers the thick, cloudy, husky beer and the long straws that reached past the gunk, shows people sharing one jar in Sumerian art, then reveals the gold and lapis lazuli straw from the royal tombs of Ur. The last line ends on 'because' and runs into the hook to finish the sentence.",
+   "title_overlay": "YOU'D NEED A STRAW",
+   "lines": [
+    {
+     "text": "You'd need a straw to drink Sumerian beer.",
+     "scene": "{SUMER} in Sumer sipping from a big clay jar through a very long straw, smug"
+    },
+    {
+     "text": "It looked nothing like the beer you know.",
+     "scene": "{GUY} in Sumer staring at a big lumpy clay jar, question mark above his head, confused"
+    },
+    {
+     "text": "It was thick, cloudy,",
+     "scene": "close-up of a big clay jar in Sumer full of thick cloudy brown beer, {GUY} confused"
+    },
+    {
+     "text": "and full of floating grain husks.",
+     "scene": "grain husks floating on top of the beer in a clay jar like messy soup, Sumer, {GUY} shocked"
+    },
+    {
+     "text": "So they drank it through long straws,",
+     "scene": "{SUMER} sitting by a big clay jar in Sumer, sipping through a very long straw, happy"
+    },
+    {
+     "text": "to reach past the gunk floating on top.",
+     "scene": "a long straw going down into a big clay jar under the floating husks, Sumer, {SUMER} sipping, happy"
+    },
+    {
+     "text": "Sumerian art shows people around one jar,",
+     "scene": "three {SUMER} men sitting in a circle around one big clay jar in Sumer, happy"
+    },
+    {
+     "text": "all sipping together through long straws.",
+     "scene": "three {SUMER} men around the big clay jar in Sumer, all sipping through long straws at once, happy"
+    },
+    {
+     "text": "And in the royal tombs of Ur,",
+     "scene": "{SCI} in a dark royal tomb at Ur in Sumer at night, bones and a crown on the ground, sparkles, surprised"
+    },
+    {
+     "text": "archaeologists found a drinking straw",
+     "scene": "{SCI} in Sumer holding up a long thin golden straw, sparkles around it, shocked"
+    },
+    {
+     "text": "made of gold and lapis lazuli.",
+     "scene": "close-up of a golden straw with bright blue lapis bands in Sumer, sparkles, {SCI} happy"
+    },
+    {
+     "text": "The world's first luxury straw, because",
+     "scene": "the golden straw glowing under a crown in Sumer, sparkles, {SUMER} smug"
+    }
+   ],
+   "yt_title": "You'd Need a Straw to Drink Sumerian Beer 🍺",
+   "yt_description": "Sumerian beer was thick, cloudy and full of floating grain husks, so people drank it through long straws. In the royal tombs of Ur, archaeologists found a drinking straw made of gold and lapis lazuli. Full story on the channel! #history #beer #shorts",
+   "yt_tags": "sumerian beer, ancient beer, drinking straw, beer straw, golden straw, gold straw, lapis lazuli, royal tombs of ur, ancient ur, sumer, ancient sumer, mesopotamia, history of beer, history of alcohol, ancient drinks, archaeology, ancient history, weird history, history facts, stick figure history, shorts"
+  },
+  "problems": [],
+  "words": 78
+ },
+ {
+  "slug": "sleep_night_watch",
+  "video": "sleep",
+  "winner_index": 0,
+  "reasons": "Candidate 1 wins. (a) Its hook speaks to the viewer (\"Your weird sleep schedule...\"), is 8 words, keeps the source's \"might\", and already points to the payoff. Candidate 2 opens with \"You'd catch everyone asleep...\" without saying who \"you\" is, which confuses on first listen. Candidate 3's \"You picture the whole camp asleep? Probably not.\" is weak and adds a \"probably\" the source never used. (b) It has one topic and one surprising number (18 minutes in 20 nights), and only Candidate 1 has the relatable grandma/cousin payoff from the source. (c) It is dense, with no filler. (d) Its loop works but implied insomnia. Fixes: (1) Changed the loop line \"So if you can't sleep, remember:\" to \"So, early bird or night owl?\" The old line suggested insomnia is ancient security, which the source never says. The new one brings in the brief's early bird / night owl terms and leads straight into the hook. (2) Merged \"The rest of the time, someone was awake / or sleeping lightly.\" into \"Otherwise, someone was awake or sleeping lightly.\" This is tighter and needs one scene instead of two; \"or sleeping lightly\" on its own could not be drawn. (3) Changed \"Cousin up at two?\" to \"Cousin still awake at two?\" because \"up at two\" could mean sleeping until 2 p.m., and the source says \"wide awake at two a.m.\" (4) Scene fixes after checking tools/paint_frames.py and test-rendering every frame. Line 6: with a single character, the \"18\" tablet sits on the scientist's face, so I added {GUY} and both now stand on either side of it. Line 7: the renderer shows only one \"Hadza/people\" figure, and the Z-letters keyword puts everyone to sleep, so \"someone awake\" could not be drawn. I named a \"Hadza hunter\" as a second figure, and he renders awake next to the sleeper. Line 9: \"teenager\" maps to the caveman sprite, so I used a young {GUY}. \"Curious\" is not in the renderer's list of emotions, so I changed it to \"smiling\". Line 10: removed the hut so the frame has 3 elements instead of 4. \"In bed\" in the hook was dropped because no bed is drawn. Result: 11 lines, 72 words, about 25 seconds at 175 wpm. Every line is 4-9 words, the hook is 8 words, and there is no call to action.",
+  "fact_check_notes": "Checked line by line against script_part3.txt, block B10. Hadza, hunter-gatherers in Tanzania who \"still live in a way that's similar to how our ancestors lived\": in the source (\"much like\" is a close paraphrase). 33 people with motion-tracking watches, 20 nights: in the source. \"Only about eighteen minutes in total when everyone was asleep at the same time\": in the source, and \"about\" is kept. \"At least one person was awake or sleeping lightly\": in the source as \"someone was awake or sleeping lightly\". \"Nobody planned a night watch... body clocks are different\": in the source. Early birds and night owls: in the source. \"That difference might be ancient security\": the hook keeps \"might\". Grandmother up at five, teenage cousin wide awake at two a.m., \"they might be running an ancient night watch\": in the source, hedge kept. Removed: the insomnia implication in Candidate 1's last line. Not used: Candidate 3's added \"Probably not\", and Candidate 2's predator-POV line generalising the camp result. No new facts were added. The metadata keeps \"might\" and \"about 18 minutes\".",
+  "final": {
+   "angle": "Direct 'you' claim: your odd sleep hours may be an inherited night-watch system. Proof: in the Hadza study, everyone was asleep at once for only about 18 minutes in 20 nights. Grandma at 5, cousin at 2.",
+   "title_overlay": "YOUR SLEEP: ANCIENT SECURITY?",
+   "lines": [
+    {
+     "text": "Your weird sleep schedule might be ancient security.",
+     "scene": "{GUY} wide awake at night under the moon, a {CAVE} with a spear standing guard by a campfire behind him, smug"
+    },
+    {
+     "text": "Scientists tracked the Hadza in Tanzania,",
+     "scene": "{SCI} with a notebook walking through the dry savanna toward a hut, smiling"
+    },
+    {
+     "text": "hunter-gatherers living much like our ancestors.",
+     "scene": "Hadza people with bows sitting around a campfire by a hut on the savanna, happy"
+    },
+    {
+     "text": "Thirty-three people. Twenty nights.",
+     "scene": "{SCI} strapping a watch onto a Hadza man's wrist next to a stone tablet with \"33\" on the savanna, happy"
+    },
+    {
+     "text": "Everyone asleep at the same time?",
+     "scene": "a whole camp of Hadza people lying around a campfire at night with Z letters, a big question mark above them"
+    },
+    {
+     "text": "Only about eighteen minutes total.",
+     "scene": "{SCI} and {GUY} shocked with jaws dropped on either side of a stone tablet with \"18\" in the lab"
+    },
+    {
+     "text": "Otherwise, someone was awake or sleeping lightly.",
+     "scene": "Hadza people asleep with Z letters around a campfire at night, one Hadza hunter sitting up wide awake beside them"
+    },
+    {
+     "text": "Nobody planned it. Body clocks just differ.",
+     "scene": "{SCI} at a chalkboard with a big red X over a guard schedule, three clocks showing different times, confused"
+    },
+    {
+     "text": "Grandma up at five? Cousin still awake at two?",
+     "scene": "an old grandmother smiling under a clock showing \"5:00\" next to a young {GUY} wide awake under the moon, happy"
+    },
+    {
+     "text": "They might be running an ancient night watch.",
+     "scene": "{WOMAN} and {CAVE} with a spear standing guard on either side of a campfire at night, proud"
+    },
+    {
+     "text": "So, early bird or night owl?",
+     "scene": "{GUY} wide awake at night under the moon, a big question mark above him, confused"
+    }
+   ],
+   "yt_title": "Your Weird Sleep Schedule Might Be Ancient Security 🌙",
+   "yt_description": "Scientists tracked 33 Hadza hunter-gatherers in Tanzania for 20 nights, and everyone was asleep at the same time for only about 18 minutes in total. Early birds and night owls might be running an ancient night watch. Full story on the channel! #shorts #sleep #ancienthumans",
+   "yt_tags": "Hadza, sleep, sleep study, sleep science, night owl, early bird, night watch, sleep schedule, body clock, why grandma wakes up early, hunter-gatherers, Tanzania, ancient humans, human evolution, ancestors, prehistoric life, 18 minutes, stick figure animation, shorts"
+  },
+  "problems": [],
+  "words": 72
+ },
+ {
+  "slug": "sleep_3am",
+  "video": "sleep",
+  "winner_index": 0,
+  "reasons": "Candidate 1 wins. Its hook (\"Your 3 a.m. wake-up might be ancient.\", 7 words) names the topic in the first ~1.4 s, speaks to the viewer, is hedged with \"might\" and points to the payoff. It also has the smoothest loop: \"...your body may not be broken, because / Your 3 a.m. wake-up might be ancient.\" It stays on one topic and has one concrete fact: Ekirch's hundreds of references to \"first sleep\" and \"second sleep\". Rough scores out of 5 for hook / single topic / no filler / loop / fact-faithfulness / drawable / format: C1 4/5/4/5/3/3/5, C2 2/4/4/3/4/2/4, C3 4/4/4/4/3/3/4.\n- C2: the \"hundreds of witnesses\" hook is a confusing metaphor (references are not witnesses), the \"ghostly villagers\" in line 1 cannot be drawn, and line 2 ends on a colon.\n- C3: the hook is strong, but \"Medieval people didn't\" turns the source's \"many people in Europe\" into a statement about everyone. Its loop line starts with \"So\", and its split scene puts both figures on one shared expression.\nWhat I fixed in C1:\n(1) Added the source's hedge, which C1 had dropped: \"Some scientists debate how universal this was,\" taken from C2/C3 with \"argue how\" reworded to \"debate how\". The last line becomes \"but your body may not be broken, because\", so the loop still works.\n(2) Trimmed \"their\" from \"then went back for second sleep.\" to keep a margin: the total is 79 words, under the 80 limit.\n(3) Changed the title overlay from \"WHY YOU WAKE AT 3 A.M.\" (claims a definite cause) to \"WAKING UP AT 3 A.M.?\", which matches the hedged narration.\n(4) Rewrote scenes after rendering them with shorts_v2/tools/paint_frames.py on the 1080x1920 canvas:\n- The \"3:00\" clock is drawn as a stone tablet that covered GUY's face, so I removed it (the title overlay already says 3 a.m.).\n- The tablet reading \"100s\" draws nothing (the number pattern doesn't match \"100s\"), so I replaced it with a frame that has no characters, only the word \"HUNDREDS\" over a small fire.\n- The chalkboard scene contained the word \"SLEEP\", which forces closed eyes; it is now \"{SCI} pointing at a chalkboard, smug\". Text drawn on the frame overlaps a centred character's head, so I kept text off frames that have a character.\n- The \"asleep, then sitting up\" scene showed two moments, which the renderer can't do; it is now one moment, asleep with Z letters.\n- \"relaxed\"/\"calm\"/\"curious\" don't map to an expression, so I changed them to \"smiling\"/\"thinking\".\nI avoided scene words that the renderer misreads, such as \"shut\" (draws a hut) and \"box\". \"Medieval man/couple\" is drawn as a generic villager in the medieval background (the renderer maps \"medieval\" to that figure). Duplicate tokens like \"two {SCI}\" draw only one figure, so the debate scene is one confused scientist with a question mark. All 13 frames now render cleanly.",
+  "fact_check_notes": "Each line checked against SOURCE block B12 (script_part3.txt, lines 57-90):\n- \"Historian Roger Ekirch ... found hundreds of references\" to \"first sleep\" and \"second sleep\": matches source lines 62-64 (\"found hundreds of references in old documents\"). \"Searched old documents\" says the same thing in other words and adds no new fact.\n- \"Before electric lights, many Europeans went to bed soon after dark, slept a few hours, then woke up for an hour or so\": matches lines 65-69 (\"many people in Europe\"). The hedge \"many\" is kept.\n- \"They prayed, chatted, visited neighbors\": matches lines 71-74 (\"chatted\" stands for \"talked to whoever was next to them\").\n- \"then went back for second sleep\": matches line 76.\n- \"And they didn't panic about it.\": matches line 70 word for word.\n- \"Some scientists debate how universal this was\": matches line 87 (\"argue about how universal this pattern really was\"). This hedge was missing from the chosen candidate and has been put back.\n- \"your body may not be broken\": the source says \"isn't always a sign that your body is broken\" (lines 88-89). \"May not\" keeps that hedge and follows the brief's wording.\n- Hook \"might be ancient\": the source frames it as \"Sometimes it's just old software\" (line 90). \"Ancient\" is a framing word, not a new fact, and it stays hedged with \"might\".\nNothing was taken from outside the source: Chaucer, the 1990s experiment and the 14 hours of darkness are left out but none are contradicted. No call to action in the narration.\nFormat: 13 lines of 5-8 words each, 79 words in total (about 27 s at 175 wpm). The hook is 7 words and does not start with And/So/Now/But. The title overlay is 5 words in all caps. The YouTube title is 42 characters and the tags are 256 characters.",
+  "final": {
+   "angle": "Speaks to the viewer: your 3 a.m. wake-up might be an old pattern, not a fault. The proof is Ekirch's hundreds of references to 'first sleep' and 'second sleep'. The source's hedge ('some scientists debate') is kept, and the last line ('...because') runs straight back into the hook.",
+   "title_overlay": "WAKING UP AT 3 A.M.?",
+   "lines": [
+    {
+     "text": "Your 3 a.m. wake-up might be ancient.",
+     "scene": "{GUY} sitting up in bed at night, moon in the window, confused, question mark above his head"
+    },
+    {
+     "text": "Historian Roger Ekirch searched old documents",
+     "scene": "{SCI} reading a big pile of old books and scrolls by a small fire at night, thinking"
+    },
+    {
+     "text": "and found hundreds of references",
+     "scene": "old books and scrolls piled by a small fire at night, the word \"HUNDREDS\" glowing above"
+    },
+    {
+     "text": "to \"first sleep\" and \"second sleep.\"",
+     "scene": "{SCI} pointing at a chalkboard, smug"
+    },
+    {
+     "text": "Before electric lights, many Europeans",
+     "scene": "medieval village at night, no lights except the moon, calm"
+    },
+    {
+     "text": "went to bed soon after dark,",
+     "scene": "medieval couple going to bed inside a hut at night, moon in the window, sleepy"
+    },
+    {
+     "text": "slept a few hours, then woke up",
+     "scene": "medieval man asleep in bed at night, Z letters floating above"
+    },
+    {
+     "text": "for an hour or so.",
+     "scene": "medieval man wide awake in bed beside a small fire at night, smiling"
+    },
+    {
+     "text": "They prayed, chatted, visited neighbors,",
+     "scene": "medieval man holding a small torch fire, knocking on a neighbor's hut door at night, both happy"
+    },
+    {
+     "text": "then went back for second sleep.",
+     "scene": "medieval couple lying back down in bed at night, Z letters floating up again, sleeping"
+    },
+    {
+     "text": "And they didn't panic about it.",
+     "scene": "medieval man relaxed in bed with hands behind his head at night, smug"
+    },
+    {
+     "text": "Some scientists debate how universal this was,",
+     "scene": "{SCI} in a lab scratching his head, big question mark above him, confused"
+    },
+    {
+     "text": "but your body may not be broken, because",
+     "scene": "{GUY} in a modern bed at night, relieved, giving a thumbs up, heart above his head"
+    }
+   ],
+   "yt_title": "Waking Up at 3 A.M.? It Might Be Ancient 🌙",
+   "yt_description": "Historian Roger Ekirch found hundreds of references to \"first sleep\" and \"second sleep\" in old documents. Waking at 3 a.m. may not mean your body is broken. Full story on the channel! #shorts #sleep #history",
+   "yt_tags": "first sleep, second sleep, segmented sleep, biphasic sleep, waking up at 3am, why do I wake up at 3am, Roger Ekirch, history of sleep, medieval sleep, sleep before electricity, ancient humans explained, sleep science, history shorts, stick figure animation"
+  },
+  "problems": [],
+  "words": 79
+ },
+ {
+  "slug": "sleep_dirty_bed",
+  "video": "sleep",
+  "winner_index": 0,
+  "reasons": "Candidate 1 wins. (a) Hook: \"Your bed is dirtier than a chimp's.\" is 7 words, speaks to the viewer, and states the payoff. It is the source's own framing (B03: \"Your mattress is dirtier than an ape's bed made of sticks\"). (b) One topic and one concrete fact: chimp nests had far fewer bacteria than human beds. (c) It is mostly dense, with near-verbatim source build lines. (d) \"So tonight, remember:\" already led back into the hook. (e) It had the fewest fidelity risks.\n\nCandidate 2 has a good punchline (\"Your mattress lost to a pile of sticks.\"). But its hook, \"This stick bed...\", depends on a nest image the renderer cannot draw (nest is not a supported prop). \"Scientists actually checked.\" is filler, and it runs to 13 lines.\n\nCandidate 3's hook \"Apes don't have dirty beds\" goes beyond the source. The source only says chimp nests had far fewer bacteria than human beds, not that ape beds aren't dirty, and not apes in general. It also spends two lines on setup filler (\"You'd think it's the other way around\", \"versus your soft, clean mattress\") before the fact.\n\nFixes applied to Candidate 1:\n(1) Cut \"Fresh sticks and leaves, every night.\" and \"Your mattress? Not so much.\" Together they implied that building a fresh bed each night is why there are fewer bacteria. The source gives no cause, and the pair was also vague filler.\n(2) Took \"Your mattress lost to a pile of sticks.\" from Candidate 2 as the punchline right after the fact (source-backed by B03 line 63).\n(3) Made the loop line stronger: \"So tonight, when you climb into bed, remember:\". \"Climb\" echoes the chimps' climb, and the line runs straight into \"Your bed is dirtier than a chimp's.\"\n(4) Rewrote the scenes so each one rests on supported tokens and settings rather than the unsupported \"nest\" prop. Scenes 5 and 6 now have a jungle setting. Scene 7 shows {APE} in the tree. Scene 9 replaces the lab-plus-bed setting clash with {APE} plus sparkles against {GUY} under a big red X, 3 characters. Scene 10 uses the bed setting with a red X. Scene 11 sets up the visual loop into scene 1 (GUY pauses at the bed, then is shocked at it).\n\nFinal format: 11 lines, 72 words, about 24.7 s at 175 wpm, every line 3-8 words. No calls to action in the narration. Title overlay is 4 words in all caps.",
+  "fact_check_notes": "Checked against SOURCE block B03 \"Ape heritage: the nest builders\" in /home/user/test/video3_sleep/script_part1.txt, lines 50-63.\n- \"Every night, chimpanzees climb high into the trees / and build a brand new bed.\" Verbatim from source lines 53-54.\n- \"They bend branches, weave them together, / and add a soft layer of leaves.\" Source lines 55-57; it only drops \"on top\".\n- \"It takes them just a few minutes.\" Verbatim, source line 58.\n- \"Scientists compared those chimp nests / to human beds.\" Source lines 60-61; \"those\" was added.\n- \"The chimp nests had far fewer bacteria.\" Source line 62.\n- Hook \"Your bed is dirtier than a chimp's.\" and \"Your mattress lost to a pile of sticks.\" Both restate source line 63, \"Your mattress is dirtier than an ape's bed made of sticks.\"\n- The source hedges nothing in this section; its hedges (\"might\", \"one popular idea\") belong to the hypnic-jerk section, which this Short does not touch. Nothing needed hedging here.\n- Removed Candidate 1's implied cause (fresh nest every night, mattress \"not so much\"). The source never says why the nests have fewer bacteria.\n- Rejected Candidate 3's \"Apes don't have dirty beds\" as going beyond the source.\n- No numbers, names, or other new facts were added. The yt_description sentences also stay within the source.",
+  "final": {
+   "angle": "1 (fixed): Direct 'you' claim hook taken from the source's own line. It shows the nightly nest build, gives the bacteria result, adds a source-backed punchline ('lost to a pile of sticks'), and loops back through 'climb into bed tonight' to the hook.",
+   "title_overlay": "YOUR BED IS DIRTIER",
+   "lines": [
+    {
+     "text": "Your bed is dirtier than a chimp's.",
+     "scene": "{GUY} in a bedroom pointing at his own bed in shock, a smug {APE} standing next to him with sparkles around it"
+    },
+    {
+     "text": "Every night, chimpanzees climb high into the trees",
+     "scene": "{APE} climbing a tall tree trunk in the jungle at night under the moon, determined"
+    },
+    {
+     "text": "and build a brand new bed.",
+     "scene": "{APE} high in a jungle tree bending leafy branches into a round nest, happy"
+    },
+    {
+     "text": "They bend branches, weave them together,",
+     "scene": "{APE} in a jungle tree weaving branches and twigs together into a bowl shape, focused"
+    },
+    {
+     "text": "and add a soft layer of leaves.",
+     "scene": "{APE} in a jungle tree placing soft green leaves inside the nest like a pillow, happy"
+    },
+    {
+     "text": "It takes them just a few minutes.",
+     "scene": "{APE} lying back in the finished leafy nest in a jungle tree with sparkles around it, smug"
+    },
+    {
+     "text": "Scientists compared those chimp nests",
+     "scene": "{SCI} in the jungle looking up at {APE} resting in a leafy nest high in a tree, curious"
+    },
+    {
+     "text": "to human beds.",
+     "scene": "{SCI} in a bedroom wearing gloves, bending over a messy bed, confused"
+    },
+    {
+     "text": "The chimp nests had far fewer bacteria.",
+     "scene": "{SCI} in a lab, shocked, a happy {APE} with sparkles on one side and a sad {GUY} under a big red X on the other"
+    },
+    {
+     "text": "Your mattress lost to a pile of sticks.",
+     "scene": "{GUY} sitting on his bed in a bedroom with a big red X above the mattress, angry, a smug {APE} next to him with sparkles"
+    },
+    {
+     "text": "So tonight, when you climb into bed, remember:",
+     "scene": "{GUY} in a dark bedroom at night with the moon in the window, about to climb into bed, pausing and staring at the mattress, confused"
+    }
+   ],
+   "yt_title": "Your Bed Is Dirtier Than a Chimp's Nest 🐒",
+   "yt_description": "Every night, chimpanzees build a brand new bed high in the trees. Scientists found their nests had far fewer bacteria than human beds. Full story on the channel! #shorts #chimpanzee #sleep",
+   "yt_tags": "chimpanzee nest, chimp nest, how chimps sleep, ape sleep, dirty bed, bacteria in bed, mattress bacteria, chimp nest bacteria, human evolution, ancient humans, evolution of sleep, sleep science, chimpanzee facts, animal facts, stick figure animation, history shorts, shorts"
+  },
+  "problems": [],
+  "words": 72
+ }
+]

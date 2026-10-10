@@ -525,7 +525,12 @@ def heart(p, x, y, s=1.0, col=(229, 57, 53)):
             (x + 15 * s, y - 45 * s), (x + 45 * s, y - 45 * s), (x + 60 * s, y - 5 * s)], col, 5)
 
 def big_x(p):
-    for a, b in (((380, 120), (1540, 900)), ((1540, 120), (380, 900))):
+    if TOPY > 0:                                   # tall Shorts canvas: a compact X over the middle of the scene
+        cx, cy, r = W / 2, GROUND - 330, 300
+        pts = (((cx - r, cy - r), (cx + r, cy + r)), ((cx + r, cy - r), (cx - r, cy + r)))
+    else:
+        pts = (((380, 120), (1540, 900)), ((1540, 120), (380, 900)))
+    for a, b in pts:
         p.d.line([a, b], fill=(229, 57, 53), width=60)
 
 def stone_tablet(p, x, y, label):
@@ -651,15 +656,16 @@ def render(scene, caption, seed, out, ctx):
     if "question mark" in low:
         p.text((W - 260, 230 + TOPY), "?", 260, fill=(255, 255, 255), stroke=12)
     if any(k in low for k in ("heart", "love")):
-        for k in range(3): heart(p, rnd.randint(300, W - 300), rnd.randint(120, 330), 0.9)
+        for k in range(3): heart(p, rnd.randint(300, W - 300), rnd.randint(410, 470) if TOPY > 0 else rnd.randint(120, 330), 0.9)
     if any(k in low for k in ("z letters", "sleeping", "asleep")):
         for k, (dx, dy) in enumerate(((0, 0), (70, -80), (150, -170))): p.text((min(W / 2 + 180, W - 260) + dx, 260 + TOPY + dy), "Z", 90 - k * 10, fill=(255, 255, 255), stroke=7)
     if "exclamation" in low: p.text((W - 260, 230 + TOPY), "!", 280, fill=(229, 57, 53), stroke=12)
     if any(k in low for k in ("light bulb", "lightbulb")):
-        p.ell((W / 2 - 70, 70 + TOPY, W / 2 + 70, 230 + TOPY), (255, 241, 118), 6); p.rect((W / 2 - 35, 225 + TOPY, W / 2 + 35, 275 + TOPY), (158, 158, 158), 5)
+        bx, by = ((W - 150, 470) if TOPY > 0 else (W / 2, 70))
+        p.ell((bx - 70, by, bx + 70, by + 160), (255, 241, 118), 6); p.rect((bx - 35, by + 155, bx + 35, by + 205), (158, 158, 158), 5)
     if "sparkle" in low:
         for k in range(6):
-            x, y = rnd.randint(200, W - 200), rnd.randint(80, 500); p.poly([(x, y - 40), (x + 12, y - 12), (x + 40, y), (x + 12, y + 12), (x, y + 40), (x - 12, y + 12), (x - 40, y), (x - 12, y - 12)], (255, 241, 118), 3)
+            x, y = rnd.randint(200, W - 200), (rnd.randint(420, 520) if TOPY > 0 else rnd.randint(80, 500)); p.poly([(x, y - 40), (x + 12, y - 12), (x + 40, y), (x + 12, y + 12), (x, y + 40), (x - 12, y + 12), (x - 40, y), (x - 12, y - 12)], (255, 241, 118), 3)
     num = re.search(r'"([\d,:.]+)"', scene) or re.search(r"\b(\d{1,2},\d{3}|\d{3,4})\b", scene)
     if num and any(k in low for k in ("stone", "carved", "certificate", "timeline", "clock")):
         stone_tablet(p, W / 2, 230 + TOPY, num.group(1))

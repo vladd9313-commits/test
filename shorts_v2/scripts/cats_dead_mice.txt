@@ -1,12 +1,12 @@
-# title: YOUR CAT THINKS YOU CAN'T HUNT
-Your cat thinks you can't hunt. | {HOUSECAT} sitting next to {GUY} on a couch, looking at him with pity
-That's why it brings you dead mice. | {HOUSECAT} proudly dropping a dead mouse on {GUY}'s shoe, {GUY} shocked
-In the wild, mother cats bring prey to their kittens. | a sandy-tan striped mother wildcat bringing a mouse to three tiny kittens in a den
-First dead, then half alive. | the mother wildcat dropping a wriggling mouse in front of the kittens
-So the kittens can practice. | three tiny kittens pouncing clumsily on a mouse
-Now look at you. | {GUY} on the couch eating chips, crumbs on his shirt
-Giant, slow, never caught a mouse in your life. | {GUY} trying to catch a mouse with a pot and falling over
-Your cat isn't giving you a gift. | {HOUSECAT} looking at {GUY} with a serious teacher face
-It's giving you a lesson. | {HOUSECAT} pointing at a mouse like a teacher at a chalkboard
-Because in its eyes, | close-up of {HOUSECAT} with half-closed judging eyes
-your cat thinks you can't hunt. | {HOUSECAT} sighing and placing another mouse in front of {GUY}
+# title: WHY CATS BRING DEAD MICE
+Your cat may think you can't hunt. | {HOUSECAT} sitting next to {GUY} on the living room couch, staring at him, smug; {GUY} confused
+Maybe that's why it brings you dead mice. | {HOUSECAT} dropping a dead mouse on {GUY}'s shoe in the living room, {HOUSECAT} happy, {GUY} shocked
+Nobody knows for sure. | {SCI} shrugging in a lab with a question mark above his head, confused
+But one popular theory is a little insulting. | {GUY} sitting on the living room couch with an offended face, angry
+Mother cats bring prey to their kittens | a mother {CAT} carrying a mouse in her mouth toward two small {CAT} kittens in the desert, happy
+to teach them how to hunt. | two small {CAT} kittens pouncing clumsily on a mouse while the mother {CAT} watches in the desert, happy
+And you? Giant, slow, hairless, | {GUY} sprawled lazily on the living room couch with a big belly, happy
+never caught a single mouse in your life. | {GUY} trying to catch a mouse with a clay jar and falling over in the living room, a big red X, shocked
+Your cat may look at you and think, | {HOUSECAT} looking up at {GUY} with pitying eyes in the living room, sad
+"This poor thing is going to starve without me." | {HOUSECAT} gently placing a mouse in front of {GUY} like a kind teacher in the living room, {GUY} confused
+So that mouse may be a lesson, because | {HOUSECAT} pointing a paw at a mouse in front of a chalkboard, smug; {GUY} confused

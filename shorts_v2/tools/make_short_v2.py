@@ -45,11 +45,16 @@ def trim(x, thr=0.008):
     idx = np.where(np.abs(x) > thr)[0]
     return x if len(idx) == 0 else x[max(idx[0] - int(0.01 * SR), 0): idx[-1] + int(0.05 * SR)]
 
+SAY = {"3 a.m.": "three A M", "a.m.": "A M", "chicha": "cheecha", "Ekirch": "Ek-urch", "Ninkasi": "Nin-kahsee"}
+def speakable(x):
+    for k_, v in SAY.items(): x = x.replace(k_, v)
+    return x
+
 PAUSE = 0.16
 chunks, t, words = [], 0.0, []
 for si, sent in enumerate(sents):
     text = " ".join(lines[i]["text"] for i in sent)
-    audio, _ = k.create(text, voice=a.voice, speed=a.speed, lang="en-us")
+    audio, _ = k.create(speakable(text), voice=a.voice, speed=a.speed, lang="en-us")
     audio = trim(np.asarray(audio, dtype=np.float32)); dur = len(audio) / SR
     w = [len(lines[i]["text"]) + 3 for i in sent]; acc = 0
     for i, wi in zip(sent, w):
