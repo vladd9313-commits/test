@@ -1004,7 +1004,7 @@ def render(scene, caption, seed, out, ctx):
         if re.search(r"red x (between|above|over) them", low) and len(geoms) >= 2:
             r_ = 90 * scale; cy_ = max(min(geoms[0]["top"], geoms[1]["top"]) - 0.9 * r_, TITLE_BOTTOM + r_ + 20)
             big_x(p, (geoms[0]["head"][0] + geoms[1]["head"][0]) / 2, cy_, r_)
-        elif prop_slots: big_x(p, prop_slots[0], GROUND - 130 * scale, 190 * scale)
+        elif prop_slots: big_x(p, prop_slots[0], GROUND - 130 * scale, 140 * scale)
         elif geoms:
             g = next((g for g in geoms if re.search(r"red x|crossed", g["seg"])), geoms[0])
             big_x(p, g["x"], (g["top"] + g["body"][3]) / 2, 0.4 * (g["body"][3] - g["top"]))
