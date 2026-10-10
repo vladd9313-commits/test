@@ -19,7 +19,7 @@ SKY_Y = TOPY - 90 if TOPY > 0 else 70                      # sun / moon row, jus
 OL = (20, 20, 20)
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 SKIN = (255, 222, 186)
-FACE = {"nobrow": False, "tears": False}                   # per-scene face options, set by render()
+FACE = {"nobrow": False, "tears": False, "sweat": False}                   # per-scene face options, set by render()
 SKY = {"moon": True}                                       # no moon when a quoted word fills the sky row
 
 def X(v): return v * W / 1920      # x of a layout designed for the 1920-wide frame
@@ -84,7 +84,7 @@ def stars(p, n, y1):
 
 def moon(p):
     if not SKY["moon"]: return
-    mx, my = p.r.choice([(60, SKY_Y), (W - 200, SKY_Y)] if TOPY > 0 else [(200, 140), (1650, 150)])
+    mx, my = p.r.choice([(60, SKY_Y), (W - 260, SKY_Y)] if TOPY > 0 else [(200, 140), (1650, 150)])
     sky = p.img.getpixel((int(min(mx + 178, W - 1)), int(my + 60)))
     p.d.ellipse((mx, my, mx + 130, my + 130), fill=(255, 255, 240)); p.d.ellipse((mx + 40, my - 15, mx + 170, my + 115), fill=sky)
 
@@ -115,7 +115,7 @@ def bg_interior(p):
 
 def bg_desert(p):
     p.rect((-10, -10, W + 10, H + 10), (144, 202, 249), 0)
-    sx, sy = (W - 230, SKY_Y - 10) if TOPY > 0 else (1550, 70)
+    sx, sy = (W - 315, SKY_Y - 10) if TOPY > 0 else (1550, 70)
     p.ell((sx, sy, sx + 170, sy + 170), (255, 213, 79))
     p.poly([(-50, GROUND - 40), (X(600), GROUND - 160), (X(1300), GROUND - 60), (W + 50, GROUND - 180), (W + 50, H + 10), (-50, H + 10)], (251, 192, 45))
     p.rect((-10, GROUND + 20, W + 10, H + 10), (240, 180, 40))
@@ -378,14 +378,20 @@ def human_stickly(p, kind, x, s, e, arms, look, hold):
         p.d.chord((x - hr, hy - hr, x + hr, hy + hr * 0.2), 180, 360, fill=hair, outline=OL, width=5)
     elif c["hair"] == "bob":
         p.d.chord((x - hr * 1.12, hy - hr * 1.12, x + hr * 1.12, hy + hr * 0.9), 160, 380, fill=hair, outline=OL, width=5)
-        p.ell((x - hr * 0.8, hy - hr * 0.45, x + hr * 0.8, hy + hr), CREAM, 0)
+        p.ell((x - hr * 0.8, hy - hr * (0.8 if FACE["nobrow"] else 0.45), x + hr * 0.8, hy + hr), CREAM, 0)
     if c.get("helmet"):
         p.d.chord((x - hr * 1.05, hy - hr * 1.1, x + hr * 1.05, hy + hr * 0.3), 180, 360, fill=(140, 140, 140), outline=OL, width=5)
     if c.get("beard"):
         p.d.chord((x - hr * 0.75, hy + hr * 0.1, x + hr * 0.75, hy + hr * 1.5), 0, 180, fill=(30, 30, 30), outline=OL, width=5)
     eyes(p, x, hy + hr * 0.02, hr * 0.33, e, look)
-    if FACE["nobrow"]:                                        # bare shiny forehead
-        p.d.ellipse((x - hr * 0.45, hy - hr * 0.6, x - hr * 0.1, hy - hr * 0.44), fill=(255, 255, 255))
+    if FACE["nobrow"]:                                        # bare shiny forehead and shaved-brow stubble
+        sy0 = -0.64 if c["hair"] == "bob" else -0.37
+        p.d.ellipse((x - hr * 0.4, hy + hr * sy0, x + hr * 0.02, hy + hr * (sy0 + 0.12)), fill=(255, 255, 255))
+        for sx in (-1, 1):
+            ex = x + sx * hr * 0.35 + look * hr * 0.08
+            for k in (-1, 0, 1): p.d.ellipse((ex + k * hr * 0.09 - 3 * s, hy - hr * 0.19 - 3 * s, ex + k * hr * 0.09 + 3 * s, hy - hr * 0.19 + 3 * s), fill=(214, 150, 140))
+    if FACE["sweat"]:
+        p.ell((x + hr * 0.92, hy - hr * 0.7, x + hr * 1.12, hy - hr * 0.32), (129, 212, 250), 3)
     if c.get("glasses"):
         for dx in (-1, 1): p.d.ellipse((x + dx * hr * 0.35 - hr * 0.3, hy - hr * 0.3, x + dx * hr * 0.35 + hr * 0.3, hy + hr * 0.3), outline=OL, width=5)
     if not c.get("beard"): mouth(p, x, hy + hr * 0.42, s, e)
@@ -541,7 +547,21 @@ def cat(p, kind, x, s, e, flip=1, look=0):
             p.d.ellipse((x + sx_ - 12 * s, by + sy_ - 12 * s, x + sx_ + 12 * s, by + sy_ + 12 * s), fill=c["spots"])
     er = hr * 0.36
     if kind == "BLACKCAT" or e == "glow":
-        for dx in (-1, 1): p.ell((hx + dx * er * 1.15 - er, hy - er * 1.2, hx + dx * er * 1.15 + er, hy + er * 0.6), (255, 235, 59), 4)
+        for dx in (-1, 1):
+            ex = hx + dx * er * 1.15; box = (ex - er, hy - er * 1.2, ex + er, hy + er * 0.6)
+            if kind == "BLACKCAT" and e in ("sleep", "happy"):
+                if e == "sleep": p.line([(ex - er * 0.8, hy - er * 0.3), (ex + er * 0.8, hy - er * 0.3)], 6, (255, 235, 59))
+                else: p.d.arc((ex - er * 0.75, hy - er * 0.9, ex + er * 0.75, hy + er * 0.3), 200, 340, fill=(255, 235, 59), width=8)
+                continue
+            p.ell(box, (255, 235, 59), 4)
+            if kind != "BLACKCAT": continue
+            inner, outer = ex - dx * er * 1.05, ex + dx * er * 1.05
+            lid = {"angry": (hy - er * 0.85, hy - er * 1.5), "sad": (hy - er * 1.5, hy - er * 0.9),
+                   "smug": (hy - er * 0.55, hy - er * 0.55), "neutral": (hy - er * 0.7, hy - er * 0.7), "confused": (hy - er * 0.7, hy - er * 0.5)}.get(e)
+            if lid:
+                p.d.polygon([(inner, lid[0]), (outer, lid[1]), (outer, hy - er * 1.7), (inner, hy - er * 1.7)], fill=c["body"])
+                p.line([(inner, lid[0]), (outer, lid[1])], 6)
+            if e == "shock": p.d.ellipse((ex - er * 0.22, hy - er * 0.5, ex + er * 0.22, hy - er * 0.06), fill=OL)
     else:
         eyes(p, hx, hy - er * 0.3, er, e, look)
     p.poly([(hx - 12 * s, hy + hr * 0.3), (hx + 12 * s, hy + hr * 0.3), (hx, hy + hr * 0.45)], (240, 98, 146), 3)
@@ -622,7 +642,9 @@ def bed(p, x, s, part="all"):
     p.rect((x - hw, top, x + hw, gy - 60 * s), m((250, 250, 245)), 5)
     p.rect((x - hw + (40 if part == "front" else 90) * s, top - 10 * s, x + hw + 8 * s, gy - 50 * s), m((110, 150, 200)), 5)
     p.rect((x - hw + (40 if part == "front" else 90) * s, top - 10 * s, x + hw + 8 * s, top + 22 * s), m((250, 250, 245)), 5)
-    for lx in (x - hw + 4 * s, x + hw - 22 * s): p.rect((lx, gy - 60 * s, lx + 18 * s, gy), m((121, 85, 72)), 4)
+    if part == "front": p.rect((x - hw - 6 * s, gy - 70 * s, x + hw + 14 * s, gy + 4 * s), m((141, 98, 60)), 5)
+    else:
+        for lx in (x - hw + 4 * s, x + hw - 22 * s): p.rect((lx, gy - 60 * s, lx + 18 * s, gy), m((121, 85, 72)), 4)
 
 def nest(p, x, s):
     gy = GROUND + 40; hw = 175 * s
@@ -684,7 +706,7 @@ def free_spots(rnd, k, size, circles, rects, near=None, tries=500):
     y0, y1 = TITLE_BOTTOM + size + 10, GROUND - 100
     cands = []
     for _ in range(tries):
-        x, y = rnd.uniform(70 + size, W - 70 - size), rnd.uniform(y0, y1)
+        x, y = rnd.uniform(70 + size, W - (160 if TOPY > 0 else 70) - size), rnd.uniform(y0, y1)
         if any(math.hypot(x - cx, y - cy) < r + size * 0.9 for cx, cy, r in circles): continue
         if any(a - size * 1.05 < x < c + size * 1.05 and b - size * 1.05 < y < d + size * 1.05 for a, b, c, d in rects): continue
         cands.append((x, y))
@@ -854,7 +876,7 @@ def render(scene, caption, seed, out, ctx):
                    ("sickle" if "sickle" in src else ("wheat" if "wheat" in src and "holding" in src else None)))
             arms = arms_for(seg) if seg else (arms_for(scene) if ci == 0 else "down")
             if arms == "down" and every: arms = arms_for(scene)
-            FACE["nobrow"] = bool(re.search(nobrow, src))
+            FACE["nobrow"] = bool(re.search(nobrow, src)); FACE["sweat"] = bool(re.search(r"sweat|nervous", src))
             g = human(p, kind, x, scale * (0.72 if small else 1), ce, arms, look, hold)
             if ci in bed_ci: bed(p, x, scale, "front"); g["body"] = (g["body"][0], g["body"][1], g["body"][2], GROUND - 195 * scale)
         else:
@@ -937,7 +959,7 @@ def render(scene, caption, seed, out, ctx):
             if nb:                                            # a neighbour on that side: sit in the gap between the heads
                 h = min(nb, key=lambda h: abs(h["x"] - g["x"]))
                 return ((cx + h["head"][0]) / 2, min(cy, h["head"][1]) - max(r, h["head"][2]) * 0.72)
-            return (min(max(cx + side * (r + size * 0.55), 60 + size / 2), W - 60 - size / 2), cy - r * 0.55)
+            return (min(max(cx + side * (r + size * 0.55), 60 + size / 2), W - (150 if TOPY > 0 else 60) - size / 2), cy - r * 0.55)
         return (cx, max(g["top"] - size * 0.55, TITLE_BOTTOM + size * 0.55))
     if re.search(r"z letters|sleeping|asleep|\bsleep\b", low):
         sl = [gi for gi, g in enumerate(geoms) if g["ce"] == "sleep"][:2]
@@ -970,7 +992,8 @@ def render(scene, caption, seed, out, ctx):
     if any(k in low for k in ("big red x", "crossed-out", "crossed out", "red x")):
         prop_slots = [slots[i] for i, it in enumerate(items) if it[2] is None]
         if re.search(r"red x (between|above|over) them", low) and len(geoms) >= 2:
-            a, b = geoms[0]["head"], geoms[1]["head"]; big_x(p, (a[0] + b[0]) / 2, (a[1] + b[1]) / 2, 120 * scale)
+            r_ = 90 * scale; cy_ = max(min(geoms[0]["top"], geoms[1]["top"]) - 0.9 * r_, TITLE_BOTTOM + r_ + 20)
+            big_x(p, (geoms[0]["head"][0] + geoms[1]["head"][0]) / 2, cy_, r_)
         elif prop_slots: big_x(p, prop_slots[0], GROUND - 130 * scale, 190 * scale)
         elif geoms:
             g = next((g for g in geoms if re.search(r"red x|crossed", g["seg"])), geoms[0])

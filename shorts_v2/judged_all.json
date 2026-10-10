@@ -11,11 +11,11 @@
    "lines": [
     {
      "text": "Your cat may think you can't hunt.",
-     "scene": "{HOUSECAT} proudly dropping a dead mouse at {GUY}'s feet in the living room, {GUY} shocked"
+     "scene": "{HOUSECAT} proudly dropping a dead mouse at {GUY}'s feet in the living room, {GUY} shocked with an exclamation mark"
     },
     {
      "text": "Maybe that's why it brings you dead mice.",
-     "scene": "{HOUSECAT} sitting on a box like a king beside a dead mouse in the living room, smug"
+     "scene": "{HOUSECAT} smug like a king beside a dead mouse in the living room"
     },
     {
      "text": "Nobody knows for sure.",
@@ -43,11 +43,11 @@
     },
     {
      "text": "Your cat may look at you and think,",
-     "scene": "{HOUSECAT} looking up with pitying eyes, sad, at {GUY} in the living room, {GUY} confused"
+     "scene": "{HOUSECAT} looking up with pitying eyes, sad, at {GUY} in the living room, {GUY} confused with a question mark"
     },
     {
      "text": "\"This poor thing is going to starve without me.\"",
-     "scene": "{HOUSECAT} smug, gently placing a dead mouse at {GUY}'s feet, a heart above the cat; {GUY} confused in the living room"
+     "scene": "{HOUSECAT} smug with a heart above it, gently placing a dead mouse at {GUY}'s feet; {GUY} confused with a question mark in the living room"
     },
     {
      "text": "So that mouse may be a lesson, because",
@@ -109,7 +109,7 @@
     },
     {
      "text": "and everyone instantly knows your cat died.",
-     "scene": "Egypt/pyramid setting: two {EGYPT} pointing, shocked, at a third {EGYPT}, sad, with no eyebrows"
+     "scene": "Egypt/pyramid setting: {EGYPT} pointing, shocked, at another {EGYPT}, sad, with no eyebrows, and a third {EGYPT} pointing, shocked"
     },
     {
      "text": "That's ancient Egypt for you:",
@@ -135,7 +135,7 @@
    "lines": [
     {
      "text": "You were told cats meow to each other.",
-     "scene": "a smug {HOUSECAT} and a black cat face to face in the living room, the word \"meow\" above them"
+     "scene": "{GUY} shocked in the living room, pointing at a smug {HOUSECAT} and a black cat, the word \"meow\" above them, a big question mark"
     },
     {
      "text": "Adult cats almost never do.",
@@ -147,7 +147,7 @@
     },
     {
      "text": "But grown cats talk to each other",
-     "scene": "a black cat hissing angrily at {HOUSECAT}, who has puffed-up fur and a shocked face"
+     "scene": "a smug {HOUSECAT} and a smug black cat side by side in the living room, the word \"psst\" above them"
     },
     {
      "text": "with hisses, growls, body language and scent.",
@@ -159,7 +159,7 @@
     },
     {
      "text": "meow a lot less.",
-     "scene": "the same scruffy black cat and {HOUSECAT} sitting silent under the moon, a big red X above them, bored"
+     "scene": "the same scruffy black cat and {HOUSECAT} sitting silent under the moon, both bored, a big red X above them"
     },
     {
      "text": "The meow,",
@@ -167,7 +167,7 @@
     },
     {
      "text": "the sound you probably hear every morning,",
-     "scene": "{HOUSECAT} meowing loudly, angry, at {GUY} who is sleepy in bed, an exclamation mark"
+     "scene": "{HOUSECAT} meowing loudly with an exclamation mark, angry, at {GUY} who is asleep in bed with Z letters"
     },
     {
      "text": "is something adult cats mostly use with humans.",
@@ -175,7 +175,7 @@
     },
     {
      "text": "Yet somehow, all your life,",
-     "scene": "{GUY} on the living room couch scratching his head, confused, a big question mark above him, {HOUSECAT} and a black cat beside him"
+     "scene": "{GUY} on the living room couch with hands on his head, confused, a big question mark above him, {HOUSECAT} and a black cat beside him"
     }
    ],
    "yt_title": "Do Cats Meow at Each Other? Almost Never 🐈",
