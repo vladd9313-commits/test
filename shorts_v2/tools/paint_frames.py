@@ -19,8 +19,8 @@ SKY_Y = TOPY - 90 if TOPY > 0 else 70                      # sun / moon row, jus
 OL = (20, 20, 20)
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 SKIN = (255, 222, 186)
-FACE = {"nobrow": False, "tears": False, "sweat": False}                   # per-scene face options, set by render()
-SKY = {"moon": True}                                       # no moon when a quoted word fills the sky row
+FACE = {"nobrow": False, "tears": False, "sweat": False, "old": False}                   # per-scene face options, set by render()
+SKY = {"moon": True, "discs": []}                          # no moon when a quoted word fills the sky row; sun/moon spots
 
 def X(v): return v * W / 1920      # x of a layout designed for the 1920-wide frame
 def Y(v): return v + TOPY          # y of a sky element, kept at the same height above the ground
@@ -87,6 +87,7 @@ def moon(p):
     mx, my = p.r.choice([(60, SKY_Y), (W - 260, SKY_Y)] if TOPY > 0 else [(200, 140), (1650, 150)])
     sky = p.img.getpixel((int(min(mx + 178, W - 1)), int(my + 60)))
     p.d.ellipse((mx, my, mx + 130, my + 130), fill=(255, 255, 240)); p.d.ellipse((mx + 40, my - 15, mx + 170, my + 115), fill=sky)
+    SKY["discs"].append((mx + 65, my + 65, 80))
 
 def bg_day(p):
     p.rect((-10, -10, W + 10, H + 10), (79, 195, 247), 0); mountains(p); grass(p)
@@ -116,7 +117,7 @@ def bg_interior(p):
 def bg_desert(p):
     p.rect((-10, -10, W + 10, H + 10), (144, 202, 249), 0)
     sx, sy = (W - 315, SKY_Y - 10) if TOPY > 0 else (1550, 70)
-    p.ell((sx, sy, sx + 170, sy + 170), (255, 213, 79))
+    p.ell((sx, sy, sx + 170, sy + 170), (255, 213, 79)); SKY["discs"].append((sx + 85, sy + 85, 95))
     p.poly([(-50, GROUND - 40), (X(600), GROUND - 160), (X(1300), GROUND - 60), (W + 50, GROUND - 180), (W + 50, H + 10), (-50, H + 10)], (251, 192, 45))
     p.rect((-10, GROUND + 20, W + 10, H + 10), (240, 180, 40))
 
@@ -365,7 +366,7 @@ def human_stickly(p, kind, x, s, e, arms, look, hold):
     if hold: prop(p, hold, targets[hand][0], targets[hand][1], s)
     hair = {"messy": (70, 50, 38), "short": (45, 38, 32), "long": (20, 20, 20), "bob": (20, 20, 20)}.get(c["hair"])
     if c.get("fur"): hair = (90, 68, 52)
-    if kind == "SCI": hair = (150, 150, 150)
+    if kind == "SCI" or FACE["old"]: hair = (165, 165, 165)
     if c["hair"] == "long":
         p.poly([(x - hr * 1.1, hy - hr * 0.2), (x + hr * 1.1, hy - hr * 0.2), (x + hr * 1.15, hy + hr * 1.5), (x - hr * 1.15, hy + hr * 1.5)], hair, 5)
     if c.get("ears"):
@@ -802,6 +803,7 @@ def render(scene, caption, seed, out, ctx):
     painter = pick_setting(re.sub(r"\{\w+\}", "", low)) or ctx.get("setting") or bg_day
     SKY["moon"] = not (TOPY > 0 and re.search(r'"([A-Za-z !]{3,24})"', scene))
     ctx["setting"] = painter
+    SKY["discs"] = []
     painter(p)
     if re.search(r"\b(night|moon|moonlight|midnight)\b", low) and painter not in (bg_night, bg_space, bg_cave, bg_interior):
         night_overlay(p, painter not in INDOOR)
@@ -839,12 +841,17 @@ def render(scene, caption, seed, out, ctx):
         cs = [it for it in items if it[2] is not None]; h = len(cs) // 2
         items = other + cs[:h] + pot + cs[h:]                  # the jar stands in the middle of the group
     n = len(items)
-    slots = [W / 2] if n <= 1 else [W * (i + 1) / (n + 1) for i in range(n)]
+    L, R = (40, W - 130) if TOPY > 0 else (0, W)            # tall frame: keep clear of the Shorts buttons on the right
+    slots = [(L + R) / 2] if n <= 1 else [L + (R - L) * (i + 1) / (n + 1) for i in range(n)]
     scale = (1.15 if n <= 2 else (0.9 if n == 3 else 0.72)) * CHAR_SCALE
+    quoted = re.search(r'"([A-Za-z !]{3,24})"', scene)
+    if quoted and TOPY > 0: scale *= 0.85
     humans_ci = [ci for ci, o in enumerate(info) if o["name"].split(":")[0] in HUMAN_KINDS]
     bed_ci = set([ci for ci in humans_ci if re.search(r"\bbed\b", info[ci]["seg"].lower())] or humans_ci[:1]) if in_bed else set()
     sit_on_pot = "on a grain pot" in low or "on the grain pot" in low or "on top of the grain" in low or "on the pot" in low
     pot_top = pot_slot = None
+    if re.search(r"rows? of (clay )?(beer )?jars|thousands of (beer )?jars|many jars", low):
+        for k in range(5): grain_pot(p, 110 + k * (W - 260) / 4, 0.42 * scale)
     for i, (name, pl, ci) in enumerate(items):
         x = slots[i]
         if name == "pot": pot_top = (x, grain_pot(p, x, scale)); pot_slot = i
@@ -852,7 +859,7 @@ def render(scene, caption, seed, out, ctx):
         elif name == "hut": hut(p, x)
         elif name == "boat": boat(p, x, Y(640))
         elif name == "mummy": mummy(p, x, GROUND + 40, 1.2 * scale)
-        elif name == "skeleton": skeleton(p, x - 150 * CHAR_SCALE, GROUND + 25, 0.8 * CHAR_SCALE)
+        elif name == "skeleton": skeleton(p, x - 200 * CHAR_SCALE, GROUND + 25, 1.25 * CHAR_SCALE)
         elif name == "box": p.rect((x - 170, GROUND - 120, x + 170, GROUND + 60), (215, 160, 90), 7)
         elif name == "bed": bed(p, x, scale)
         elif name == "nest": nest(p, x, scale)
@@ -877,6 +884,7 @@ def render(scene, caption, seed, out, ctx):
             arms = arms_for(seg) if seg else (arms_for(scene) if ci == 0 else "down")
             if arms == "down" and every: arms = arms_for(scene)
             FACE["nobrow"] = bool(re.search(nobrow, src)); FACE["sweat"] = bool(re.search(r"sweat|nervous", src))
+            FACE["old"] = bool(re.search(r"grandmother|grandma|old woman|old man|elderly", src))
             g = human(p, kind, x, scale * (0.72 if small else 1), ce, arms, look, hold)
             if ci in bed_ci: bed(p, x, scale, "front"); g["body"] = (g["body"][0], g["body"][1], g["body"][2], GROUND - 195 * scale)
         else:
@@ -926,9 +934,11 @@ def render(scene, caption, seed, out, ctx):
         for g in geoms:
             if g["kind"] in HUMAN_KINDS and "spit" in g["seg"]:
                 (mx, my), (px, py) = g["mouth"], pot_top
-                for k in range(1, 7):
-                    t = k / 7; dx_, dy_ = mx + (px - mx) * t, my + (py - my) * t - math.sin(t * math.pi) * 70; r_ = 10 * g["s"]
-                    p.ell((dx_ - r_, dy_ - r_, dx_ + r_, dy_ + r_), (179, 229, 252), 3)
+                hx_, hy_, hr_ = g["head"]
+                for k in range(1, 9):
+                    t = k / 9; dx_, dy_ = mx + (px - mx) * t, my + (py - my) * t - math.sin(t * math.pi) * 80; r_ = 15 * g["s"]
+                    if math.hypot(dx_ - hx_, dy_ - hy_) < hr_ + r_: continue
+                    p.ell((dx_ - r_, dy_ - r_, dx_ + r_, dy_ + r_), (129, 212, 250), 5)
     # mice sit on the floor next to the cat (never in the caption band)
     if re.search(r"\bmice\b|\bmouse\b|\brats?\b", low):
         many = any(k in low for k in ("dozen", "crowd", "swarm", "hundreds", "many", "endless", "line of"))
@@ -941,12 +951,11 @@ def render(scene, caption, seed, out, ctx):
                 side = anchor["look"]; mx_ = anchor["x"] + side * (anchor["hw"] + 75 + k * 150); my_ = GROUND + 55
             mouse(p, min(max(mx_, 110), W - 110), my_, 1.15 * CHAR_SCALE, dead=dead)
     # symbols: placed beside the head of the character they belong to, clear of faces and the title
-    circles = [g["head"] for g in geoms]; rects = [g["body"] for g in geoms]
-    quoted = re.search(r'"([A-Za-z !]{3,24})"', scene)
+    circles = [g["head"] for g in geoms] + SKY["discs"]; rects = [g["body"] for g in geoms]
     if quoted and not num:
-        qt = quoted.group(1).upper(); qs = 110
+        qt = quoted.group(1).upper(); qs = 100
         while qs > 60 and p.d.textlength(qt, font=ImageFont.truetype(FONT, qs)) > W - 180: qs -= 6
-        qy = (TOPY - 40) if TOPY > 0 else 140
+        qy = (TOPY + 40) if TOPY > 0 else 140
         p.text((W / 2, qy), qt, qs)
         tw = p.d.textlength(qt, font=ImageFont.truetype(FONT, qs)); rects.append((W / 2 - tw / 2, qy - qs * 0.6, W / 2 + tw / 2, qy + qs * 0.6))
     used = set()
@@ -958,7 +967,8 @@ def render(scene, caption, seed, out, ctx):
             nb = [h for h in geoms if (h["x"] - g["x"]) * side > 1]
             if nb:                                            # a neighbour on that side: sit in the gap between the heads
                 h = min(nb, key=lambda h: abs(h["x"] - g["x"]))
-                return ((cx + h["head"][0]) / 2, min(cy, h["head"][1]) - max(r, h["head"][2]) * 0.72)
+                if abs(h["head"][0] - cx) - 0.69 * (r + h["head"][2]) < size * 0.9: continue
+                return (min((cx + h["head"][0]) / 2, W - (150 if TOPY > 0 else 60) - size / 2), min(cy, h["head"][1]) - max(r, h["head"][2]) * 0.72)
             return (min(max(cx + side * (r + size * 0.55), 60 + size / 2), W - (150 if TOPY > 0 else 60) - size / 2), cy - r * 0.55)
         return (cx, max(g["top"] - size * 0.55, TITLE_BOTTOM + size * 0.55))
     if re.search(r"z letters|sleeping|asleep|\bsleep\b", low):

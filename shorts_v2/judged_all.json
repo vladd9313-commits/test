@@ -197,7 +197,7 @@
    "lines": [
     {
      "text": "You're alive because a goddess got drunk.",
-     "scene": "{GUY} shocked, jaw dropped, hands on his head, next to a lion wearing a crown, asleep with Z letters, by a tipped-over clay jar, Egypt pyramid background"
+     "scene": "a lion wearing a crown, asleep with Z letters, sparkles, next to a clay jar and {GUY} shocked, jaw dropped, hands on his head, Egypt pyramid background"
     },
     {
      "text": "In an Egyptian myth, Ra got angry at humans.",
@@ -209,7 +209,7 @@
     },
     {
      "text": "Once she started, she wouldn't stop.",
-     "scene": "two {EGYPT} terrified, hands on their heads, fleeing from a lion wearing a crown, angry, Egypt pyramid background"
+     "scene": "a lion wearing a crown, angry, chasing two {EGYPT} terrified, hands on their heads, Egypt pyramid background"
     },
     {
      "text": "So Ra had thousands of beer jars",
@@ -233,7 +233,7 @@
     },
     {
      "text": "Humanity was saved by a hangover.",
-     "scene": "two {EGYPT} cheering, happy, arms in the air, sparkles around them, next to the crowned lion goddess holding her aching head, sad, desert background"
+     "scene": "the crowned lion goddess holding her aching head, sad, beside two {EGYPT} cheering, happy, arms in the air, sparkles around them, desert background"
     },
     {
      "text": "Egyptians celebrated with a festival of drunkenness.",
@@ -241,7 +241,7 @@
     },
     {
      "text": "After all, according to them,",
-     "scene": "{EGYPT} smugly winking at the viewer and raising a clay jar, Egypt pyramid background"
+     "scene": "{EGYPT} happy, cheering, arms in the air, next to a clay jar with sparkles around the jar, Egypt pyramid background"
     }
    ],
    "yt_title": "You're Alive Because a Goddess Got Drunk 🍺",
@@ -263,7 +263,7 @@
    "lines": [
     {
      "text": "She's spitting in your beer. On purpose.",
-     "scene": "{WOMAN} spitting into a clay jar, smug, {GUY} shocked with eyes wide and mouth open, dramatic"
+     "scene": "dramatic red setting, {WOMAN} spitting into a clay jar, smug, {GUY} shocked with eyes wide and mouth open, hands on his head, exclamation"
     },
     {
      "text": "This is chicha, a corn beer",
@@ -303,15 +303,15 @@
     },
     {
      "text": "Japan had its own version,",
-     "scene": "village/hut setting, {WOMAN} holding a clay jar full of rice, smug"
+     "scene": "village/hut setting, \"JAPAN\" quoted word, {WOMAN} smug next to a clay jar, sparkles around the jar"
     },
     {
      "text": "an old rice drink made by chewing rice.",
-     "scene": "village/hut setting, {WOMAN} spitting into a clay jar, smug, {GUY} shocked with hands raised"
+     "scene": "village/hut setting, \"RICE\" quoted word, {WOMAN} spitting into a clay jar, happy, {GUY} shocked with hands raised"
     },
     {
      "text": "Two continents, same trick. So yes,",
-     "scene": "dramatic red setting, {WOMAN} smug, smirking next to a clay jar"
+     "scene": "dramatic red setting, a clay jar between two {WOMAN} smug, smirking"
     }
    ],
    "yt_title": "She Spat in Your Beer... On Purpose 🌽",
@@ -333,7 +333,7 @@
    "lines": [
     {
      "text": "You'd need a straw to drink Sumerian beer.",
-     "scene": "{SUMER} in Sumer sipping from a big clay jar through a very long straw, sparkles, smug"
+     "scene": "{SUMER} in Sumer sipping from a big clay jar through a very long straw, smug, and {GUY} next to him with a question mark, confused"
     },
     {
      "text": "It looked nothing like the beer you know.",
@@ -345,7 +345,7 @@
     },
     {
      "text": "and full of floating grain husks.",
-     "scene": "{GUY} in Sumer with hands on his head next to a big clay jar, horror, shocked"
+     "scene": "{GUY} in Sumer next to a big clay jar, exclamation mark above his head, shocked"
     },
     {
      "text": "So they drank it through long straws,",
@@ -357,15 +357,15 @@
     },
     {
      "text": "Sumerian art shows people around one jar,",
-     "scene": "three {SUMER} men sitting in a circle around one big clay jar in Sumer, happy"
+     "scene": "two {SUMER} men around one big clay jar in Sumer, hearts, happy"
     },
     {
      "text": "all sipping together through long straws.",
-     "scene": "three {SUMER} men around the big clay jar in Sumer, all sipping through long straws at once, happy"
+     "scene": "two {SUMER} men on either side of one big clay jar in Sumer, both sipping through long straws together, happy"
     },
     {
      "text": "And in the royal tombs of Ur,",
-     "scene": "{SCI} surprised in the darkness of a royal grave, skeleton bones on the floor, torch"
+     "scene": "{SCI} shocked in the darkness of a royal grave, skeleton on the floor, exclamation"
     },
     {
      "text": "archaeologists found a drinking straw",
@@ -373,7 +373,7 @@
     },
     {
      "text": "made of gold and lapis lazuli.",
-     "scene": "{SCI} in Sumer holding up a golden straw with blue lapis bands, sparkles, happy"
+     "scene": "{SCI} in Sumer holding up a golden straw with blue lapis bands, the word \"GOLD\", happy"
     },
     {
      "text": "The world's first luxury straw, because",
@@ -399,7 +399,7 @@
    "lines": [
     {
      "text": "Your weird sleep schedule might be ancient security.",
-     "scene": "{GUY} shocked with eyes wide at night under the moon, a hunter with a spear guarding him from a lion with glowing eyes"
+     "scene": "{GUY} shocked with eyes wide at night under the moon, a hunter with a spear guarding him from a lion with glowing eyes, exclamation mark"
     },
     {
      "text": "Scientists tracked the Hadza in Tanzania,",
@@ -411,11 +411,11 @@
     },
     {
      "text": "Thirty-three people. Twenty nights.",
-     "scene": "{SCI} strapping a watch onto a Hadza man's wrist next to a stone tablet with \"33\" on the savanna, happy"
+     "scene": "{SCI} pointing at a big stone tablet with \"33\" beside a Hadza man on the savanna, happy"
     },
     {
      "text": "Everyone asleep at the same time?",
-     "scene": "three Hadza people asleep with Z letters around a campfire at night under the stars, a big question mark"
+     "scene": "two Hadza people asleep with Z letters around a campfire at night under the stars, a big question mark"
     },
     {
      "text": "Only about eighteen minutes total.",
@@ -461,19 +461,19 @@
    "lines": [
     {
      "text": "Your 3 a.m. wake-up might be ancient.",
-     "scene": "{GUY} sitting up in bed, shocked, eyes wide, next to a caveman, shocked, at night in a dark bedroom"
+     "scene": "{GUY} sitting up in bed, shocked, eyes wide, big exclamation, next to a caveman, shocked, at night in a dark bedroom"
     },
     {
      "text": "Historian Roger Ekirch searched old documents",
-     "scene": "{SCI} reading a big pile of old books and scrolls by a small fire at night, thinking"
+     "scene": "{SCI} squinting, thinking, beside a small fire at night, the word \"OLD BOOKS\" above"
     },
     {
      "text": "and found hundreds of references",
-     "scene": "old books and scrolls piled by a small fire at night, the word \"HUNDREDS\" glowing above"
+     "scene": "{SCI} shocked, eyes wide, pointing up beside a small fire at night, the word \"HUNDREDS\" glowing above"
     },
     {
      "text": "to \"first sleep\" and \"second sleep.\"",
-     "scene": "{SCI} pointing at a chalkboard, smug"
+     "scene": "{SCI} pointing at a chalkboard, smug, the word \"TWO SLEEPS\" above"
     },
     {
      "text": "Before electric lights, many Europeans",
@@ -489,7 +489,7 @@
     },
     {
      "text": "for an hour or so.",
-     "scene": "medieval man wide awake in bed beside a small fire at night, smiling"
+     "scene": "medieval man sitting up in bed beside a small fire at night, happy, smiling"
     },
     {
      "text": "They prayed, chatted, visited neighbors,",
@@ -497,7 +497,7 @@
     },
     {
      "text": "then went back for second sleep.",
-     "scene": "medieval couple lying back down in bed at night, Z letters floating up again, sleeping"
+     "scene": "a medieval husband asleep in bed beside {WOMAN} asleep in bed at night, Z letters floating up"
     },
     {
      "text": "And they didn't panic about it.",
@@ -531,7 +531,7 @@
    "lines": [
     {
      "text": "Your bed is dirtier than a chimp's.",
-     "scene": "{GUY} in a bedroom shocked with hands on his head next to his messy bed, a smug {APE} with sparkles, exclamation mark"
+     "scene": "{GUY} shocked with hands on his head sitting in his messy bed, exclamation mark, next to a smug {APE} sitting in a leafy nest with sparkles"
     },
     {
      "text": "Every night, chimpanzees climb high into the trees",
@@ -555,7 +555,7 @@
     },
     {
      "text": "Scientists compared those chimp nests",
-     "scene": "{SCI} in the jungle looking up at {APE} resting in a leafy nest high in a tree, curious"
+     "scene": "{SCI} in the jungle, curious, question mark, next to {APE} resting in a leafy nest"
     },
     {
      "text": "to human beds.",
@@ -563,11 +563,11 @@
     },
     {
      "text": "The chimp nests had far fewer bacteria.",
-     "scene": "{APE} in a lab, proud, with sparkles"
+     "scene": "{APE} in a lab sitting in a leafy nest, proud, sparkles, \"CLEANER\""
     },
     {
      "text": "Your mattress lost to a pile of sticks.",
-     "scene": "{GUY} in a bedroom next to his bed under a big red X, angry"
+     "scene": "{APE} proud in a leafy nest with sparkles next to {GUY} angry next to his bed, big red X"
     },
     {
      "text": "So tonight, when you climb into bed, remember:",

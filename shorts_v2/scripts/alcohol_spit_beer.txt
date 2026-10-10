@@ -1,5 +1,5 @@
 # title: SHE SPITS IN YOUR BEER
-She's spitting in your beer. On purpose. | {WOMAN} spitting into a clay jar, smug, {GUY} shocked with eyes wide and mouth open, dramatic
+She's spitting in your beer. On purpose. | dramatic red setting, {WOMAN} spitting into a clay jar, smug, {GUY} shocked with eyes wide and mouth open, hands on his head, exclamation
 This is chicha, a corn beer | village/hut setting, a big clay jar of yellow corn beer with sparkles, {WOMAN} next to it, smug
 from the Andes of South America. | village/hut setting with mountains, {WOMAN} pointing at the mountains, happy
 One traditional way to start it? | village/hut setting, {WOMAN} confused, question mark
@@ -9,6 +9,6 @@ Why? Human saliva has enzymes. | lab setting, {SCI} pointing at a clay jar, smug
 They turn the starch into sugar, | lab setting, {SCI} happy, light bulb
 so the yeast can make alcohol. | village/hut setting, clay jar bubbling with sparkles, {WOMAN} next to it, happy
 Spit beer. | village/hut setting, {GUY} glaring at a clay jar, angry
-Japan had its own version, | village/hut setting, {WOMAN} holding a clay jar full of rice, smug
-an old rice drink made by chewing rice. | village/hut setting, {WOMAN} spitting into a clay jar, smug, {GUY} shocked with hands raised
-Two continents, same trick. So yes, | dramatic red setting, {WOMAN} smug, smirking next to a clay jar
+Japan had its own version, | village/hut setting, "JAPAN" quoted word, {WOMAN} smug next to a clay jar, sparkles around the jar
+an old rice drink made by chewing rice. | village/hut setting, "RICE" quoted word, {WOMAN} spitting into a clay jar, happy, {GUY} shocked with hands raised
+Two continents, same trick. So yes, | dramatic red setting, a clay jar between two {WOMAN} smug, smirking
