@@ -724,8 +724,9 @@ def char_info(scene):
     hits, last = [], -1
     for st, _, en, kind, txt in found:
         if st < last: continue                                # overlapping match ("leopard cat" vs "leopard")
-        if hits and not scene[hits[-1][1]:st].strip():        # "{HOUSECAT} kitten", "Hadza people": same character
-            hits[-1] = (hits[-1][0], en, hits[-1][2], hits[-1][3] + " " + txt); last = en; continue
+        if hits and not scene[hits[-1][1]:st].strip():        # "{HOUSECAT} kitten", "Hadza people", "Hadza hunter": one character
+            keep = hits[-1][2] if kind == hits[-1][2] or re.match(r"kitten", txt, re.I) else kind   # the last noun wins
+            hits[-1] = (hits[-1][0], en, keep, hits[-1][3] + " " + txt); last = en; continue
         hits.append((st, en, kind, txt)); last = en
     if re.search(r"(crowd|line|group|dozen)s? of [\w ]*?(mice|rats|wolves|cats)", scene, re.I):
         hits = [h for h in hits if h[2] != "PERSON"]
