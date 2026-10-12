@@ -16,9 +16,10 @@ only = sys.argv[5] if len(sys.argv) > 5 else None
 SENT_PAUSE, BLOCK_PAUSE, SR = 0.42, 1.0, 24000
 k = Kokoro(os.path.join(kdir, "kokoro-v1.0.onnx"), os.path.join(kdir, "voices-v1.0.bin"))
 
-SAY = {"1300s": "thirteen hundreds", "1990s": "nineteen nineties", "Ju/'hoansi": "Zhu-twa-see", "Swartkrans": "Swart-krahns",
-       "Wiessner": "Weesner", "Ekirch": "Ek-urch", "REM sleep": "R E M sleep", "five in the morning": "five in the morning",
-       "a.m.": "A M", "Sibudu": "Sih-boo-doo"}
+SAY = {"Gunturkun": "Goon-tur-koon", "Onur": "Oh-noor", "Jankowiak": "Yan-koh-vyak", "kunik": "koo-nik", "hongi": "hong-ee",
+       "honi": "hoh-nee", "zoen": "zoon", "mentagra": "men-tag-ra", "Lameira": "La-may-ra", "Weyrich": "Why-rick",
+       "de Waal": "de Vahl", "De Waal": "De Vahl", "Sidron": "See-dron", "Maori": "Mow-ree", "BCE": "B C E",
+       "xoxo": "ex oh ex oh", " PR ": " P R ", "Sippar": "Sip-par", "Ig Nobel": "Ig No-bell", "Penicillium": "Pen-ih-sill-ee-um"}
 def speakable(text):
     for k_, v in SAY.items(): text = text.replace(k_, v)
     return text

@@ -700,9 +700,9 @@ def sparkle(p, x, y, r=40):
     k = r * 0.3
     p.poly([(x, y - r), (x + k, y - k), (x + r, y), (x + k, y + k), (x, y + r), (x - k, y + k), (x - r, y), (x - k, y - k)], (255, 241, 118), 3)
 
-def big_x(p, cx, cy, r):
-    w = max(26, int(r * 0.2))
-    for a, b in (((cx - r, cy - r), (cx + r, cy + r)), ((cx + r, cy - r), (cx - r, cy + r))):
+def big_x(p, cx, cy, r, ry=None):
+    w = max(26, int(min(r, ry or r) * 0.35)); ry = ry or r
+    for a, b in (((cx - r, cy - ry), (cx + r, cy + ry)), ((cx + r, cy - ry), (cx - r, cy + ry))):
         p.d.line([a, b], fill=OL, width=w + 10); p.d.line([a, b], fill=(229, 57, 53), width=w)
 
 def stone_tablet(p, x, y, label, s=1.0):
@@ -853,7 +853,7 @@ def render(scene, caption, seed, out, ctx):
     slots = [(L + R) / 2] if n <= 1 else [L + (R - L) * (i + 1) / (n + 1) for i in range(n)]
     scale = (1.15 if n <= 2 else (0.9 if n == 3 else 0.72)) * CHAR_SCALE
     quoted = re.search(r'"([A-Za-z !]{3,24})"', scene)
-    if quoted and TOPY > 0: scale *= 0.85
+    if quoted: scale *= 0.85
     kiss = bool(re.search(r"\b(kiss|kissing|kisses|kissed|smooch\w*|nose rub\w*|rubbing noses|nose kiss\w*)\b", low))
     km = re.search(r"\b(kiss|kissing|kisses|kissed|smooch\w*|nose rub\w*|rubbing noses|nose kiss\w*)\b", low)
     cand = [i for i, it in enumerate(items) if it[2] is not None and it[0].split(":")[0] in HUMAN_KINDS]
@@ -980,7 +980,7 @@ def render(scene, caption, seed, out, ctx):
     if quoted and not num:
         qt = quoted.group(1).upper(); qs = 100
         while qs > 60 and p.d.textlength(qt, font=ImageFont.truetype(FONT, qs)) > W - 180: qs -= 6
-        qy = (TOPY + 40) if TOPY > 0 else 140
+        qy = (TOPY + 40) if TOPY > 0 else 64
         p.text((W / 2, qy), qt, qs)
         tw = p.d.textlength(qt, font=ImageFont.truetype(FONT, qs)); rects.append((W / 2 - tw / 2, qy - qs * 0.6, W / 2 + tw / 2, qy + qs * 0.6))
     used = set()
@@ -1027,7 +1027,9 @@ def render(scene, caption, seed, out, ctx):
         for x_, y_ in free_spots(rnd, 6, 38, circles, rects, near): sparkle(p, x_, y_)
     if any(k in low for k in ("big red x", "crossed-out", "crossed out", "red x")):
         prop_slots = [slots[i] for i, it in enumerate(items) if it[2] is None]
-        if re.search(r"red x (between|above|over) them", low) and len(geoms) >= 2:
+        if quoted and not num and not re.search(r"red x (over|on|across) (him|her|them|his|the man|the woman|\{)", low):
+            big_x(p, W / 2, qy, min(tw / 2 + 30, 260), qs * 0.62)
+        elif re.search(r"red x (between|above|over) them", low) and len(geoms) >= 2:
             r_ = 90 * scale; cy_ = max(min(geoms[0]["top"], geoms[1]["top"]) - 0.9 * r_, TITLE_BOTTOM + r_ + 20)
             big_x(p, (geoms[0]["head"][0] + geoms[1]["head"][0]) / 2, cy_, r_)
         elif prop_slots: big_x(p, prop_slots[0], GROUND - 130 * scale, 140 * scale)

@@ -1,0 +1,4626 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "It's forty-five thousand years ago.",
+  "scene": "a timeline, a stone tablet with \"45000\", a big question mark",
+  "start": 0.0,
+  "end": 2.878
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "You're a hunter-gatherer by the fire.",
+  "scene": "{CAVE} by a campfire in the snowy ice age at night",
+  "start": 2.878,
+  "end": 5.499
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "Someone sits down next to you.",
+  "scene": "{CAVE} happy by the campfire in the snow at night, {WOMAN} smiling next to him",
+  "start": 5.499,
+  "end": 7.83
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "Way too close. And leans in.",
+  "scene": "{CAVE} shocked, {WOMAN} smiling right beside him, a campfire in the snow at night, an exclamation mark",
+  "start": 7.83,
+  "end": 10.508
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "Things that don't exist yet: toothbrushes.",
+  "scene": "{CAVE} confused in the snow at night, the word \"TOOTHBRUSH\" above him, a big red X",
+  "start": 10.508,
+  "end": 13.706
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "Breath mints.",
+  "scene": "{WOMAN} smug in the snow at night, the word \"MINTS\" above her, a big red X",
+  "start": 13.706,
+  "end": 15.091
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "Dentists.",
+  "scene": "{CAVE} terrified, hands on his head, in the snow at night, the word \"DENTIST\" above him, a big red X",
+  "start": 15.091,
+  "end": 16.446
+ },
+ {
+  "n": 7,
+  "block": "B01",
+  "text": "Closer. Then they stop, an inch away...",
+  "scene": "{WOMAN} smiling, right next to {CAVE} terrified, a campfire in the snow at night, an exclamation mark",
+  "start": 16.446,
+  "end": 19.405
+ },
+ {
+  "n": 8,
+  "block": "B01",
+  "text": "and sniff your cheek.",
+  "scene": "{WOMAN} happy and {CAVE} shocked rubbing noses by a campfire in the snow at night, the word \"SNIFF\" above them",
+  "start": 19.405,
+  "end": 21.223
+ },
+ {
+  "n": 9,
+  "block": "B01",
+  "text": "Wait. Was that a kiss?",
+  "scene": "{CAVE} confused, a giant question mark, dramatic",
+  "start": 21.223,
+  "end": 23.166
+ },
+ {
+  "n": 10,
+  "block": "B01",
+  "text": "Because our ape ancestors were probably kissing",
+  "scene": "two {APE} kissing in a jungle, hearts",
+  "start": 23.166,
+  "end": 26.382
+ },
+ {
+  "n": 11,
+  "block": "B01",
+  "text": "around twenty million years ago.",
+  "scene": "a timeline, a stone tablet with \"20000000\", sparkles",
+  "start": 26.382,
+  "end": 29.072
+ },
+ {
+  "n": 12,
+  "block": "B01",
+  "text": "But when anthropologists checked one hundred sixty-eight cultures,",
+  "scene": "{SCI} thinking, pointing at a world map, the word \"CULTURES\" above him",
+  "start": 29.072,
+  "end": 33.71
+ },
+ {
+  "n": 13,
+  "block": "B01",
+  "text": "romantic kissing wasn't even recorded",
+  "scene": "{SCI} confused next to a world map, a big question mark",
+  "start": 33.71,
+  "end": 36.426
+ },
+ {
+  "n": 14,
+  "block": "B01",
+  "text": "in more than half of them.",
+  "scene": "{SCI} shocked, hands on his head, a world map, a big red X",
+  "start": 36.426,
+  "end": 38.833
+ },
+ {
+  "n": 15,
+  "block": "B01",
+  "text": "And what's that face by the fire",
+  "scene": "{WOMAN} smiling by a campfire in the snowy ice age at night, a question mark",
+  "start": 38.833,
+  "end": 40.778
+ },
+ {
+  "n": 16,
+  "block": "B01",
+  "text": "about to do next?",
+  "scene": "{CAVE} terrified, {WOMAN} happy right next to him, a campfire in the snow at night, a giant question mark",
+  "start": 40.778,
+  "end": 42.913
+ },
+ {
+  "n": 17,
+  "block": "B02",
+  "text": "So... did ancient humans actually kiss?",
+  "scene": "{CAVE} confused and {WOMAN} happy by a campfire in the snow at night, the word \"ACTUALLY\" above them, a giant question mark",
+  "start": 42.913,
+  "end": 46.018
+ },
+ {
+  "n": 18,
+  "block": "B02",
+  "text": "Kissing feels pre-installed.",
+  "scene": "{GUY} smiling in a living room, sparkles, the word \"INSTALLED\" above him",
+  "start": 46.018,
+  "end": 48.358
+ },
+ {
+  "n": 19,
+  "block": "B02",
+  "text": "At a ballgame, forty thousand strangers cheer",
+  "scene": "three {GUY} cheering, arms in the air, the word \"KISSCAM\" above them, dramatic",
+  "start": 48.358,
+  "end": 51.72
+ },
+ {
+  "n": 20,
+  "block": "B02",
+  "text": "as the Kiss Cam",
+  "scene": "{GUY} shocked and his girlfriend surprised, hearts and sparkles around them, dramatic",
+  "start": 51.72,
+  "end": 53.023
+ },
+ {
+  "n": 21,
+  "block": "B02",
+  "text": "puts a heart around two fans.",
+  "scene": "{GUY} happy and his girlfriend smiling, kiss on the cheek, hearts",
+  "start": 53.023,
+  "end": 55.708
+ },
+ {
+  "n": 22,
+  "block": "B02",
+  "text": "We sign texts 'xoxo.'",
+  "scene": "{GUY} smiling on a couch in a living room, the word \"XOXO\" above him",
+  "start": 55.708,
+  "end": 57.507
+ },
+ {
+  "n": 23,
+  "block": "B02",
+  "text": "But it didn't start the way people think.",
+  "scene": "{CAVE} confused in a cave, a big question mark",
+  "start": 57.507,
+  "end": 61.167
+ },
+ {
+  "n": 24,
+  "block": "B02",
+  "text": "The ape kisses and the missing records?",
+  "scene": "{APE} smug next to a world map, a big red X, a question mark",
+  "start": 61.167,
+  "end": 64.262
+ },
+ {
+  "n": 25,
+  "block": "B02",
+  "text": "Both can be true.",
+  "scene": "{SCI} shocked, hands on his head, a world map, an exclamation mark",
+  "start": 64.262,
+  "end": 66.065
+ },
+ {
+  "n": 26,
+  "block": "B02",
+  "text": "By the end, you'll know why,",
+  "scene": "a chalkboard with {APE}, a Neanderthal, {WOMAN} and {GUY} in a row, a question mark above each, the word \"VERDICT\" above them",
+  "start": 66.065,
+  "end": 68.092
+ },
+ {
+  "n": 27,
+  "block": "B02",
+  "text": "and why the kiss may have started",
+  "scene": "{APE} happy and {CAVE} confused in a jungle, a question mark",
+  "start": 68.092,
+  "end": 70.436
+ },
+ {
+  "n": 28,
+  "block": "B02",
+  "text": "as something far less romantic.",
+  "scene": "{CAVE} disgusted next to {APE} smiling, a big red X",
+  "start": 70.436,
+  "end": 73.653
+ },
+ {
+  "n": 29,
+  "block": "B03",
+  "text": "First, a weird problem scientists had to solve.",
+  "scene": "{SCI} confused in a lab with a microscope, a big question mark",
+  "start": 73.653,
+  "end": 77.304
+ },
+ {
+  "n": 30,
+  "block": "B03",
+  "text": "Before asking who kissed first,",
+  "scene": "{SCI} thinking in a lab, a light bulb above him",
+  "start": 77.304,
+  "end": 79.294
+ },
+ {
+  "n": 31,
+  "block": "B03",
+  "text": "you need to know what counts.",
+  "scene": "{SCI} shrugging, a question mark, the word \"KISS\" above him",
+  "start": 79.294,
+  "end": 81.591
+ },
+ {
+  "n": 32,
+  "block": "B03",
+  "text": "So one team of scientists",
+  "scene": "three {SCI} thinking in a classroom with a chalkboard",
+  "start": 81.591,
+  "end": 83.29
+ },
+ {
+  "n": 33,
+  "block": "B03",
+  "text": "wrote a working definition.",
+  "scene": "{SCI} proud, pointing at a chalkboard, the word \"DEFINITION\" above him",
+  "start": 83.29,
+  "end": 85.526
+ },
+ {
+  "n": 34,
+  "block": "B03",
+  "text": "Rule one: friendly.",
+  "scene": "{SCI} smiling at a chalkboard, hearts, the word \"FRIENDLY\" above him",
+  "start": 85.526,
+  "end": 87.402
+ },
+ {
+  "n": 35,
+  "block": "B03",
+  "text": "Fish that bump open mouths in a fight?",
+  "scene": "{SCI} surprised, pointing at the sea, the word \"FISH\" above the waves",
+  "start": 87.402,
+  "end": 90.398
+ },
+ {
+  "n": 36,
+  "block": "B03",
+  "text": "Disqualified.",
+  "scene": "{SCI} frowning on a boat at sea, a big red X",
+  "start": 90.398,
+  "end": 92.121
+ },
+ {
+  "n": 37,
+  "block": "B03",
+  "text": "Rule two: same species.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SPECIES\" above him",
+  "start": 92.121,
+  "end": 94.663
+ },
+ {
+  "n": 38,
+  "block": "B03",
+  "text": "Your dog licking your face? Doesn't count.",
+  "scene": "{GUY} happy with a dog in a living room, a big red X",
+  "start": 94.663,
+  "end": 97.896
+ },
+ {
+  "n": 39,
+  "block": "B03",
+  "text": "The lead scientist reportedly joked",
+  "scene": "{SCI} smiling in a lab, the word \"JOKE\" above",
+  "start": 97.896,
+  "end": 100.554
+ },
+ {
+  "n": 40,
+  "block": "B03",
+  "text": "this also rules out a capuchin monkey",
+  "scene": "a small {APE} happy next to {SCI} surprised in the lab, hearts",
+  "start": 100.554,
+  "end": 103.348
+ },
+ {
+  "n": 41,
+  "block": "B03",
+  "text": "that once tried to kiss her.",
+  "scene": "{SCI} shocked, a small {APE} smiling, an exclamation mark",
+  "start": 103.348,
+  "end": 105.948
+ },
+ {
+  "n": 42,
+  "block": "B03",
+  "text": "Rule three: mouth to mouth,",
+  "scene": "two {APE} kissing in front of a chalkboard, hearts",
+  "start": 105.948,
+  "end": 107.679
+ },
+ {
+  "n": 43,
+  "block": "B03",
+  "text": "with a little lip movement.",
+  "scene": "{SCI} thinking, pointing at a chalkboard, the word \"LIPS\" above",
+  "start": 107.679,
+  "end": 109.83
+ },
+ {
+  "n": 44,
+  "block": "B03",
+  "text": "Rule four: no food passed over.",
+  "scene": "{SCI} frowning at a chalkboard, a clay pot, a big red X",
+  "start": 109.83,
+  "end": 112.828
+ },
+ {
+  "n": 45,
+  "block": "B03",
+  "text": "Ants handing each other snacks? Not a kiss.",
+  "scene": "{SCI} bored, shrugging, the word \"ANTS\" above him",
+  "start": 112.828,
+  "end": 116.321
+ },
+ {
+  "n": 46,
+  "block": "B03",
+  "text": "No fighting. Same species.",
+  "scene": "{GUY} frowning, pointing, the word \"BOUNCER\" above him, a dark hall",
+  "start": 116.321,
+  "end": 118.997
+ },
+ {
+  "n": 47,
+  "block": "B03",
+  "text": "Absolutely no snacks.",
+  "scene": "{GUY} angry, pointing at {CAVE} sad, a clay pot, a big red X, dark hall",
+  "start": 118.997,
+  "end": 121.702
+ },
+ {
+  "n": 48,
+  "block": "B04",
+  "text": "So when did the first kiss happen?",
+  "scene": "a timeline, {CAVE} confused, a big question mark",
+  "start": 121.702,
+  "end": 124.209
+ },
+ {
+  "n": 49,
+  "block": "B04",
+  "text": "In twenty twenty-five, that same team,",
+  "scene": "three {SCI} thinking in a lab, a light bulb above them",
+  "start": 124.209,
+  "end": 127.126
+ },
+ {
+  "n": 50,
+  "block": "B04",
+  "text": "led by Oxford's Matilda Brindle,",
+  "scene": "{SCI} proud in a lab, the word \"BRINDLE\" above",
+  "start": 127.126,
+  "end": 129.626
+ },
+ {
+  "n": 51,
+  "block": "B04",
+  "text": "collected every record they could find",
+  "scene": "{SCI} happy next to a box in a lab, sparkles, the word \"RECORDS\" above",
+  "start": 129.626,
+  "end": 132.543
+ },
+ {
+  "n": 52,
+  "block": "B04",
+  "text": "of which primates kiss.",
+  "scene": "{SCI} thinking in a jungle, a question mark, the word \"PRIMATES\" above",
+  "start": 132.543,
+  "end": 134.838
+ },
+ {
+  "n": 53,
+  "block": "B04",
+  "text": "Chimpanzees: kissers. Bonobos: kissers. Orangutans: kissers.",
+  "scene": "two {APE} kissing in a jungle, hearts, sparkles",
+  "start": 134.838,
+  "end": 140.359
+ },
+ {
+  "n": 54,
+  "block": "B04",
+  "text": "Gorillas: data patchy.",
+  "scene": "{APE} confused, shrugging, the word \"GORILLA\" above him, a question mark",
+  "start": 140.359,
+  "end": 142.482
+ },
+ {
+  "n": 55,
+  "block": "B04",
+  "text": "The gorillas declined to comment.",
+  "scene": "{APE} smug, bored, the word \"NO COMMENT\" above him",
+  "start": 142.482,
+  "end": 145.134
+ },
+ {
+  "n": 56,
+  "block": "B04",
+  "text": "They mapped the kissers onto the primate family tree",
+  "scene": "{SCI} pointing at a chalkboard, {APE} and another {APE}, the word \"TREE\" above them",
+  "start": 145.134,
+  "end": 148.943
+ },
+ {
+  "n": 57,
+  "block": "B04",
+  "text": "and ran over ten million simulations, working backwards.",
+  "scene": "{SCI} shocked in a lab with a microscope, the word \"SIMULATIONS\" above",
+  "start": 148.943,
+  "end": 153.444
+ },
+ {
+  "n": 58,
+  "block": "B04",
+  "text": "Answer: kissing probably goes back",
+  "scene": "a timeline, {SCI} pointing, a light bulb",
+  "start": 153.444,
+  "end": 155.849
+ },
+ {
+  "n": 59,
+  "block": "B04",
+  "text": "to the shared ancestor of the great apes,",
+  "scene": "{APE} proud in a jungle, sparkles, the word \"ANCESTOR\" above him",
+  "start": 155.849,
+  "end": 158.697
+ },
+ {
+  "n": 60,
+  "block": "B04",
+  "text": "somewhere between about seventeen and twenty-one million years ago.",
+  "scene": "a timeline, a stone tablet with \"21000000\", {APE} smiling",
+  "start": 158.697,
+  "end": 163.611
+ },
+ {
+  "n": 61,
+  "block": "B04",
+  "text": "No humans yet.",
+  "scene": "{APE} happy alone in a jungle, the word \"HUMANS\" above him, a big red X",
+  "start": 163.611,
+  "end": 165.387
+ },
+ {
+  "n": 62,
+  "block": "B04",
+  "text": "Your first kiss felt awkward?",
+  "scene": "{GUY} confused and his girlfriend shocked, kiss on the cheek, a living room",
+  "start": 165.387,
+  "end": 167.705
+ },
+ {
+  "n": 63,
+  "block": "B04",
+  "text": "The first one may have been",
+  "scene": "{APE} smiling in a jungle, a big question mark",
+  "start": 167.705,
+  "end": 169.322
+ },
+ {
+  "n": 64,
+  "block": "B04",
+  "text": "two hairy apes in a tree.",
+  "scene": "two {APE} kissing in a nest in the jungle, hearts",
+  "start": 169.322,
+  "end": 171.253
+ },
+ {
+  "n": 65,
+  "block": "B04",
+  "text": "Nobody filmed that one either.",
+  "scene": "{SCI} shrugging in the jungle, a big red X",
+  "start": 171.253,
+  "end": 173.669
+ },
+ {
+  "n": 66,
+  "block": "B04",
+  "text": "Big caveat: kisses don't fossilize.",
+  "scene": "{SCI} confused in a cave with bones, a question mark",
+  "start": 173.669,
+  "end": 177.224
+ },
+ {
+  "n": 67,
+  "block": "B04",
+  "text": "This is a statistical estimate on thin data,",
+  "scene": "{SCI} thinking at a chalkboard, the word \"ESTIMATE\" above him",
+  "start": 177.224,
+  "end": 180.485
+ },
+ {
+  "n": 68,
+  "block": "B04",
+  "text": "much of it from captive animals.",
+  "scene": "{SCI} shrugging next to {APE} bored, the word \"UNPROVEN\" stamped in red",
+  "start": 180.485,
+  "end": 183.351
+ },
+ {
+  "n": 69,
+  "block": "B04",
+  "text": "And it tells us when, not why.",
+  "scene": "a timeline, {SCI} confused, the word \"WHY\" above him, a big question mark",
+  "start": 183.351,
+  "end": 185.809
+ },
+ {
+  "n": 70,
+  "block": "B04",
+  "text": "Fun bonus: in twenty twenty-six,",
+  "scene": "{SCI} happy in a lab, sparkles, a stone tablet with \"2026\"",
+  "start": 185.809,
+  "end": 188.406
+ },
+ {
+  "n": 71,
+  "block": "B04",
+  "text": "that team won an Ig Nobel Prize,",
+  "scene": "three {SCI} cheering, arms in the air, the word \"IG NOBEL\" above them",
+  "start": 188.406,
+  "end": 191.003
+ },
+ {
+  "n": 72,
+  "block": "B04",
+  "text": "for research that first makes people laugh,",
+  "scene": "{GUY} happy on a couch in a living room, the word \"HAHA\" above him",
+  "start": 191.003,
+  "end": 194.394
+ },
+ {
+  "n": 73,
+  "block": "B04",
+  "text": "then makes them think.",
+  "scene": "{GUY} thinking, a light bulb above him, living room",
+  "start": 194.394,
+  "end": 196.689
+ },
+ {
+  "n": 74,
+  "block": "B04",
+  "text": "Brindle calls kissing an evolutionary conundrum.",
+  "scene": "{SCI} confused, shrugging in a lab, the word \"CONUNDRUM\" above",
+  "start": 196.689,
+  "end": 200.576
+ },
+ {
+  "n": 75,
+  "block": "B04",
+  "text": "Hold on to that 'why.'",
+  "scene": "a chalkboard, {APE} proud with the word \"PROBABLY\" above him, a Neanderthal confused, {WOMAN} confused, {GUY} confused",
+  "start": 200.576,
+  "end": 203.141
+ },
+ {
+  "n": 76,
+  "block": "B05",
+  "text": "You've probably heard the story",
+  "scene": "{GUY} smiling on a couch in a living room, the word \"STORY\" above him",
+  "start": 203.141,
+  "end": 205.108
+ },
+ {
+  "n": 77,
+  "block": "B05",
+  "text": "of how kissing was invented.",
+  "scene": "{SCI} proud, a light bulb, the word \"INVENTED\" above him",
+  "start": 205.108,
+  "end": 207.327
+ },
+ {
+  "n": 78,
+  "block": "B05",
+  "text": "The movie version: two cave people,",
+  "scene": "{CAVE} and {WOMAN} smiling in a cave, sparkles",
+  "start": 207.327,
+  "end": 210.045
+ },
+ {
+  "n": 79,
+  "block": "B05",
+  "text": "one magical accident, the first kiss ever,",
+  "scene": "{CAVE} and {WOMAN} kissing in the cave, hearts, sparkles, an exclamation mark",
+  "start": 210.045,
+  "end": 213.252
+ },
+ {
+  "n": 80,
+  "block": "B05",
+  "text": "and it spreads worldwide.",
+  "scene": "a world map covered in hearts",
+  "start": 213.252,
+  "end": 215.693
+ },
+ {
+  "n": 81,
+  "block": "B05",
+  "text": "The popular version: kissing was invented in ancient India,",
+  "scene": "{SCI} smug, pointing at a world map, the word \"INDIA\" above it, a light bulb",
+  "start": 215.693,
+  "end": 220.25
+ },
+ {
+  "n": 82,
+  "block": "B05",
+  "text": "and Alexander the Great's soldiers",
+  "scene": "an emperor proud, wearing a crown, in front of marble columns, the word \"ALEXANDER\" above him",
+  "start": 220.25,
+  "end": 222.999
+ },
+ {
+  "n": 83,
+  "block": "B05",
+  "text": "carried it west to Europe",
+  "scene": "an emperor wearing a crown, pointing at a world map, the word \"EUROPE\" above him",
+  "start": 222.999,
+  "end": 225.096
+ },
+ {
+  "n": 84,
+  "block": "B05",
+  "text": "around three twenty-six BCE.",
+  "scene": "a timeline, a stone tablet with \"326\"",
+  "start": 225.096,
+  "end": 227.831
+ },
+ {
+  "n": 85,
+  "block": "B05",
+  "text": "Beautiful. Romantic.",
+  "scene": "{GUY} happy in a living room, hearts and sparkles above him",
+  "start": 227.831,
+  "end": 230.059
+ },
+ {
+  "n": 86,
+  "block": "B05",
+  "text": "Completely not how it happened.",
+  "scene": "{SCI} frowning, a big red X, dramatic",
+  "start": 230.059,
+  "end": 232.619
+ },
+ {
+  "n": 87,
+  "block": "B05",
+  "text": "One: clay tablets from Mesopotamia",
+  "scene": "{SUMER} proud in Mesopotamia, a stone tablet with \"4500\"",
+  "start": 232.619,
+  "end": 235.394
+ },
+ {
+  "n": 88,
+  "block": "B05",
+  "text": "mention kissing about four thousand five hundred years ago,",
+  "scene": "{SUMER} and his wife kissing on the cheek in Mesopotamia, hearts",
+  "start": 235.394,
+  "end": 239.995
+ },
+ {
+  "n": 89,
+  "block": "B05",
+  "text": "roughly a thousand years before those Indian texts.",
+  "scene": "a timeline, a stone tablet with \"1000\", {SCI} pointing",
+  "start": 239.995,
+  "end": 244.431
+ },
+ {
+  "n": 90,
+  "block": "B05",
+  "text": "Two: in Homer's poems,",
+  "scene": "a Greek man thinking in front of marble columns, the word \"HOMER\" above him",
+  "start": 244.431,
+  "end": 246.178
+ },
+ {
+  "n": 91,
+  "block": "B05",
+  "text": "Greeks were already kissing",
+  "scene": "two Greek men, kiss on the cheek, marble columns, hearts",
+  "start": 246.178,
+  "end": 248.261
+ },
+ {
+  "n": 92,
+  "block": "B05",
+  "text": "centuries before Alexander was born.",
+  "scene": "an emperor shocked, wearing a crown, between marble columns, an exclamation mark",
+  "start": 248.261,
+  "end": 251.369
+ },
+ {
+  "n": 93,
+  "block": "B05",
+  "text": "Alexander conquered half the known world,",
+  "scene": "an emperor proud, wearing a crown, pointing at a world map, sparkles",
+  "start": 251.369,
+  "end": 254.372
+ },
+ {
+  "n": 94,
+  "block": "B05",
+  "text": "but kissing is one conquest",
+  "scene": "an emperor smug, wearing a crown, next to a world map, hearts",
+  "start": 254.372,
+  "end": 256.442
+ },
+ {
+  "n": 95,
+  "block": "B05",
+  "text": "historians won't give him.",
+  "scene": "{SCI} frowning, pointing at an emperor sad, wearing a crown, a big red X",
+  "start": 256.442,
+  "end": 258.864
+ },
+ {
+  "n": 96,
+  "block": "B05",
+  "text": "And the tablet experts say",
+  "scene": "{SCI} thinking next to {SUMER} in Mesopotamia, a clay jar",
+  "start": 258.864,
+  "end": 260.917
+ },
+ {
+  "n": 97,
+  "block": "B05",
+  "text": "kissing probably arose in many places,",
+  "scene": "a world map, {CAVE} happy and {WOMAN} happy, hearts",
+  "start": 260.917,
+  "end": 263.792
+ },
+ {
+  "n": 98,
+  "block": "B05",
+  "text": "long before anyone wrote it down.",
+  "scene": "{CAVE} shrugging in a cave, a big question mark",
+  "start": 263.792,
+  "end": 266.745
+ },
+ {
+  "n": 99,
+  "block": "B05",
+  "text": "Mesopotamia didn't invent the kiss.",
+  "scene": "{SUMER} confused, shrugging in Mesopotamia, a big red X",
+  "start": 266.745,
+  "end": 269.839
+ },
+ {
+  "n": 100,
+  "block": "B05",
+  "text": "It just left the oldest paperwork.",
+  "scene": "{SUMER} proud in Mesopotamia, sparkles, the word \"PAPERWORK\" above him",
+  "start": 269.839,
+  "end": 273.102
+ },
+ {
+  "n": 101,
+  "block": "B06",
+  "text": "So if nobody invented it...",
+  "scene": "{SCI} confused in a lab with a microscope, a big question mark",
+  "start": 273.102,
+  "end": 275.442
+ },
+ {
+  "n": 102,
+  "block": "B06",
+  "text": "where did it come from?",
+  "scene": "a timeline, {APE} thinking, a big question mark",
+  "start": 275.442,
+  "end": 277.155
+ },
+ {
+  "n": 103,
+  "block": "B06",
+  "text": "Scientists have several suspects.",
+  "scene": "{SCI} smug, pointing at a chalkboard, the word \"SUSPECTS\" above him",
+  "start": 277.155,
+  "end": 279.785
+ },
+ {
+  "n": 104,
+  "block": "B06",
+  "text": "Three are big ones.",
+  "scene": "a chalkboard, three {APE} confused in a row, a big question mark",
+  "start": 279.785,
+  "end": 281.656
+ },
+ {
+  "n": 105,
+  "block": "B06",
+  "text": "None is proven, and they argue about all three.",
+  "scene": "two {SCI} angry, pointing at each other in a classroom, a big red X",
+  "start": 281.656,
+  "end": 285.503
+ },
+ {
+  "n": 106,
+  "block": "B06",
+  "text": "Suspect number one: grooming.",
+  "scene": "{APE} happy in a jungle, another {APE} smiling, the word \"GROOMING\" above them",
+  "start": 285.503,
+  "end": 288.077
+ },
+ {
+  "n": 107,
+  "block": "B06",
+  "text": "Apes spend hours cleaning each other.",
+  "scene": "two {APE} smiling in the jungle, sparkles, the word \"HOURS\" above them",
+  "start": 288.077,
+  "end": 290.756
+ },
+ {
+  "n": 108,
+  "block": "B06",
+  "text": "In twenty twenty-four, Adriano Lameira",
+  "scene": "{SCI} proud in a lab, a stone tablet with \"2024\"",
+  "start": 290.756,
+  "end": 293.802
+ },
+ {
+  "n": 109,
+  "block": "B06",
+  "text": "at the University of Warwick",
+  "scene": "{SCI} thinking in a classroom with a chalkboard, the word \"WARWICK\" above him",
+  "start": 293.802,
+  "end": 296.122
+ },
+ {
+  "n": 110,
+  "block": "B06",
+  "text": "pointed to how grooming often ends.",
+  "scene": "{SCI} pointing at {APE} happy and another {APE} in a jungle, a light bulb",
+  "start": 296.122,
+  "end": 299.371
+ },
+ {
+  "n": 111,
+  "block": "B06",
+  "text": "The groomer pushes out its lips",
+  "scene": "{APE} smiling, close to another {APE} surprised, the word \"LIPS\" above them",
+  "start": 299.371,
+  "end": 301.684
+ },
+ {
+  "n": 112,
+  "block": "B06",
+  "text": "and gently slurps up one last bit of dirt",
+  "scene": "{APE} happy, another {APE} bored in the jungle, the word \"DIRT\" above them",
+  "start": 301.684,
+  "end": 304.658
+ },
+ {
+  "n": 113,
+  "block": "B06",
+  "text": "or a tiny bug.",
+  "scene": "{SCI} shocked at a microscope in a lab, the word \"BUG\" above him",
+  "start": 304.658,
+  "end": 306.268
+ },
+ {
+  "n": 114,
+  "block": "B06",
+  "text": "He calls it the 'groomer's final kiss.'",
+  "scene": "{APE} and another {APE}, kiss on the cheek in a jungle, hearts, the word \"FINAL\" above them",
+  "start": 306.268,
+  "end": 309.242
+ },
+ {
+  "n": 115,
+  "block": "B06",
+  "text": "His idea: as our ancestors lost their fur,",
+  "scene": "{CAVE} confused in a jungle, {APE} smiling next to him, a question mark",
+  "start": 309.242,
+  "end": 312.423
+ },
+ {
+  "n": 116,
+  "block": "B06",
+  "text": "there was less to clean,",
+  "scene": "{CAVE} shrugging in the jungle, the word \"FUR\" above him, a big red X",
+  "start": 312.423,
+  "end": 314.36
+ },
+ {
+  "n": 117,
+  "block": "B06",
+  "text": "but the lip move stuck around",
+  "scene": "{CAVE} and {WOMAN}, kiss on the cheek in the jungle, hearts",
+  "start": 314.36,
+  "end": 316.642
+ },
+ {
+  "n": 118,
+  "block": "B06",
+  "text": "as a sign of trust.",
+  "scene": "{CAVE} happy and {WOMAN} smiling by a campfire, the word \"UNPROVEN\" stamped in red",
+  "start": 316.642,
+  "end": 318.653
+ },
+ {
+  "n": 119,
+  "block": "B06",
+  "text": "So that big romantic movie kiss",
+  "scene": "an actor smiling in a living room, hearts and sparkles, the word \"MOVIE\" above him",
+  "start": 318.653,
+  "end": 321.099
+ },
+ {
+  "n": 120,
+  "block": "B06",
+  "text": "may be the great-great-great, times a million, grandchild",
+  "scene": "a timeline, {APE}, {CAVE} and {GUY} in a row, sparkles",
+  "start": 321.099,
+  "end": 325.363
+ },
+ {
+  "n": 121,
+  "block": "B06",
+  "text": "of an ape picking bugs off its best friend.",
+  "scene": "{APE} happy, another {APE} smiling in a jungle, hearts, the word \"BUG\" above them",
+  "start": 325.363,
+  "end": 329.068
+ },
+ {
+  "n": 122,
+  "block": "B06",
+  "text": "Greeting card companies, please don't use this.",
+  "scene": "{GUY} disgusted in a living room, hearts, the word \"CARDS\" above him, a big red X",
+  "start": 329.068,
+  "end": 332.776
+ },
+ {
+  "n": 123,
+  "block": "B06",
+  "text": "It could have gone very differently.",
+  "scene": "{SCI} thinking in a jungle, a big question mark",
+  "start": 332.776,
+  "end": 335.185
+ },
+ {
+  "n": 124,
+  "block": "B06",
+  "text": "Some capuchin monkeys in Costa Rica",
+  "scene": "two small {APE} happy in the jungle, the word \"CAPUCHIN\" above them",
+  "start": 335.185,
+  "end": 337.897
+ },
+ {
+  "n": 125,
+  "block": "B06",
+  "text": "test friendships by gently poking fingers",
+  "scene": "a small {APE} smiling, pointing at another small {APE} confused, the word \"POKE\" above them",
+  "start": 337.897,
+  "end": 341.027
+ },
+ {
+  "n": 126,
+  "block": "B06",
+  "text": "into each other's eyes.",
+  "scene": "a small {APE} shocked, another small {APE} smiling, an exclamation mark",
+  "start": 341.027,
+  "end": 343.325
+ },
+ {
+  "n": 127,
+  "block": "B06",
+  "text": "Be grateful evolution picked lips.",
+  "scene": "{GUY} happy in a living room, arms in the air, hearts, the word \"LIPS\" above him",
+  "start": 343.325,
+  "end": 346.7
+ },
+ {
+  "n": 128,
+  "block": "B07",
+  "text": "Suspect number two is... a little gross.",
+  "scene": "{SCI} disgusted at a chalkboard, hands on his head, the word \"GROSS\" above him",
+  "start": 346.7,
+  "end": 350.105
+ },
+ {
+  "n": 129,
+  "block": "B07",
+  "text": "Kiss-feeding. Orangutan and chimp mothers sometimes chew food",
+  "scene": "{APE} happy and a small {APE} in a nest in the jungle, the word \"CHEW\" above them",
+  "start": 350.105,
+  "end": 354.418
+ },
+ {
+  "n": 130,
+  "block": "B07",
+  "text": "and pass it straight into their baby's mouth.",
+  "scene": "{APE} smiling, close to a small {APE} happy, the word \"NOM\" above them",
+  "start": 354.418,
+  "end": 358.09
+ },
+ {
+  "n": 131,
+  "block": "B07",
+  "text": "Before baby food aisles with forty flavors,",
+  "scene": "{GUY} confused in a living room, a box, the word \"FLAVORS\" above him",
+  "start": 358.09,
+  "end": 361.367
+ },
+ {
+  "n": 132,
+  "block": "B07",
+  "text": "there was exactly one flavor:",
+  "scene": "a small {APE} smug in a jungle, a stone tablet with \"1\", sparkles",
+  "start": 361.367,
+  "end": 363.669
+ },
+ {
+  "n": 133,
+  "block": "B07",
+  "text": "whatever Mom just chewed.",
+  "scene": "a small {APE} disgusted next to {APE} smiling, the word \"YUM\" above them",
+  "start": 363.669,
+  "end": 366.111
+ },
+ {
+  "n": 134,
+  "block": "B07",
+  "text": "In nineteen seventy, an Austrian ethologist",
+  "scene": "{SCI} thinking in a classroom with a chalkboard, a stone tablet with \"1970\"",
+  "start": 366.111,
+  "end": 369.331
+ },
+ {
+  "n": 135,
+  "block": "B07",
+  "text": "suggested that's where the kiss began.",
+  "scene": "{SCI} proud, pointing at a chalkboard, a light bulb, the word \"EIBLEIBESFELDT\" above him",
+  "start": 369.331,
+  "end": 372.628
+ },
+ {
+  "n": 136,
+  "block": "B07",
+  "text": "Humans do it too:",
+  "scene": "{SCI} smiling next to a world map, a clay pot, hearts",
+  "start": 372.628,
+  "end": 374.081
+ },
+ {
+  "n": 137,
+  "block": "B07",
+  "text": "one survey found pre-chewing food",
+  "scene": "{SCI} thinking, pointing at a world map, the word \"SURVEY\" above him",
+  "start": 374.081,
+  "end": 376.641
+ },
+ {
+  "n": 138,
+  "block": "B07",
+  "text": "mentioned in thirty-eight of one hundred nineteen cultures,",
+  "scene": "a world map, a stone tablet with \"38\", sparkles",
+  "start": 376.641,
+  "end": 381.001
+ },
+ {
+  "n": 139,
+  "block": "B07",
+  "text": "most often for feeding babies.",
+  "scene": "{GUY} smiling in a living room, a clay pot, hearts, the word \"INFANTS\" above him",
+  "start": 381.001,
+  "end": 383.773
+ },
+ {
+  "n": 140,
+  "block": "B07",
+  "text": "But Lameira notes a kiss pulls inward,",
+  "scene": "{SCI} frowning, pointing at a chalkboard, the word \"INWARD\" above him",
+  "start": 383.773,
+  "end": 386.433
+ },
+ {
+  "n": 141,
+  "block": "B07",
+  "text": "while feeding pushes outward.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"OUTWARD\" above him, a big red X",
+  "start": 386.433,
+  "end": 388.944
+ },
+ {
+  "n": 142,
+  "block": "B07",
+  "text": "And the Oxford definition deliberately leaves food out,",
+  "scene": "{SCI} frowning in a lab, pointing at a clay pot, the word \"SNACKS\" above him, a big red X",
+  "start": 388.944,
+  "end": 392.601
+ },
+ {
+  "n": 143,
+  "block": "B07",
+  "text": "so the two can't be mixed up.",
+  "scene": "{APE} confused and a small {APE} in a jungle, a clay pot, a big question mark",
+  "start": 392.601,
+  "end": 395.067
+ },
+ {
+  "n": 144,
+  "block": "B07",
+  "text": "Suspect number three: the sniff.",
+  "scene": "{SCI} smug at a chalkboard, the word \"SNIFF\" above him, a big question mark",
+  "start": 395.067,
+  "end": 397.724
+ },
+ {
+  "n": 145,
+  "block": "B07",
+  "text": "Anthropologist Vaughn Bryant thought",
+  "scene": "{SCI} thinking in a classroom, the word \"BRYANT\" above him",
+  "start": 397.724,
+  "end": 400.443
+ },
+ {
+  "n": 146,
+  "block": "B07",
+  "text": "early humans may have recognized each other",
+  "scene": "{CAVE} confused and {WOMAN} smiling by a campfire in a cave",
+  "start": 400.443,
+  "end": 403.639
+ },
+ {
+  "n": 147,
+  "block": "B07",
+  "text": "by smell, up close.",
+  "scene": "{WOMAN} happy and {CAVE} surprised, rubbing noses in the cave, the word \"SNIFF\" above them",
+  "start": 403.639,
+  "end": 405.623
+ },
+ {
+  "n": 148,
+  "block": "B07",
+  "text": "Clues: the ancient Egyptian word for kiss,",
+  "scene": "{EGYPT} thinking in front of a pyramid, the word \"KISS\" above him",
+  "start": 405.623,
+  "end": 408.71
+ },
+ {
+  "n": 149,
+  "block": "B07",
+  "text": "'sn,' also meant 'to smell,'",
+  "scene": "{EGYPT} surprised by a pyramid, the word \"SMELL\" above him, an exclamation mark",
+  "start": 408.71,
+  "end": 410.857
+ },
+ {
+  "n": 150,
+  "block": "B07",
+  "text": "and was written with a little nose sign.",
+  "scene": "{EGYPT} proud in Egypt, sparkles, the word \"NOSE\" above him",
+  "start": 410.857,
+  "end": 414.23
+ },
+ {
+  "n": 151,
+  "block": "B07",
+  "text": "In Hawaiian, 'honi' means smell, sniff or kiss.",
+  "scene": "{GUY} surprised next to a world map, hearts, the word \"HONI\" above him",
+  "start": 414.23,
+  "end": 417.955
+ },
+ {
+  "n": 152,
+  "block": "B07",
+  "text": "And those old Indian texts?",
+  "scene": "{SCI} thinking, a timeline, a stone tablet with \"3500\"",
+  "start": 417.955,
+  "end": 420.377
+ },
+ {
+  "n": 153,
+  "block": "B07",
+  "text": "Some scholars say their 'kisses'",
+  "scene": "{SCI} confused in a lab, a big question mark, the word \"KISSES\" above him",
+  "start": 420.377,
+  "end": 422.388
+ },
+ {
+  "n": 154,
+  "block": "B07",
+  "text": "read more like sniffing.",
+  "scene": "a chalkboard, three {APE} in a row, the word \"UNPROVEN\" stamped in red",
+  "start": 422.388,
+  "end": 424.372
+ },
+ {
+  "n": 155,
+  "block": "B07",
+  "text": "Keep that sniff in mind.",
+  "scene": "{CAVE} shocked by a campfire in the snow at night, the word \"SNIFF\" above him",
+  "start": 424.372,
+  "end": 426.457
+ },
+ {
+  "n": 156,
+  "block": "B07",
+  "text": "And we still haven't reached",
+  "scene": "{SCI} thinking next to a world map, a big question mark",
+  "start": 426.457,
+  "end": 428.089
+ },
+ {
+  "n": 157,
+  "block": "B07",
+  "text": "the one hundred sixty-eight cultures.",
+  "scene": "a world map, a stone tablet with \"168\", sparkles",
+  "start": 428.089,
+  "end": 430.601
+ },
+ {
+  "n": 158,
+  "block": "B07",
+  "text": "That's the weird part.",
+  "scene": "{SCI} shocked, hands on his head, dramatic",
+  "start": 430.601,
+  "end": 433.062
+ },
+ {
+  "n": 159,
+  "block": "B08",
+  "text": "But first, a question nobody asks:",
+  "scene": "{GUY} thinking on a couch in a living room, a big question mark",
+  "start": 433.062,
+  "end": 435.611
+ },
+ {
+  "n": 160,
+  "block": "B08",
+  "text": "what about the other humans?",
+  "scene": "a Neanderthal confused in a cave, a big question mark",
+  "start": 435.611,
+  "end": 438.177
+ },
+ {
+  "n": 161,
+  "block": "B08",
+  "text": "Forty-five thousand years ago,",
+  "scene": "a timeline, a stone tablet with \"45000\"",
+  "start": 438.177,
+  "end": 440.425
+ },
+ {
+  "n": 162,
+  "block": "B08",
+  "text": "our species wasn't alone.",
+  "scene": "{CAVE} surprised in the snowy ice age, an exclamation mark",
+  "start": 440.425,
+  "end": 442.763
+ },
+ {
+  "n": 163,
+  "block": "B08",
+  "text": "Neanderthals were around too,",
+  "scene": "a Neanderthal smiling in the snow, sparkles, the word \"NEANDERTHAL\" above him",
+  "start": 442.763,
+  "end": 444.847
+ },
+ {
+  "n": 164,
+  "block": "B08",
+  "text": "and the two groups met.",
+  "scene": "{WOMAN} surprised and a Neanderthal happy in the snow, a question mark",
+  "start": 444.847,
+  "end": 446.972
+ },
+ {
+  "n": 165,
+  "block": "B08",
+  "text": "Did Neanderthals ever kiss?",
+  "scene": "a Neanderthal thinking by a campfire at night, the word \"KISS\" above him, a question mark",
+  "start": 446.972,
+  "end": 449.485
+ },
+ {
+  "n": 166,
+  "block": "B08",
+  "text": "Remember: kisses don't fossilize.",
+  "scene": "{SCI} shrugging in a cave with bones, a big red X",
+  "start": 449.485,
+  "end": 452.465
+ },
+ {
+  "n": 167,
+  "block": "B08",
+  "text": "No bones. No footprints. No selfie.",
+  "scene": "{SCI} sad in the cave, the word \"SELFIE\" above him, a big red X",
+  "start": 452.465,
+  "end": 455.833
+ },
+ {
+  "n": 168,
+  "block": "B08",
+  "text": "In twenty seventeen, researcher Laura Weyrich",
+  "scene": "{SCI} proud in a lab with a microscope, the word \"WEYRICH\" above them",
+  "start": 455.833,
+  "end": 459.316
+ },
+ {
+  "n": 169,
+  "block": "B08",
+  "text": "and her team went after",
+  "scene": "three {SCI} thinking in a lab, a stone tablet with \"2017\"",
+  "start": 459.316,
+  "end": 461.236
+ },
+ {
+  "n": 170,
+  "block": "B08",
+  "text": "the least romantic evidence in archaeology: tartar.",
+  "scene": "{SCI} disgusted in a cave with bones, the word \"TARTAR\" above him, an exclamation mark",
+  "start": 461.236,
+  "end": 465.566
+ },
+ {
+  "n": 171,
+  "block": "B08",
+  "text": "Hardened plaque on Neanderthal teeth",
+  "scene": "{SCI} disgusted, pointing at a skeleton in the cave, the word \"EWW\" above him",
+  "start": 465.566,
+  "end": 468.207
+ },
+ {
+  "n": 172,
+  "block": "B08",
+  "text": "from caves in Spain and Belgium.",
+  "scene": "a world map, a Neanderthal smiling, the word \"EUROPE\" above him",
+  "start": 468.207,
+  "end": 471.003
+ },
+ {
+  "n": 173,
+  "block": "B08",
+  "text": "Old plaque is a time capsule.",
+  "scene": "{SCI} happy in a lab, a box, sparkles, the word \"TREASURE\" above him",
+  "start": 471.003,
+  "end": 473.544
+ },
+ {
+  "n": 174,
+  "block": "B08",
+  "text": "It traps DNA from food",
+  "scene": "{SCI} pointing at a microscope in the lab, the word \"DNA\" above him",
+  "start": 473.544,
+  "end": 475.353
+ },
+ {
+  "n": 175,
+  "block": "B08",
+  "text": "and from mouth microbes.",
+  "scene": "{SCI} surprised at a microscope, the word \"MICROBES\" above him",
+  "start": 475.353,
+  "end": 477.722
+ },
+ {
+  "n": 176,
+  "block": "B08",
+  "text": "The catch: ancient DNA is easy to contaminate,",
+  "scene": "{SCI} terrified in a lab, hands on his head, the word \"CONTAMINATED\" above him",
+  "start": 477.722,
+  "end": 481.5
+ },
+ {
+  "n": 177,
+  "block": "B08",
+  "text": "and other scientists later questioned",
+  "scene": "a small {SCI} frowning, pointing at {SCI} sad, the word \"CITATION\" above them, a question mark",
+  "start": 481.5,
+  "end": 484.599
+ },
+ {
+  "n": 178,
+  "block": "B08",
+  "text": "how far plaque DNA can be trusted.",
+  "scene": "{SCI} thinking, shrugging in the lab, a big question mark",
+  "start": 484.599,
+  "end": 487.89
+ },
+ {
+  "n": 179,
+  "block": "B08",
+  "text": "Still, from one Neanderthal in El Sidron cave,",
+  "scene": "a Neanderthal smiling in a cave, a campfire, sparkles",
+  "start": 487.89,
+  "end": 491.323
+ },
+ {
+  "n": 180,
+  "block": "B08",
+  "text": "the team rebuilt almost the whole genome",
+  "scene": "three {SCI} cheering, arms in the air in a lab, sparkles",
+  "start": 491.323,
+  "end": 494.344
+ },
+ {
+  "n": 181,
+  "block": "B08",
+  "text": "of a mouth microbe",
+  "scene": "{SCI} happy at a microscope, the word \"MICROBE\" above him",
+  "start": 494.344,
+  "end": 495.855
+ },
+ {
+  "n": 182,
+  "block": "B08",
+  "text": "whose name is a mouthful.",
+  "scene": "{SCI} confused, the word \"METHANOBREVIBACTER\" above him, a big question mark",
+  "start": 495.855,
+  "end": 498.266
+ },
+ {
+  "n": 183,
+  "block": "B08",
+  "text": "About forty-eight thousand years old:",
+  "scene": "a timeline, a stone tablet with \"48000\"",
+  "start": 498.266,
+  "end": 500.877
+ },
+ {
+  "n": 184,
+  "block": "B08",
+  "text": "a record at the time.",
+  "scene": "{SCI} proud in a lab, arms in the air, sparkles, the word \"RECORD\" above him",
+  "start": 500.877,
+  "end": 502.888
+ },
+ {
+  "n": 185,
+  "block": "B08",
+  "text": "Next time your dentist scrapes your teeth,",
+  "scene": "{GUY} terrified, {SCI} smiling, the word \"DENTIST\" above them, an exclamation mark",
+  "start": 502.888,
+  "end": 505.749
+ },
+ {
+  "n": 186,
+  "block": "B08",
+  "text": "they're throwing away future history.",
+  "scene": "{SCI} shocked in a classroom, hands on his head, a box, the word \"HISTORY\" above him",
+  "start": 505.749,
+  "end": 508.719
+ },
+ {
+  "n": 187,
+  "block": "B08",
+  "text": "And someone in that cave had a toothache.",
+  "scene": "a Neanderthal crying in a cave, hands on his head, a campfire, the word \"OUCH\" above him",
+  "start": 508.719,
+  "end": 511.603
+ },
+ {
+  "n": 188,
+  "block": "B08",
+  "text": "Wait until you hear what he chewed.",
+  "scene": "a Neanderthal smug in the cave, an exclamation mark",
+  "start": 511.603,
+  "end": 514.808
+ },
+ {
+  "n": 189,
+  "block": "B09",
+  "text": "So, what did he chew? The menu first.",
+  "scene": "a Neanderthal confused on a forest floor, the word \"MENU\" above him, a big question mark",
+  "start": 514.808,
+  "end": 517.869
+ },
+ {
+  "n": 190,
+  "block": "B09",
+  "text": "In Belgium: woolly rhino and wild sheep.",
+  "scene": "a Neanderthal happy in the snowy ice age, the word \"RHINO\" above him",
+  "start": 517.869,
+  "end": 521.386
+ },
+ {
+  "n": 191,
+  "block": "B09",
+  "text": "In Spain, no trace of meat",
+  "scene": "a Neanderthal confused in a cave, the word \"MEAT\" above him, a big red X",
+  "start": 521.386,
+  "end": 523.122
+ },
+ {
+  "n": 192,
+  "block": "B09",
+  "text": "showed up in the plaque.",
+  "scene": "{SCI} surprised at a microscope in a lab, an exclamation mark",
+  "start": 523.122,
+  "end": 525.162
+ },
+ {
+  "n": 193,
+  "block": "B09",
+  "text": "Instead: mushrooms, pine nuts... and moss.",
+  "scene": "a Neanderthal smiling on a forest floor, the word \"MOSS\" above him, sparkles",
+  "start": 525.162,
+  "end": 528.853
+ },
+ {
+  "n": 194,
+  "block": "B09",
+  "text": "And the young Neanderthal with the toothache?",
+  "scene": "a small Neanderthal sad in a cave, hands on his head, the word \"TOOTHACHE\" above him",
+  "start": 528.853,
+  "end": 531.79
+ },
+ {
+  "n": 195,
+  "block": "B09",
+  "text": "His plaque held DNA from poplar,",
+  "scene": "{SCI} pointing at a microscope in a lab, the word \"POPLAR\" above him",
+  "start": 531.79,
+  "end": 534.517
+ },
+ {
+  "n": 196,
+  "block": "B09",
+  "text": "a tree whose bark contains",
+  "scene": "a Neanderthal thinking on a forest floor, the word \"BARK\" above him",
+  "start": 534.517,
+  "end": 536.789
+ },
+ {
+  "n": 197,
+  "block": "B09",
+  "text": "a chemical related to aspirin,",
+  "scene": "{SCI} thinking at a chalkboard, a light bulb, the word \"ASPIRIN\" above him",
+  "start": 536.789,
+  "end": 539.365
+ },
+ {
+  "n": 198,
+  "block": "B09",
+  "text": "plus Penicillium mold.",
+  "scene": "{SCI} surprised at the chalkboard, the word \"PENICILLIUM\" above him, sparkles",
+  "start": 539.365,
+  "end": 541.755
+ },
+ {
+  "n": 199,
+  "block": "B09",
+  "text": "Modern you: toothache, take an aspirin.",
+  "scene": "{GUY} sad on a couch in a living room, the word \"PILLS\" above him",
+  "start": 541.755,
+  "end": 544.978
+ },
+ {
+  "n": 200,
+  "block": "B09",
+  "text": "Neanderthal you: toothache, go chew a tree.",
+  "scene": "a Neanderthal happy on a forest floor, the word \"CHOMP\" above him",
+  "start": 544.978,
+  "end": 548.633
+ },
+ {
+  "n": 201,
+  "block": "B09",
+  "text": "He may have been treating himself. Maybe.",
+  "scene": "a Neanderthal shrugging on the forest floor, a light bulb, the word \"UNPROVEN\" stamped in red",
+  "start": 548.633,
+  "end": 551.826
+ },
+ {
+  "n": 202,
+  "block": "B09",
+  "text": "Now the kissing clue.",
+  "scene": "{SCI} smug in a lab, a light bulb, the word \"CLUE\" above him",
+  "start": 551.826,
+  "end": 553.769
+ },
+ {
+  "n": 203,
+  "block": "B09",
+  "text": "The Neanderthal strain of that microbe",
+  "scene": "{SCI} pointing at a chalkboard, the word \"STRAIN\" above him",
+  "start": 553.769,
+  "end": 556.37
+ },
+ {
+  "n": 204,
+  "block": "B09",
+  "text": "split from the human strain",
+  "scene": "a timeline, {WOMAN} and a Neanderthal, a stone tablet with \"143000\"",
+  "start": 556.37,
+  "end": 558.29
+ },
+ {
+  "n": 205,
+  "block": "B09",
+  "text": "more than a hundred thousand years ago,",
+  "scene": "a timeline, a stone tablet with \"112000\", sparkles",
+  "start": 558.29,
+  "end": 560.953
+ },
+ {
+  "n": 206,
+  "block": "B09",
+  "text": "which the team suggested could mean",
+  "scene": "{SCI} thinking in a lab, a question mark",
+  "start": 560.953,
+  "end": 563.369
+ },
+ {
+  "n": 207,
+  "block": "B09",
+  "text": "it passed between the groups.",
+  "scene": "{WOMAN} smiling and a Neanderthal happy by a campfire at night, the word \"MICROBES\" above them",
+  "start": 563.369,
+  "end": 565.833
+ },
+ {
+  "n": 208,
+  "block": "B09",
+  "text": "Weyrich suggested they may have been kissing.",
+  "scene": "{WOMAN} and a Neanderthal, kiss on the cheek by the campfire at night, hearts, a question mark",
+  "start": 565.833,
+  "end": 569.11
+ },
+ {
+  "n": 209,
+  "block": "B09",
+  "text": "Or just sharing food. Nobody knows.",
+  "scene": "{WOMAN} happy and a Neanderthal shrugging by the campfire at night, a clay pot, a big question mark",
+  "start": 569.11,
+  "end": 572.487
+ },
+ {
+  "n": 210,
+  "block": "B09",
+  "text": "That's far older than the big meeting",
+  "scene": "{SCI} pointing at a timeline, an exclamation mark",
+  "start": 572.487,
+  "end": 575.057
+ },
+ {
+  "n": 211,
+  "block": "B09",
+  "text": "about forty-seven thousand years ago,",
+  "scene": "a timeline, a stone tablet with \"47000\"",
+  "start": 575.057,
+  "end": 577.627
+ },
+ {
+  "n": 212,
+  "block": "B09",
+  "text": "so any swap would have come",
+  "scene": "{SCI} thinking at a chalkboard, a light bulb",
+  "start": 577.627,
+  "end": 579.57
+ },
+ {
+  "n": 213,
+  "block": "B09",
+  "text": "from an earlier encounter.",
+  "scene": "{WOMAN} surprised and a Neanderthal confused in the snowy ice age, a question mark",
+  "start": 579.57,
+  "end": 581.87
+ },
+ {
+  "n": 214,
+  "block": "B09",
+  "text": "What we do know:",
+  "scene": "{SCI} proud at a chalkboard, an exclamation mark",
+  "start": 581.87,
+  "end": 583.246
+ },
+ {
+  "n": 215,
+  "block": "B09",
+  "text": "our species and Neanderthals had children together,",
+  "scene": "{WOMAN} smiling and a Neanderthal happy by a hut in a village, a baby, hearts",
+  "start": 583.246,
+  "end": 587.032
+ },
+ {
+  "n": 216,
+  "block": "B09",
+  "text": "mostly around that big meeting.",
+  "scene": "a Neanderthal proud and {WOMAN} happy in the village, a small Neanderthal, sparkles",
+  "start": 587.032,
+  "end": 589.86
+ },
+ {
+  "n": 217,
+  "block": "B09",
+  "text": "That's why most people outside Africa",
+  "scene": "{GUY} surprised next to a world map, a big question mark",
+  "start": 589.86,
+  "end": 592.773
+ },
+ {
+  "n": 218,
+  "block": "B09",
+  "text": "carry about two percent Neanderthal DNA.",
+  "scene": "{GUY} shocked next to a Neanderthal smiling, a stone tablet with \"2\"",
+  "start": 592.773,
+  "end": 596.319
+ },
+ {
+  "n": 219,
+  "block": "B09",
+  "text": "And the Oxford team says that if apes kiss,",
+  "scene": "two {APE} kissing in a jungle, hearts, the word \"OXFORD\" above them",
+  "start": 596.319,
+  "end": 599.519
+ },
+ {
+  "n": 220,
+  "block": "B09",
+  "text": "Neanderthals likely did too.",
+  "scene": "a chalkboard, {APE} proud, a Neanderthal smiling with the word \"PROBABLY\" above him, {WOMAN} confused, {GUY} confused",
+  "start": 599.519,
+  "end": 602.119
+ },
+ {
+  "n": 221,
+  "block": "B09",
+  "text": "So that face by the fire?",
+  "scene": "{WOMAN} smiling by a campfire in the snow at night, a big question mark",
+  "start": 602.119,
+  "end": 604.329
+ },
+ {
+  "n": 222,
+  "block": "B09",
+  "text": "Maybe, just maybe, it wasn't even your species.",
+  "scene": "{CAVE} shocked and another {CAVE} happy, rubbing noses by the campfire in the snow at night, the word \"NEANDERTHAL\" above them",
+  "start": 604.329,
+  "end": 608.967
+ },
+ {
+  "n": 223,
+  "block": "B10",
+  "text": "Okay. Apes kiss. Neanderthals probably kissed.",
+  "scene": "{APE} proud and a Neanderthal smug in a jungle, hearts, sparkles",
+  "start": 608.967,
+  "end": 613.35
+ },
+ {
+  "n": 224,
+  "block": "B10",
+  "text": "Case closed, right? Not even close.",
+  "scene": "{SCI} shocked, hands on his head, the word \"CLOSED\" above him, a big red X, dramatic",
+  "start": 613.35,
+  "end": 616.422
+ },
+ {
+  "n": 225,
+  "block": "B10",
+  "text": "In twenty fifteen, anthropologist William Jankowiak",
+  "scene": "{SCI} thinking in a classroom, the word \"JANKOWIAK\" above him",
+  "start": 616.422,
+  "end": 620.348
+ },
+ {
+  "n": 226,
+  "block": "B10",
+  "text": "and two colleagues combed through records",
+  "scene": "three {SCI} smiling in the classroom, a stone tablet with \"2015\"",
+  "start": 620.348,
+  "end": 623.56
+ },
+ {
+  "n": 227,
+  "block": "B10",
+  "text": "of one hundred sixty-eight cultures.",
+  "scene": "{SCI} thinking, pointing at a world map, a stone tablet with \"168\"",
+  "start": 623.56,
+  "end": 626.835
+ },
+ {
+  "n": 228,
+  "block": "B10",
+  "text": "One question: does this culture do",
+  "scene": "{SCI} pointing at a chalkboard, a big question mark",
+  "start": 626.835,
+  "end": 629.366
+ },
+ {
+  "n": 229,
+  "block": "B10",
+  "text": "romantic kissing on the lips?",
+  "scene": "a world map, hearts, a big question mark",
+  "start": 629.366,
+  "end": 631.983
+ },
+ {
+  "n": 230,
+  "block": "B10",
+  "text": "It was recorded in seventy-seven of them.",
+  "scene": "{SCI} pointing at a chalkboard, hearts, a stone tablet with \"77\"",
+  "start": 631.983,
+  "end": 635.433
+ },
+ {
+  "n": 231,
+  "block": "B10",
+  "text": "About forty-six percent. Fewer than half.",
+  "scene": "{GUY} shocked next to a world map, a stone tablet with \"46\", an exclamation mark",
+  "start": 635.433,
+  "end": 638.91
+ },
+ {
+  "n": 232,
+  "block": "B10",
+  "text": "It showed up in all ten",
+  "scene": "a world map with hearts, a stone tablet with \"10\"",
+  "start": 638.91,
+  "end": 640.771
+ },
+ {
+  "n": 233,
+  "block": "B10",
+  "text": "Middle Eastern cultures they sampled,",
+  "scene": "{SCI} smiling, pointing at a chalkboard in a classroom, hearts",
+  "start": 640.771,
+  "end": 643.597
+ },
+ {
+  "n": 234,
+  "block": "B10",
+  "text": "and most Asian and European ones.",
+  "scene": "a world map with hearts, sparkles",
+  "start": 643.597,
+  "end": 646.567
+ },
+ {
+  "n": 235,
+  "block": "B10",
+  "text": "But no ethnographer reported it",
+  "scene": "{SCI} confused in a lab, a big question mark",
+  "start": 646.567,
+  "end": 649.171
+ },
+ {
+  "n": 236,
+  "block": "B10",
+  "text": "among the Sub-Saharan African, New Guinean",
+  "scene": "{SCI} thinking, pointing at a world map, a question mark",
+  "start": 649.171,
+  "end": 652.593
+ },
+ {
+  "n": 237,
+  "block": "B10",
+  "text": "or Amazonian forager groups they studied.",
+  "scene": "{SCI} shrugging at a chalkboard, the word \"UNRECORDED\" above him",
+  "start": 652.593,
+  "end": 656.361
+ },
+ {
+  "n": 238,
+  "block": "B10",
+  "text": "Two caveats. 'Not recorded' isn't 'never happened':",
+  "scene": "{SCI} frowning at the chalkboard, the word \"NEVER\" above him, a big red X",
+  "start": 656.361,
+  "end": 660.269
+ },
+ {
+  "n": 239,
+  "block": "B10",
+  "text": "kissing is private, and one Oxford expert suspects",
+  "scene": "{SCI} thinking in a lab, hearts, the word \"DUNBAR\" above him",
+  "start": 660.269,
+  "end": 664.106
+ },
+ {
+  "n": 240,
+  "block": "B10",
+  "text": "the real number is higher.",
+  "scene": "{SCI} happy at a chalkboard, a stone tablet with \"46\", an exclamation mark",
+  "start": 664.106,
+  "end": 666.658
+ },
+ {
+  "n": 241,
+  "block": "B10",
+  "text": "And this is only romantic kissing,",
+  "scene": "a chalkboard, hearts, the word \"LIPS\" above it",
+  "start": 666.658,
+  "end": 669.227
+ },
+ {
+  "n": 242,
+  "block": "B10",
+  "text": "not parents kissing babies.",
+  "scene": "{SCI} smiling at the chalkboard, hearts, the word \"PARENTS\" above him",
+  "start": 669.227,
+  "end": 671.743
+ },
+ {
+  "n": 243,
+  "block": "B10",
+  "text": "And it's not 'primitive.'",
+  "scene": "{SCI} frowning in a lab, the word \"PRIMITIVE\" above him, a big red X",
+  "start": 671.743,
+  "end": 673.426
+ },
+ {
+  "n": 244,
+  "block": "B10",
+  "text": "Just a different way of showing love.",
+  "scene": "a world map covered in hearts, {GUY} smiling",
+  "start": 673.426,
+  "end": 676.224
+ },
+ {
+  "n": 245,
+  "block": "B10",
+  "text": "Hollywood says every love story",
+  "scene": "an actor smiling in a living room, sparkles, the word \"HOLLYWOOD\" above him",
+  "start": 676.224,
+  "end": 678.383
+ },
+ {
+  "n": 246,
+  "block": "B10",
+  "text": "ends with a kiss.",
+  "scene": "{GUY} happy on a couch in a living room, hearts and sparkles, the word \"KISS\" above him",
+  "start": 678.383,
+  "end": 680.099
+ },
+ {
+  "n": 247,
+  "block": "B10",
+  "text": "Hollywood never asked the rest of the world.",
+  "scene": "an actor confused next to a world map, a big question mark",
+  "start": 680.099,
+  "end": 683.289
+ },
+ {
+  "n": 248,
+  "block": "B10",
+  "text": "One early nineteen-hundreds account says",
+  "scene": "{SCI} thinking in a lab, a box, the word \"ACCOUNT\" above him",
+  "start": 683.289,
+  "end": 686.35
+ },
+ {
+  "n": 249,
+  "block": "B10",
+  "text": "when some villagers in southern Africa",
+  "scene": "{SCI} pointing at a world map, a question mark",
+  "start": 686.35,
+  "end": 689.273
+ },
+ {
+  "n": 250,
+  "block": "B10",
+  "text": "first saw Europeans kissing,",
+  "scene": "a couple kissing in a living room, hearts, a big question mark",
+  "start": 689.273,
+  "end": 691.499
+ },
+ {
+  "n": 251,
+  "block": "B10",
+  "text": "their reported verdict was:",
+  "scene": "{SCI} surprised in a lab, a box, an exclamation mark",
+  "start": 691.499,
+  "end": 693.657
+ },
+ {
+  "n": 252,
+  "block": "B10",
+  "text": "'They eat each other's saliva and dirt!'",
+  "scene": "a couple kissing in a living room, the word \"SALIVA\" above them, a big red X",
+  "start": 693.657,
+  "end": 696.718
+ },
+ {
+  "n": 253,
+  "block": "B10",
+  "text": "From the outside... fair point.",
+  "scene": "a chalkboard, {APE} proud, a Neanderthal smiling, {WOMAN} confused, {GUY} shrugging, a big red X",
+  "start": 696.718,
+  "end": 700.153
+ },
+ {
+  "n": 254,
+  "block": "B11",
+  "text": "So how can both be true?",
+  "scene": "{SCI} confused, hands on his head, at a chalkboard, a big question mark",
+  "start": 700.153,
+  "end": 702.421
+ },
+ {
+  "n": 255,
+  "block": "B11",
+  "text": "Even Charles Darwin noticed the gap.",
+  "scene": "{SCI} thinking like an old man in a lab, the word \"DARWIN\" above him",
+  "start": 702.421,
+  "end": 705.361
+ },
+ {
+  "n": 256,
+  "block": "B11",
+  "text": "In eighteen seventy-two, going on travelers' reports,",
+  "scene": "a timeline, a stone tablet with \"1872\", {SCI} pointing",
+  "start": 705.361,
+  "end": 709.164
+ },
+ {
+  "n": 257,
+  "block": "B11",
+  "text": "he wrote that some peoples didn't kiss",
+  "scene": "{SCI} thinking, pointing at a world map, a question mark",
+  "start": 709.164,
+  "end": 711.967
+ },
+ {
+  "n": 258,
+  "block": "B11",
+  "text": "and touched noses instead.",
+  "scene": "two {GUY} smiling, rubbing noses, a world map, hearts",
+  "start": 711.967,
+  "end": 714.388
+ },
+ {
+  "n": 259,
+  "block": "B11",
+  "text": "Those reports got plenty wrong.",
+  "scene": "{SCI} frowning next to a world map, a big red X",
+  "start": 714.388,
+  "end": 716.966
+ },
+ {
+  "n": 260,
+  "block": "B11",
+  "text": "But face-to-face greetings aren't a replacement for kissing.",
+  "scene": "{SCI} frowning, pointing at a chalkboard, a big red X, the word \"REPLACE\" above him",
+  "start": 716.966,
+  "end": 721.458
+ },
+ {
+  "n": 261,
+  "block": "B11",
+  "text": "They live right alongside it.",
+  "scene": "a couple kissing on the cheek in a living room, hearts, sparkles",
+  "start": 721.458,
+  "end": 723.716
+ },
+ {
+  "n": 262,
+  "block": "B11",
+  "text": "The Maori hongi: pressing noses and foreheads together.",
+  "scene": "{GUY} smiling and another {GUY} happy, rubbing noses, a world map, the word \"HONGI\" above them",
+  "start": 723.716,
+  "end": 728.142
+ },
+ {
+  "n": 263,
+  "block": "B11",
+  "text": "It's a greeting,",
+  "scene": "two {GUY} happy, smiling, a world map, the word \"HELLO\" above them",
+  "start": 728.142,
+  "end": 729.204
+ },
+ {
+  "n": 264,
+  "block": "B11",
+  "text": "and Maori kiss too.",
+  "scene": "a couple kissing on the cheek, a world map, hearts",
+  "start": 729.204,
+  "end": 730.845
+ },
+ {
+  "n": 265,
+  "block": "B11",
+  "text": "And the Inuit kunik.",
+  "scene": "a world map, the word \"KUNIK\" above it, sparkles",
+  "start": 730.845,
+  "end": 732.781
+ },
+ {
+  "n": 266,
+  "block": "B11",
+  "text": "Quick myth-bust: it's NOT rubbing noses",
+  "scene": "two {GUY} rubbing noses in a living room, a big red X, the word \"MYTH\" above them",
+  "start": 732.781,
+  "end": 735.648
+ },
+ {
+  "n": 267,
+  "block": "B11",
+  "text": "so your lips don't freeze together at minus forty.",
+  "scene": "{GUY} shocked, hands on his head, in the snow at night, the word \"FROZEN\" above him",
+  "start": 735.648,
+  "end": 739.669
+ },
+ {
+  "n": 268,
+  "block": "B11",
+  "text": "A kunik means pressing your nose and upper lip",
+  "scene": "{GUY} happy and a small {GUY} smiling, nose kiss on the cheek, hearts, a living room",
+  "start": 739.669,
+  "end": 742.972
+ },
+ {
+  "n": 269,
+  "block": "B11",
+  "text": "to a loved one's cheek or forehead",
+  "scene": "{SCI} smiling, pointing at a chalkboard, the word \"FOREHEAD\" above him",
+  "start": 742.972,
+  "end": 745.482
+ },
+ {
+  "n": 270,
+  "block": "B11",
+  "text": "and breathing in, mostly with family and little kids.",
+  "scene": "{GUY} proud with two small {GUY} smiling, hearts, a living room",
+  "start": 745.482,
+  "end": 749.668
+ },
+ {
+  "n": 271,
+  "block": "B11",
+  "text": "Basically a cuddle with a sniff.",
+  "scene": "{GUY} happy and a small {GUY} smiling on a couch, the word \"CUDDLE\" above them",
+  "start": 749.668,
+  "end": 752.253
+ },
+ {
+  "n": 272,
+  "block": "B11",
+  "text": "And yes, Inuit kiss on the lips too.",
+  "scene": "a couple kissing in a living room, hearts, sparkles",
+  "start": 752.253,
+  "end": 755.227
+ },
+ {
+  "n": 273,
+  "block": "B11",
+  "text": "One way to see it:",
+  "scene": "{SCI} thinking at a chalkboard, a light bulb above him",
+  "start": 755.227,
+  "end": 756.688
+ },
+ {
+  "n": 274,
+  "block": "B11",
+  "text": "evolution handed us a toolkit.",
+  "scene": "{SCI} proud in a lab, pointing at a box, the word \"TOOLKIT\" above him",
+  "start": 756.688,
+  "end": 759.364
+ },
+ {
+  "n": 275,
+  "block": "B11",
+  "text": "Lips, the grooming move, the sniff.",
+  "scene": "{WOMAN} happy and {CAVE} surprised, nose kiss on the cheek, by a campfire at night, the word \"SNIFF\" above them",
+  "start": 759.364,
+  "end": 761.854
+ },
+ {
+  "n": 276,
+  "block": "B11",
+  "text": "Culture decided which tool to grab.",
+  "scene": "{SCI} smiling, pointing at a world map, a light bulb above him",
+  "start": 761.854,
+  "end": 764.88
+ },
+ {
+  "n": 277,
+  "block": "B11",
+  "text": "Biology loaded the habit.",
+  "scene": "{APE} proud in a jungle, sparkles, the word \"BIOLOGY\" above him",
+  "start": 764.88,
+  "end": 767.455
+ },
+ {
+  "n": 278,
+  "block": "B11",
+  "text": "Culture flipped the switch.",
+  "scene": "{APE} happy, a Neanderthal happy and {GUY} thinking at a chalkboard, a light bulb, the word \"SWITCH\" above them",
+  "start": 767.455,
+  "end": 770.16
+ },
+ {
+  "n": 279,
+  "block": "B12",
+  "text": "So what does a kiss actually do to you?",
+  "scene": "{GUY} confused on a couch in a living room, a big question mark",
+  "start": 770.16,
+  "end": 773.091
+ },
+ {
+  "n": 280,
+  "block": "B12",
+  "text": "Start with the lips.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"LIPS\" above him",
+  "start": 773.091,
+  "end": 774.776
+ },
+ {
+  "n": 281,
+  "block": "B12",
+  "text": "They're packed with nerve endings",
+  "scene": "{SCI} proud in a lab with a microscope, sparkles",
+  "start": 774.776,
+  "end": 777.079
+ },
+ {
+  "n": 282,
+  "block": "B12",
+  "text": "and get a surprisingly big slice",
+  "scene": "{SCI} shocked, pointing, in a lab, an exclamation mark, the word \"BRAIN\" above him",
+  "start": 777.079,
+  "end": 779.32
+ },
+ {
+  "n": 283,
+  "block": "B12",
+  "text": "of your brain's touch map.",
+  "scene": "{SCI} thinking in a lab, the word \"TOUCH\" above him",
+  "start": 779.32,
+  "end": 781.607
+ },
+ {
+  "n": 284,
+  "block": "B12",
+  "text": "Built by brain space,",
+  "scene": "{SCI} thinking, pointing at a chalkboard, a light bulb above him",
+  "start": 781.607,
+  "end": 783.261
+ },
+ {
+  "n": 285,
+  "block": "B12",
+  "text": "you'd basically be a cartoon.",
+  "scene": "a small {GUY} shocked, hands on his head, the word \"CARTOON\" above him",
+  "start": 783.261,
+  "end": 785.863
+ },
+ {
+  "n": 286,
+  "block": "B12",
+  "text": "Which, on this channel... checks out.",
+  "scene": "{GUY} smug, shrugging in a living room, sparkles",
+  "start": 785.863,
+  "end": 788.591
+ },
+ {
+  "n": 287,
+  "block": "B12",
+  "text": "Why close your eyes?",
+  "scene": "a couple kissing, eyes closed, hearts, a living room",
+  "start": 788.591,
+  "end": 790.549
+ },
+ {
+  "n": 288,
+  "block": "B12",
+  "text": "One idea: busy eyes",
+  "scene": "{SCI} thinking in a lab, a light bulb above him",
+  "start": 790.549,
+  "end": 792.224
+ },
+ {
+  "n": 289,
+  "block": "B12",
+  "text": "leave less attention for touch.",
+  "scene": "{SCI} confused, pointing at a chalkboard, a question mark",
+  "start": 792.224,
+  "end": 795.194
+ },
+ {
+  "n": 290,
+  "block": "B12",
+  "text": "Eyes open is like streaming a movie",
+  "scene": "{GUY} wide awake on a couch, the word \"STREAMING\" above him",
+  "start": 795.194,
+  "end": 797.851
+ },
+ {
+  "n": 291,
+  "block": "B12",
+  "text": "while downloading a giant game update.",
+  "scene": "{GUY} angry, hands on his head, on a couch, the word \"LOADING\" above him",
+  "start": 797.851,
+  "end": 801.133
+ },
+ {
+  "n": 292,
+  "block": "B12",
+  "text": "Nobody's tested that on a kiss, though.",
+  "scene": "{SCI} shrugging in a lab, a big red X",
+  "start": 801.133,
+  "end": 804.049
+ },
+ {
+  "n": 293,
+  "block": "B12",
+  "text": "The head tilt: in two thousand three,",
+  "scene": "a timeline, a stone tablet with \"2003\", {SCI} proud",
+  "start": 804.049,
+  "end": 807.13
+ },
+ {
+  "n": 294,
+  "block": "B12",
+  "text": "biopsychologist Onur Gunturkun counted",
+  "scene": "{SCI} happy in a lab, the word \"GUNTURKUN\" above him",
+  "start": 807.13,
+  "end": 810.287
+ },
+ {
+  "n": 295,
+  "block": "B12",
+  "text": "one hundred twenty-four kissing couples",
+  "scene": "{SCI} smug, pointing at a couple kissing by the sea, hearts",
+  "start": 810.287,
+  "end": 813.519
+ },
+ {
+  "n": 296,
+  "block": "B12",
+  "text": "in public places in three countries.",
+  "scene": "a world map, a stone tablet with \"3\", hearts",
+  "start": 813.519,
+  "end": 816.945
+ },
+ {
+  "n": 297,
+  "block": "B12",
+  "text": "About two out of three tilted right,",
+  "scene": "a couple kissing, hearts, the word \"RIGHT\" above them, a living room",
+  "start": 816.945,
+  "end": 819.464
+ },
+ {
+  "n": 298,
+  "block": "B12",
+  "text": "which he suspects goes back",
+  "scene": "{SCI} thinking, a timeline, a light bulb above him",
+  "start": 819.464,
+  "end": 821.416
+ },
+ {
+  "n": 299,
+  "block": "B12",
+  "text": "to how babies turn their heads.",
+  "scene": "{GUY} smiling next to a small {GUY} happy, hearts, a living room",
+  "start": 821.416,
+  "end": 824.04
+ },
+ {
+  "n": 300,
+  "block": "B12",
+  "text": "Strangers' first kisses split closer to fifty-fifty.",
+  "scene": "{GUY} confused and another {GUY} confused, shrugging, a question mark, a living room",
+  "start": 824.04,
+  "end": 828.159
+ },
+ {
+  "n": 301,
+  "block": "B12",
+  "text": "And the famous 'love hormone flood'?",
+  "scene": "{GUY} happy on a couch, hearts and sparkles, the word \"HORMONE\" above him",
+  "start": 828.159,
+  "end": 830.809
+ },
+ {
+  "n": 302,
+  "block": "B12",
+  "text": "The small study usually cited",
+  "scene": "{SCI} thinking in a lab with a microscope, a question mark",
+  "start": 830.809,
+  "end": 833.26
+ },
+ {
+  "n": 303,
+  "block": "B12",
+  "text": "found oxytocin went up in men",
+  "scene": "{GUY} cheering, arms in the air, an exclamation mark, a lab",
+  "start": 833.26,
+  "end": 835.71
+ },
+ {
+  "n": 304,
+  "block": "B12",
+  "text": "and DOWN in women.",
+  "scene": "{SCI} shocked in the lab, the word \"DOWN\" above him",
+  "start": 835.71,
+  "end": 837.764
+ },
+ {
+  "n": 305,
+  "block": "B12",
+  "text": "It was only a conference talk, never fully published,",
+  "scene": "{SCI} shrugging at a chalkboard in a classroom, a big red X, the word \"TALK\" above him",
+  "start": 837.764,
+  "end": 841.593
+ },
+ {
+  "n": 306,
+  "block": "B12",
+  "text": "and many scientists think",
+  "scene": "three {SCI} thinking in a lab",
+  "start": 841.593,
+  "end": 843.541
+ },
+ {
+  "n": 307,
+  "block": "B12",
+  "text": "the 'love hormone' nickname is oversold.",
+  "scene": "{SCI} smug, pointing at a chalkboard, the word \"OVERSOLD\" above him",
+  "start": 843.541,
+  "end": 846.917
+ },
+ {
+  "n": 308,
+  "block": "B12",
+  "text": "Better PR agent than evidence.",
+  "scene": "{GUY} smug, sparkles, dramatic, the word \"HYPE\" above him",
+  "start": 846.917,
+  "end": 850.369
+ },
+ {
+  "n": 309,
+  "block": "B13",
+  "text": "Up close, a kiss may also be an inspection.",
+  "scene": "{SCI} smug in a lab with a microscope, the word \"INSPECTION\" above him",
+  "start": 850.369,
+  "end": 853.928
+ },
+ {
+  "n": 310,
+  "block": "B13",
+  "text": "In a famous nineteen ninety-five experiment,",
+  "scene": "a timeline, a stone tablet with \"1995\", {SCI} proud",
+  "start": 853.928,
+  "end": 857.192
+ },
+ {
+  "n": 311,
+  "block": "B13",
+  "text": "forty-nine women sniffed T-shirts",
+  "scene": "{SCI} disgusted in a lab next to a box, the word \"SNIFF\" above him",
+  "start": 857.192,
+  "end": 859.708
+ },
+ {
+  "n": 312,
+  "block": "B13",
+  "text": "that men had worn for two nights.",
+  "scene": "{GUY} smug and sweating in a bedroom at night, the word \"STINKY\" above him",
+  "start": 859.708,
+  "end": 862.643
+ },
+ {
+  "n": 313,
+  "block": "B13",
+  "text": "Peak romance.",
+  "scene": "{SCI} bored next to a box in a lab, sparkles",
+  "start": 862.643,
+  "end": 864.236
+ },
+ {
+  "n": 314,
+  "block": "B13",
+  "text": "Women generally preferred the smell of men",
+  "scene": "{SCI} happy, pointing at {GUY} smiling, hearts, a lab",
+  "start": 864.236,
+  "end": 867.049
+ },
+ {
+  "n": 315,
+  "block": "B13",
+  "text": "whose immune genes differed from their own.",
+  "scene": "{SCI} thinking in a lab with DNA, the word \"GENES\" above him",
+  "start": 867.049,
+  "end": 870.343
+ },
+ {
+  "n": 316,
+  "block": "B13",
+  "text": "Later results are mixed,",
+  "scene": "{SCI} confused and another {SCI} shrugging, a question mark",
+  "start": 870.343,
+  "end": 871.993
+ },
+ {
+  "n": 317,
+  "block": "B13",
+  "text": "and it didn't test kissing,",
+  "scene": "{SCI} frowning at a chalkboard, a big red X",
+  "start": 871.993,
+  "end": 873.821
+ },
+ {
+  "n": 318,
+  "block": "B13",
+  "text": "but your nose may notice things.",
+  "scene": "{GUY} thinking in a living room, the word \"NOSE\" above him",
+  "start": 873.821,
+  "end": 876.363
+ },
+ {
+  "n": 319,
+  "block": "B13",
+  "text": "An Oxford survey of nine hundred plus adults",
+  "scene": "{SCI} happy in a classroom, a stone tablet with \"900\"",
+  "start": 876.363,
+  "end": 879.562
+ },
+ {
+  "n": 320,
+  "block": "B13",
+  "text": "suggests people use kissing",
+  "scene": "a couple kissing, a question mark, a living room",
+  "start": 879.562,
+  "end": 881.628
+ },
+ {
+  "n": 321,
+  "block": "B13",
+  "text": "to help size up a new partner,",
+  "scene": "a couple thinking on a couch, the word \"TEST\" above them",
+  "start": 881.628,
+  "end": 883.894
+ },
+ {
+  "n": 322,
+  "block": "B13",
+  "text": "and couples who kiss more",
+  "scene": "a couple kissing on the cheek, hearts, sparkles, a living room",
+  "start": 883.894,
+  "end": 885.827
+ },
+ {
+  "n": 323,
+  "block": "B13",
+  "text": "tend to say they're happier.",
+  "scene": "a couple happy on a couch, hearts",
+  "start": 885.827,
+  "end": 888.38
+ },
+ {
+  "n": 324,
+  "block": "B13",
+  "text": "In one small experiment with fifty-two people,",
+  "scene": "{SCI} proud in a lab, a stone tablet with \"52\"",
+  "start": 888.38,
+  "end": 891.581
+ },
+ {
+  "n": 325,
+  "block": "B13",
+  "text": "those asked to kiss their partners more",
+  "scene": "{SCI} pointing at a couple kissing, hearts, a living room",
+  "start": 891.581,
+  "end": 894.334
+ },
+ {
+  "n": 326,
+  "block": "B13",
+  "text": "for six weeks ended up less stressed",
+  "scene": "a couple smiling on a couch, sparkles, a living room",
+  "start": 894.334,
+  "end": 896.896
+ },
+ {
+  "n": 327,
+  "block": "B13",
+  "text": "and more satisfied.",
+  "scene": "a couple cheering, arms in the air, hearts",
+  "start": 896.896,
+  "end": 898.788
+ },
+ {
+  "n": 328,
+  "block": "B13",
+  "text": "Then the microbes.",
+  "scene": "{SCI} shocked in a lab with a microscope, the word \"MICROBES\" above him",
+  "start": 898.788,
+  "end": 900.55
+ },
+ {
+  "n": 329,
+  "block": "B13",
+  "text": "Dutch scientists studied twenty-one couples",
+  "scene": "{SCI} proud, pointing at a couple smiling, a lab, the word \"MICROPIA\" above them",
+  "start": 900.55,
+  "end": 903.853
+ },
+ {
+  "n": 330,
+  "block": "B13",
+  "text": "and estimated that one long ten-second kiss",
+  "scene": "a couple kissing, hearts, a stone tablet with \"10\"",
+  "start": 903.853,
+  "end": 907.155
+ },
+ {
+  "n": 331,
+  "block": "B13",
+  "text": "on the lips can pass around eighty million bacteria.",
+  "scene": "{SCI} shocked, hands on his head, in a lab, a stone tablet with \"80000000\"",
+  "start": 907.155,
+  "end": 911.51
+ },
+ {
+  "n": 332,
+  "block": "B13",
+  "text": "Mostly harmless.",
+  "scene": "{SCI} smiling, shrugging in a lab, the word \"HARMLESS\" above him",
+  "start": 911.51,
+  "end": 913.391
+ },
+ {
+  "n": 333,
+  "block": "B13",
+  "text": "Bonus: in seventy-four percent of couples,",
+  "scene": "{SCI} smug at a chalkboard, a stone tablet with \"74\"",
+  "start": 913.391,
+  "end": 916.451
+ },
+ {
+  "n": 334,
+  "block": "B13",
+  "text": "the man reported kissing more often",
+  "scene": "{GUY} proud, arms in the air, the word \"MORE\" above him",
+  "start": 916.451,
+  "end": 919.046
+ },
+ {
+  "n": 335,
+  "block": "B13",
+  "text": "than his partner did.",
+  "scene": "{GUY} smug, shrugging on a couch, a question mark",
+  "start": 919.046,
+  "end": 921.129
+ },
+ {
+  "n": 336,
+  "block": "B13",
+  "text": "Somebody's rounding up.",
+  "scene": "{SCI} frowning, pointing at {GUY} smug, a chalkboard",
+  "start": 921.129,
+  "end": 923.225
+ },
+ {
+  "n": 337,
+  "block": "B13",
+  "text": "So a kiss is a close-up:",
+  "scene": "{SCI} thinking in a lab with a microscope, a light bulb above him",
+  "start": 923.225,
+  "end": 925.236
+ },
+ {
+  "n": 338,
+  "block": "B13",
+  "text": "smell, taste, millions of swapped bacteria.",
+  "scene": "a couple kissing on the cheek, the word \"BACTERIA\" above them, sparkles",
+  "start": 925.236,
+  "end": 929.032
+ },
+ {
+  "n": 339,
+  "block": "B13",
+  "text": "Some scientists think that close-up",
+  "scene": "three {SCI} thinking at a chalkboard",
+  "start": 929.032,
+  "end": 931.328
+ },
+ {
+  "n": 340,
+  "block": "B13",
+  "text": "works like a tiny check on the other person.",
+  "scene": "{SCI} pointing at a chalkboard, a light bulb above him, sparkles",
+  "start": 931.328,
+  "end": 934.574
+ },
+ {
+  "n": 341,
+  "block": "B13",
+  "text": "So here's the flip:",
+  "scene": "{GUY} smug facing the viewer, one finger raised, a living room",
+  "start": 934.574,
+  "end": 935.858
+ },
+ {
+  "n": 342,
+  "block": "B13",
+  "text": "you think you're just kissing someone.",
+  "scene": "a couple kissing, hearts, sparkles, a living room",
+  "start": 935.858,
+  "end": 938.622
+ },
+ {
+  "n": 343,
+  "block": "B13",
+  "text": "Your body may think it's running a background check.",
+  "scene": "{SCI} smug, pointing at a couple kissing on the cheek, a lab, the word \"UNPROVEN\" above them, a question mark",
+  "start": 938.622,
+  "end": 942.655
+ },
+ {
+  "n": 344,
+  "block": "B14",
+  "text": "Nineteen seventy-nine.",
+  "scene": "a timeline, a stone tablet with \"1979\"",
+  "start": 942.655,
+  "end": 944.809
+ },
+ {
+  "n": 345,
+  "block": "B14",
+  "text": "A zoo in the Netherlands.",
+  "scene": "a world map, the word \"NETHERLANDS\" above it",
+  "start": 944.809,
+  "end": 946.912
+ },
+ {
+  "n": 346,
+  "block": "B14",
+  "text": "That year, Frans de Waal and a colleague",
+  "scene": "{SCI} happy and another {SCI} smiling in a jungle, the word \"ARNHEM\" above them",
+  "start": 946.912,
+  "end": 949.747
+ },
+ {
+  "n": 347,
+  "block": "B14",
+  "text": "published their observations",
+  "scene": "{SCI} proud, pointing at a chalkboard, the word \"NOTES\" above him",
+  "start": 949.747,
+  "end": 951.809
+ },
+ {
+  "n": 348,
+  "block": "B14",
+  "text": "of the chimps at Arnhem's Burgers' Zoo.",
+  "scene": "{APE} happy and another {APE} bored in a jungle, the word \"ZOO\" above them",
+  "start": 951.809,
+  "end": 955.0
+ },
+ {
+  "n": 349,
+  "block": "B14",
+  "text": "Soon after a fight,",
+  "scene": "{APE} angry and another {APE} angry, pointing, dramatic, an exclamation mark",
+  "start": 955.0,
+  "end": 956.487
+ },
+ {
+  "n": 350,
+  "block": "B14",
+  "text": "former opponents often sought each other out,",
+  "scene": "{APE} sad and another {APE} sad in a jungle, a question mark",
+  "start": 956.487,
+  "end": 959.656
+ },
+ {
+  "n": 351,
+  "block": "B14",
+  "text": "and the classic make-up move",
+  "scene": "{APE} happy and another {APE} smiling in the jungle, hearts",
+  "start": 959.656,
+  "end": 961.725
+ },
+ {
+  "n": 352,
+  "block": "B14",
+  "text": "was a kiss.",
+  "scene": "two {APE} kissing in a jungle, hearts",
+  "start": 961.725,
+  "end": 963.115
+ },
+ {
+  "n": 353,
+  "block": "B14",
+  "text": "De Waal later wrote that the opponents",
+  "scene": "{SCI} thinking in the jungle, a light bulb above him",
+  "start": 963.115,
+  "end": 965.728
+ },
+ {
+  "n": 354,
+  "block": "B14",
+  "text": "are 'attracted to each other like magnets.'",
+  "scene": "two {APE} kissing on the cheek, hearts, sparkles, the word \"MAGNETS\" above them",
+  "start": 965.728,
+  "end": 968.653
+ },
+ {
+  "n": 355,
+  "block": "B14",
+  "text": "They gave it a name: reconciliation.",
+  "scene": "{SCI} proud, pointing at a chalkboard, the word \"RECONCILIATION\" above him",
+  "start": 968.653,
+  "end": 971.562
+ },
+ {
+  "n": 356,
+  "block": "B14",
+  "text": "Chimps: fight, kiss, done.",
+  "scene": "{APE} smug and another {APE} happy, kiss on the cheek, the word \"DONE\" above them, a jungle",
+  "start": 971.562,
+  "end": 973.632
+ },
+ {
+  "n": 357,
+  "block": "B14",
+  "text": "Humans: fight, three days of silence,",
+  "scene": "a couple frowning on a couch in a living room, a stone tablet with \"3\"",
+  "start": 973.632,
+  "end": 976.141
+ },
+ {
+  "n": 358,
+  "block": "B14",
+  "text": "then a text that just says 'k'.",
+  "scene": "{GUY} smug, bored on a couch, the word \"TEXT\" above him",
+  "start": 976.141,
+  "end": 978.702
+ },
+ {
+  "n": 359,
+  "block": "B14",
+  "text": "So one of a kiss's oldest jobs",
+  "scene": "{SCI} thinking, a timeline, a light bulb above him",
+  "start": 978.702,
+  "end": 981.052
+ },
+ {
+  "n": 360,
+  "block": "B14",
+  "text": "may not be 'I love you.'",
+  "scene": "a couple kissing in a living room, hearts, a big red X",
+  "start": 981.052,
+  "end": 982.987
+ },
+ {
+  "n": 361,
+  "block": "B14",
+  "text": "It may be 'we're okay.'",
+  "scene": "two {APE} smiling in a jungle, kiss on the cheek, the word \"OKAY\" above them",
+  "start": 982.987,
+  "end": 984.853
+ },
+ {
+  "n": 362,
+  "block": "B14",
+  "text": "Humans kept that job.",
+  "scene": "a timeline, {APE} happy next to {GUY} happy, sparkles",
+  "start": 984.853,
+  "end": 987.001
+ },
+ {
+  "n": 363,
+  "block": "B14",
+  "text": "Medieval enemies often ended feuds",
+  "scene": "a knight angry and another knight angry at a castle, an exclamation mark",
+  "start": 987.001,
+  "end": 989.699
+ },
+ {
+  "n": 364,
+  "block": "B14",
+  "text": "with a formal kiss of peace.",
+  "scene": "two knights, kiss on the cheek, a medieval castle, hearts",
+  "start": 989.699,
+  "end": 992.39
+ },
+ {
+  "n": 365,
+  "block": "B14",
+  "text": "In Dutch, one everyday word for kiss,",
+  "scene": "a world map, the word \"ZOEN\" above it, hearts",
+  "start": 992.39,
+  "end": 995.183
+ },
+ {
+  "n": 366,
+  "block": "B14",
+  "text": "'zoen', first meant making peace",
+  "scene": "two knights smiling in a medieval village, sparkles",
+  "start": 995.183,
+  "end": 997.635
+ },
+ {
+  "n": 367,
+  "block": "B14",
+  "text": "after a feud,",
+  "scene": "two knights angry in a medieval village, a big red X",
+  "start": 997.635,
+  "end": 998.793
+ },
+ {
+  "n": 368,
+  "block": "B14",
+  "text": "probably thanks to that kiss of peace.",
+  "scene": "two knights kissing on the cheek in a medieval castle, sparkles, the word \"PEACE\" above them",
+  "start": 998.793,
+  "end": 1002.074
+ },
+ {
+  "n": 369,
+  "block": "B14",
+  "text": "You can still hear it in 'verzoening': reconciliation.",
+  "scene": "{SCI} smiling at a chalkboard, the word \"VERZOENING\" above him",
+  "start": 1002.074,
+  "end": 1006.246
+ },
+ {
+  "n": 370,
+  "block": "B14",
+  "text": "A whole language remembers.",
+  "scene": "a world map with hearts and sparkles",
+  "start": 1006.246,
+  "end": 1008.57
+ },
+ {
+  "n": 371,
+  "block": "B14",
+  "text": "And sometimes it's simply tender.",
+  "scene": "a small {GUY} asleep on a couch at night, Z letters",
+  "start": 1008.57,
+  "end": 1011.069
+ },
+ {
+  "n": 372,
+  "block": "B14",
+  "text": "In ancient India, a loving 'kiss'",
+  "scene": "a world map, the word \"INDIA\" above it, hearts",
+  "start": 1011.069,
+  "end": 1013.181
+ },
+ {
+  "n": 373,
+  "block": "B14",
+  "text": "could mean breathing in the scent",
+  "scene": "{SCI} smiling at a chalkboard, the word \"SCENT\" above him",
+  "start": 1013.181,
+  "end": 1015.293
+ },
+ {
+  "n": 374,
+  "block": "B14",
+  "text": "of a child's head.",
+  "scene": "{GUY} happy and a small {GUY} asleep, nose kiss on the cheek, the word \"SNIFF\" above them, a living room at night",
+  "start": 1015.293,
+  "end": 1016.969
+ },
+ {
+  "n": 375,
+  "block": "B14",
+  "text": "Lots of parents still do.",
+  "scene": "{GUY} smiling and a small {GUY} asleep, kiss on the cheek, by a fire at night, hearts",
+  "start": 1016.969,
+  "end": 1019.684
+ },
+ {
+  "n": 376,
+  "block": "B15",
+  "text": "And once humans started writing things down...",
+  "scene": "{SUMER} thinking in Mesopotamia, the word \"WRITING\" above him",
+  "start": 1019.684,
+  "end": 1022.911
+ },
+ {
+  "n": 377,
+  "block": "B15",
+  "text": "they started making rules.",
+  "scene": "{SUMER} smug, pointing in Mesopotamia, the word \"RULES\" above him",
+  "start": 1022.911,
+  "end": 1025.219
+ },
+ {
+  "n": 378,
+  "block": "B15",
+  "text": "Remember those Mesopotamian clay tablets?",
+  "scene": "{SUMER} proud, a stone tablet with \"4500\", Mesopotamia",
+  "start": 1025.219,
+  "end": 1028.703
+ },
+ {
+  "n": 379,
+  "block": "B15",
+  "text": "They show kissing as a normal part",
+  "scene": "{SUMER} and his wife kissing on the cheek in Mesopotamia, hearts",
+  "start": 1028.703,
+  "end": 1031.174
+ },
+ {
+  "n": 380,
+  "block": "B15",
+  "text": "of romance, family and friendship.",
+  "scene": "two {SUMER} happy, kiss on the cheek, Mesopotamia, sparkles",
+  "start": 1031.174,
+  "end": 1034.065
+ },
+ {
+  "n": 381,
+  "block": "B15",
+  "text": "A tablet from the city of Sippar,",
+  "scene": "{SUMER} proud in Mesopotamia, a clay jar, the word \"SIPPAR\" above him",
+  "start": 1034.065,
+  "end": 1036.618
+ },
+ {
+  "n": 382,
+  "block": "B15",
+  "text": "nearly four thousand years old,",
+  "scene": "a timeline, a stone tablet with \"4000\", sparkles",
+  "start": 1036.618,
+  "end": 1039.034
+ },
+ {
+  "n": 383,
+  "block": "B15",
+  "text": "describes a lover's embrace and kiss.",
+  "scene": "{SUMER} happy in Mesopotamia, hearts, the word \"LOVE\" above him",
+  "start": 1039.034,
+  "end": 1042.284
+ },
+ {
+  "n": 384,
+  "block": "B15",
+  "text": "The original love text:",
+  "scene": "{SUMER} proud next to a clay jar in Mesopotamia, hearts, the word \"MESSAGE\" above him",
+  "start": 1042.284,
+  "end": 1044.023
+ },
+ {
+  "n": 385,
+  "block": "B15",
+  "text": "pressed into wet clay,",
+  "scene": "{SUMER} thinking, pointing at a clay pot in Mesopotamia, the word \"CLAY\" above him",
+  "start": 1044.023,
+  "end": 1045.698
+ },
+ {
+  "n": 386,
+  "block": "B15",
+  "text": "then left in the sun to dry.",
+  "scene": "{SUMER} bored in the desert sun, the word \"SENDING\" above him",
+  "start": 1045.698,
+  "end": 1048.179
+ },
+ {
+  "n": 387,
+  "block": "B15",
+  "text": "And the rules?",
+  "scene": "{SUMER} frowning, pointing in Mesopotamia, a question mark",
+  "start": 1048.179,
+  "end": 1049.728
+ },
+ {
+  "n": 388,
+  "block": "B15",
+  "text": "Married couples: fine.",
+  "scene": "{SUMER} happy and his wife smiling in Mesopotamia, hearts, the word \"FINE\" above them",
+  "start": 1049.728,
+  "end": 1051.825
+ },
+ {
+  "n": 389,
+  "block": "B15",
+  "text": "Unmarried couples: a dangerous temptation.",
+  "scene": "{SUMER} shocked and {WOMAN} shocked in Mesopotamia, an exclamation mark",
+  "start": 1051.825,
+  "end": 1055.599
+ },
+ {
+  "n": 390,
+  "block": "B15",
+  "text": "And one belief warned:",
+  "scene": "{SUMER} terrified, hands on his head, in Mesopotamia, an exclamation mark",
+  "start": 1055.599,
+  "end": 1057.202
+ },
+ {
+  "n": 391,
+  "block": "B15",
+  "text": "kiss a certain kind of priestess",
+  "scene": "{SUMER} confused in Mesopotamia, the word \"FORBIDDEN\" above him",
+  "start": 1057.202,
+  "end": 1059.423
+ },
+ {
+  "n": 392,
+  "block": "B15",
+  "text": "who was strictly off-limits,",
+  "scene": "{SUMER} frowning in Mesopotamia, a big red X, the word \"NOPE\" above him",
+  "start": 1059.423,
+  "end": 1061.396
+ },
+ {
+  "n": 393,
+  "block": "B15",
+  "text": "and you'd lose the ability to speak.",
+  "scene": "{SUMER} shocked, mouth open, in Mesopotamia, a big question mark",
+  "start": 1061.396,
+  "end": 1064.283
+ },
+ {
+  "n": 394,
+  "block": "B15",
+  "text": "An ancient do-not-touch sign,",
+  "scene": "{GUY} smug, pointing at a big red X in a living room, an exclamation mark",
+  "start": 1064.283,
+  "end": 1066.445
+ },
+ {
+  "n": 395,
+  "block": "B15",
+  "text": "and the penalty was being muted.",
+  "scene": "{SUMER} sad in Mesopotamia, the word \"MUTED\" above him",
+  "start": 1066.445,
+  "end": 1069.223
+ },
+ {
+  "n": 396,
+  "block": "B15",
+  "text": "Later, before an Assyrian king,",
+  "scene": "{SUMER} king smug in a dark hall, sparkles",
+  "start": 1069.223,
+  "end": 1071.267
+ },
+ {
+  "n": 397,
+  "block": "B15",
+  "text": "you kissed the ground.",
+  "scene": "{SUMER} king smug, another {SUMER} terrified, hands on his head, a dark hall, the word \"GROUND\" above them",
+  "start": 1071.267,
+  "end": 1073.206
+ },
+ {
+  "n": 398,
+  "block": "B15",
+  "text": "In Persia, said the Greek historian Herodotus,",
+  "scene": "Herodotus proud between Greek marble columns, the word \"PERSIA\" above him",
+  "start": 1073.206,
+  "end": 1076.509
+ },
+ {
+  "n": 399,
+  "block": "B15",
+  "text": "equals kissed on the lips.",
+  "scene": "two Persians kissing in a dark hall, hearts",
+  "start": 1076.509,
+  "end": 1078.911
+ },
+ {
+  "n": 400,
+  "block": "B15",
+  "text": "Slightly lower: the cheek.",
+  "scene": "a Persian proud and a small Persian smiling, kiss on the cheek, a dark hall",
+  "start": 1078.911,
+  "end": 1081.054
+ },
+ {
+  "n": 401,
+  "block": "B15",
+  "text": "Much lower: bow to the floor.",
+  "scene": "a Persian smug, a small Persian sad, hands on his head, a dark hall, the word \"FLOOR\" above them",
+  "start": 1081.054,
+  "end": 1083.657
+ },
+ {
+  "n": 402,
+  "block": "B15",
+  "text": "Imagine guessing your rank wrong at a party.",
+  "scene": "{GUY} shocked, hands on his head, and another {GUY} angry in a living room, the word \"PARTY\" above them",
+  "start": 1083.657,
+  "end": 1086.841
+ },
+ {
+  "n": 403,
+  "block": "B15",
+  "text": "And in Egypt, Herodotus claimed,",
+  "scene": "Herodotus thinking, pointing at a pyramid, a question mark",
+  "start": 1086.841,
+  "end": 1089.383
+ },
+ {
+  "n": 404,
+  "block": "B15",
+  "text": "nobody would kiss a Greek on the mouth,",
+  "scene": "{EGYPT} disgusted, a soldier smiling, a big red X, a pyramid",
+  "start": 1089.383,
+  "end": 1092.419
+ },
+ {
+  "n": 405,
+  "block": "B15",
+  "text": "because Greeks killed and ate cows,",
+  "scene": "a soldier happy by a pyramid, the word \"COWS\" above him",
+  "start": 1092.419,
+  "end": 1095.172
+ },
+ {
+  "n": 406,
+  "block": "B15",
+  "text": "and Egyptians held cows sacred",
+  "scene": "{EGYPT} proud by a pyramid, sparkles, the word \"SACRED\" above him",
+  "start": 1095.172,
+  "end": 1097.573
+ },
+ {
+  "n": 407,
+  "block": "B15",
+  "text": "to the goddess Isis.",
+  "scene": "{EGYPT} happy in front of a pyramid, the word \"GODDESS\" above him",
+  "start": 1097.573,
+  "end": 1099.687
+ },
+ {
+  "n": 408,
+  "block": "B15",
+  "text": "It's not you.",
+  "scene": "{EGYPT} smug, shrugging, a soldier sad, a pyramid",
+  "start": 1099.687,
+  "end": 1101.225
+ },
+ {
+  "n": 409,
+  "block": "B15",
+  "text": "It's your dinner.",
+  "scene": "a soldier shocked, hands on his head, a clay pot, a big red X, a pyramid",
+  "start": 1101.225,
+  "end": 1103.298
+ },
+ {
+  "n": 410,
+  "block": "B16",
+  "text": "Then came the Romans.",
+  "scene": "a Roman proud in front of marble columns, sparkles",
+  "start": 1103.298,
+  "end": 1105.32
+ },
+ {
+  "n": 411,
+  "block": "B16",
+  "text": "And the Romans... overdid it.",
+  "scene": "three Romans cheering, arms in the air, marble columns, hearts",
+  "start": 1105.32,
+  "end": 1107.857
+ },
+ {
+  "n": 412,
+  "block": "B16",
+  "text": "In seventy BCE, Cicero described",
+  "scene": "a senator thinking in front of marble columns, a stone tablet with \"70\"",
+  "start": 1107.857,
+  "end": 1110.7
+ },
+ {
+  "n": 413,
+  "block": "B16",
+  "text": "a bronze Hercules in Sicily",
+  "scene": "a Roman smug standing between marble columns, the word \"HERCULES\" above him",
+  "start": 1110.7,
+  "end": 1113.148
+ },
+ {
+  "n": 414,
+  "block": "B16",
+  "text": "with its mouth and chin",
+  "scene": "a Roman confused between marble columns, the word \"CHIN\" above him, a question mark",
+  "start": 1113.148,
+  "end": 1115.279
+ },
+ {
+  "n": 415,
+  "block": "B16",
+  "text": "slightly worn by kisses.",
+  "scene": "a Roman happy and another Roman smiling, kiss on the cheek between marble columns, hearts, the word \"SMOOTH\" above them",
+  "start": 1115.279,
+  "end": 1117.91
+ },
+ {
+  "n": 416,
+  "block": "B16",
+  "text": "That's not devotion.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"DEVOTION\" above him, a big red X",
+  "start": 1117.91,
+  "end": 1119.788
+ },
+ {
+  "n": 417,
+  "block": "B16",
+  "text": "That's erosion.",
+  "scene": "{SCI} smug, pointing at a chalkboard, the word \"EROSION\" above him",
+  "start": 1119.788,
+  "end": 1121.456
+ },
+ {
+  "n": 418,
+  "block": "B16",
+  "text": "Around sixty BCE, the poet Catullus begged",
+  "scene": "a Roman sad, hands on his head, marble columns, a stone tablet with \"60\"",
+  "start": 1121.456,
+  "end": 1124.802
+ },
+ {
+  "n": 419,
+  "block": "B16",
+  "text": "for 'a thousand kisses, then a hundred,'",
+  "scene": "a Roman happy and his girlfriend smiling, kiss on the cheek, marble columns, a stone tablet with \"1000\"",
+  "start": 1124.802,
+  "end": 1128.002
+ },
+ {
+  "n": 420,
+  "block": "B16",
+  "text": "then planned to scramble the count",
+  "scene": "a Roman smug, shrugging, a stone tablet with \"1100\", a big question mark",
+  "start": 1128.002,
+  "end": 1130.765
+ },
+ {
+  "n": 421,
+  "block": "B16",
+  "text": "so no jealous neighbor could jinx them.",
+  "scene": "a Roman angry, frowning behind marble columns, the word \"JEALOUS\" above him",
+  "start": 1130.765,
+  "end": 1134.313
+ },
+ {
+  "n": 422,
+  "block": "B16",
+  "text": "History's first guy",
+  "scene": "{GUY} smug on a couch in a living room, sparkles",
+  "start": 1134.313,
+  "end": 1135.57
+ },
+ {
+  "n": 423,
+  "block": "B16",
+  "text": "hiding his stats from the haters.",
+  "scene": "{GUY} smug, pointing, the word \"HATERS\" above him, a big red X",
+  "start": 1135.57,
+  "end": 1138.012
+ },
+ {
+  "n": 424,
+  "block": "B16",
+  "text": "Then Emperor Tiberius,",
+  "scene": "an emperor angry in front of marble columns, dramatic",
+  "start": 1138.012,
+  "end": 1139.937
+ },
+ {
+  "n": 425,
+  "block": "B16",
+  "text": "who ruled from fourteen to thirty-seven CE,",
+  "scene": "a timeline, an emperor proud, a stone tablet with \"14\"",
+  "start": 1139.937,
+  "end": 1143.417
+ },
+ {
+  "n": 426,
+  "block": "B16",
+  "text": "issued an edict banning everyday kissing.",
+  "scene": "an emperor angry, pointing between marble columns, the word \"NO KISSING\" above him, a big red X",
+  "start": 1143.417,
+  "end": 1147.169
+ },
+ {
+  "n": 427,
+  "block": "B16",
+  "text": "Why? The sources don't say.",
+  "scene": "an emperor smug, shrugging between marble columns, a big question mark",
+  "start": 1147.169,
+  "end": 1149.562
+ },
+ {
+  "n": 428,
+  "block": "B16",
+  "text": "Decades later, a Roman writer",
+  "scene": "a senator thinking, a timeline, the word \"PLINY\" above him",
+  "start": 1149.562,
+  "end": 1151.931
+ },
+ {
+  "n": 429,
+  "block": "B16",
+  "text": "described a nasty 'chin disease,' mentagra,",
+  "scene": "a senator shocked, hands on his head, the word \"MENTAGRA\" above him",
+  "start": 1151.931,
+  "end": 1155.305
+ },
+ {
+  "n": 430,
+  "block": "B16",
+  "text": "that spread through Rome's upper class around then,",
+  "scene": "three senators sad between marble columns, the word \"CHIN\" above them",
+  "start": 1155.305,
+  "end": 1159.253
+ },
+ {
+  "n": 431,
+  "block": "B16",
+  "text": "passed along by greeting kisses.",
+  "scene": "a senator and another senator, kiss on the cheek, marble columns, the word \"GERMS\" above them",
+  "start": 1159.253,
+  "end": 1162.258
+ },
+ {
+  "n": 432,
+  "block": "B16",
+  "text": "Some modern historians connect the two.",
+  "scene": "{SCI} thinking, pointing at a chalkboard, a light bulb",
+  "start": 1162.258,
+  "end": 1165.258
+ },
+ {
+  "n": 433,
+  "block": "B16",
+  "text": "No ancient writer does.",
+  "scene": "a senator shrugging between marble columns, a big red X",
+  "start": 1165.258,
+  "end": 1167.532
+ },
+ {
+  "n": 434,
+  "block": "B16",
+  "text": "Ancient Rome: an emperor's kissing ban.",
+  "scene": "an emperor frowning between marble columns, the word \"BANNED\" above him",
+  "start": 1167.532,
+  "end": 1170.859
+ },
+ {
+  "n": 435,
+  "block": "B16",
+  "text": "Modern version: the office email",
+  "scene": "{GUY} bored on a couch in a living room, a box, the word \"EMAIL\" above him",
+  "start": 1170.859,
+  "end": 1173.356
+ },
+ {
+  "n": 436,
+  "block": "B16",
+  "text": "about not sharing mugs during flu season.",
+  "scene": "{GUY} disgusted, a clay pot, the word \"MUGS\" above him, a big red X",
+  "start": 1173.356,
+  "end": 1176.896
+ },
+ {
+  "n": 437,
+  "block": "B16",
+  "text": "Did it work?",
+  "scene": "{SCI} confused in a lab, a big question mark",
+  "start": 1176.896,
+  "end": 1178.327
+ },
+ {
+  "n": 438,
+  "block": "B16",
+  "text": "About sixty years after Tiberius died,",
+  "scene": "a timeline, a stone tablet with \"96\", a question mark",
+  "start": 1178.327,
+  "end": 1181.171
+ },
+ {
+  "n": 439,
+  "block": "B16",
+  "text": "the poet Martial was still complaining",
+  "scene": "a Roman angry, hands on his head, marble columns",
+  "start": 1181.171,
+  "end": 1184.014
+ },
+ {
+  "n": 440,
+  "block": "B16",
+  "text": "there was 'no escaping the kissers' in Rome.",
+  "scene": "three Romans smiling, another Roman terrified, hearts, marble columns",
+  "start": 1184.014,
+  "end": 1187.685
+ },
+ {
+  "n": 441,
+  "block": "B16",
+  "text": "People kissed you hello even with a fever.",
+  "scene": "a Roman sleepy and another Roman happy, kiss on the cheek, the word \"FEVER\" above them",
+  "start": 1187.685,
+  "end": 1190.797
+ },
+ {
+  "n": 442,
+  "block": "B16",
+  "text": "So: no.",
+  "scene": "an emperor sad, crying between marble columns, a big red X",
+  "start": 1190.797,
+  "end": 1192.783
+ },
+ {
+  "n": 443,
+  "block": "B17",
+  "text": "Fast forward.",
+  "scene": "a timeline, sparkles, an exclamation mark",
+  "start": 1192.783,
+  "end": 1194.382
+ },
+ {
+  "n": 444,
+  "block": "B17",
+  "text": "The kiss meets two new enemies:",
+  "scene": "{GUY} terrified and his girlfriend shocked, hearts, dramatic",
+  "start": 1194.382,
+  "end": 1196.714
+ },
+ {
+  "n": 445,
+  "block": "B17",
+  "text": "germs and cameras.",
+  "scene": "{SCI} frowning at a microscope in a lab, the word \"GERMS\" above him",
+  "start": 1196.714,
+  "end": 1198.6
+ },
+ {
+  "n": 446,
+  "block": "B17",
+  "text": "Victorian times:",
+  "scene": "a couple smiling on a couch in a living room, sparkles",
+  "start": 1198.6,
+  "end": 1199.943
+ },
+ {
+  "n": 447,
+  "block": "B17",
+  "text": "public kissing was considered vulgar,",
+  "scene": "a grandmother disgusted, pointing at a couple, a big red X",
+  "start": 1199.943,
+  "end": 1202.697
+ },
+ {
+  "n": 448,
+  "block": "B17",
+  "text": "and courting couples had a chaperone watching.",
+  "scene": "a couple smiling on a couch in a living room, a grandmother frowning, the word \"CHAPERONE\" above her",
+  "start": 1202.697,
+  "end": 1206.476
+ },
+ {
+  "n": 449,
+  "block": "B17",
+  "text": "Eighteen ninety-six.",
+  "scene": "a timeline, a stone tablet with \"1896\"",
+  "start": 1206.476,
+  "end": 1208.401
+ },
+ {
+  "n": 450,
+  "block": "B17",
+  "text": "Edison's studio films 'The Kiss.'",
+  "scene": "an actor proud in a dark hall, sparkles, the word \"EDISON\" above him",
+  "start": 1208.401,
+  "end": 1210.926
+ },
+ {
+  "n": 451,
+  "block": "B17",
+  "text": "About eighteen seconds",
+  "scene": "an actor and an actress, kiss on the cheek, a stone tablet with \"18\", dark hall",
+  "start": 1210.926,
+  "end": 1212.701
+ },
+ {
+  "n": 452,
+  "block": "B17",
+  "text": "of two actors re-creating",
+  "scene": "an actor smiling and an actress happy, kiss on the cheek, hearts, dark hall",
+  "start": 1212.701,
+  "end": 1214.68
+ },
+ {
+  "n": 453,
+  "block": "B17",
+  "text": "a stage musical's final kiss.",
+  "scene": "an actress smiling, arms in the air, the word \"MUSICAL\" above her, sparkles",
+  "start": 1214.68,
+  "end": 1217.352
+ },
+ {
+  "n": 454,
+  "block": "B17",
+  "text": "One critic called it 'absolutely disgusting,'",
+  "scene": "{GUY} disgusted, pointing, the word \"DISGUSTING\" above him, dramatic",
+  "start": 1217.352,
+  "end": 1220.328
+ },
+ {
+  "n": 455,
+  "block": "B17",
+  "text": "and there were calls for censorship.",
+  "scene": "three {GUY} angry, pointing, a big red X, dramatic",
+  "start": 1220.328,
+  "end": 1223.177
+ },
+ {
+  "n": 456,
+  "block": "B17",
+  "text": "Some historians think Edison's own publicity",
+  "scene": "{SCI} thinking at a chalkboard, the word \"PUBLICITY\" above him",
+  "start": 1223.177,
+  "end": 1226.412
+ },
+ {
+  "n": 457,
+  "block": "B17",
+  "text": "fed the scandal.",
+  "scene": "an actor smug, shrugging in a dark hall, an exclamation mark",
+  "start": 1226.412,
+  "end": 1228.18
+ },
+ {
+  "n": 458,
+  "block": "B17",
+  "text": "Today it'd be a toothpaste ad.",
+  "scene": "{GUY} smiling on a couch in a living room, sparkles, the word \"TOOTHPASTE\" above him",
+  "start": 1228.18,
+  "end": 1230.763
+ },
+ {
+  "n": 459,
+  "block": "B17",
+  "text": "Meanwhile, English courts, for centuries,",
+  "scene": "a timeline, three {GUY} bored in a row, the word \"COURT\" above them",
+  "start": 1230.763,
+  "end": 1233.759
+ },
+ {
+  "n": 460,
+  "block": "B17",
+  "text": "had witness after witness kiss the same Bible.",
+  "scene": "{GUY} confused in a dark hall, a box, the word \"BIBLE\" above him",
+  "start": 1233.759,
+  "end": 1237.507
+ },
+ {
+  "n": 461,
+  "block": "B17",
+  "text": "Then, amid germ worries,",
+  "scene": "{SCI} shocked at a microscope in a lab, the word \"GERMS\" above him",
+  "start": 1237.507,
+  "end": 1239.596
+ },
+ {
+  "n": 462,
+  "block": "B17",
+  "text": "a nineteen oh-nine law",
+  "scene": "a timeline, a stone tablet with \"1909\"",
+  "start": 1239.596,
+  "end": 1241.536
+ },
+ {
+  "n": 463,
+  "block": "B17",
+  "text": "made the raised-hand version standard:",
+  "scene": "{GUY} proud, arms in the air in a dark hall, a box",
+  "start": 1241.536,
+  "end": 1244.67
+ },
+ {
+  "n": 464,
+  "block": "B17",
+  "text": "no kiss, just hold the Bible up and swear.",
+  "scene": "{GUY} smiling, arms in the air in a dark hall, a box, the word \"OATH\" above him, sparkles",
+  "start": 1244.67,
+  "end": 1248.523
+ },
+ {
+  "n": 465,
+  "block": "B17",
+  "text": "Nineteen fourteen.",
+  "scene": "a timeline, a stone tablet with \"1914\"",
+  "start": 1248.523,
+  "end": 1250.389
+ },
+ {
+  "n": 466,
+  "block": "B17",
+  "text": "Some people in an English town",
+  "scene": "three {GUY} shocked in a village, an exclamation mark",
+  "start": 1250.389,
+  "end": 1252.681
+ },
+ {
+  "n": 467,
+  "block": "B17",
+  "text": "found a marble statue of a kiss",
+  "scene": "{GUY} disgusted, pointing at a box in a dark hall, hearts",
+  "start": 1252.681,
+  "end": 1255.04
+ },
+ {
+  "n": 468,
+  "block": "B17",
+  "text": "so scandalous it got draped with a sheet.",
+  "scene": "a box in a dark hall, the word \"SHEET\" above it, a big red X",
+  "start": 1255.04,
+  "end": 1258.494
+ },
+ {
+  "n": 469,
+  "block": "B17",
+  "text": "A statue had to wear a blanket.",
+  "scene": "{GUY} confused, shrugging next to a box, the word \"BLANKET\" above it",
+  "start": 1258.494,
+  "end": 1260.842
+ },
+ {
+  "n": 470,
+  "block": "B17",
+  "text": "Hollywood's own rules",
+  "scene": "an actor smug in a dark hall, the word \"RULES\" above him",
+  "start": 1260.842,
+  "end": 1262.383
+ },
+ {
+  "n": 471,
+  "block": "B17",
+  "text": "banned 'excessive' kisses for decades.",
+  "scene": "{GUY} frowning, pointing at a chalkboard, the word \"EXCESSIVE\" above him, a big red X",
+  "start": 1262.383,
+  "end": 1265.391
+ },
+ {
+  "n": 472,
+  "block": "B17",
+  "text": "So in nineteen forty-six's Notorious,",
+  "scene": "an actor and an actress smiling in a dark hall, a stone tablet with \"1946\"",
+  "start": 1265.391,
+  "end": 1268.189
+ },
+ {
+  "n": 473,
+  "block": "B17",
+  "text": "Alfred Hitchcock filmed a kiss scene",
+  "scene": "{GUY} smug, pointing, the word \"HITCHCOCK\" above him, dark hall",
+  "start": 1268.189,
+  "end": 1270.918
+ },
+ {
+  "n": 474,
+  "block": "B17",
+  "text": "of about two and a half minutes,",
+  "scene": "an actor and an actress, kiss on the cheek, a stone tablet with \"2:30\", hearts",
+  "start": 1270.918,
+  "end": 1273.375
+ },
+ {
+  "n": 475,
+  "block": "B17",
+  "text": "chopped into little kisses with pauses between.",
+  "scene": "an actor happy and an actress smiling, hearts, the word \"PAUSE\" above them",
+  "start": 1273.375,
+  "end": 1277.275
+ },
+ {
+  "n": 476,
+  "block": "B17",
+  "text": "In twenty thirteen, a Thai couple",
+  "scene": "{GUY} happy and his girlfriend smiling next to a world map, a stone tablet with \"2013\"",
+  "start": 1277.275,
+  "end": 1279.712
+ },
+ {
+  "n": 477,
+  "block": "B17",
+  "text": "kissed for fifty-eight hours,",
+  "scene": "{GUY} and his girlfriend kissing, a stone tablet with \"58\", hearts",
+  "start": 1279.712,
+  "end": 1281.885
+ },
+ {
+  "n": 478,
+  "block": "B17",
+  "text": "thirty-five minutes and fifty-eight seconds.",
+  "scene": "{GUY} sleepy and his girlfriend sleepy, kissing, Z letters, a stone tablet with \"58:35:58\"",
+  "start": 1281.885,
+  "end": 1285.466
+ },
+ {
+  "n": 479,
+  "block": "B17",
+  "text": "Then the record book retired the category",
+  "scene": "{SCI} shrugging in a lab, a box, the word \"RETIRED\" above him",
+  "start": 1285.466,
+  "end": 1288.287
+ },
+ {
+  "n": 480,
+  "block": "B17",
+  "text": "for safety.",
+  "scene": "{SCI} frowning, a big red X, the word \"SAFETY\" above him",
+  "start": 1288.287,
+  "end": 1289.647
+ },
+ {
+  "n": 481,
+  "block": "B17",
+  "text": "The Romans kissed to say hello.",
+  "scene": "a Roman happy and another Roman smiling, kiss on the cheek between marble columns, hearts",
+  "start": 1289.647,
+  "end": 1292.083
+ },
+ {
+  "n": 482,
+  "block": "B17",
+  "text": "These two kissed for a prize.",
+  "scene": "{GUY} proud and his girlfriend proud, arms in the air next to a world map, sparkles, the word \"PRIZE\" above them",
+  "start": 1292.083,
+  "end": 1294.998
+ },
+ {
+  "n": 483,
+  "block": "B18",
+  "text": "One question still bugs scientists.",
+  "scene": "{SCI} confused in a lab, a big question mark",
+  "start": 1294.998,
+  "end": 1297.856
+ },
+ {
+  "n": 484,
+  "block": "B18",
+  "text": "Remember Brindle's 'evolutionary conundrum'?",
+  "scene": "{SCI} thinking at a chalkboard, the word \"CONUNDRUM\" above him",
+  "start": 1297.856,
+  "end": 1301.439
+ },
+ {
+  "n": 485,
+  "block": "B18",
+  "text": "Kissing can spread germs",
+  "scene": "{GUY} and his girlfriend, kiss on the cheek, the word \"GERMS\" above them",
+  "start": 1301.439,
+  "end": 1303.227
+ },
+ {
+  "n": 486,
+  "block": "B18",
+  "text": "with no obvious survival payoff.",
+  "scene": "{SCI} shrugging in a lab, a big red X",
+  "start": 1303.227,
+  "end": 1305.946
+ },
+ {
+  "n": 487,
+  "block": "B18",
+  "text": "Mono is nicknamed 'the kissing disease'",
+  "scene": "{GUY} sleepy on a couch in a living room, the word \"MONO\" above him",
+  "start": 1305.946,
+  "end": 1308.676
+ },
+ {
+  "n": 488,
+  "block": "B18",
+  "text": "because its virus spreads through saliva.",
+  "scene": "{SCI} pointing at a microscope, the word \"SALIVA\" above him",
+  "start": 1308.676,
+  "end": 1311.954
+ },
+ {
+  "n": 489,
+  "block": "B18",
+  "text": "But you can also catch that virus",
+  "scene": "{SCI} surprised at the microscope, an exclamation mark",
+  "start": 1311.954,
+  "end": 1314.361
+ },
+ {
+  "n": 490,
+  "block": "B18",
+  "text": "from a shared bottle or spoon,",
+  "scene": "two {GUY} smiling in a living room, a clay jar, the word \"SHARING\" above them",
+  "start": 1314.361,
+  "end": 1316.572
+ },
+ {
+  "n": 491,
+  "block": "B18",
+  "text": "and many people pick it up as kids,",
+  "scene": "two small {GUY} happy in a living room, the word \"VIRUS\" above them",
+  "start": 1316.572,
+  "end": 1319.109
+ },
+ {
+  "n": 492,
+  "block": "B18",
+  "text": "usually without getting sick.",
+  "scene": "a small {GUY} proud, arms in the air, sparkles",
+  "start": 1319.109,
+  "end": 1321.676
+ },
+ {
+  "n": 493,
+  "block": "B18",
+  "text": "About two-thirds of people under fifty",
+  "scene": "three {GUY} in a row next to a world map, a stone tablet with \"50\"",
+  "start": 1321.676,
+  "end": 1324.541
+ },
+ {
+  "n": 494,
+  "block": "B18",
+  "text": "carry the cold-sore virus,",
+  "scene": "{SCI} thinking at a microscope, the word \"COLD SORE\" above him",
+  "start": 1324.541,
+  "end": 1326.588
+ },
+ {
+  "n": 495,
+  "block": "B18",
+  "text": "usually picked up in childhood,",
+  "scene": "a small {GUY} confused in a living room, a question mark",
+  "start": 1326.588,
+  "end": 1328.976
+ },
+ {
+  "n": 496,
+  "block": "B18",
+  "text": "often from a family kiss.",
+  "scene": "a grandmother happy and a small {GUY} surprised, kiss on the cheek, hearts",
+  "start": 1328.976,
+  "end": 1331.375
+ },
+ {
+  "n": 497,
+  "block": "B18",
+  "text": "Ancient Mesopotamian doctors described",
+  "scene": "{SUMER} thinking in Mesopotamia, a clay jar",
+  "start": 1331.375,
+  "end": 1334.265
+ },
+ {
+  "n": 498,
+  "block": "B18",
+  "text": "a blistery mouth illness",
+  "scene": "{SUMER} sad, hands on his head, the word \"OUCH\" above him",
+  "start": 1334.265,
+  "end": 1336.191
+ },
+ {
+  "n": 499,
+  "block": "B18",
+  "text": "some researchers compare to cold sores.",
+  "scene": "{SCI} pointing at {SUMER} confused in Mesopotamia, a question mark",
+  "start": 1336.191,
+  "end": 1339.57
+ },
+ {
+  "n": 500,
+  "block": "B18",
+  "text": "Their explanation?",
+  "scene": "{SUMER} shrugging in Mesopotamia, a big question mark",
+  "start": 1339.57,
+  "end": 1341.324
+ },
+ {
+  "n": 501,
+  "block": "B18",
+  "text": "Gods and demons.",
+  "scene": "{SUMER} terrified, the word \"DEMONS\" above him, dramatic",
+  "start": 1341.324,
+  "end": 1343.211
+ },
+ {
+  "n": 502,
+  "block": "B18",
+  "text": "In fourteen thirty-nine, with disease spreading,",
+  "scene": "a knight sad in a medieval village, a stone tablet with \"1439\"",
+  "start": 1343.211,
+  "end": 1346.65
+ },
+ {
+  "n": 503,
+  "block": "B18",
+  "text": "England's Parliament politely asked King Henry the Sixth",
+  "scene": "three knights thinking in a castle, the word \"PARLIAMENT\" above them",
+  "start": 1346.65,
+  "end": 1350.618
+ },
+ {
+  "n": 504,
+  "block": "B18",
+  "text": "if people could skip the kiss",
+  "scene": "a knight confused in the castle, a big question mark",
+  "start": 1350.618,
+  "end": 1352.801
+ },
+ {
+  "n": 505,
+  "block": "B18",
+  "text": "in the loyalty ceremony.",
+  "scene": "a knight smiling in front of a castle, hearts, the word \"LOYALTY\" above him",
+  "start": 1352.801,
+  "end": 1355.072
+ },
+ {
+  "n": 506,
+  "block": "B18",
+  "text": "Not a ban.",
+  "scene": "{SCI} frowning, a big red X, the word \"BAN\" above him",
+  "start": 1355.072,
+  "end": 1356.483
+ },
+ {
+  "n": 507,
+  "block": "B18",
+  "text": "Translation: 'can we just wave?'",
+  "scene": "a knight smiling, arms in the air in a castle, the word \"WAVE\" above him",
+  "start": 1356.483,
+  "end": 1358.803
+ },
+ {
+  "n": 508,
+  "block": "B18",
+  "text": "Germs. Scandals. An emperor's ban.",
+  "scene": "an emperor angry, the word \"BANNED\" above him, dramatic",
+  "start": 1358.803,
+  "end": 1361.671
+ },
+ {
+  "n": 509,
+  "block": "B18",
+  "text": "The kiss survived it all.",
+  "scene": "{CAVE} and {WOMAN} kissing by a campfire in a cave, hearts, sparkles",
+  "start": 1361.671,
+  "end": 1363.737
+ },
+ {
+  "n": 510,
+  "block": "B18",
+  "text": "So why?",
+  "scene": "{SCI} confused, hands on his head, a giant question mark",
+  "start": 1363.737,
+  "end": 1365.647
+ },
+ {
+  "n": 511,
+  "block": "B19",
+  "text": "Science's best guess right now",
+  "scene": "{SCI} thinking in a lab, a light bulb above him",
+  "start": 1365.647,
+  "end": 1367.839
+ },
+ {
+  "n": 512,
+  "block": "B19",
+  "text": "is surprisingly simple.",
+  "scene": "{SCI} smiling at a chalkboard, sparkles",
+  "start": 1367.839,
+  "end": 1370.0
+ },
+ {
+  "n": 513,
+  "block": "B19",
+  "text": "Maybe the kiss survived",
+  "scene": "{CAVE} and {WOMAN} smiling by a campfire in a cave, hearts",
+  "start": 1370.0,
+  "end": 1371.708
+ },
+ {
+  "n": 514,
+  "block": "B19",
+  "text": "because it was never just one thing.",
+  "scene": "a chalkboard, {APE}, {CAVE} and {GUY} in a row, a question mark",
+  "start": 1371.708,
+  "end": 1374.659
+ },
+ {
+  "n": 515,
+  "block": "B19",
+  "text": "It may have started as 'I trust you,'",
+  "scene": "two {APE} smiling in a jungle, hearts, the word \"TRUST\" above them",
+  "start": 1374.659,
+  "end": 1377.279
+ },
+ {
+  "n": 516,
+  "block": "B19",
+  "text": "'I'll feed you'",
+  "scene": "{APE} happy and a small {APE} in the jungle, a clay pot, the word \"FEED\" above them",
+  "start": 1377.279,
+  "end": 1378.494
+ },
+ {
+  "n": 517,
+  "block": "B19",
+  "text": "or 'you smell like family.'",
+  "scene": "{WOMAN} happy, close to {CAVE} smiling in a cave, the word \"SNIFF\" above them",
+  "start": 1378.494,
+  "end": 1380.475
+ },
+ {
+  "n": 518,
+  "block": "B19",
+  "text": "Chimps use it to say 'we're okay.'",
+  "scene": "{APE} and another {APE}, kiss on the cheek in a jungle, hearts, the word \"OKAY\" above them",
+  "start": 1380.475,
+  "end": 1382.903
+ },
+ {
+  "n": 519,
+  "block": "B19",
+  "text": "Many people use it to ask",
+  "scene": "{GUY} thinking and his girlfriend smiling on a couch, a question mark",
+  "start": 1382.903,
+  "end": 1384.756
+ },
+ {
+  "n": 520,
+  "block": "B19",
+  "text": "'are we a good match?'",
+  "scene": "{GUY} and his girlfriend kissing in a living room, hearts, the word \"MATCH\" above them",
+  "start": 1384.756,
+  "end": 1386.418
+ },
+ {
+  "n": 521,
+  "block": "B19",
+  "text": "A kiss can also speak",
+  "scene": "{GUY} sad on a couch in a living room, a question mark",
+  "start": 1386.418,
+  "end": 1388.015
+ },
+ {
+  "n": 522,
+  "block": "B19",
+  "text": "when words aren't enough.",
+  "scene": "{GUY} sad, hands on his head, night, the moon",
+  "start": 1388.015,
+  "end": 1390.289
+ },
+ {
+  "n": 523,
+  "block": "B19",
+  "text": "Nearly three thousand years ago,",
+  "scene": "a timeline, a stone tablet with \"3000\"",
+  "start": 1390.289,
+  "end": 1392.835
+ },
+ {
+  "n": 524,
+  "block": "B19",
+  "text": "in Homer's Iliad,",
+  "scene": "a Roman thinking in front of Greek marble columns, the word \"ILIAD\" above him",
+  "start": 1392.835,
+  "end": 1394.32
+ },
+ {
+  "n": 525,
+  "block": "B19",
+  "text": "a grieving king, Priam,",
+  "scene": "a Roman crying in front of Greek marble columns, the word \"PRIAM\" above him",
+  "start": 1394.32,
+  "end": 1396.229
+ },
+ {
+  "n": 526,
+  "block": "B19",
+  "text": "kneels before Achilles,",
+  "scene": "a Roman sad and another Roman frowning, Greek marble columns, the word \"ACHILLES\" above them",
+  "start": 1396.229,
+  "end": 1398.139
+ },
+ {
+  "n": 527,
+  "block": "B19",
+  "text": "the warrior who killed his son,",
+  "scene": "a Roman frowning between Greek marble columns at night, the moon",
+  "start": 1398.139,
+  "end": 1400.614
+ },
+ {
+  "n": 528,
+  "block": "B19",
+  "text": "and kisses his hands",
+  "scene": "a Roman crying next to another Roman sad, Greek marble columns, the word \"PLEASE\" above them",
+  "start": 1400.614,
+  "end": 1402.311
+ },
+ {
+  "n": 529,
+  "block": "B19",
+  "text": "to beg for his son's body.",
+  "scene": "a Roman sad, crying in front of marble columns at night, the moon",
+  "start": 1402.311,
+  "end": 1404.853
+ },
+ {
+  "n": 530,
+  "block": "B19",
+  "text": "Not romance.",
+  "scene": "{SCI} sad in a lab, hearts, a big red X",
+  "start": 1404.853,
+  "end": 1406.522
+ },
+ {
+  "n": 531,
+  "block": "B19",
+  "text": "Not germs.",
+  "scene": "{SCI} at a microscope, the word \"GERMS\" above him, a big red X",
+  "start": 1406.522,
+  "end": 1408.121
+ },
+ {
+  "n": 532,
+  "block": "B19",
+  "text": "Just a father who lost his son.",
+  "scene": "a Roman crying alone in front of Greek marble columns at night",
+  "start": 1408.121,
+  "end": 1410.763
+ },
+ {
+  "n": 533,
+  "block": "B19",
+  "text": "So we probably didn't invent the kiss.",
+  "scene": "{SCI} smiling at a chalkboard, the word \"INVENTED\" above him, a big red X",
+  "start": 1410.763,
+  "end": 1413.799
+ },
+ {
+  "n": 534,
+  "block": "B19",
+  "text": "Most likely, we inherited it",
+  "scene": "a timeline, {APE}, {CAVE} and {GUY} in a row, hearts",
+  "start": 1413.799,
+  "end": 1415.842
+ },
+ {
+  "n": 535,
+  "block": "B19",
+  "text": "from that hairy ancestor in a tree.",
+  "scene": "{APE} smug in a nest in the jungle, hearts, sparkles",
+  "start": 1415.842,
+  "end": 1418.752
+ },
+ {
+  "n": 536,
+  "block": "B19",
+  "text": "Then we did what no ape ever did:",
+  "scene": "{APE} confused in the jungle, a big question mark",
+  "start": 1418.752,
+  "end": 1421.026
+ },
+ {
+  "n": 537,
+  "block": "B19",
+  "text": "wrote it on clay,",
+  "scene": "{SUMER} proud in Mesopotamia, a stone tablet with \"4500\"",
+  "start": 1421.026,
+  "end": 1422.317
+ },
+ {
+  "n": 538,
+  "block": "B19",
+  "text": "ranked it,",
+  "scene": "{SUMER} smug, pointing, the word \"RANK\" above him",
+  "start": 1422.317,
+  "end": 1423.178
+ },
+ {
+  "n": 539,
+  "block": "B19",
+  "text": "banned it,",
+  "scene": "an emperor angry between marble columns, a big red X",
+  "start": 1423.178,
+  "end": 1424.038
+ },
+ {
+  "n": 540,
+  "block": "B19",
+  "text": "filmed it,",
+  "scene": "an actor and an actress, kiss on the cheek, dark hall, sparkles",
+  "start": 1424.038,
+  "end": 1424.899
+ },
+ {
+  "n": 541,
+  "block": "B19",
+  "text": "and made it say 'I love you,'",
+  "scene": "{GUY} and his girlfriend kissing on a couch in a living room, hearts",
+  "start": 1424.899,
+  "end": 1426.928
+ },
+ {
+  "n": 542,
+  "block": "B19",
+  "text": "'welcome home'",
+  "scene": "a mother happy and a small {GUY} smiling, kiss on the cheek, living room",
+  "start": 1426.928,
+  "end": 1428.034
+ },
+ {
+  "n": 543,
+  "block": "B19",
+  "text": "and 'goodbye.'",
+  "scene": "a grandmother smiling and {GUY} sad, kiss on the cheek, night",
+  "start": 1428.034,
+  "end": 1429.141
+ },
+ {
+  "n": 544,
+  "block": "B19",
+  "text": "Maybe that's the real twist.",
+  "scene": "{SCI} shocked, hands on his head, an exclamation mark",
+  "start": 1429.141,
+  "end": 1431.528
+ },
+ {
+  "n": 545,
+  "block": "B19",
+  "text": "We think we're the ones",
+  "scene": "{GUY} proud, arms in the air, hearts",
+  "start": 1431.528,
+  "end": 1432.953
+ },
+ {
+  "n": 546,
+  "block": "B19",
+  "text": "who kept the kiss alive.",
+  "scene": "a timeline, {APE}, {CAVE} and {GUY} in a row, hearts, sparkles",
+  "start": 1432.953,
+  "end": 1434.85
+ },
+ {
+  "n": 547,
+  "block": "B19",
+  "text": "Maybe it's the other way around:",
+  "scene": "{SCI} thinking, a light bulb above him, a question mark",
+  "start": 1434.85,
+  "end": 1436.945
+ },
+ {
+  "n": 548,
+  "block": "B19",
+  "text": "the kiss helped keep us together.",
+  "scene": "{CAVE}, {WOMAN} and a baby smiling by a campfire in a cave, hearts",
+  "start": 1436.945,
+  "end": 1439.519
+ },
+ {
+  "n": 549,
+  "block": "B19",
+  "text": "Babies fed.",
+  "scene": "{APE} happy and a small {APE} smiling in a jungle, the word \"NOM\" above them",
+  "start": 1439.519,
+  "end": 1441.044
+ },
+ {
+  "n": 550,
+  "block": "B19",
+  "text": "Fights patched up.",
+  "scene": "{APE} and another {APE}, kiss on the cheek, hearts, the word \"SORRY\" above them",
+  "start": 1441.044,
+  "end": 1442.73
+ },
+ {
+  "n": 551,
+  "block": "B19",
+  "text": "Strangers turned into family.",
+  "scene": "{CAVE} smiling, another Neanderthal happy and {WOMAN} happy by a campfire in a cave, hearts, the word \"TOGETHER\" above them",
+  "start": 1442.73,
+  "end": 1445.77
+ },
+ {
+  "n": 552,
+  "block": "B20",
+  "text": "So let's go back to that fire.",
+  "scene": "a campfire in the snowy ice age at night, the moon",
+  "start": 1445.77,
+  "end": 1448.129
+ },
+ {
+  "n": 553,
+  "block": "B20",
+  "text": "Forty-five thousand years ago.",
+  "scene": "a timeline, a stone tablet with \"45000\"",
+  "start": 1448.129,
+  "end": 1450.772
+ },
+ {
+  "n": 554,
+  "block": "B20",
+  "text": "Still no toothbrushes.",
+  "scene": "{CAVE} smiling by a campfire in the snow at night, the word \"TOOTHBRUSH\" above him, a big red X",
+  "start": 1450.772,
+  "end": 1452.798
+ },
+ {
+  "n": 555,
+  "block": "B20",
+  "text": "That face, an inch from yours,",
+  "scene": "{WOMAN} smiling, face to face with {CAVE} shocked, a campfire in the snow at night",
+  "start": 1452.798,
+  "end": 1454.813
+ },
+ {
+  "n": 556,
+  "block": "B20",
+  "text": "sniffing your cheek.",
+  "scene": "{WOMAN} happy and {CAVE} confused rubbing noses by a campfire in the snow at night, the word \"SNIFF\" above them",
+  "start": 1454.813,
+  "end": 1456.655
+ },
+ {
+  "n": 557,
+  "block": "B20",
+  "text": "Was it a kiss?",
+  "scene": "{CAVE} confused by the campfire at night, a giant question mark",
+  "start": 1456.655,
+  "end": 1458.196
+ },
+ {
+  "n": 558,
+  "block": "B20",
+  "text": "By the rulebook...",
+  "scene": "{GUY} frowning, pointing, the word \"BOUNCER\" above him, dark hall",
+  "start": 1458.196,
+  "end": 1459.864
+ },
+ {
+  "n": 559,
+  "block": "B20",
+  "text": "not quite.",
+  "scene": "{GUY} frowning, shrugging, a big red X, dark hall",
+  "start": 1459.864,
+  "end": 1461.304
+ },
+ {
+  "n": 560,
+  "block": "B20",
+  "text": "But some scientists think",
+  "scene": "{SCI} thinking in a lab, a light bulb above him",
+  "start": 1461.304,
+  "end": 1463.005
+ },
+ {
+  "n": 561,
+  "block": "B20",
+  "text": "a sniff like that",
+  "scene": "{WOMAN} smiling by a campfire in the snow at night, the word \"SNIFF\" above her",
+  "start": 1463.005,
+  "end": 1464.237
+ },
+ {
+  "n": 562,
+  "block": "B20",
+  "text": "is how the kiss began.",
+  "scene": "{CAVE} and {WOMAN} rubbing noses by a campfire at night, hearts",
+  "start": 1464.237,
+  "end": 1466.182
+ },
+ {
+  "n": 563,
+  "block": "B20",
+  "text": "And if they lean in again?",
+  "scene": "{WOMAN} happy, close to {CAVE} surprised by the campfire at night, a question mark",
+  "start": 1466.182,
+  "end": 1468.321
+ },
+ {
+  "n": 564,
+  "block": "B20",
+  "text": "Maybe a kiss,",
+  "scene": "{CAVE} and {WOMAN}, kiss on the cheek by the campfire, hearts",
+  "start": 1468.321,
+  "end": 1469.457
+ },
+ {
+  "n": 565,
+  "block": "B20",
+  "text": "a habit probably twenty million years old.",
+  "scene": "two {APE} kissing in a nest in a jungle, a stone tablet with \"20000000\"",
+  "start": 1469.457,
+  "end": 1472.954
+ },
+ {
+  "n": 566,
+  "block": "B20",
+  "text": "Or they just pick a bug out of your hair.",
+  "scene": "{WOMAN} smiling, {CAVE} surprised by a campfire at night, the word \"BUG\" above him",
+  "start": 1472.954,
+  "end": 1475.798
+ },
+ {
+  "n": 567,
+  "block": "B20",
+  "text": "Either way, it probably means:",
+  "scene": "{CAVE} thinking by a campfire at night, a light bulb",
+  "start": 1475.798,
+  "end": 1477.76
+ },
+ {
+  "n": 568,
+  "block": "B20",
+  "text": "you're one of us.",
+  "scene": "a chalkboard with {APE} proud, a Neanderthal smiling, {WOMAN} happy and {GUY} smiling, the word \"VERDICT\" above them",
+  "start": 1477.76,
+  "end": 1479.391
+ },
+ {
+  "n": 569,
+  "block": "B20",
+  "text": "So next time you kiss someone goodnight,",
+  "scene": "{GUY} smiling in a bedroom at night, the moon, hearts",
+  "start": 1479.391,
+  "end": 1482.216
+ },
+ {
+  "n": 570,
+  "block": "B20",
+  "text": "your mom, your kid,",
+  "scene": "a mother happy and a small {GUY}, kiss on the cheek, bedroom",
+  "start": 1482.216,
+  "end": 1483.693
+ },
+ {
+  "n": 571,
+  "block": "B20",
+  "text": "your partner,",
+  "scene": "{GUY} and his girlfriend, kiss on the cheek on a couch, hearts",
+  "start": 1483.693,
+  "end": 1484.784
+ },
+ {
+  "n": 572,
+  "block": "B20",
+  "text": "even your dog,",
+  "scene": "{GUY} happy with a dog in a living room, hearts",
+  "start": 1484.784,
+  "end": 1485.94
+ },
+ {
+  "n": 573,
+  "block": "B20",
+  "text": "which, by that rulebook, doesn't count,",
+  "scene": "{SCI} smug next to a dog, a big red X",
+  "start": 1485.94,
+  "end": 1488.701
+ },
+ {
+  "n": 574,
+  "block": "B20",
+  "text": "remember: you're doing something older than writing,",
+  "scene": "a timeline, {SUMER} surprised, the word \"WRITING\" above him",
+  "start": 1488.701,
+  "end": 1492.296
+ },
+ {
+  "n": 575,
+  "block": "B20",
+  "text": "and probably older than our species.",
+  "scene": "a timeline, {APE}, {CAVE} and {GUY} in a row, hearts, sparkles",
+  "start": 1492.296,
+  "end": 1495.284
+ },
+ {
+  "n": 576,
+  "block": "B20",
+  "text": "One of the oldest ways there is",
+  "scene": "{CAVE} and {WOMAN} smiling by a campfire in the snow at night, hearts",
+  "start": 1495.284,
+  "end": 1497.55
+ },
+ {
+  "n": 577,
+  "block": "B20",
+  "text": "to say: we're okay.",
+  "scene": "{CAVE} happy and {WOMAN} happy, kiss on the cheek by a campfire at night, hearts, sparkles",
+  "start": 1497.55,
+  "end": 1500.039
+ }
+]
