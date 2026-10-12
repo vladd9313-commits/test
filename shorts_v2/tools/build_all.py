@@ -12,7 +12,8 @@ a = ap.parse_args()
 
 RELATED = {"cats": "Why Did Cats Choose Ancient Humans?",
            "alcohol": "How Ancient Humans Actually Discovered Alcohol?",
-           "sleep": "How Did Ancient Humans Sleep Without Getting Eaten?"}
+           "sleep": "How Did Ancient Humans Sleep Without Getting Eaten?",
+           "kiss": "Did Ancient Humans Actually Kiss?"}
 all_items = json.load(open(a.judged))
 items = [i for i in all_items if not a.only or i["slug"] in a.only.split(",")]
 os.makedirs(os.path.join(root, "scripts"), exist_ok=True)
