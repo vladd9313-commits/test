@@ -580,5 +580,189 @@
   },
   "problems": [],
   "words": 72
+ },
+ {
+  "slug": "kiss_nose_sn",
+  "video": "kiss",
+  "winner_index": 0,
+  "reasons": "Winner: candidate 1 (index 0).\n\nScores (a hook / b one topic and fact / c density / d loop / e faithfulness / f drawable / g format, out of 5):\n- C1: 5/4/4/5/4/5/5. The hook speaks straight to the viewer, keeps the \"may\" hedge and names the payoff (nose). The first frame already shows a kissing Egyptian couple under \"NOSE\". It covers both brief facts (sn with the nose sign, and honi). \"So next time you kiss, remember:\" runs straight into \"Your kiss may have started with your nose.\" Weak spots: \"Kiss and smell: one word, one nose.\" is a filler recap. The first scene has Egyptians rubbing noses, a visual claim the SOURCE never makes. The overlay \"YOUR KISS STARTED WITH A NOSE?\" drops the hedge. The \"'sn.'\" line break strands the word away from its sentence.\n- C2: 4/5/3/4/3/5/5. It has the most concrete hook image, but \"In Egypt\" sounds like modern Egypt. Line 2 just repeats line 1 (\"Ancient Egyptian wrote it with a little nose sign\"), and that sentence is ungrammatical. \"The biggest clue?\" adds a ranking the SOURCE does not make (\"Clues:\"). Honi is missing. Its overlay and its bridge line \"Why would a kiss need a nose?\" are the best parts.\n- C3: 2/4/3/2/2/5/5. \"You were told a kiss is about lips\" is a straw-man claim from outside the SOURCE, and the hook says nothing about the nose while the scene shows one. \"Ancient Egypt disagrees\" is editorializing. The loop \"Which is funny, because...\" makes no logical sense.\n\nFixes applied to C1 (minimal):\n1. Re-split lines 2-3 so that \"sn\" ends its own sentence: \"Ancient Egyptians had a word for kiss: 'sn.'\" / \"It also meant 'to smell.'\" This gives cleaner captions and keeps the same 13 words.\n2. Replaced the filler line \"Kiss and smell: one word, one nose.\" with C2's \"Why would a kiss need a nose?\". It is a real question that sets up Bryant's answer.\n3. Scene 1: \"rubbing noses\" became \"kiss on the cheek\", so the picture no longer suggests Egyptians nose-kissed (not in the SOURCE). The renderer draws it identically: a face-to-face pair with a heart, and no lips because \"NOSE\" is in the scene.\n4. Scene 4: added \"pointing\" so the Egyptian presents the nose sign. Scene 10: the word changed from \"SNIFF\" to \"KISS\" to land the punchline \"...or kiss\".\n5. title_overlay is now C2's \"KISS WRITTEN WITH A NOSE\". It states the one concrete, unhedged fact and no longer just repeats the hook.\n\nChecked against the brief:\n- 11 lines, 66 words, about 22.6 s at 175 wpm. Lines are 4-9 words and the hook has 8.\n- Line 1 does not start with And, So, Now or But. There is no call to action.\n- yt_title is 43 characters and yt_tags is 317 characters.\n- All 11 scenes were test-rendered with shorts_v2/tools/paint_frames.py on the 1080x1920 canvas:\n  - Characters are parsed as intended: EGYPT+WOMAN, EGYPT, SCI, CAVE+WOMAN, GUY, GUY+WOMAN.\n  - Settings are correct: egypt, classroom, cave, map, living room.\n  - Both kissing pairs are drawn face to face with a heart.",
+  "fact_check_notes": "Every narration line was checked against SOURCE B07 (script_part2.txt, lines 46-53).\n- \"Your kiss may have started with your nose\": the SOURCE gives the sniff only as \"Suspect number three\", a hypothesis. The hook keeps the \"may\" hedge.\n- \"Ancient Egyptians had a word for kiss: 'sn.' It also meant 'to smell.'\": SOURCE line 50-51, \"the ancient Egyptian word for kiss, 'sn,' also meant 'to smell'\".\n- \"And they wrote it with a little nose sign.\": SOURCE line 52, \"and was written with a little nose sign\".\n- \"Why would a kiss need a nose?\": a rhetorical question with no factual claim.\n- \"Anthropologist Vaughn Bryant thought / early humans may have recognized each other / by smell, up close.\": copied word for word from SOURCE lines 47-49. Both hedges (\"thought\", \"may have\") are kept.\n- \"In Hawaiian, 'honi' means / smell, sniff... or kiss.\": SOURCE line 53, \"'honi' means smell, sniff or kiss\". The ellipsis is only a pause.\n- \"So next time you kiss, remember:\": no claim; it is the bridge back to the hook.\n\nContent deliberately left out:\n- The B07 point about old Indian texts (\"some scholars say their 'kisses' read more like sniffing\") was not used, so the Short stays on one fact.\n- B11 hongi and kunik were not used either. They are greetings that exist alongside kissing, and B11 itself says they are not replacements for it.\n- No new numbers, names or facts were added.\n\nVisuals:\n- Scene 1 changed from Egyptians \"rubbing noses\" to \"kiss on the cheek\" under the word NOSE. The SOURCE never says Egyptians nose-kissed, only that the word was written with a nose sign. The cave nose-rub in scene 8 matches the SOURCE's own scene for Bryant's idea.\n\nMetadata:\n- The overlay \"KISS WRITTEN WITH A NOSE\" is a fair compression of \"written with a little nose sign\".\n- The description repeats SOURCE wording with the hedges intact (\"thought\", \"may have\").",
+  "final": {
+   "angle": "Direct 'you' hook with the hedge kept ('Your kiss may have started with your nose'). The first frame already shows the payoff: an Egyptian couple kissing under the word NOSE. It explains the Egyptian word 'sn' (kiss and smell, written with a little nose sign), asks why a kiss would need a nose, answers with Bryant's hedged smell idea, and backs it up with Hawaiian 'honi'. It ends on 'So next time you kiss, remember:', which runs straight back into the hook.",
+   "title_overlay": "KISS WRITTEN WITH A NOSE",
+   "lines": [
+    {
+     "text": "Your kiss may have started with your nose.",
+     "scene": "{EGYPT} smiling and his wife happy, kiss on the cheek in front of a pyramid, the word \"NOSE\" above them"
+    },
+    {
+     "text": "Ancient Egyptians had a word for kiss: 'sn.'",
+     "scene": "{EGYPT} thinking in front of a pyramid, the word \"KISS\" above him"
+    },
+    {
+     "text": "It also meant 'to smell.'",
+     "scene": "{EGYPT} shocked by a pyramid, an exclamation mark, the word \"SMELL\" above him"
+    },
+    {
+     "text": "And they wrote it with a little nose sign.",
+     "scene": "{EGYPT} proud, pointing, in Egypt, sparkles, the word \"NOSE\" above him"
+    },
+    {
+     "text": "Why would a kiss need a nose?",
+     "scene": "{SCI} confused, hands on his head, at a chalkboard, a big question mark"
+    },
+    {
+     "text": "Anthropologist Vaughn Bryant thought",
+     "scene": "{SCI} thinking at a chalkboard, the word \"BRYANT\" above him"
+    },
+    {
+     "text": "early humans may have recognized each other",
+     "scene": "{CAVE} confused and {WOMAN} smiling by a campfire in a cave"
+    },
+    {
+     "text": "by smell, up close.",
+     "scene": "{WOMAN} happy and {CAVE} smiling, rubbing noses in the cave, the word \"SNIFF\" above them"
+    },
+    {
+     "text": "In Hawaiian, 'honi' means",
+     "scene": "{GUY} shocked next to a world map, the word \"HONI\" above him"
+    },
+    {
+     "text": "smell, sniff... or kiss.",
+     "scene": "{GUY} happy next to a world map, hearts, the word \"KISS\" above him"
+    },
+    {
+     "text": "So next time you kiss, remember:",
+     "scene": "{GUY} smiling and his girlfriend happy, kiss on the cheek on a couch in a living room, hearts"
+    }
+   ],
+   "yt_title": "Your Kiss May Have Started With Your Nose 👃",
+   "yt_description": "The ancient Egyptian word for kiss, 'sn', also meant 'to smell' and was written with a little nose sign. One anthropologist thought early humans may have recognized each other by smell, up close.\nFull story: tap the video link on this Short.\n#shorts #ancientegypt #history",
+   "yt_tags": "ancient egypt, egyptian word for kiss, sn, nose sign, hieroglyphs, history of kissing, origin of kissing, first kiss, why do we kiss, sniff kiss, nose kiss, honi, hawaiian words, vaughn bryant, anthropology, ancient humans, early humans, human evolution, stick figure history, history shorts, ancient humans explained"
+  }
+ },
+ {
+  "slug": "kiss_tiberius_ban",
+  "video": "kiss",
+  "winner_index": 0,
+  "reasons": "I picked Candidate 1 (index 0) and grafted one line from Candidate 2.\n\nScores (out of 5):\n- Candidate 1: hook 5, topic 5, density 3, loop 5, facts 5, scenes 5, format 5.\n  - The hook \"Your hello kiss was once banned in Rome.\" is the only one spoken to the viewer, as the rules require. Its first frame shows the payoff: an angry emperor pointing at a kissing couple, with \"KISSING\" crossed out.\n  - The loop \"Kissing won. Which is wild, because / Your hello kiss was once banned in Rome.\" reads as one sentence.\n  - Weak spots: line 2 (\"You're in Rome, greeting a friend with a kiss.\") is a 9-word made-up scene with no fact in it. It also drops the source's \"upper class around then\" line, which is why historians link the disease to the ban.\n- Candidate 2: hook 4, topic 5, density 4, loop 4, facts 5, scenes 5, format 4.\n  - The hook \"This emperor banned kissing. Kissing won.\" is punchy and gives away the payoff. But it is not spoken to the viewer.\n  - \"Final score? Let's just say\" is filler, and the loop is weaker than Candidate 1's.\n  - Strengths: it keeps the upper-class line and the fever line.\n- Candidate 3: hook 2, topic 4, density 4, loop 3, facts 3, scenes 5, format 4.\n  - The hook \"Germs got kissing banned in Rome? Says who?\" knocks down a claim the source never makes. The source has no germs in its narration; \"GERMS\" appears only as a picture label.\n  - The hook does not tell the viewer the ban happened and failed. It ends on Martial without the \"kissing won\" payoff.\n\nFixes to Candidate 1:\n1. Removed filler line 2 (\"You're in Rome, greeting a friend with a kiss.\").\n2. Changed \"Then Emperor Tiberius issues an edict\" to \"Emperor Tiberius issued an edict\". This is the source's past tense, and \"Then\" was only needed after the removed line.\n3. Added the source / Candidate 2 line \"spreading through Rome's upper class around then,\" with the scene \"three senators sad … CHIN\". It brings back the brief's upper-class detail and the timing that makes the modern link make sense.\n4. Changed \"Martial still complained\" to \"the poet Martial still complained\", which is the source's wording. Spoken aloud, a bare \"Martial\" sounds like the adjective. The line is now 9 words, the maximum.\n5. Line 5 scene: \"a senator thinking, a timeline\" became \"a Roman thinking in front of marble columns\". The renderer ignored \"timeline\" because the senator keyword wins, and Pliny was not a senator.\n6. Line 8 scene word \"CHIN\" became \"HELLO\". \"CHIN\" is already on line 7, and \"HELLO\" echoes the hook.\n7. Line 12 scene: \"a couple smiling\" became \"a couple kissing\", so \"no escaping the kissers\" is actually drawn: face to face, with a heart.\n\nResult:\n- 75 words, 13 lines, about 26 seconds at 175 words per minute.\n- The hook is 8 words.\n- Every line is 3 to 9 words.\n- There are no calls to action.\n- The title overlay is 4 words, all caps, letters only.",
+  "fact_check_notes": "Checked against /home/user/test/video4_kiss/script_part4.txt, block B16, lines 16-34. Every narration line maps to the source:\n- Tiberius issued an edict banning everyday kissing: source lines 16 and 18.\n- \"Why? The sources don't say.\": line 19, verbatim.\n- \"Decades later, a Roman writer described a nasty 'chin disease,' mentagra,\": lines 20-21, verbatim.\n- \"spreading through Rome's upper class around then,\": line 22; only \"that spread\" became \"spreading\".\n- \"passed along by greeting kisses.\": line 23, verbatim.\n- \"Some modern historians connect the two. / No ancient writer does.\": lines 24-25, verbatim.\n- \"About sixty years after Tiberius died, the poet Martial still complained: 'no escaping the kissers.'\": lines 30-32.\n- \"Kissing won.\": restates the source's \"Did it work? … So: no.\" (lines 29 and 34).\n\nTwo paraphrases are worth flagging:\n1. Hook \"Your hello kiss was once banned in Rome.\" compresses \"everyday kissing\". The source itself frames the custom as greeting kisses (\"passed along by greeting kisses\", \"People kissed you hello\"), so no new fact is added. The edict's exact wording, \"everyday kissing\", is said out loud on lines 2-3.\n2. \"Kissing won\" is the source's own verdict that the ban did not work.\n\nAll hedges are kept where the source has them:\n- \"The sources don't say\"\n- \"Some modern historians connect the two\"\n- \"No ancient writer does\"\n- \"About sixty years\"\n- \"around then\" (kept, instead of being dropped as in Candidate 1)\n\nNo new numbers:\n- The stone tablet shows \"60\", matching \"about sixty years\". I did not use the source frame's \"96\", which the narration never says.\n- The reign dates (14-37 CE) are not used anywhere.\n\nThe yt_description repeats only source facts, including the \"sources don't say\" hedge. \"Pliny\" appears only as a picture label and in the tags, and the brief names him.\n\nRemoved or avoided:\n- Candidate 3's germ framing in the narration: the source keeps the disease link hedged and never says \"germs\" aloud.\n- Showing Pliny as a senator: the picture token is now a plain Roman.\n\nRenderer check: I rendered all 13 scenes with /home/user/test/shorts_v2/tools/paint_frames.py at 1080x1920 in the stickly style. Each scene has 1-3 characters, all in the Greek/Roman, red, classroom or timeline settings. Kiss pairs are drawn face to face with a heart on lines 1, 8, 12 and 13. Quoted words: KISSING, EDICT, BANNED, PLINY, MENTAGRA, CHIN, HELLO, KISSERS. The red X lands on KISSING in frame 1, and the tablet reads \"60\".\n\nMinor note: line 12 ends in .' which the sentence splitter in make_short_v2 does not treat as a sentence end. Lines 11-13 will be voiced in one text-to-speech call. That is harmless.",
+  "final": {
+   "angle": "Direct 'you' claim hook. The first frame already shows the payoff: an angry emperor pointing at a kissing couple, with KISSING crossed out. Second half from the source: the edict, the source's 'don't say why' hedge, Pliny's 'chin disease' spreading through the upper class around then and passed by greeting kisses, the modern-only link, then the poet Martial sixty years later. Loop: 'Kissing won. Which is wild, because / Your hello kiss was once banned in Rome.' 75 words, 13 lines, about 26 s.",
+   "title_overlay": "AN EMPEROR BANNED KISSING",
+   "lines": [
+    {
+     "text": "Your hello kiss was once banned in Rome.",
+     "scene": "an emperor angry, pointing at a couple kissing between marble columns, the word \"KISSING\" above them, a big red X"
+    },
+    {
+     "text": "Emperor Tiberius issued an edict",
+     "scene": "an emperor angry, pointing, the word \"EDICT\" above him, dramatic"
+    },
+    {
+     "text": "banning everyday kissing.",
+     "scene": "a Roman shocked and another Roman sad between marble columns, the word \"BANNED\" above them"
+    },
+    {
+     "text": "Why? The sources don't say.",
+     "scene": "an emperor smug, shrugging between marble columns, a big question mark"
+    },
+    {
+     "text": "Decades later, a Roman writer described",
+     "scene": "a Roman thinking in front of marble columns, the word \"PLINY\" above him"
+    },
+    {
+     "text": "a nasty 'chin disease,' mentagra,",
+     "scene": "a senator shocked, hands on his head, marble columns, the word \"MENTAGRA\" above him"
+    },
+    {
+     "text": "spreading through Rome's upper class around then,",
+     "scene": "three senators sad between marble columns, the word \"CHIN\" above them"
+    },
+    {
+     "text": "passed along by greeting kisses.",
+     "scene": "a senator and another senator, kiss on the cheek, marble columns, the word \"HELLO\" above them"
+    },
+    {
+     "text": "Some modern historians connect the two.",
+     "scene": "{SCI} thinking, pointing at a chalkboard, a light bulb"
+    },
+    {
+     "text": "No ancient writer does.",
+     "scene": "a senator shrugging between marble columns, a big red X"
+    },
+    {
+     "text": "About sixty years after Tiberius died,",
+     "scene": "a timeline, a stone tablet with \"60\", a question mark"
+    },
+    {
+     "text": "the poet Martial still complained: 'no escaping the kissers.'",
+     "scene": "a Roman terrified, hands on his head, a couple kissing between marble columns, hearts, the word \"KISSERS\" above them"
+    },
+    {
+     "text": "Kissing won. Which is wild, because",
+     "scene": "an emperor crying between marble columns, a couple kissing, hearts, sparkles"
+    }
+   ],
+   "yt_title": "Your Hello Kiss Was Once Banned in Rome 😘",
+   "yt_description": "Emperor Tiberius issued an edict banning everyday kissing, and the sources don't say why. About sixty years after he died, the poet Martial still complained there was no escaping the kissers. Full story: tap the video link on this Short. #shorts #ancientrome #history",
+   "yt_tags": "tiberius, emperor tiberius, kissing ban, roman kissing ban, banned kissing, ancient rome, roman emperor, roman edict, greeting kiss, history of kissing, mentagra, chin disease, pliny, martial, roman history, ancient history, weird history, history facts, stick figure history, ancient humans explained, shorts"
+  }
+ },
+ {
+  "slug": "kiss_80m_bacteria",
+  "video": "kiss",
+  "winner_index": 1,
+  "reasons": "Scores (0-5) for hook / one topic+fact / density / loop / faithfulness / drawable / format.\nCandidate 1 scored 2/3/3/4/4/5/5. Its hook, \"Your kiss may be a background check\", is an abstract idea. The first scene shows only the word CHECK, so the 80 million payoff is not on screen in the first 2 seconds. It also mixes two topics: the 80M estimate and the \"close-up check\" theory.\nCandidate 2 scored 5/4/3/4/3/5/5 and wins. The concrete number is in the first spoken line, and the first frame shows the 80000000 tablet with a couple kissing. The 74% bonus comes from the same Dutch study of 21 couples, so the Short stays on one topic. \"Somebody's rounding up\" is a real joke beat. \"Who's counting\" loops cleanly into \"your ten-second kiss? Around eighty million bacteria.\"\nCandidate 3 scored 3/2/2/5/4/4/5. It has the best loop, but the hook \"You think a kiss is just two people?\" is vague. \"Two people. Around eighty million guests.\" says the 80M number a third time. It also adds the inspection/check theory, which makes a second topic. Its first scene uses both a quoted word and a tablet.\n\nWhat I fixed in Candidate 2, with minimal edits:\n(1) Line 3 had dropped \"long\" from the source. It is restored, so the line now matches the source exactly: \"and estimated that one long ten-second kiss\".\n(2) Line 4 had dropped \"bacteria\". It is restored, so the line matches the source exactly.\n(3) I cut \"A kiss is a close-up: / smell, taste, millions of swapped bacteria.\" Its \"millions of bacteria\" came right after the exact 80M figure, which was redundant and weaker. Its \"close-up\" set up something that was never paid off, because the source's \"tiny check\" lines were missing. Those lines would also have added a second topic.\n(4) Cutting those lines left 54 words, under the 55-word minimum. I made the loop line longer instead of adding a fact: \"But no matter who's doing the counting,\" (no new facts). Total is now 56 words in 10 lines (60 if hyphenated words count as two). Every line has 2-9 words.\n(5) yt_description: rewritten as 2 short sentences. \"long\" is restored, the hedges \"estimated\", \"around\" and \"can\" are kept, and \"Mostly harmless\" stays in.\n(6) yt_tags: removed the weak tag \"rounding up\" and added \"kissing science\". Now 325 characters.\nUnchanged: title overlay (5 words, all caps), yt_title (49 characters), and all scenes. Every scene uses supported tokens and keywords, has 1-3 characters, and has at most one tablet or quoted word.",
+  "fact_check_notes": "Checked against SOURCE /home/user/test/video4_kiss/script_part3.txt, block B13 (lines 79-86).\n- \"Dutch scientists studied twenty-one couples\": matches source line 79 exactly.\n- \"and estimated that one long ten-second kiss\": matches line 80 exactly. Candidate 2 had dropped \"long\", which is now restored. The hedge \"estimated\" is kept.\n- \"on the lips can pass around eighty million bacteria.\": matches line 81 exactly. The hedges \"can\" and \"around\" are kept.\n- \"Mostly harmless.\": matches line 82 exactly.\n- \"Bonus: in seventy-four percent of couples, / the man reported kissing more often / than his partner did. / Somebody's rounding up.\": matches lines 83-86 exactly. \"Reported\" is kept, so the claim stays self-reported.\n- Hook \"Your ten-second kiss? Around eighty million bacteria.\" is a shortened version of the same fact. It keeps \"around\" and the ten-second qualifier and adds no new number. The full statement with \"estimated\" follows two lines later.\n- Loop line \"But no matter who's doing the counting,\" is a framing line and makes no factual claim.\n- No other facts or numbers were added. The \"close-up / tiny check / background check\" material from lines 87-93 was left out on purpose: the source marks it as speculative (\"Some scientists think\", \"may\", UNPROVEN), and it would have made a second topic.\n- The description keeps \"estimated\", \"around\", \"can\" and \"reported\".\n- Family-friendly: no tongue, no sexual content.",
+  "final": {
+   "angle": "Shocking-number hook: the 80000000 tablet and a kissing couple are on screen from frame one. The Short sticks to the one Dutch study of 21 couples: the 80 million bacteria estimate (mostly harmless), then the bonus that in 74% of couples the man reported kissing more often, with the joke 'Somebody's rounding up'. The last line, 'But no matter who's doing the counting,', loops back into 'your ten-second kiss? Around eighty million bacteria.'",
+   "title_overlay": "ONE KISS EIGHTY MILLION BACTERIA",
+   "lines": [
+    {
+     "text": "Your ten-second kiss? Around eighty million bacteria.",
+     "scene": "{SCI} shocked, pointing at a couple kissing in a lab, a stone tablet with \"80\", the word \"MILLION\" above them"
+    },
+    {
+     "text": "Dutch scientists studied twenty-one couples",
+     "scene": "{SCI} proud, pointing at a couple smiling, a lab, a stone tablet with \"21\""
+    },
+    {
+     "text": "and estimated that one long ten-second kiss",
+     "scene": "a couple kissing in a lab, hearts, a stone tablet with \"10\""
+    },
+    {
+     "text": "on the lips can pass around eighty million bacteria.",
+     "scene": "{SCI} shocked, hands on his head, in a lab, a stone tablet with \"80\", the word \"MILLION\" above him"
+    },
+    {
+     "text": "Mostly harmless.",
+     "scene": "{SCI} smiling, shrugging in a lab, the word \"HARMLESS\" above him"
+    },
+    {
+     "text": "Bonus: in seventy-four percent of couples,",
+     "scene": "{SCI} smug at a chalkboard, a stone tablet with \"74\""
+    },
+    {
+     "text": "the man reported kissing more often",
+     "scene": "{GUY} proud, arms in the air, in a living room, the word \"MORE\" above him"
+    },
+    {
+     "text": "than his partner did.",
+     "scene": "{GUY} smug, shrugging on a couch, a question mark"
+    },
+    {
+     "text": "Somebody's rounding up.",
+     "scene": "{SCI} frowning, pointing at {GUY} smug, a chalkboard"
+    },
+    {
+     "text": "But no matter who's doing the counting,",
+     "scene": "{GUY} and his girlfriend kissing on a couch, the word \"COUNTING\" above them, a question mark"
+    }
+   ],
+   "yt_title": "Your 10-Second Kiss? Around 80 Million Bacteria 🦠",
+   "yt_description": "One long 10-second kiss on the lips can pass around 80 million bacteria, Dutch scientists estimated. Mostly harmless, and in 74% of couples the man reported kissing more often than his partner. Full story: tap the video link on this Short. #shorts #kissing #bacteria",
+   "yt_tags": "80 million bacteria, kissing bacteria, how many bacteria in a kiss, bacteria in a kiss, 10 second kiss, Dutch kissing study, 21 couples, kissing facts, science of kissing, kissing science, who kisses more, couples study, microbes, germs, weird science, ancient humans explained, stick figure animation, science shorts, shorts"
+  }
  }
 ]

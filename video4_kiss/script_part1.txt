@@ -10,10 +10,10 @@ Closer. Then they stop, an inch away... | {WOMAN} smiling, right next to {CAVE} 
 and sniff your cheek. | {WOMAN} happy and {CAVE} shocked rubbing noses by a campfire in the snow at night, the word "SNIFF" above them
 Wait. Was that a kiss? | {CAVE} confused, a giant question mark, dramatic
 Because our ape ancestors were probably kissing | two {APE} kissing in a jungle, hearts
-around twenty million years ago. | a timeline, a stone tablet with "20000000", sparkles
+around twenty million years ago. | a timeline, a stone tablet with "20", the word "MILLION" above it, sparkles
 But when anthropologists checked one hundred sixty-eight cultures, | {SCI} thinking, pointing at a world map, the word "CULTURES" above him
 romantic kissing wasn't even recorded | {SCI} confused next to a world map, a big question mark
-in more than half of them. | {SCI} shocked, hands on his head, a world map, a big red X
+in more than half of them. | {SCI} shocked, hands on his head, a world map, the word "MISSING" above him, an exclamation mark
 And what's that face by the fire | {WOMAN} smiling by a campfire in the snowy ice age at night, a question mark
 about to do next? | {CAVE} terrified, {WOMAN} happy right next to him, a campfire in the snow at night, a giant question mark
 ## B02 | Thesis: It didn't start the way people think
@@ -24,11 +24,11 @@ as the Kiss Cam | {GUY} shocked and his girlfriend surprised, hearts and sparkle
 puts a heart around two fans. | {GUY} happy and his girlfriend smiling, kiss on the cheek, hearts
 We sign texts 'xoxo.' | {GUY} smiling on a couch in a living room, the word "XOXO" above him
 But it didn't start the way people think. | {CAVE} confused in a cave, a big question mark
-The ape kisses and the missing records? | {APE} smug next to a world map, a big red X, a question mark
+The ape kisses and the missing records? | two {APE} kissing next to a world map, the word "RECORDS" above them, a big red X, a question mark
 Both can be true. | {SCI} shocked, hands on his head, a world map, an exclamation mark
 By the end, you'll know why, | a chalkboard with {APE}, a Neanderthal, {WOMAN} and {GUY} in a row, a question mark above each, the word "VERDICT" above them
 and why the kiss may have started | {APE} happy and {CAVE} confused in a jungle, a question mark
-as something far less romantic. | {CAVE} disgusted next to {APE} smiling, a big red X
+as something far less romantic. | {CAVE} disgusted next to {APE} smiling in a jungle, the word "UNROMANTIC" above them
 ## B03 | Base fact: What even counts as a kiss?
 First, a weird problem scientists had to solve. | {SCI} confused in a lab with a microscope, a big question mark
 Before asking who kissed first, | {SCI} thinking in a lab, a light bulb above him
@@ -37,22 +37,22 @@ So one team of scientists | three {SCI} thinking in a classroom with a chalkboar
 wrote a working definition. | {SCI} proud, pointing at a chalkboard, the word "DEFINITION" above him
 Rule one: friendly. | {SCI} smiling at a chalkboard, hearts, the word "FRIENDLY" above him
 Fish that bump open mouths in a fight? | {SCI} surprised, pointing at the sea, the word "FISH" above the waves
-Disqualified. | {SCI} frowning on a boat at sea, a big red X
+Disqualified. | {SCI} frowning, pointing, dramatic, the word "DISQUALIFIED" above him
 Rule two: same species. | {SCI} pointing at a chalkboard, the word "SPECIES" above him
 Your dog licking your face? Doesn't count. | {GUY} happy with a dog in a living room, a big red X
-The lead scientist reportedly joked | {SCI} smiling in a lab, the word "JOKE" above
-this also rules out a capuchin monkey | a small {APE} happy next to {SCI} surprised in the lab, hearts
-that once tried to kiss her. | {SCI} shocked, a small {APE} smiling, an exclamation mark
+The lead scientist reportedly joked | a woman scientist smiling in a lab, the word "JOKE" above her
+this also rules out a capuchin monkey | a small {APE} happy next to a woman scientist surprised in the lab, hearts
+that once tried to kiss her. | a woman scientist shocked, a small {APE} smiling, an exclamation mark
 Rule three: mouth to mouth, | two {APE} kissing in front of a chalkboard, hearts
 with a little lip movement. | {SCI} thinking, pointing at a chalkboard, the word "LIPS" above
 Rule four: no food passed over. | {SCI} frowning at a chalkboard, a clay pot, a big red X
-Ants handing each other snacks? Not a kiss. | {SCI} bored, shrugging, the word "ANTS" above him
+Ants handing each other snacks? Not a kiss. | {SCI} bored, shrugging in a jungle, a clay pot, the word "ANTS" above him
 No fighting. Same species. | {GUY} frowning, pointing, the word "BOUNCER" above him, a dark hall
 Absolutely no snacks. | {GUY} angry, pointing at {CAVE} sad, a clay pot, a big red X, dark hall
 ## B04 | When? The 20-million-year estimate
 So when did the first kiss happen? | a timeline, {CAVE} confused, a big question mark
 In twenty twenty-five, that same team, | three {SCI} thinking in a lab, a light bulb above them
-led by Oxford's Matilda Brindle, | {SCI} proud in a lab, the word "BRINDLE" above
+led by Oxford's Matilda Brindle, | a woman scientist proud in a lab, the word "BRINDLE" above her
 collected every record they could find | {SCI} happy next to a box in a lab, sparkles, the word "RECORDS" above
 of which primates kiss. | {SCI} thinking in a jungle, a question mark, the word "PRIMATES" above
 Chimpanzees: kissers. Bonobos: kissers. Orangutans: kissers. | two {APE} kissing in a jungle, hearts, sparkles
@@ -62,12 +62,12 @@ They mapped the kissers onto the primate family tree | {SCI} pointing at a chalk
 and ran over ten million simulations, working backwards. | {SCI} shocked in a lab with a microscope, the word "SIMULATIONS" above
 Answer: kissing probably goes back | a timeline, {SCI} pointing, a light bulb
 to the shared ancestor of the great apes, | {APE} proud in a jungle, sparkles, the word "ANCESTOR" above him
-somewhere between about seventeen and twenty-one million years ago. | a timeline, a stone tablet with "21000000", {APE} smiling
+somewhere between about seventeen and twenty-one million years ago. | a timeline, a stone tablet with "21", the word "MILLION" above it, {APE} smiling
 No humans yet. | {APE} happy alone in a jungle, the word "HUMANS" above him, a big red X
 Your first kiss felt awkward? | {GUY} confused and his girlfriend shocked, kiss on the cheek, a living room
 The first one may have been | {APE} smiling in a jungle, a big question mark
 two hairy apes in a tree. | two {APE} kissing in a nest in the jungle, hearts
-Nobody filmed that one either. | {SCI} shrugging in the jungle, a big red X
+Nobody filmed that one either. | {SCI} shrugging in the jungle, the word "FILM" above him, a big red X
 Big caveat: kisses don't fossilize. | {SCI} confused in a cave with bones, a question mark
 This is a statistical estimate on thin data, | {SCI} thinking at a chalkboard, the word "ESTIMATE" above him
 much of it from captive animals. | {SCI} shrugging next to {APE} bored, the word "UNPROVEN" stamped in red
@@ -76,7 +76,7 @@ Fun bonus: in twenty twenty-six, | {SCI} happy in a lab, sparkles, a stone table
 that team won an Ig Nobel Prize, | three {SCI} cheering, arms in the air, the word "IG NOBEL" above them
 for research that first makes people laugh, | {GUY} happy on a couch in a living room, the word "HAHA" above him
 then makes them think. | {GUY} thinking, a light bulb above him, living room
-Brindle calls kissing an evolutionary conundrum. | {SCI} confused, shrugging in a lab, the word "CONUNDRUM" above
+Brindle calls kissing an evolutionary conundrum. | a woman scientist confused, shrugging in a lab, the word "CONUNDRUM" above her
 Hold on to that 'why.' | a chalkboard, {APE} proud with the word "PROBABLY" above him, a Neanderthal confused, {WOMAN} confused, {GUY} confused
 ## B05 | Myth-bust: Kissing was invented
 You've probably heard the story | {GUY} smiling on a couch in a living room, the word "STORY" above him
@@ -89,7 +89,7 @@ and Alexander the Great's soldiers | an emperor proud, wearing a crown, in front
 carried it west to Europe | an emperor wearing a crown, pointing at a world map, the word "EUROPE" above him
 around three twenty-six BCE. | a timeline, a stone tablet with "326"
 Beautiful. Romantic. | {GUY} happy in a living room, hearts and sparkles above him
-Completely not how it happened. | {SCI} frowning, a big red X, dramatic
+Completely not how it happened. | {SCI} angry, pointing, the word "WRONG" above him, dramatic
 One: clay tablets from Mesopotamia | {SUMER} proud in Mesopotamia, a stone tablet with "4500"
 mention kissing about four thousand five hundred years ago, | {SUMER} and his wife kissing on the cheek in Mesopotamia, hearts
 roughly a thousand years before those Indian texts. | a timeline, a stone tablet with "1000", {SCI} pointing
@@ -98,9 +98,9 @@ Greeks were already kissing | two Greek men, kiss on the cheek, marble columns, 
 centuries before Alexander was born. | an emperor shocked, wearing a crown, between marble columns, an exclamation mark
 Alexander conquered half the known world, | an emperor proud, wearing a crown, pointing at a world map, sparkles
 but kissing is one conquest | an emperor smug, wearing a crown, next to a world map, hearts
-historians won't give him. | {SCI} frowning, pointing at an emperor sad, wearing a crown, a big red X
+historians won't give him. | {SCI} frowning, pointing at an emperor sad, in front of marble columns, the word "DENIED" above them
 And the tablet experts say | {SCI} thinking next to {SUMER} in Mesopotamia, a clay jar
 kissing probably arose in many places, | a world map, {CAVE} happy and {WOMAN} happy, hearts
 long before anyone wrote it down. | {CAVE} shrugging in a cave, a big question mark
-Mesopotamia didn't invent the kiss. | {SUMER} confused, shrugging in Mesopotamia, a big red X
+Mesopotamia didn't invent the kiss. | {SUMER} confused, shrugging in Mesopotamia, a clay jar, the word "NOT FIRST" above him
 It just left the oldest paperwork. | {SUMER} proud in Mesopotamia, sparkles, the word "PAPERWORK" above him

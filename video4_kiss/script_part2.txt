@@ -3,14 +3,14 @@ So if nobody invented it... | {SCI} confused in a lab with a microscope, a big q
 where did it come from? | a timeline, {APE} thinking, a big question mark
 Scientists have several suspects. | {SCI} smug, pointing at a chalkboard, the word "SUSPECTS" above him
 Three are big ones. | a chalkboard, three {APE} confused in a row, a big question mark
-None is proven, and they argue about all three. | two {SCI} angry, pointing at each other in a classroom, a big red X
+None is proven, and they argue about all three. | two {SCI} angry, pointing at each other in a classroom, the word "UNPROVEN" above them
 Suspect number one: grooming. | {APE} happy in a jungle, another {APE} smiling, the word "GROOMING" above them
 Apes spend hours cleaning each other. | two {APE} smiling in the jungle, sparkles, the word "HOURS" above them
 In twenty twenty-four, Adriano Lameira | {SCI} proud in a lab, a stone tablet with "2024"
 at the University of Warwick | {SCI} thinking in a classroom with a chalkboard, the word "WARWICK" above him
 pointed to how grooming often ends. | {SCI} pointing at {APE} happy and another {APE} in a jungle, a light bulb
-The groomer pushes out its lips | {APE} smiling, close to another {APE} surprised, the word "LIPS" above them
-and gently slurps up one last bit of dirt | {APE} happy, another {APE} bored in the jungle, the word "DIRT" above them
+The groomer pushes out its lips | {APE} smiling and another {APE} surprised, kiss on the cheek in the jungle, the word "LIPS" above them
+and gently slurps up one last bit of dirt | {APE} happy in a nest in the jungle, a small {APE} sleepy next to him, sparkles, the word "DIRT" above them
 or a tiny bug. | {SCI} shocked at a microscope in a lab, the word "BUG" above him
 He calls it the 'groomer's final kiss.' | {APE} and another {APE}, kiss on the cheek in a jungle, hearts, the word "FINAL" above them
 His idea: as our ancestors lost their fur, | {CAVE} confused in a jungle, {APE} smiling next to him, a question mark
@@ -29,18 +29,18 @@ Be grateful evolution picked lips. | {GUY} happy in a living room, arms in the a
 ## B07 | Main answer 2-3: Kiss-feeding and the sniff
 Suspect number two is... a little gross. | {SCI} disgusted at a chalkboard, hands on his head, the word "GROSS" above him
 Kiss-feeding. Orangutan and chimp mothers sometimes chew food | {APE} happy and a small {APE} in a nest in the jungle, the word "CHEW" above them
-and pass it straight into their baby's mouth. | {APE} smiling, close to a small {APE} happy, the word "NOM" above them
+and pass it straight into their baby's mouth. | {APE} smiling and a small {APE} happy, kiss on the cheek in a nest in the jungle, the word "NOM" above them
 Before baby food aisles with forty flavors, | {GUY} confused in a living room, a box, the word "FLAVORS" above him
 there was exactly one flavor: | a small {APE} smug in a jungle, a stone tablet with "1", sparkles
 whatever Mom just chewed. | a small {APE} disgusted next to {APE} smiling, the word "YUM" above them
 In nineteen seventy, an Austrian ethologist | {SCI} thinking in a classroom with a chalkboard, a stone tablet with "1970"
 suggested that's where the kiss began. | {SCI} proud, pointing at a chalkboard, a light bulb, the word "EIBLEIBESFELDT" above him
-Humans do it too: | {SCI} smiling next to a world map, a clay pot, hearts
+Humans do it too: | {WOMAN} smiling next to a baby happy in a cave, a clay pot, hearts
 one survey found pre-chewing food | {SCI} thinking, pointing at a world map, the word "SURVEY" above him
 mentioned in thirty-eight of one hundred nineteen cultures, | a world map, a stone tablet with "38", sparkles
 most often for feeding babies. | {GUY} smiling in a living room, a clay pot, hearts, the word "INFANTS" above him
 But Lameira notes a kiss pulls inward, | {SCI} frowning, pointing at a chalkboard, the word "INWARD" above him
-while feeding pushes outward. | {SCI} thinking at a chalkboard, the word "OUTWARD" above him, a big red X
+while feeding pushes outward. | {APE} smiling, close to a small {APE} happy in a nest in the jungle, the word "OUTWARD" above them
 And the Oxford definition deliberately leaves food out, | {SCI} frowning in a lab, pointing at a clay pot, the word "SNACKS" above him, a big red X
 so the two can't be mixed up. | {APE} confused and a small {APE} in a jungle, a clay pot, a big question mark
 Suspect number three: the sniff. | {SCI} smug at a chalkboard, the word "SNIFF" above him, a big question mark
@@ -53,7 +53,7 @@ and was written with a little nose sign. | {EGYPT} proud in Egypt, sparkles, the
 In Hawaiian, 'honi' means smell, sniff or kiss. | {GUY} surprised next to a world map, hearts, the word "HONI" above him
 And those old Indian texts? | {SCI} thinking, a timeline, a stone tablet with "3500"
 Some scholars say their 'kisses' | {SCI} confused in a lab, a big question mark, the word "KISSES" above him
-read more like sniffing. | a chalkboard, three {APE} in a row, the word "UNPROVEN" stamped in red
+read more like sniffing. | a couple rubbing noses in a village, the word "SNIFFING" above them, a question mark
 Keep that sniff in mind. | {CAVE} shocked by a campfire in the snow at night, the word "SNIFF" above him
 And we still haven't reached | {SCI} thinking next to a world map, a big question mark
 the one hundred sixty-eight cultures. | a world map, a stone tablet with "168", sparkles
@@ -75,8 +75,8 @@ Hardened plaque on Neanderthal teeth | {SCI} disgusted, pointing at a skeleton i
 from caves in Spain and Belgium. | a world map, a Neanderthal smiling, the word "EUROPE" above him
 Old plaque is a time capsule. | {SCI} happy in a lab, a box, sparkles, the word "TREASURE" above him
 It traps DNA from food | {SCI} pointing at a microscope in the lab, the word "DNA" above him
-and from mouth microbes. | {SCI} surprised at a microscope, the word "MICROBES" above him
-The catch: ancient DNA is easy to contaminate, | {SCI} terrified in a lab, hands on his head, the word "CONTAMINATED" above him
+and from mouth microbes. | a Neanderthal smiling in a cave, the word "MICROBES" above him, sparkles
+The catch: ancient DNA is easy to contaminate, | {SCI} terrified, hands on his head, in a cave with bones, the word "CONTAMINATED" above him
 and other scientists later questioned | a small {SCI} frowning, pointing at {SCI} sad, the word "CITATION" above them, a question mark
 how far plaque DNA can be trusted. | {SCI} thinking, shrugging in the lab, a big question mark
 Still, from one Neanderthal in El Sidron cave, | a Neanderthal smiling in a cave, a campfire, sparkles
@@ -103,9 +103,9 @@ plus Penicillium mold. | {SCI} surprised at the chalkboard, the word "PENICILLIU
 Modern you: toothache, take an aspirin. | {GUY} sad on a couch in a living room, the word "PILLS" above him
 Neanderthal you: toothache, go chew a tree. | a Neanderthal happy on a forest floor, the word "CHOMP" above him
 He may have been treating himself. Maybe. | a Neanderthal shrugging on the forest floor, a light bulb, the word "UNPROVEN" stamped in red
-Now the kissing clue. | {SCI} smug in a lab, a light bulb, the word "CLUE" above him
+Now the kissing clue. | {SCI} smug in a lab, a light bulb, hearts, the word "CLUE" above him
 The Neanderthal strain of that microbe | {SCI} pointing at a chalkboard, the word "STRAIN" above him
-split from the human strain | a timeline, {WOMAN} and a Neanderthal, a stone tablet with "143000"
+split from the human strain | {WOMAN} confused and a Neanderthal confused in the snowy ice age, the word "SPLIT" above them
 more than a hundred thousand years ago, | a timeline, a stone tablet with "112000", sparkles
 which the team suggested could mean | {SCI} thinking in a lab, a question mark
 it passed between the groups. | {WOMAN} smiling and a Neanderthal happy by a campfire at night, the word "MICROBES" above them
@@ -123,9 +123,9 @@ carry about two percent Neanderthal DNA. | {GUY} shocked next to a Neanderthal s
 And the Oxford team says that if apes kiss, | two {APE} kissing in a jungle, hearts, the word "OXFORD" above them
 Neanderthals likely did too. | a chalkboard, {APE} proud, a Neanderthal smiling with the word "PROBABLY" above him, {WOMAN} confused, {GUY} confused
 So that face by the fire? | {WOMAN} smiling by a campfire in the snow at night, a big question mark
-Maybe, just maybe, it wasn't even your species. | {CAVE} shocked and another {CAVE} happy, rubbing noses by the campfire in the snow at night, the word "NEANDERTHAL" above them
+Maybe, just maybe, it wasn't even your species. | {WOMAN} happy and a Neanderthal smiling, rubbing noses by the campfire in the snow at night, the word "NEANDERTHAL" above them
 ## B10 | The paradox: Fewer than half of 168 cultures
-Okay. Apes kiss. Neanderthals probably kissed. | {APE} proud and a Neanderthal smug in a jungle, hearts, sparkles
+Okay. Apes kiss. Neanderthals probably kissed. | {APE} proud, pointing at a Neanderthal and {WOMAN} kissing in a jungle, hearts
 Case closed, right? Not even close. | {SCI} shocked, hands on his head, the word "CLOSED" above him, a big red X, dramatic
 In twenty fifteen, anthropologist William Jankowiak | {SCI} thinking in a classroom, the word "JANKOWIAK" above him
 and two colleagues combed through records | three {SCI} smiling in the classroom, a stone tablet with "2015"
@@ -135,24 +135,24 @@ romantic kissing on the lips? | a world map, hearts, a big question mark
 It was recorded in seventy-seven of them. | {SCI} pointing at a chalkboard, hearts, a stone tablet with "77"
 About forty-six percent. Fewer than half. | {GUY} shocked next to a world map, a stone tablet with "46", an exclamation mark
 It showed up in all ten | a world map with hearts, a stone tablet with "10"
-Middle Eastern cultures they sampled, | {SCI} smiling, pointing at a chalkboard in a classroom, hearts
+Middle Eastern cultures they sampled, | a couple kissing on the cheek in the desert, hearts, sparkles
 and most Asian and European ones. | a world map with hearts, sparkles
 But no ethnographer reported it | {SCI} confused in a lab, a big question mark
 among the Sub-Saharan African, New Guinean | {SCI} thinking, pointing at a world map, a question mark
-or Amazonian forager groups they studied. | {SCI} shrugging at a chalkboard, the word "UNRECORDED" above him
+or Amazonian forager groups they studied. | {SCI} shrugging in a jungle, the word "UNRECORDED" above him
 Two caveats. 'Not recorded' isn't 'never happened': | {SCI} frowning at the chalkboard, the word "NEVER" above him, a big red X
-kissing is private, and one Oxford expert suspects | {SCI} thinking in a lab, hearts, the word "DUNBAR" above him
+kissing is private, and one Oxford expert suspects | a couple kissing in a living room at night, hearts, the word "PRIVATE" above them
 the real number is higher. | {SCI} happy at a chalkboard, a stone tablet with "46", an exclamation mark
-And this is only romantic kissing, | a chalkboard, hearts, the word "LIPS" above it
-not parents kissing babies. | {SCI} smiling at the chalkboard, hearts, the word "PARENTS" above him
+And this is only romantic kissing, | {GUY} and his girlfriend kissing on a couch in a living room, hearts, the word "LIPS" above them
+not parents kissing babies. | a mother smiling next to a baby happy in a village, hearts, the word "PARENTS" above them
 And it's not 'primitive.' | {SCI} frowning in a lab, the word "PRIMITIVE" above him, a big red X
 Just a different way of showing love. | a world map covered in hearts, {GUY} smiling
 Hollywood says every love story | an actor smiling in a living room, sparkles, the word "HOLLYWOOD" above him
-ends with a kiss. | {GUY} happy on a couch in a living room, hearts and sparkles, the word "KISS" above him
+ends with a kiss. | {GUY} and his girlfriend kissing on a couch in a living room, hearts, sparkles, the word "KISS" above them
 Hollywood never asked the rest of the world. | an actor confused next to a world map, a big question mark
 One early nineteen-hundreds account says | {SCI} thinking in a lab, a box, the word "ACCOUNT" above him
 when some villagers in southern Africa | {SCI} pointing at a world map, a question mark
 first saw Europeans kissing, | a couple kissing in a living room, hearts, a big question mark
 their reported verdict was: | {SCI} surprised in a lab, a box, an exclamation mark
-'They eat each other's saliva and dirt!' | a couple kissing in a living room, the word "SALIVA" above them, a big red X
-From the outside... fair point. | a chalkboard, {APE} proud, a Neanderthal smiling, {WOMAN} confused, {GUY} shrugging, a big red X
+'They eat each other's saliva and dirt!' | {GUY} disgusted, pointing at a couple kissing in a living room, the word "SALIVA" above him, an exclamation mark
+From the outside... fair point. | {GUY} shrugging next to a couple kissing in a living room, the word "FAIR" above him
