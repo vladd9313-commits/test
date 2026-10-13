@@ -10,14 +10,14 @@ In twenty twenty-four, Adriano Lameira | {SCI} proud in a lab, a stone tablet wi
 at the University of Warwick | {SCI} thinking in a classroom with a chalkboard, the word "WARWICK" above him
 pointed to how grooming often ends. | {SCI} pointing at {APE} happy and another {APE} in a jungle, a light bulb
 The groomer pushes out its lips | {APE} smiling and another {APE} surprised, kiss on the cheek in the jungle, the word "LIPS" above them
-and gently slurps up one last bit of dirt | {APE} happy in a nest in the jungle, a small {APE} sleepy next to him, sparkles, the word "DIRT" above them
+and gently slurps up one last bit of dirt | {APE} smiling, close to another {APE} sleepy in the jungle, sparkles, the word "SLURP" above them
 or a tiny bug. | {SCI} shocked at a microscope in a lab, the word "BUG" above him
 He calls it the 'groomer's final kiss.' | {APE} and another {APE}, kiss on the cheek in a jungle, hearts, the word "FINAL" above them
 His idea: as our ancestors lost their fur, | {CAVE} confused in a jungle, {APE} smiling next to him, a question mark
 there was less to clean, | {CAVE} shrugging in the jungle, the word "FUR" above him, a big red X
 but the lip move stuck around | {CAVE} and {WOMAN}, kiss on the cheek in the jungle, hearts
-as a sign of trust. | {CAVE} happy and {WOMAN} smiling by a campfire, the word "UNPROVEN" stamped in red
-So that big romantic movie kiss | an actor smiling in a living room, hearts and sparkles, the word "MOVIE" above him
+as a sign of trust. | {CAVE} happy and {WOMAN} smiling by a campfire, the word "TRUST" above them
+So that big romantic movie kiss | an actor and an actress kissing in a living room, hearts, sparkles, the word "MOVIE" above them
 may be the great-great-great, times a million, grandchild | a timeline, {APE}, {CAVE} and {GUY} in a row, sparkles
 of an ape picking bugs off its best friend. | {APE} happy, another {APE} smiling in a jungle, hearts, the word "BUG" above them
 Greeting card companies, please don't use this. | {GUY} disgusted in a living room, hearts, the word "CARDS" above him, a big red X
@@ -34,11 +34,11 @@ Before baby food aisles with forty flavors, | {GUY} confused in a living room, a
 there was exactly one flavor: | a small {APE} smug in a jungle, a stone tablet with "1", sparkles
 whatever Mom just chewed. | a small {APE} disgusted next to {APE} smiling, the word "YUM" above them
 In nineteen seventy, an Austrian ethologist | {SCI} thinking in a classroom with a chalkboard, a stone tablet with "1970"
-suggested that's where the kiss began. | {SCI} proud, pointing at a chalkboard, a light bulb, the word "EIBLEIBESFELDT" above him
+suggested that's where the kiss began. | {SCI} proud, pointing at a chalkboard, a light bulb, the word "ETHOLOGIST" above him
 Humans do it too: | {WOMAN} smiling next to a baby happy in a cave, a clay pot, hearts
 one survey found pre-chewing food | {SCI} thinking, pointing at a world map, the word "SURVEY" above him
 mentioned in thirty-eight of one hundred nineteen cultures, | a world map, a stone tablet with "38", sparkles
-most often for feeding babies. | {GUY} smiling in a living room, a clay pot, hearts, the word "INFANTS" above him
+most often for feeding babies. | a mother smiling next to a baby happy in a village, a clay pot, hearts, the word "INFANTS" above them
 But Lameira notes a kiss pulls inward, | {SCI} frowning, pointing at a chalkboard, the word "INWARD" above him
 while feeding pushes outward. | {APE} smiling, close to a small {APE} happy in a nest in the jungle, the word "OUTWARD" above them
 And the Oxford definition deliberately leaves food out, | {SCI} frowning in a lab, pointing at a clay pot, the word "SNACKS" above him, a big red X
@@ -68,8 +68,8 @@ and the two groups met. | {WOMAN} surprised and a Neanderthal happy in the snow,
 Did Neanderthals ever kiss? | a Neanderthal thinking by a campfire at night, the word "KISS" above him, a question mark
 Remember: kisses don't fossilize. | {SCI} shrugging in a cave with bones, a big red X
 No bones. No footprints. No selfie. | {SCI} sad in the cave, the word "SELFIE" above him, a big red X
-In twenty seventeen, researcher Laura Weyrich | {SCI} proud in a lab with a microscope, the word "WEYRICH" above them
-and her team went after | three {SCI} thinking in a lab, a stone tablet with "2017"
+In twenty seventeen, researcher Laura Weyrich | a woman scientist proud in a lab with a microscope, the word "WEYRICH" above her
+and her team went after | a woman scientist smiling and two {SCI} thinking in a lab, a stone tablet with "2017"
 the least romantic evidence in archaeology: tartar. | {SCI} disgusted in a cave with bones, the word "TARTAR" above him, an exclamation mark
 Hardened plaque on Neanderthal teeth | {SCI} disgusted, pointing at a skeleton in the cave, the word "EWW" above him
 from caves in Spain and Belgium. | a world map, a Neanderthal smiling, the word "EUROPE" above him
@@ -121,7 +121,7 @@ mostly around that big meeting. | a Neanderthal proud and {WOMAN} happy in the v
 That's why most people outside Africa | {GUY} surprised next to a world map, a big question mark
 carry about two percent Neanderthal DNA. | {GUY} shocked next to a Neanderthal smiling, a stone tablet with "2"
 And the Oxford team says that if apes kiss, | two {APE} kissing in a jungle, hearts, the word "OXFORD" above them
-Neanderthals likely did too. | a chalkboard, {APE} proud, a Neanderthal smiling with the word "PROBABLY" above him, {WOMAN} confused, {GUY} confused
+Neanderthals likely did too. | {APE} proud and a Neanderthal smiling at a chalkboard, the word "PROBABLY" above them
 So that face by the fire? | {WOMAN} smiling by a campfire in the snow at night, a big question mark
 Maybe, just maybe, it wasn't even your species. | {WOMAN} happy and a Neanderthal smiling, rubbing noses by the campfire in the snow at night, the word "NEANDERTHAL" above them
 ## B10 | The paradox: Fewer than half of 168 cultures
@@ -132,7 +132,7 @@ and two colleagues combed through records | three {SCI} smiling in the classroom
 of one hundred sixty-eight cultures. | {SCI} thinking, pointing at a world map, a stone tablet with "168"
 One question: does this culture do | {SCI} pointing at a chalkboard, a big question mark
 romantic kissing on the lips? | a world map, hearts, a big question mark
-It was recorded in seventy-seven of them. | {SCI} pointing at a chalkboard, hearts, a stone tablet with "77"
+It was recorded in seventy-seven of them. | {SCI} smiling, pointing at a world map, a stone tablet with "77", sparkles
 About forty-six percent. Fewer than half. | {GUY} shocked next to a world map, a stone tablet with "46", an exclamation mark
 It showed up in all ten | a world map with hearts, a stone tablet with "10"
 Middle Eastern cultures they sampled, | a couple kissing on the cheek in the desert, hearts, sparkles
@@ -154,5 +154,5 @@ One early nineteen-hundreds account says | {SCI} thinking in a lab, a box, the w
 when some villagers in southern Africa | {SCI} pointing at a world map, a question mark
 first saw Europeans kissing, | a couple kissing in a living room, hearts, a big question mark
 their reported verdict was: | {SCI} surprised in a lab, a box, an exclamation mark
-'They eat each other's saliva and dirt!' | {GUY} disgusted, pointing at a couple kissing in a living room, the word "SALIVA" above him, an exclamation mark
-From the outside... fair point. | {GUY} shrugging next to a couple kissing in a living room, the word "FAIR" above him
+'They eat each other's saliva and dirt!' | a peasant disgusted, pointing at a couple kissing next to a hut, the word "SALIVA" above him, an exclamation mark
+From the outside... fair point. | {SCI} shrugging next to a couple kissing in a living room, the word "FAIR" above him

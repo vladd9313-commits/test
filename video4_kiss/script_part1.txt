@@ -36,7 +36,7 @@ you need to know what counts. | {SCI} shrugging, a question mark, the word "KISS
 So one team of scientists | three {SCI} thinking in a classroom with a chalkboard
 wrote a working definition. | {SCI} proud, pointing at a chalkboard, the word "DEFINITION" above him
 Rule one: friendly. | {SCI} smiling at a chalkboard, hearts, the word "FRIENDLY" above him
-Fish that bump open mouths in a fight? | {SCI} surprised, pointing at the sea, the word "FISH" above the waves
+Fish that bump open mouths in a fight? | {SCI} surprised, pointing in a lab, the word "FISH" above him, an exclamation mark
 Disqualified. | {SCI} frowning, pointing, dramatic, the word "DISQUALIFIED" above him
 Rule two: same species. | {SCI} pointing at a chalkboard, the word "SPECIES" above him
 Your dog licking your face? Doesn't count. | {GUY} happy with a dog in a living room, a big red X
@@ -99,7 +99,7 @@ centuries before Alexander was born. | an emperor shocked, wearing a crown, betw
 Alexander conquered half the known world, | an emperor proud, wearing a crown, pointing at a world map, sparkles
 but kissing is one conquest | an emperor smug, wearing a crown, next to a world map, hearts
 historians won't give him. | {SCI} frowning, pointing at an emperor sad, in front of marble columns, the word "DENIED" above them
-And the tablet experts say | {SCI} thinking next to {SUMER} in Mesopotamia, a clay jar
+And the tablet experts say | {SCI} thinking, pointing at {SUMER} smiling in Mesopotamia, a question mark
 kissing probably arose in many places, | a world map, {CAVE} happy and {WOMAN} happy, hearts
 long before anyone wrote it down. | {CAVE} shrugging in a cave, a big question mark
 Mesopotamia didn't invent the kiss. | {SUMER} confused, shrugging in Mesopotamia, a clay jar, the word "NOT FIRST" above him

@@ -20,7 +20,7 @@ OL = (20, 20, 20)
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 SKIN = (255, 222, 186)
 FACE = {"nobrow": False, "tears": False, "sweat": False, "old": False}                   # per-scene face options, set by render()
-SKY = {"moon": True, "discs": []}                          # no moon when a quoted word fills the sky row; sun/moon spots
+SKY = {"moon": True, "discs": [], "shelf": True}                          # no moon when a quoted word fills the sky row; sun/moon spots
 
 def X(v): return v * W / 1920      # x of a layout designed for the 1920-wide frame
 def Y(v): return v + TOPY          # y of a sky element, kept at the same height above the ground
@@ -101,8 +101,15 @@ def bg_night(p):
     stars(p, 40 if TOPY == 0 else 60, Y(500)); moon(p)
     mountains(p, (90, 90, 110)); grass(p, (30, 90, 40))
 
-def night_overlay(p, outdoor):
+def night_overlay(p, outdoor, snow=False):
     """Darken any background for scenes that say night/moon; outdoors also gets stars and a moon."""
+    if snow:                                                  # snowy night: dark sky, the ground stays pale
+        dark = Image.blend(p.img, Image.new("RGB", p.img.size, (16, 24, 66)), 0.6)
+        ground = Image.blend(p.img, Image.new("RGB", p.img.size, (16, 24, 66)), 0.22)
+        dark.paste(ground.crop((0, GROUND, W, H)), (0, GROUND)); p.img.paste(dark)
+        for _ in range(40):
+            x_, y_ = p.r.randint(0, W), p.r.randint(0, H); p.d.ellipse((x_, y_, x_ + 12, y_ + 12), fill=(235, 240, 250))
+        stars(p, 20, max(SKY_Y + 120, 160)); moon(p); return
     p.img.paste(Image.blend(p.img, Image.new("RGB", p.img.size, (16, 24, 66)), 0.55))
     if outdoor:
         stars(p, 30, max(SKY_Y + 200, 220)); moon(p)
@@ -144,6 +151,7 @@ def bg_lab(p):
             x = 40 + i * (W - 80) / 8 + 20; c = cols[i % 4]
             p.rect((x, top - 110, x + 46, top), c, 4); p.rect((x + 12, top - 150, x + 34, top - 110), (236, 239, 241), 4)
         return
+    if not SKY["shelf"]: return                               # the quoted word needs the top row
     p.rect((1300, 220, 1800, 250), (141, 110, 99))
     for i, c in enumerate(cols):
         x = 1340 + i * 110; p.rect((x, 120, x + 40, 220), c, 4)
@@ -228,7 +236,7 @@ def bg_greek(p):
     p.rect((-10, Y(560), W + 10, GROUND), (30, 136, 229))
     p.rect((X(250), Y(150), X(1670), Y(230)), (245, 245, 240)); p.poly([(X(220), Y(150)), (X(960), Y(40)), (X(1700), Y(150))], (245, 245, 240))
     cw = 70 if TOPY == 0 else 44
-    for x in range(300, 1700, 230): p.rect((X(x), Y(230), X(x) + cw, GROUND), (245, 245, 240), 6)
+    for x in range(300, 1600, 215): p.rect((X(x), Y(230), X(x) + cw, GROUND), (245, 245, 240), 6)
     p.rect((-10, GROUND, W + 10, H + 10), (215, 204, 200))
 
 def bg_mesop(p):
@@ -242,8 +250,22 @@ def bg_mesop(p):
 def bg_snow(p):
     p.rect((-10, -10, W + 10, H + 10), (176, 196, 222), 0); mountains(p, (235, 240, 248))
     p.rect((-10, GROUND, W + 10, H + 10), (245, 248, 252))
-    for _ in range(70):
-        x, y = p.r.randint(0, W), p.r.randint(0, H); p.d.ellipse((x, y, x + 7, y + 7), fill=(255, 255, 255))
+    for _ in range(60):
+        x, y = p.r.randint(0, W), p.r.randint(0, H); r = p.r.choice((8, 10, 13)); p.d.ellipse((x, y, x + r, y + r), fill=(255, 255, 255))
+
+def bg_castle(p):
+    p.rect((-10, -10, W + 10, H + 10), (144, 164, 174), 0)
+    wy = GROUND - 330
+    p.rect((-10, wy, W + 10, GROUND), (158, 158, 158), 6)
+    for x in range(-10, W, 120): p.rect((x, wy - 60, x + 70, wy), (158, 158, 158), 5)
+    for y in range(wy + 50, GROUND, 70):
+        off = 0 if (y // 70) % 2 else 60
+        for x in range(-off, W, 120): p.d.rectangle((x, y, x + 115, y + 65), outline=(120, 120, 120), width=3)
+    for tx in (X(220), X(1700)):
+        p.rect((tx - 110, wy - 260, tx + 110, GROUND), (150, 150, 150), 6)
+        for k in (-1, 0, 1): p.rect((tx + k * 75 - 25, wy - 320, tx + k * 75 + 25, wy - 260), (150, 150, 150), 5)
+        p.rect((tx - 25, wy - 180, tx + 25, wy - 100), (62, 39, 35), 4)
+    p.rect((-10, GROUND, W + 10, H + 10), (97, 97, 97))
 
 def bg_cave(p):
     p.rect((-10, -10, W + 10, H + 10), (93, 64, 55), 0)
@@ -261,7 +283,8 @@ SETTINGS = [
     (("map", "globe", "the earth", "world map"), bg_map),
     (("lab", "microscope", "computer screen", "dna", "x-ray", "brain scan", "journal"), bg_lab),
     (("chalkboard", "classroom", "whiteboard", "blueprint"), bg_classroom),
-    (("medieval", "witch", "pope", "castle", "plague", "bonfire", "villagers"), bg_medieval),
+    (("castle", "throne"), bg_castle),
+    (("medieval", "witch", "pope", "plague", "bonfire", "villagers"), bg_medieval),
     (("egypt", "pyramid", "nile", "pharaoh", "bastet", "temple", "mummy", "mummies", "tomb", "sekhmet", "ra", "hieroglyph"), bg_egypt),
     (("sea", "boat", "ship", "canoe", "viking", "island", "harbor", "port", "waves", "baltic"), bg_sea),
     (("desert", "savanna", "sand", "sun-baked"), bg_desert),
@@ -271,7 +294,7 @@ SETTINGS = [
     (("village", "hut", "huts", "mud-brick"), bg_village),
     (("turning red", "dramatic"), bg_red),
 ]
-INDOOR = (bg_interior, bg_lab, bg_classroom, bg_living, bg_cave, bg_plain, bg_timeline, bg_red, bg_space, bg_map)
+INDOOR = (bg_castle, bg_interior, bg_lab, bg_classroom, bg_living, bg_cave, bg_plain, bg_timeline, bg_red, bg_space, bg_map)
 
 # ----------------------------------------------------------------------------- characters
 EXPR = [  # (keywords, expression) - matched at the start of a word, first group wins
@@ -365,6 +388,8 @@ HUMANS = {
     "APE":   dict(shirt=(93, 64, 55), legs=(93, 64, 55), hair="messy", hair_col=(78, 52, 46), skin=(230, 195, 160), fur=True, ears=True),
     "SUMER": dict(shirt=(230, 210, 170), legs=(200, 150, 100), hair="bald", hair_col=(20, 20, 20), skin=(200, 150, 100), beard=True),
     "PERSON": dict(shirt=(156, 204, 101), legs=(120, 100, 80), hair="short", hair_col=(60, 40, 20)),
+    "NEAN":  dict(shirt=(110, 84, 58), legs=SKIN, hair="messy", hair_col=(150, 85, 45), fur=True, stocky=True, brow=True),
+    "KNIGHT": dict(shirt=(170, 170, 175), legs=(120, 120, 125), hair="short", hair_col=(60, 40, 20), helmet=True),
     "LADY":  dict(shirt=(216, 67, 120), legs=SKIN, hair="long", hair_col=(90, 55, 30)),
     "SCIW":  dict(shirt=(250, 250, 250), legs=(80, 80, 90), hair="long", hair_col=(120, 80, 45), glasses=True),
 }
@@ -376,7 +401,8 @@ def human_stickly(p, kind, x, s, e, arms, look, hold):
         p.line([(x + dx * s * 0.6, hip), (x + dx * s, gy)], 6)
         p.d.ellipse((x + dx * s - 30 * s + (12 * s if dx > 0 else -12 * s), gy - 14 * s, x + dx * s + 30 * s + (12 * s if dx > 0 else -12 * s), gy + 12 * s), fill=OL)
     coat = mute(c["shirt"])
-    p.poly([(x - 62 * s, neck), (x + 62 * s, neck), (x + 82 * s, hip + 50 * s), (x - 82 * s, hip + 50 * s)], coat, 5)
+    k_ = 1.25 if c.get("stocky") else 1.0
+    p.poly([(x - 62 * s * k_, neck), (x + 62 * s * k_, neck), (x + 82 * s * k_, hip + 50 * s), (x - 82 * s * k_, hip + 50 * s)], coat, 5)
     p.line([(x, neck + 5), (x, hip + 45 * s)], 4)
     for sx in (-1, 1): p.line([(x + sx * 4, neck), (x + sx * 38 * s, neck + 55 * s)], 4)
     hand = 1                                                  # index of the hand that points / holds things
@@ -396,6 +422,7 @@ def human_stickly(p, kind, x, s, e, arms, look, hold):
     if hold: prop(p, hold, targets[hand][0], targets[hand][1], s)
     hair = {"messy": (70, 50, 38), "short": (45, 38, 32), "long": (20, 20, 20), "bob": (20, 20, 20)}.get(c["hair"])
     if c.get("fur"): hair = (90, 68, 52)
+    if kind == "NEAN": hair = (150, 85, 45)
     if kind in ("LADY", "SCIW"): hair = (120, 80, 45)
     if kind == "SCI" or FACE["old"]: hair = (165, 165, 165)
     if c["hair"] == "long":
@@ -414,8 +441,13 @@ def human_stickly(p, kind, x, s, e, arms, look, hold):
     if c.get("helmet"):
         p.d.chord((x - hr * 1.05, hy - hr * 1.1, x + hr * 1.05, hy + hr * 0.3), 180, 360, fill=(140, 140, 140), outline=OL, width=5)
     if c.get("beard"):
-        p.d.chord((x - hr * 0.75, hy + hr * 0.1, x + hr * 0.75, hy + hr * 1.5), 0, 180, fill=(30, 30, 30), outline=OL, width=5)
+        p.poly([(x - hr * 0.86, hy + hr * 0.22), (x + hr * 0.86, hy + hr * 0.22), (x + hr * 0.62, hy + hr * 1.3), (x, hy + hr * 1.62), (x - hr * 0.62, hy + hr * 1.3)], (40, 34, 30), 5)
+        for k in range(4): p.line([(x - hr * 0.45 + k * hr * 0.3, hy + hr * 0.95), (x - hr * 0.45 + k * hr * 0.3, hy + hr * 1.3)], 3, (90, 80, 70))
+        p.ell((x - hr * 0.36, hy + hr * 0.27, x + hr * 0.36, hy + hr * 0.68), CREAM, 0)
     eyes(p, x, hy + hr * 0.02, hr * 0.33, e, look)
+    if c.get("brow"):                                         # heavy Neanderthal brow ridge and broad nose
+        p.d.arc((x - hr * 0.78, hy - hr * 0.5, x + hr * 0.78, hy + hr * 0.1), 195, 345, fill=OL, width=max(7, int(9 * s)))
+        p.d.ellipse((x - hr * 0.2 + look * hr * 0.1, hy + hr * 0.12, x + hr * 0.2 + look * hr * 0.1, hy + hr * 0.34), outline=OL, width=4)
     if FACE["nobrow"]:                                        # bare shiny forehead and shaved-brow stubble
         sy0 = -0.64 if c["hair"] == "bob" else -0.37
         p.d.ellipse((x - hr * 0.4, hy + hr * sy0, x + hr * 0.02, hy + hr * (sy0 + 0.12)), fill=(255, 255, 255))
@@ -789,11 +821,12 @@ def free_spots(rnd, k, size, circles, rects, near=None, tries=500):
 # ----------------------------------------------------------------------------- scene composer
 CHAR_WORDS = [
     (r"\{APE\}|\bapes?\b|chimp|monkey|bonobos?|orangutans?|gorillas?", "APE"), (r"persians?(?! cat)", "SUMER"), (r"\{SUMER\}|sumerians?|scribe|tavern keeper|babylon|wild man|enkidu|shepherds?", "SUMER"),
-    (r"\{CAVE\}|farmer|caveman|cavemen|cavepeople|hunter|natufian|worker|early humans?|homo erectus|teenager|volunteer|neanderthals?|denisovans?|bab(y|ies)|child|kids?", "CAVE"), (r"\{WOMAN\}|prehistoric woman|old woman|old cavewoman|grandmother|witch|mother|mom|queen", "WOMAN"),
+    (r"\{CAVE\}|farmer|caveman|cavemen|cavepeople|hunter|natufian|worker|early humans?|homo erectus|teenager|volunteer|bab(y|ies)|child|kids?", "CAVE"),
+    (r"neanderthals?|denisovans?", "NEAN"), (r"knights?\b", "KNIGHT"), (r"\{WOMAN\}|prehistoric woman|old woman|old cavewoman|grandmother|witch|mother|mom|queen", "WOMAN"),
     (r"wife|girlfriend|actress|bride|modern woman", "LADY"), (r"woman scientists?|female scientists?", "SCIW"),
     (r"\{GUY\}|stranger|customer|tourists?|postmaster|actor|boyfriend", "GUY"), (r"\{EGYPT\}|egyptians?|pharaoh|pilgrim", "EGYPT"),
     (r"\{SCI\}|historians?|scientists?|diodorus|herodotus|greek man|researcher", "SCI"),
-    (r"roman|emperor|greek man|greek men|senators?|soldiers?", "ROMAN"), (r"couples?|lovers", "COUPLE"), (r"monk|brewer|peasants?|medieval|hadza|husband|family|neighbou?r|knights?|priests?|pope", "PERSON"), (r"viking", "VIKING"), (r"crowd|villagers|peasant|soldiers|sailors|people|family", "PERSON"),
+    (r"roman|emperor|greek man|greek men|senators?|soldiers?", "ROMAN"), (r"couples?|lovers", "COUPLE"), (r"monk|brewer|peasants?|medieval|hadza|husband|family|neighbou?r|priests?\b|pope", "PERSON"), (r"viking", "VIKING"), (r"crowd|villagers|peasant|soldiers|sailors|people|family", "PERSON"),
     (r"black cat", "BLACKCAT"), (r"leopard cat", "LEOPARDCAT"), (r"persian cat", "PERSIAN"), (r"sphynx", "SPHYNX"),
     (r"maine coon", "MAINECOON"), (r"\{CAT\}|wildcats?|kittens?|bastet", "CAT"),
     (r"\{HOUSECAT\}|house cat|tabby", "HOUSECAT"),
@@ -808,7 +841,7 @@ FUNC = set("a an the at to of and or with by from toward towards beside next nea
 def char_info(scene):
     """Characters in order of mention: [{name, seg}]; name is KIND or KIND:s (small/kitten), seg is the text about it.
     'two/three/four {X}' repeats a kind, 'tiny/baby/small {X}' or '{X} kitten' draws a smaller one."""
-    found = []
+    scene = strip_q(scene); found = []
     for pat, kind in CHAR_WORDS:
         for m in re.finditer(r"(?<![A-Za-z])(?:" + pat + r")", scene, re.I):
             found.append((m.start(), -(m.end() - m.start()), m.end(), kind, m.group(0)))
@@ -865,12 +898,21 @@ def arms_for(scene):
     if has(("shrug", "palms up")): return "shrug"
     return "down"
 
+IMPLIED = {"roman", "senator", "senate", "toga", "sumerian", "scribe", "tavern keeper", "enkidu", "wild man", "shepherds",
+           "pharaoh", "witch", "pope", "villagers", "viking"}
+
 def pick_setting(low):
-    for keys, painter in SETTINGS:
-        if any(re.search(r"\b" + re.escape(k) + r"\b", low) for k in keys): return painter
+    for implied in (False, True):                             # explicit places first, then places implied by a character
+        for keys, painter in SETTINGS:
+            if any((k in IMPLIED) == implied and re.search(r"\b" + re.escape(k) + r"\b", low) for k in keys): return painter
     return None
 
+def strip_q(scene):
+    """The quoted on-screen word is only a label: it must not add characters, kisses or settings."""
+    return re.sub(r'"[A-Za-z !]{3,24}"', '""', scene)
+
 def scene_setting(low, ctx):
+    low = strip_q(low)
     painter = pick_setting(re.sub(r"\{\w+\}", "", low)) or ctx.get("setting") or bg_day
     if painter is bg_night and ctx.get("setting") in (bg_snow, bg_day, bg_jungle, bg_desert, bg_egypt, bg_mesop, bg_village,
                                                       bg_medieval, bg_greek, bg_living, bg_interior, bg_cave):
@@ -880,14 +922,15 @@ def scene_setting(low, ctx):
 def render(scene, caption, seed, out, ctx):
     rnd = random.Random(seed)
     img = Image.new("RGB", (W, H), (255, 255, 255)); p = P(img, rnd)
-    low = scene.lower()
+    quoted = re.search(r'"([A-Za-z !]{3,24})"', scene)
+    scene = strip_q(scene); low = scene.lower()
     painter = scene_setting(low, ctx)
-    SKY["moon"] = not (TOPY > 0 and re.search(r'"([A-Za-z !]{3,24})"', scene))
+    SKY["moon"] = not (TOPY > 0 and quoted); SKY["shelf"] = not quoted
     ctx["setting"] = painter
     SKY["discs"] = []
     painter(p)
     if re.search(r"\b(night|moon|moonlight|midnight)\b", low) and painter not in (bg_night, bg_space, bg_cave, bg_interior):
-        night_overlay(p, painter not in INDOOR)
+        night_overlay(p, painter not in INDOOR, painter is bg_snow)
     if painter is bg_living and re.search(r"\b(couch|sofa)\b", low): couch(p)
     nobrow = r"no eyebrows|bare (shiny )?(brow|forehead)|without eyebrows|eyebrows? gone"
     FACE.update(nobrow=False, tears=bool(re.search(r"\b(cry|crying|cries|tears?|sobbing|weeping)\b", low)))
@@ -926,8 +969,8 @@ def render(scene, caption, seed, out, ctx):
     L, R = (40, W - 130) if TOPY > 0 else (0, W)            # tall frame: keep clear of the Shorts buttons on the right
     slots = [(L + R) / 2] if n <= 1 else [L + (R - L) * (i + 1) / (n + 1) for i in range(n)]
     scale = (1.15 if n <= 2 else (0.9 if n == 3 else 0.72)) * CHAR_SCALE
-    quoted = re.search(r'"([A-Za-z !]{3,24})"', scene)
     if quoted: scale *= 0.85
+    if TOPY == 0 and re.search(r"wearing a (\w+ )?crown|\bcrowned\b|with a crown|\bking\b|\bqueen\b|\bemperor\b", low): scale = min(scale, 1.0)
     kiss = bool(re.search(r"\b(kiss|kissing|kisses|kissed|smooch\w*|nose rub\w*|rubbing noses|nose kiss\w*)\b", low))
     km = re.search(r"\b(kiss|kissing|kisses|kissed|smooch\w*|nose rub\w*|rubbing noses|nose kiss\w*)\b", low)
     cand = [i for i, it in enumerate(items) if it[2] is not None and it[0].split(":")[0] in HUMAN_KINDS]
@@ -935,7 +978,7 @@ def render(scene, caption, seed, out, ctx):
     pair = (sorted(before_k, key=lambda i: info[items[i][2]].get("pos", 0))[-2:] if len(before_k) >= 2 else cand[:2])
     kiss_look = {}
     if kiss and len(pair) == 2:
-        if TOPY == 0 and n <= 2: scale = min(scale, 1.0)
+        if TOPY == 0: scale = min(scale, 0.84 if quoted else 1.0)
         c_ = (slots[pair[0]] + slots[pair[1]]) / 2; d_ = 112 * scale
         slots[pair[0]], slots[pair[1]] = c_ - d_, c_ + d_; kiss_look = {pair[0]: 1, pair[1]: -1}
     humans_ci = [ci for ci, o in enumerate(info) if o["name"].split(":")[0] in HUMAN_KINDS]
@@ -1003,15 +1046,21 @@ def render(scene, caption, seed, out, ctx):
         cx_ = (kg[0]["head"][0] + kg[1]["head"][0]) / 2; s_ = kg[0]["s"]
         hs = 0.75 * s_ / CHAR_SCALE if TOPY == 0 else 0.9
         hy_ = max(min(kg[0]["top"], kg[1]["top"]) - 45 * s_, (qy + 95 if qword else 50) + 45 * hs, TITLE_BOTTOM + 45 * hs)
-        heart(p, cx_, hy_, hs); circles_k = [(cx_, hy_, 55 * hs)]
+        if all(g["ce"] in ("sad", "angry") for g in kg): circles_k = []
+        else: heart(p, cx_, hy_, hs); circles_k = [(cx_, hy_, 55 * hs)]
         if not re.search(r"\bnose", low):
             lo, hi = sorted(kg, key=lambda g: -g["mouth"][1])     # lo = the shorter one (mouth lower on screen)
             if lo["mouth"][1] - hi["mouth"][1] > 30 * s_:        # a child / small character: the kiss lands on its cheek
                 d = 1 if hi["head"][0] > lo["head"][0] else -1
-                lx, my_ = lo["head"][0] + d * lo["head"][2] * 0.7, lo["head"][1] + lo["head"][2] * 0.15
+                lx, my_ = lo["head"][0] + d * lo["head"][2] * 0.78, lo["head"][1] + lo["head"][2] * 0.45
             else: lx, my_ = cx_, (kg[0]["mouth"][1] + kg[1]["mouth"][1]) / 2
             p.ell((lx - 24 * s_, my_ - 13 * s_, lx + 24 * s_, my_ + 13 * s_), (229, 80, 120), 4); p.line([(lx - 20 * s_, my_), (lx + 20 * s_, my_)], 3)
     else: circles_k = []
+    if re.search(r"\bstatue\b", low) and len(kg) == 2:
+        x0 = int(min(g["body"][0] for g in kg) - 30); x1 = int(max(g["body"][2] for g in kg) + 30)
+        y0 = int(max(min(g["top"] for g in kg) - 10, 0)); box = (max(x0, 0), y0, min(x1, W), GROUND + 60)
+        img.paste(img.crop(box).convert("L").convert("RGB"), box[:2]); p = P(img, rnd)
+        p.rect((box[0] - 10, GROUND + 20, box[2] + 10, GROUND + 70), (200, 200, 200), 5)
     if "nest" in low:
         for g in geoms:
             if g["kind"] == "APE": nest(p, g["x"], g["s"])
@@ -1092,7 +1141,9 @@ def render(scene, caption, seed, out, ctx):
     for key, ch, col, sz in (("question mark", "?", (255, 255, 255), 200), ("exclamation", "!", (229, 57, 53), 220)):
         if key not in low: continue
         sz = sz if TOPY > 0 else sz + 60
-        gi = next((i for i, g in enumerate(geoms) if key.split()[0] in g["seg"]), 0)
+        want = "confused" if ch == "?" else "shock"
+        gi = next((i for i, g in enumerate(geoms) if g["ce"] == want),
+                  next((i for i, g in enumerate(geoms) if key.split()[0] in g["seg"]), 0))
         x_, y_ = beside(gi, sz * 0.6) if geoms else (W / 2, GROUND - 450)
         p.text((x_, y_), ch, sz, fill=col, stroke=12); circles.append((x_, y_, sz * 0.5))
     if any(k in low for k in ("light bulb", "lightbulb")):
@@ -1121,16 +1172,10 @@ def render(scene, caption, seed, out, ctx):
             bx = W / 2 + tw / 2 + 40 + br
             if bx + br > W - (150 if TOPY > 0 else 40): bx = W / 2 - tw / 2 - 40 - br
             if bx - br > 30: big_x(p, bx, qy, br, w=max(12, int(br * 0.32)))
-        elif over and re.search(r"them", over.group(0)) and len(geoms) >= 2:
-            r_ = 90 * scale; cy_ = max(min(geoms[0]["top"], geoms[1]["top"]) - 0.9 * r_, TITLE_BOTTOM + r_ + 20, (qy + 95 + r_) if qword else 0)
-            big_x(p, (geoms[0]["head"][0] + geoms[1]["head"][0]) / 2, cy_, r_)
-        elif over and geoms:                                  # explicitly "a red X over him": cross the character out
-            g = next((g for g in geoms if re.search(r"red x|crossed", g["seg"])), geoms[0])
-            big_x(p, g["x"], (g["top"] + g["body"][3]) / 2, 0.4 * (g["body"][3] - g["top"]))
-        elif prop_slots: big_x(p, prop_slots[0], GROUND - 130 * scale, 140 * scale)
-        elif animals: g = animals[0]; big_x(p, g["x"], (g["top"] + g["body"][3]) / 2, 0.42 * (g["body"][3] - g["top"]), w=max(16, int(26 * g["s"])))
+        elif prop_slots and not over: big_x(p, prop_slots[0], GROUND - 130 * scale, 140 * scale)
         elif geoms:
-            g = next((g for g in geoms if re.search(r"red x|crossed", g["seg"])), geoms[-1])
+            g = animals[0] if animals else next((g for g in geoms if re.search(r"red x|crossed", g["seg"])), geoms[-1])
+            if over and len(kg) == 2: g = kg[0]
             r_ = 105 * (scale if TOPY == 0 else 1.0)
             spot = free_spots(rnd, 1, r_ * 1.3, circles, rects, (g["head"][0], g["head"][1]))
             bx, by = spot[0] if spot else (min(max(g["x"] + (r_ + g["hw"] + 30) * (1 if g["x"] < W / 2 else -1), r_ + 40), W - r_ - 40), g["head"][1])
@@ -1139,17 +1184,16 @@ def render(scene, caption, seed, out, ctx):
     # caption (narration line)
     if not caption:
         img.save(out, quality=92); return
-    words = caption.strip()
-    f = ImageFont.truetype(FONT, 62)
-    lines, cur = [], ""
-    for wd in words.split():
-        t = (cur + " " + wd).strip()
-        if p.d.textlength(t, font=f) > W - 220: lines.append(cur); cur = wd
-        else: cur = t
-    lines.append(cur)
-    y0 = H - 125 - 76 * (len(lines) - 1)
+    words = caption.strip(); maxw = W - 220
+    size = next((z for z in (62, 56, 50) if p.d.textlength(words, font=ImageFont.truetype(FONT, z)) <= maxw), None)
+    if size: lines, lh = [words], 76
+    else:                                                     # two balanced lines
+        size, lh = 54, 64; f = ImageFont.truetype(FONT, size); ws = words.split()
+        cut = min(range(1, len(ws)), key=lambda i: max(p.d.textlength(" ".join(ws[:i]), font=f), p.d.textlength(" ".join(ws[i:]), font=f)))
+        lines = [" ".join(ws[:cut]), " ".join(ws[cut:])]
+    y0 = H - (125 if len(lines) == 1 else 100) - lh * (len(lines) - 1)
     for k, ln in enumerate(lines):
-        p.text((W / 2, y0 + k * 76), ln, 62, fill=(255, 255, 255), stroke=9)
+        p.text((W / 2, y0 + k * lh), ln, size, fill=(255, 255, 255), stroke=9)
     img.save(out, quality=92)
 
 if __name__ == "__main__":
