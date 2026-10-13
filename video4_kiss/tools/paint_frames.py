@@ -826,7 +826,7 @@ CHAR_WORDS = [
     (r"wife|girlfriend|actress|bride|modern woman", "LADY"), (r"woman scientists?|female scientists?", "SCIW"),
     (r"\{GUY\}|stranger|customer|tourists?|postmaster|actor|boyfriend", "GUY"), (r"\{EGYPT\}|egyptians?|pharaoh|pilgrim", "EGYPT"),
     (r"\{SCI\}|historians?|scientists?|diodorus|herodotus|greek man|researcher", "SCI"),
-    (r"roman|emperor|greek man|greek men|senators?|soldiers?", "ROMAN"), (r"couples?|lovers", "COUPLE"), (r"monk|brewer|peasants?|medieval|hadza|husband|family|neighbou?r|priests?\b|pope", "PERSON"), (r"viking", "VIKING"), (r"crowd|villagers|peasant|soldiers|sailors|people|family", "PERSON"),
+    (r"roman|emperor|greek man|greek men|senators?|soldiers?", "ROMAN"), (r"couples?|lovers", "COUPLE"), (r"monk|brewer|peasants?|medieval (man|men|person|people|woman)|hadza|husband|family|neighbou?r|priests?\b|pope", "PERSON"), (r"viking", "VIKING"), (r"crowd|villagers|peasant|soldiers|sailors|people|family", "PERSON"),
     (r"black cat", "BLACKCAT"), (r"leopard cat", "LEOPARDCAT"), (r"persian cat", "PERSIAN"), (r"sphynx", "SPHYNX"),
     (r"maine coon", "MAINECOON"), (r"\{CAT\}|wildcats?|kittens?|bastet", "CAT"),
     (r"\{HOUSECAT\}|house cat|tabby", "HOUSECAT"),
