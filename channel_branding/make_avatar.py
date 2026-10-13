@@ -1,6 +1,7 @@
 """Channel avatar variants (800x800) drawn with the same stick-figure renderer as the videos.
 
-usage: FRAME_STYLE=stickly python3 channel_branding/make_avatar.py <out_dir>
+usage: python3 channel_branding/make_avatar.py <out_dir>          # 9 draft variants + previews
+       python3 channel_branding/make_avatar.py <out_dir> final    # the chosen avatar (avatar_final.png)
 YouTube shows the avatar as a circle (98 px on desktop, ~48 px in comments), so every variant is a big face, no text.
 """
 import os, random, sys
@@ -77,3 +78,58 @@ if __name__ == "__main__":
         av = crop(img, g); av.save(os.path.join(out, f"avatar_{name}.png"))
         circle_preview(av).save(os.path.join(out, f"preview_{name}.png"))
     print("ok", len(VARIANTS))
+
+
+# ----------------------------------------------------------------------------- final avatar (judge panel pick H + tweaks)
+def final_avatar(path):
+    """Curious caveman on orange: big face, brows on the skin, one-shoulder hide, a '?' made of a crooked stick and a pebble."""
+    import math
+    N = 1600; O = 28                                          # drawn at 2x, outline 28 px -> 14 px at 800
+    OLc, CREAMc = (20, 20, 20), (246, 241, 222)
+    img = Image.new("RGB", (N, N), (232, 93, 4)); d = ImageDraw.Draw(img)
+    def poly(pts, fill): d.polygon(pts, fill=fill); d.line(pts + [pts[0]], fill=OLc, width=O, joint="curve")
+    def ell(box, fill): d.ellipse(box, fill=fill, outline=OLc, width=O)
+    hx, hy, r = 660, 780, 455
+    # body: bare right shoulder, hide over the left shoulder with a jagged edge and spots
+    poly([(hx - 520, N + 40), (hx - 470, hy + 470), (hx - 120, hy + 400), (hx + 120, hy + 400), (hx + 470, hy + 470), (hx + 540, N + 40)], CREAMc)
+    hide = [(hx - 560, N + 40), (hx - 500, hy + 460), (hx - 260, hy + 400)]
+    for k in range(7):                                        # zigzag strap edge running down to the right
+        t = k / 6; x0 = hx - 260 + t * 700; y0 = hy + 400 + t * 470
+        hide.append((x0 + 35, y0 + (25 if k % 2 else -25)))
+    hide += [(hx + 520, N + 40)]
+    poly(hide, (104, 68, 38))
+    for sx, sy, rr in ((hx - 300, hy + 560, 34), (hx - 120, hy + 690, 28), (hx - 380, hy + 730, 30), (hx + 40, hy + 800, 26)):
+        d.ellipse((sx - rr, sy - rr * 0.75, sx + rr, sy + rr * 0.75), fill=(70, 44, 24))
+    # head
+    ell((hx - r, hy - r, hx + r, hy + r), CREAMc)
+    # shaggy hair: jagged crown with a zigzag fringe high on the forehead
+    hair = []
+    for i in range(15):
+        a = math.pi * (1.0 + i / 14); rr = r * (1.22 if i % 2 else 1.04)
+        hair.append((hx + rr * math.cos(a), hy - r * 0.05 + rr * math.sin(a) * 0.95))
+    fringe_y = hy - r * 0.68
+    for k in range(8, -1, -1):                                # zigzag fringe from right to left
+        x0 = hx - r * 0.98 + k * (r * 1.96 / 8); hair.append((x0, fringe_y + (40 if k % 2 else -10)))
+    poly(hair, (84, 56, 34))
+    # brows on the skin: left flat, right raised
+    d.line([(hx - 255, hy - 170), (hx - 85, hy - 178)], fill=OLc, width=32)
+    _arc(d, (hx + 80, hy - 250, hx + 260, hy - 110), 200, 340, OLc, 32)   # unpatched arc: real 32 px
+    # eyes looking a little up-right, deadpan
+    for ex in (hx - 165, hx + 165):
+        d.ellipse((ex - 38 + 12, hy - 95 - 38, ex + 38 + 12, hy - 95 + 38), fill=OLc)
+    # wavy, puzzled mouth
+    d.line([(hx - 95, hy + 195), (hx - 35, hy + 178), (hx + 25, hy + 192), (hx + 85, hy + 176)], fill=OLc, width=28, joint="curve")
+    # the '?' as a crooked stick with a pebble dot
+    q = [(1195, 560), (1190, 445), (1250, 365), (1350, 350), (1430, 405), (1445, 495), (1395, 575), (1330, 625), (1315, 725)]
+    d.line(q, fill=OLc, width=96, joint="curve"); d.line(q, fill=(214, 172, 104), width=62, joint="curve")
+    for cx_, cy_ in ((q[0][0], q[0][1]), (q[-1][0], q[-1][1])):
+        d.ellipse((cx_ - 48, cy_ - 48, cx_ + 48, cy_ + 48), fill=OLc); d.ellipse((cx_ - 31, cy_ - 31, cx_ + 31, cy_ + 31), fill=(214, 172, 104))
+    for kx, ky in ((1420, 460), (1262, 390)):                # knots on the wood
+        d.ellipse((kx - 12, ky - 9, kx + 12, ky + 9), fill=(150, 110, 60))
+    ell((1258, 795, 1378, 892), (176, 176, 176))              # pebble dot
+    img.resize((800, 800), Image.LANCZOS).save(path)
+    return Image.open(path)
+
+if __name__ == "__main__" and len(sys.argv) > 2 and sys.argv[2] == "final":
+    av = final_avatar(os.path.join(sys.argv[1], "avatar_final.png"))
+    circle_preview(av).save(os.path.join(sys.argv[1], "preview_final.png"))
