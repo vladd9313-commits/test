@@ -26,11 +26,11 @@ def big_timer(p, x, y, label, size=150):
 
 def frame(text, draw_scene, out, bg=(40, 46, 66), seed=5):
     rnd = random.Random(seed)
-    scene = Image.new("RGB", (W, H), "white"); p = P(scene, rnd)
+    k = pf.SS; scene = pf.blank(); p = P(scene, rnd)
     draw_scene(p)
-    canvas = Image.new("RGB", (W, H), bg); canvas.paste(scene, (0, 170))
+    canvas = Image.new("RGB", (W * k, H * k), bg); canvas.paste(scene, (0, 170 * k))
     size = 190
-    while ImageDraw.Draw(canvas).textlength(text, font=ImageFont.truetype(FONT, size)) > W - 80: size -= 6
+    while ImageDraw.Draw(canvas).textlength(text, font=ImageFont.truetype(FONT, size * k)) > (W - 80) * k: size -= 6
     P(canvas, rnd).text((W / 2, 140), text, size, fill=(255, 235, 59), stroke=18)
     canvas.resize((1280, 720), Image.LANCZOS).save(out, quality=95)
 

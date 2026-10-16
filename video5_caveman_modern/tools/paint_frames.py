@@ -29,17 +29,75 @@ def Y(v): return v + TOPY          # y of a sky element, kept at the same height
 STICKLY = os.environ.get("FRAME_STYLE") == "stickly"   # minimalist muted stickman style
 CREAM = (246, 241, 222)
 
-def mute(c, k=0.5, base=(165, 158, 130)):
+def mute(c, k=0.25, base=(165, 158, 130)):
     return tuple(int(v * (1 - k) + b * k) for v, b in zip(c, base)) if STICKLY else c
 
 def mute_image(img):
-    m = ImageEnhance.Color(img).enhance(0.35)
-    m = Image.blend(m, Image.new("RGB", img.size, (140, 160, 165)), 0.22)
+    m = ImageEnhance.Color(img).enhance(0.8)
+    m = Image.blend(m, Image.new("RGB", img.size, (140, 160, 165)), 0.06)
     img.paste(m)
+
+SS = int(os.environ.get("FRAME_SS", 2))                   # supersampling: draw at SS x size, save downscaled (smooth edges)
+OUT_W = int(os.environ.get("FRAME_OUT_W", 2560))          # saved frame width (1440p frames make YouTube use its better codec)
+
+class SSDraw:
+    """ImageDraw on a k-times bigger image that takes the usual 1920x1080 layout coordinates."""
+    def __init__(self, img, k):
+        self.d, self.k, self.fonts = ImageDraw.Draw(img), k, {}
+    def _c(self, xy):
+        k = self.k
+        if isinstance(xy, (list, tuple)) and xy and isinstance(xy[0], (list, tuple)): return [(a * k, b * k) for a, b in xy]
+        return [v * k for v in xy]
+    def _kw(self, kw):
+        for key in ("width", "radius", "stroke_width"):
+            if key in kw and kw[key]: kw[key] = max(1, round(kw[key] * self.k))
+        if "font" in kw and kw["font"] is not None: kw["font"] = self.big(kw["font"])
+        return kw
+    def big(self, font):
+        key = (font.path, font.size)
+        if key not in self.fonts: self.fonts[key] = ImageFont.truetype(font.path, int(round(font.size * self.k)))
+        return self.fonts[key]
+    def polygon(self, xy, **kw): self.d.polygon(self._c(xy), **self._kw(kw))
+    def line(self, xy, **kw): self.d.line(self._c(xy), **self._kw(kw))
+    def ellipse(self, xy, **kw): self.d.ellipse(self._c(xy), **self._kw(kw))
+    def rectangle(self, xy, **kw): self.d.rectangle(self._c(xy), **self._kw(kw))
+    def rounded_rectangle(self, xy, **kw): self.d.rounded_rectangle(self._c(xy), **self._kw(kw))
+    def arc(self, xy, start, end, **kw): self.d.arc(self._c(xy), start, end, **self._kw(kw))
+    def chord(self, xy, start, end, **kw): self.d.chord(self._c(xy), start, end, **self._kw(kw))
+    def pieslice(self, xy, start, end, **kw): self.d.pieslice(self._c(xy), start, end, **self._kw(kw))
+    def text(self, xy, text, **kw): self.d.text(tuple(self._c(xy)), text, **self._kw(kw))
+    def textlength(self, text, font=None, **kw): return self.d.textlength(text, font=self.big(font)) / self.k
+
+def light_pass(img):
+    """Soft top light and a gentle vignette, so flat backgrounds get depth."""
+    import numpy as np
+    a = np.asarray(img).astype(np.float32); h, w = a.shape[:2]
+    yy = np.linspace(0, 1, h)[:, None]; xx = np.linspace(-1, 1, w)[None, :]
+    light = 1.06 - 0.12 * yy                                     # brighter sky, a bit darker floor
+    vig = 1 - 0.10 * (xx ** 2) - 0.08 * ((yy * 2 - 1) ** 2)
+    a = np.clip(a * (light * vig)[..., None], 0, 255).astype(np.uint8)
+    img.paste(Image.fromarray(a))
+
+def shadows(img, spots, k):
+    """Soft contact shadows under characters and props: list of (x, half_width) on the floor line."""
+    from PIL import ImageFilter
+    if not spots: return
+    m = Image.new("L", img.size, 0); d = ImageDraw.Draw(m); gy = (GROUND + 42) * k
+    for x, hw in spots: d.ellipse(((x - hw) * k, gy - 22 * k, (x + hw) * k, gy + 22 * k), fill=110)
+    m = m.filter(ImageFilter.GaussianBlur(10 * k))
+    img.paste(Image.composite(Image.new("RGB", img.size, (30, 30, 40)), img, m))
+
+def blank(mode="RGB", color=(255, 255, 255)):
+    return Image.new(mode, (W * SS, H * SS), color)
+
+def save_frame(img, out):
+    img.resize((OUT_W, round(OUT_W * H / W)), Image.LANCZOS).save(out, quality=95)
 
 class P:
     def __init__(self, img, rnd):
-        self.img, self.d, self.r = img, ImageDraw.Draw(img), rnd
+        self.img, self.r = img, rnd
+        self.k = img.width / W
+        self.d = SSDraw(img, self.k)
 
     def wob(self, pts, amt=3):
         if STICKLY: return list(pts)
@@ -85,7 +143,7 @@ def stars(p, n, y1):
 def moon(p):
     if not SKY["moon"]: return
     mx, my = p.r.choice([(60, SKY_Y), (W - 260, SKY_Y)] if TOPY > 0 else [(200, 140), (1650, 150)])
-    sky = p.img.getpixel((int(min(mx + 178, W - 1)), int(my + 60)))
+    sky = p.img.getpixel((int(min(mx + 178, W - 1) * p.k), int((my + 60) * p.k)))
     p.d.ellipse((mx, my, mx + 130, my + 130), fill=(255, 255, 240)); p.d.ellipse((mx + 40, my - 15, mx + 170, my + 115), fill=sky)
     SKY["discs"].append((mx + 65, my + 65, 80))
 
@@ -106,7 +164,7 @@ def night_overlay(p, outdoor, snow=False):
     if snow:                                                  # snowy night: dark sky, the ground stays pale
         dark = Image.blend(p.img, Image.new("RGB", p.img.size, (16, 24, 66)), 0.6)
         ground = Image.blend(p.img, Image.new("RGB", p.img.size, (16, 24, 66)), 0.22)
-        dark.paste(ground.crop((0, GROUND, W, H)), (0, GROUND)); p.img.paste(dark)
+        k_ = p.k; dark.paste(ground.crop((0, int(GROUND * k_), int(W * k_), int(H * k_))), (0, int(GROUND * k_))); p.img.paste(dark)
         for _ in range(40):
             x_, y_ = p.r.randint(0, W), p.r.randint(0, H); p.d.ellipse((x_, y_, x_ + 12, y_ + 12), fill=(235, 240, 250))
         stars(p, 20, max(SKY_Y + 120, 160)); moon(p); return
@@ -412,6 +470,8 @@ def human_stickly(p, kind, x, s, e, arms, look, hold):
     coat = mute(c["shirt"])
     k_ = 1.25 if c.get("stocky") else 1.0
     p.poly([(x - 62 * s * k_, neck), (x + 62 * s * k_, neck), (x + 82 * s * k_, hip + 50 * s), (x - 82 * s * k_, hip + 50 * s)], coat, 5)
+    shade = tuple(int(v * 0.82) for v in coat)
+    p.d.polygon([(x + 22 * s * k_, neck + 4), (x + 60 * s * k_, neck + 4), (x + 79 * s * k_, hip + 47 * s), (x + 30 * s * k_, hip + 47 * s)], fill=shade)
     p.line([(x, neck + 5), (x, hip + 45 * s)], 4)
     for sx in (-1, 1): p.line([(x + sx * 4, neck), (x + sx * 38 * s, neck + 55 * s)], 4)
     hand = 1                                                  # index of the hand that points / holds things
@@ -942,7 +1002,7 @@ def scene_setting(low, ctx):
 
 def render(scene, caption, seed, out, ctx):
     rnd = random.Random(seed)
-    img = Image.new("RGB", (W, H), (255, 255, 255)); p = P(img, rnd)
+    img = blank(); p = P(img, rnd)
     scene, tlabel = modern.split_timer(scene)
     quoted = re.search(r'"((?=[^"]*[A-Za-z%])[A-Za-z0-9 !%]{2,24})"', scene)
     scene = strip_q(scene); low = scene.lower()
@@ -1034,6 +1094,9 @@ def render(scene, caption, seed, out, ctx):
         tm = next((i for i in hi if "treadmill" in info[items[i][2]]["seg"].lower() and "watching" not in info[items[i][2]]["seg"].lower()), hi[-1] if hi else None)
         if tm is not None: modern.treadmill(p, slots[tm], scale)
     if STICKLY: mute_image(img)
+    light_pass(img)
+    shadows(img, [(slots[i], 120 * scale * (0.72 if it[0].endswith(":s") else 1) * (1.4 if it[0].split(":")[0] in CATS else 1))
+                  for i, it in enumerate(items) if it[2] is not None or it[0] in ("goat", "mammoth", "pot")], img.width / W)
     trect = modern.timer(p, tlabel) if tlabel else None
     for i, (name, pl, ci) in enumerate(items):                # fire stays bright orange in the muted style
         if name == "fire" and STICKLY: fire(p, slots[i], CHAR_SCALE)
@@ -1064,10 +1127,10 @@ def render(scene, caption, seed, out, ctx):
             if re.search(r"\bhiss|fur puffed|puffed-up", (seg or scene).lower()): ce = "angry"
             cs = scale * (1.05 if n <= 2 else 0.95) * (0.6 if small else 1); FACE["nobrow"] = False
             if sit_on_pot and pot_top and kind in ("CAT", "HOUSECAT"):
-                img2 = Image.new("RGBA", (W, H), (0, 0, 0, 0)); p2 = P(img2, rnd)
+                img2 = blank("RGBA", (0, 0, 0, 0)); p2 = P(img2, rnd)
                 g = cat(p2, kind, W / 2, 0.75 * CHAR_SCALE, ce, look=look)
                 ox, oy = int(pot_top[0] - W / 2), int(pot_top[1] - (GROUND + 40) + 20)
-                img.paste(img2, (ox, oy), img2); p = P(img, rnd)
+                img.paste(img2, (ox * SS, oy * SS), img2); p = P(img, rnd)
                 g = dict(g, x=g["x"] + ox, head=(g["head"][0] + ox, g["head"][1] + oy, g["head"][2]), top=g["top"] + oy,
                          mouth=(g["mouth"][0] + ox, g["mouth"][1] + oy), body=(g["body"][0] + ox, g["body"][1] + oy, g["body"][2] + ox, g["body"][3] + oy))
             else:
@@ -1097,7 +1160,7 @@ def render(scene, caption, seed, out, ctx):
     if re.search(r"\bstatue\b", low) and len(kg) == 2:
         x0 = int(min(g["body"][0] for g in kg) - 30); x1 = int(max(g["body"][2] for g in kg) + 30)
         y0 = int(max(min(g["top"] for g in kg) - 10, 0)); box = (max(x0, 0), y0, min(x1, W), GROUND + 60)
-        img.paste(img.crop(box).convert("L").convert("RGB"), box[:2]); p = P(img, rnd)
+        bs = tuple(int(v * SS) for v in box); img.paste(img.crop(bs).convert("L").convert("RGB"), bs[:2]); p = P(img, rnd)
         p.rect((box[0] - 10, GROUND + 20, box[2] + 10, GROUND + 70), (200, 200, 200), 5)
     if "nest" in low:
         for g in geoms:
@@ -1223,7 +1286,7 @@ def render(scene, caption, seed, out, ctx):
         else: big_x(p, W / 2, GROUND - 330, 300 if TOPY > 0 else 330)
     # caption (narration line)
     if not caption:
-        img.save(out, quality=92); return
+        save_frame(img, out); return
     words = caption.strip(); maxw = W - 220
     size = next((z for z in (62, 56, 50) if p.d.textlength(words, font=ImageFont.truetype(FONT, z)) <= maxw), None)
     if size: lines, lh = [words], 76
@@ -1234,7 +1297,7 @@ def render(scene, caption, seed, out, ctx):
     y0 = H - (125 if len(lines) == 1 else 100) - lh * (len(lines) - 1)
     for k, ln in enumerate(lines):
         p.text((W / 2, y0 + k * lh), ln, size, fill=(255, 255, 255), stroke=9)
-    img.save(out, quality=92)
+    save_frame(img, out)
 
 if __name__ == "__main__":
     out = sys.argv[1]; os.makedirs(out, exist_ok=True)
