@@ -1,0 +1,2954 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "It's forty thousand years ago.",
+  "scene": "a timeline, a stone tablet with \"40000\", a big question mark",
+  "start": 0.0,
+  "end": 2.344
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "You're a woman in a small band of hunter-gatherers.",
+  "scene": "{WOMAN} smiling on a sunny day, three {CAVE} behind her",
+  "start": 2.344,
+  "end": 5.73
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "No pharmacy.",
+  "scene": "{WOMAN} confused, the word \"PHARMACY\" above her, a big red X",
+  "start": 5.73,
+  "end": 7.248
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "No pads.",
+  "scene": "{WOMAN} shrugging, palms up, the word \"PADS\" above her, a big red X",
+  "start": 7.248,
+  "end": 8.664
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "No underwear.",
+  "scene": "{WOMAN} shocked, the word \"UNDERWEAR\" above her, a big red X",
+  "start": 8.664,
+  "end": 10.096
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "And a long walk to the next camp.",
+  "scene": "{WOMAN} walking in the savanna, a long road, the word \"20 KM\" above her",
+  "start": 10.096,
+  "end": 12.412
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "So how did she deal with her period?",
+  "scene": "{WOMAN} confused, a giant question mark",
+  "start": 12.412,
+  "end": 14.848
+ },
+ {
+  "n": 7,
+  "block": "B01",
+  "text": "Here's the twist almost nobody mentions.",
+  "scene": "{SCIW} pointing, finger raised, in a lab, an exclamation mark",
+  "start": 14.848,
+  "end": 17.908
+ },
+ {
+  "n": 8,
+  "block": "B01",
+  "text": "You, if you're a woman today,",
+  "scene": "{LADY} smiling in a living room",
+  "start": 17.908,
+  "end": 19.861
+ },
+ {
+  "n": 9,
+  "block": "B01",
+  "text": "will probably have around four hundred fifty periods in your life.",
+  "scene": "{LADY} shocked, hands on her head, the word \"450\" above her",
+  "start": 19.861,
+  "end": 24.425
+ },
+ {
+  "n": 10,
+  "block": "B01",
+  "text": "She probably had about a hundred.",
+  "scene": "{WOMAN} smug on a sunny day, the word \"100\" above her",
+  "start": 24.425,
+  "end": 26.808
+ },
+ {
+  "n": 11,
+  "block": "B01",
+  "text": "Maybe a hundred and fifty.",
+  "scene": "{WOMAN} shrugging, the word \"150\" above her",
+  "start": 26.808,
+  "end": 28.916
+ },
+ {
+  "n": 12,
+  "block": "B01",
+  "text": "Same body. Same biology.",
+  "scene": "{LADY} and {WOMAN} standing side by side, both confused",
+  "start": 28.916,
+  "end": 31.658
+ },
+ {
+  "n": 13,
+  "block": "B01",
+  "text": "Three times fewer periods.",
+  "scene": "{LADY} shocked and {WOMAN} smug, a big exclamation mark",
+  "start": 31.658,
+  "end": 33.76
+ },
+ {
+  "n": 14,
+  "block": "B01",
+  "text": "So what was going on in the Stone Age?",
+  "scene": "{WOMAN} by a campfire at night, a giant question mark",
+  "start": 33.76,
+  "end": 37.005
+ },
+ {
+  "n": 15,
+  "block": "B02",
+  "text": "So how did ancient women actually deal with periods?",
+  "scene": "{WOMAN} thinking by a campfire, the word \"ACTUALLY\" above her, a giant question mark",
+  "start": 37.005,
+  "end": 40.897
+ },
+ {
+  "n": 16,
+  "block": "B02",
+  "text": "Most videos jump straight to Egypt and Rome.",
+  "scene": "{SCI} pointing at a world map, the word \"EGYPT\" above him",
+  "start": 40.897,
+  "end": 44.145
+ },
+ {
+  "n": 17,
+  "block": "B02",
+  "text": "Papyrus tampons. Roman superstitions. Medieval rags.",
+  "scene": "{SCI} bored next to a world map, the word \"RAGS\" above him",
+  "start": 44.145,
+  "end": 49.018
+ },
+ {
+  "n": 18,
+  "block": "B02",
+  "text": "We'll get there.",
+  "scene": "{SCI} smiling, thumbs up",
+  "start": 49.018,
+  "end": 50.349
+ },
+ {
+  "n": 19,
+  "block": "B02",
+  "text": "But Egypt is five thousand years old.",
+  "scene": "a timeline, a stone tablet with \"5000\", a pyramid",
+  "start": 50.349,
+  "end": 53.192
+ },
+ {
+  "n": 20,
+  "block": "B02",
+  "text": "Humans are three hundred thousand years old.",
+  "scene": "a timeline, a stone tablet with \"300000\", sparkles",
+  "start": 53.192,
+  "end": 56.312
+ },
+ {
+  "n": 21,
+  "block": "B02",
+  "text": "That's ninety-eight percent of our story",
+  "scene": "{SCI} shocked, pointing at a timeline, the word \"98%\" above him",
+  "start": 56.312,
+  "end": 58.803
+ },
+ {
+  "n": 22,
+  "block": "B02",
+  "text": "that happened before anyone wrote anything down.",
+  "scene": "{CAVE} confused next to a blank clay tablet, a big question mark",
+  "start": 58.803,
+  "end": 62.165
+ },
+ {
+  "n": 23,
+  "block": "B02",
+  "text": "And for that part, the honest answer is strange.",
+  "scene": "{SCIW} thinking in a lab, a question mark",
+  "start": 62.165,
+  "end": 65.504
+ },
+ {
+  "n": 24,
+  "block": "B02",
+  "text": "The period problem, as we know it,",
+  "scene": "{LADY} sighing on a couch in a living room",
+  "start": 65.504,
+  "end": 67.976
+ },
+ {
+  "n": 25,
+  "block": "B02",
+  "text": "is mostly a modern problem.",
+  "scene": "{LADY} shocked on a couch, an exclamation mark",
+  "start": 67.976,
+  "end": 70.414
+ },
+ {
+  "n": 26,
+  "block": "B02",
+  "text": "Not because ancient women had it easy.",
+  "scene": "{WOMAN} angry, frowning, on a cold windy day",
+  "start": 70.414,
+  "end": 73.234
+ },
+ {
+  "n": 27,
+  "block": "B02",
+  "text": "But because their lives looked completely different.",
+  "scene": "{WOMAN} carrying a baby, walking in the savanna, the word \"DIFFERENT\" above her",
+  "start": 73.234,
+  "end": 76.233
+ },
+ {
+  "n": 28,
+  "block": "B02",
+  "text": "And to understand that, we need to start with a weird question.",
+  "scene": "{SCI} thinking in a lab, a question mark",
+  "start": 76.233,
+  "end": 81.042
+ },
+ {
+  "n": 29,
+  "block": "B03",
+  "text": "Why do humans have periods at all?",
+  "scene": "{SCIW} confused in a lab, a giant question mark",
+  "start": 81.042,
+  "end": 83.613
+ },
+ {
+  "n": 30,
+  "block": "B03",
+  "text": "Because most mammals don't.",
+  "scene": "{SCIW} pointing, the word \"MAMMALS\" above her",
+  "start": 83.613,
+  "end": 85.675
+ },
+ {
+  "n": 31,
+  "block": "B03",
+  "text": "Your dog doesn't.",
+  "scene": "a dog smug in a living room, a big red X",
+  "start": 85.675,
+  "end": 87.297
+ },
+ {
+  "n": 32,
+  "block": "B03",
+  "text": "Your cat doesn't.",
+  "scene": "{HOUSECAT} bored in a living room, a big red X",
+  "start": 87.297,
+  "end": 88.848
+ },
+ {
+  "n": 33,
+  "block": "B03",
+  "text": "Cows, horses, mice, whales.",
+  "scene": "{SCI} shrugging next to a world map, the word \"NOPE\" above him",
+  "start": 88.848,
+  "end": 91.169
+ },
+ {
+  "n": 34,
+  "block": "B03",
+  "text": "Their bodies build up a soft lining for a possible baby,",
+  "scene": "{SCIW} pointing at a diagram on a chalkboard, the word \"LINING\" above her",
+  "start": 91.169,
+  "end": 95.106
+ },
+ {
+  "n": 35,
+  "block": "B03",
+  "text": "and if no baby comes, they quietly absorb it back.",
+  "scene": "{SCIW} smiling next to a chalkboard, the word \"RECYCLE\" above her",
+  "start": 95.106,
+  "end": 99.069
+ },
+ {
+  "n": 36,
+  "block": "B03",
+  "text": "No mess. No drama.",
+  "scene": "a dog sleeping happily on a couch, z letters",
+  "start": 99.069,
+  "end": 101.091
+ },
+ {
+  "n": 37,
+  "block": "B03",
+  "text": "Only a tiny club of mammals sheds that lining every month.",
+  "scene": "{SCI} surprised in a lab, the word \"CLUB\" above him",
+  "start": 101.091,
+  "end": 105.474
+ },
+ {
+  "n": 38,
+  "block": "B03",
+  "text": "Humans.",
+  "scene": "{WOMAN} smiling, a sparkle",
+  "start": 105.474,
+  "end": 106.728
+ },
+ {
+  "n": 39,
+  "block": "B03",
+  "text": "Apes and some monkeys.",
+  "scene": "two {APE} confused in a jungle",
+  "start": 106.728,
+  "end": 108.567
+ },
+ {
+  "n": 40,
+  "block": "B03",
+  "text": "A few kinds of bats.",
+  "scene": "{SCI} shocked, the word \"BATS\" above him, an exclamation mark",
+  "start": 108.567,
+  "end": 110.429
+ },
+ {
+  "n": 41,
+  "block": "B03",
+  "text": "The elephant shrew.",
+  "scene": "{SCI} confused, the word \"SHREW\" above him, a question mark",
+  "start": 110.429,
+  "end": 112.059
+ },
+ {
+  "n": 42,
+  "block": "B03",
+  "text": "And, discovered only in 2016,",
+  "scene": "a timeline, a stone tablet with \"2016\", sparkles",
+  "start": 112.059,
+  "end": 114.541
+ },
+ {
+  "n": 43,
+  "block": "B03",
+  "text": "one little rodent: the spiny mouse.",
+  "scene": "a mouse in a lab, {SCIW} happy pointing at it",
+  "start": 114.541,
+  "end": 117.894
+ },
+ {
+  "n": 44,
+  "block": "B03",
+  "text": "Why us?",
+  "scene": "{WOMAN} angry, arms crossed, a giant question mark",
+  "start": 117.894,
+  "end": 119.076
+ },
+ {
+  "n": 45,
+  "block": "B03",
+  "text": "The leading idea is a kind of biological arms race.",
+  "scene": "{SCIW} thinking at a chalkboard, the word \"ARMS RACE\" above her",
+  "start": 119.076,
+  "end": 123.402
+ },
+ {
+  "n": 46,
+  "block": "B03",
+  "text": "A human embryo digs into the mother very aggressively.",
+  "scene": "{SCIW} shocked at a chalkboard, an exclamation mark",
+  "start": 123.402,
+  "end": 127.353
+ },
+ {
+  "n": 47,
+  "block": "B03",
+  "text": "So the body prepares a thick, protective lining in advance,",
+  "scene": "{SCIW} pointing at a diagram on a chalkboard, the word \"SHIELD\" above her",
+  "start": 127.353,
+  "end": 131.429
+ },
+ {
+  "n": 48,
+  "block": "B03",
+  "text": "every single month, whether a baby shows up or not.",
+  "scene": "a calendar, the word \"EVERY MONTH\" above it",
+  "start": 131.429,
+  "end": 135.408
+ },
+ {
+  "n": 49,
+  "block": "B03",
+  "text": "If it doesn't, the lining can't simply be recycled.",
+  "scene": "{SCIW} shrugging, palms up, the word \"LINING\" above her",
+  "start": 135.408,
+  "end": 139.171
+ },
+ {
+  "n": 50,
+  "block": "B03",
+  "text": "It has to go.",
+  "scene": "{SCIW} unimpressed, an exclamation mark",
+  "start": 139.171,
+  "end": 140.674
+ },
+ {
+  "n": 51,
+  "block": "B03",
+  "text": "That's the deal evolution gave us.",
+  "scene": "{WOMAN} disappointed, sighing, on a sunny day",
+  "start": 140.674,
+  "end": 143.139
+ },
+ {
+  "n": 52,
+  "block": "B03",
+  "text": "Expensive. Inconvenient.",
+  "scene": "{WOMAN} unhappy, frowning, the word \"WHY\" above her",
+  "start": 143.139,
+  "end": 145.344
+ },
+ {
+  "n": 53,
+  "block": "B03",
+  "text": "And very, very old.",
+  "scene": "a timeline, a stone tablet with \"6000000\", the word \"MILLION\" above it",
+  "start": 145.344,
+  "end": 147.881
+ },
+ {
+  "n": 54,
+  "block": "B04",
+  "text": "So let's go back to that number.",
+  "scene": "{SCI} pointing at a bar chart, the word \"450\" above him",
+  "start": 147.881,
+  "end": 150.058
+ },
+ {
+  "n": 55,
+  "block": "B04",
+  "text": "About four hundred fifty periods today.",
+  "scene": "a bar chart, {LADY} shocked next to it, the word \"450\" above her",
+  "start": 150.058,
+  "end": 152.987
+ },
+ {
+  "n": 56,
+  "block": "B04",
+  "text": "About a hundred in the Stone Age.",
+  "scene": "a bar chart, {WOMAN} smug next to it, the word \"100\" above her",
+  "start": 152.987,
+  "end": 155.415
+ },
+ {
+  "n": 57,
+  "block": "B04",
+  "text": "Where does a number like that come from?",
+  "scene": "{SCI} thinking, a giant question mark",
+  "start": 155.415,
+  "end": 157.672
+ },
+ {
+  "n": 58,
+  "block": "B04",
+  "text": "Nobody counted periods forty thousand years ago.",
+  "scene": "{CAVE} confused, a blank clay tablet, a big red X",
+  "start": 157.672,
+  "end": 161.445
+ },
+ {
+  "n": 59,
+  "block": "B04",
+  "text": "Periods don't fossilize.",
+  "scene": "a skeleton, {SCI} shrugging, palms up",
+  "start": 161.445,
+  "end": 163.662
+ },
+ {
+  "n": 60,
+  "block": "B04",
+  "text": "So scientists did the next best thing.",
+  "scene": "{SCIW} smiling, thumbs up, in a lab",
+  "start": 163.662,
+  "end": 166.286
+ },
+ {
+  "n": 61,
+  "block": "B04",
+  "text": "They studied women who still live without contraception,",
+  "scene": "{SCIW} pointing at a world map, the word \"FIELD\" above her",
+  "start": 166.286,
+  "end": 169.965
+ },
+ {
+  "n": 62,
+  "block": "B04",
+  "text": "in small farming and foraging communities.",
+  "scene": "three {PERSON} in a village with huts",
+  "start": 169.965,
+  "end": 173.205
+ },
+ {
+  "n": 63,
+  "block": "B04",
+  "text": "The most famous study was by anthropologist Beverly Strassmann.",
+  "scene": "{SCIW} proud in a village, the word \"STUDY\" above her",
+  "start": 173.205,
+  "end": 177.911
+ },
+ {
+  "n": 64,
+  "block": "B04",
+  "text": "She spent years with the Dogon people in Mali,",
+  "scene": "{SCIW} waving in a village with huts in the desert",
+  "start": 177.911,
+  "end": 180.934
+ },
+ {
+  "n": 65,
+  "block": "B04",
+  "text": "and tracked hundreds of women month after month.",
+  "scene": "{SCIW} thinking, holding up a journal, a calendar",
+  "start": 180.934,
+  "end": 184.498
+ },
+ {
+  "n": 66,
+  "block": "B04",
+  "text": "Her result:",
+  "scene": "{SCIW} shocked, an exclamation mark",
+  "start": 184.498,
+  "end": 185.434
+ },
+ {
+  "n": 67,
+  "block": "B04",
+  "text": "a Dogon woman had about a hundred periods in her whole life.",
+  "scene": "{WOMAN} smug in a village, the word \"100\" above her",
+  "start": 185.434,
+  "end": 189.847
+ },
+ {
+  "n": 68,
+  "block": "B04",
+  "text": "A woman in the United States:",
+  "scene": "{LADY} confused in a living room",
+  "start": 189.847,
+  "end": 191.801
+ },
+ {
+  "n": 69,
+  "block": "B04",
+  "text": "roughly three to four times as many.",
+  "scene": "{LADY} shocked, hands on her head, the word \"X4\" above her",
+  "start": 191.801,
+  "end": 194.59
+ },
+ {
+  "n": 70,
+  "block": "B04",
+  "text": "Other researchers, comparing hunter-gatherer groups,",
+  "scene": "{SCI} pointing at a world map, the word \"FORAGERS\" above him",
+  "start": 194.59,
+  "end": 197.827
+ },
+ {
+  "n": 71,
+  "block": "B04",
+  "text": "landed in the same neighborhood.",
+  "scene": "{SCI} happy, thumbs up, the word \"SAME\" above him",
+  "start": 197.827,
+  "end": 200.327
+ },
+ {
+  "n": 72,
+  "block": "B04",
+  "text": "A hundred. Maybe a hundred and sixty.",
+  "scene": "a bar chart, the word \"160\" above it",
+  "start": 200.327,
+  "end": 203.138
+ },
+ {
+  "n": 73,
+  "block": "B04",
+  "text": "Not four hundred fifty.",
+  "scene": "a bar chart, a big red X",
+  "start": 203.138,
+  "end": 205.212
+ },
+ {
+  "n": 74,
+  "block": "B04",
+  "text": "So what made the difference?",
+  "scene": "{WOMAN} thinking on a sunny day, a giant question mark",
+  "start": 205.212,
+  "end": 207.201
+ },
+ {
+  "n": 75,
+  "block": "B04",
+  "text": "Three things.",
+  "scene": "{SCI} pointing, finger raised, at a chalkboard, the word \"THREE\" above him",
+  "start": 207.201,
+  "end": 209.211
+ },
+ {
+  "n": 76,
+  "block": "B05",
+  "text": "Reason number one:",
+  "scene": "{SCI} pointing, finger raised, the word \"ONE\" above him",
+  "start": 209.211,
+  "end": 210.483
+ },
+ {
+  "n": 77,
+  "block": "B05",
+  "text": "the first period came later.",
+  "scene": "a calendar, {WOMAN} smiling, the word \"LATER\" above her",
+  "start": 210.483,
+  "end": 212.752
+ },
+ {
+  "n": 78,
+  "block": "B05",
+  "text": "Today, the average girl in a rich country",
+  "scene": "{LADY} smiling in a classroom",
+  "start": 212.752,
+  "end": 215.547
+ },
+ {
+  "n": 79,
+  "block": "B05",
+  "text": "gets her first period at about twelve.",
+  "scene": "a calendar, a stone tablet with \"12\", sparkles",
+  "start": 215.547,
+  "end": 218.575
+ },
+ {
+  "n": 80,
+  "block": "B05",
+  "text": "In foraging societies, it's more like sixteen.",
+  "scene": "{WOMAN} smiling on a sunny day, the word \"16\" above her",
+  "start": 218.575,
+  "end": 222.243
+ },
+ {
+  "n": 81,
+  "block": "B05",
+  "text": "Sometimes seventeen.",
+  "scene": "{WOMAN} shrugging, the word \"17\" above her",
+  "start": 222.243,
+  "end": 224.129
+ },
+ {
+  "n": 82,
+  "block": "B05",
+  "text": "Among the Kung people of the Kalahari, it was over sixteen.",
+  "scene": "{WOMAN} walking in the desert, the word \"16\" above her",
+  "start": 224.129,
+  "end": 228.458
+ },
+ {
+  "n": 83,
+  "block": "B05",
+  "text": "Why the delay?",
+  "scene": "{SCI} thinking, a question mark",
+  "start": 228.458,
+  "end": 229.928
+ },
+ {
+  "n": 84,
+  "block": "B05",
+  "text": "Mostly food and energy.",
+  "scene": "{CAVE} hungry, sad, the word \"FOOD\" above him",
+  "start": 229.928,
+  "end": 232.17
+ },
+ {
+  "n": 85,
+  "block": "B05",
+  "text": "The body waits until it has enough fuel",
+  "scene": "{SCIW} pointing at a bar chart, the word \"FUEL\" above her",
+  "start": 232.17,
+  "end": 234.66
+ },
+ {
+  "n": 86,
+  "block": "B05",
+  "text": "to risk building a baby.",
+  "scene": "{SCIW} thinking, a question mark",
+  "start": 234.66,
+  "end": 236.701
+ },
+ {
+  "n": 87,
+  "block": "B05",
+  "text": "A forager girl walks miles every day,",
+  "scene": "{WOMAN} walking in the savanna, sweating",
+  "start": 236.701,
+  "end": 239.275
+ },
+ {
+  "n": 88,
+  "block": "B05",
+  "text": "eats what the season gives her,",
+  "scene": "{WOMAN} sad holding a tiny fish, the word \"WINTER\" above her",
+  "start": 239.275,
+  "end": 241.473
+ },
+ {
+  "n": 89,
+  "block": "B05",
+  "text": "and grows slowly.",
+  "scene": "{WOMAN} bored, the word \"SLOW\" above her",
+  "start": 241.473,
+  "end": 243.211
+ },
+ {
+  "n": 90,
+  "block": "B05",
+  "text": "A modern girl sits in a classroom",
+  "scene": "{LADY} bored in a classroom",
+  "start": 243.211,
+  "end": 245.281
+ },
+ {
+  "n": 91,
+  "block": "B05",
+  "text": "with a fridge full of calories at home.",
+  "scene": "{LADY} happy in a kitchen, sparkles",
+  "start": 245.281,
+  "end": 248.107
+ },
+ {
+  "n": 92,
+  "block": "B05",
+  "text": "Her body gets the signal much earlier:",
+  "scene": "{SCIW} shocked, an exclamation mark",
+  "start": 248.107,
+  "end": 250.631
+ },
+ {
+  "n": 93,
+  "block": "B05",
+  "text": "food is safe, let's go.",
+  "scene": "{LADY} confused, the word \"GO\" above her",
+  "start": 250.631,
+  "end": 252.673
+ },
+ {
+  "n": 94,
+  "block": "B05",
+  "text": "Four extra years without periods",
+  "scene": "a calendar, the word \"4 YEARS\" above it",
+  "start": 252.673,
+  "end": 254.997
+ },
+ {
+  "n": 95,
+  "block": "B05",
+  "text": "is already about fifty fewer.",
+  "scene": "a bar chart, the word \"-50\" above it, sparkles",
+  "start": 254.997,
+  "end": 257.548
+ },
+ {
+  "n": 96,
+  "block": "B05",
+  "text": "But that's the small reason.",
+  "scene": "{SCI} unimpressed, the word \"SMALL\" above him",
+  "start": 257.548,
+  "end": 259.542
+ },
+ {
+  "n": 97,
+  "block": "B05",
+  "text": "The big one is the reason most people never think about.",
+  "scene": "{SCI} pointing, finger raised, an exclamation mark",
+  "start": 259.542,
+  "end": 264.042
+ },
+ {
+  "n": 98,
+  "block": "B06",
+  "text": "Reason number two:",
+  "scene": "{SCI} pointing, two fingers, the word \"TWO\" above him",
+  "start": 264.042,
+  "end": 265.354
+ },
+ {
+  "n": 99,
+  "block": "B06",
+  "text": "babies.",
+  "scene": "{WOMAN} happy holding a baby, hearts",
+  "start": 265.354,
+  "end": 266.43
+ },
+ {
+  "n": 100,
+  "block": "B06",
+  "text": "A lot of babies.",
+  "scene": "{WOMAN} shocked, three babies around her, an exclamation mark",
+  "start": 266.43,
+  "end": 268.041
+ },
+ {
+  "n": 101,
+  "block": "B06",
+  "text": "Without contraception, a forager woman might have six, seven, eight children.",
+  "scene": "{WOMAN} tired, five kids around her in a village, the word \"8\" above her",
+  "start": 268.041,
+  "end": 273.63
+ },
+ {
+  "n": 102,
+  "block": "B06",
+  "text": "Every pregnancy means nine months with no periods at all.",
+  "scene": "a calendar, {WOMAN} smiling, the word \"9 MONTHS\" above her",
+  "start": 273.63,
+  "end": 277.908
+ },
+ {
+  "n": 103,
+  "block": "B06",
+  "text": "Six pregnancies alone",
+  "scene": "{WOMAN} happy, the word \"X6\" above her",
+  "start": 277.908,
+  "end": 279.506
+ },
+ {
+  "n": 104,
+  "block": "B06",
+  "text": "remove more than four years of periods.",
+  "scene": "a calendar, the word \"54 MONTHS\" above it",
+  "start": 279.506,
+  "end": 282.675
+ },
+ {
+  "n": 105,
+  "block": "B06",
+  "text": "But pregnancy is only the beginning.",
+  "scene": "{SCIW} pointing, finger raised, an exclamation mark",
+  "start": 282.675,
+  "end": 286.074
+ },
+ {
+  "n": 106,
+  "block": "B07",
+  "text": "Reason number three is the big one.",
+  "scene": "{SCI} pointing, three fingers, the word \"THREE\" above him",
+  "start": 286.074,
+  "end": 288.717
+ },
+ {
+  "n": 107,
+  "block": "B07",
+  "text": "Breastfeeding.",
+  "scene": "{WOMAN} smiling, holding a baby, sparkles",
+  "start": 288.717,
+  "end": 290.121
+ },
+ {
+  "n": 108,
+  "block": "B07",
+  "text": "Not the way most modern mothers do it,",
+  "scene": "{LADY} confused, holding a baby in a living room",
+  "start": 290.121,
+  "end": 292.717
+ },
+ {
+  "n": 109,
+  "block": "B07",
+  "text": "a few months, on a schedule, with bottles in between.",
+  "scene": "{LADY} bored, the word \"BOTTLE\" above her",
+  "start": 292.717,
+  "end": 296.659
+ },
+ {
+  "n": 110,
+  "block": "B07",
+  "text": "Forager mothers nursed on demand.",
+  "scene": "{WOMAN} happy, holding a baby by a campfire",
+  "start": 296.659,
+  "end": 299.469
+ },
+ {
+  "n": 111,
+  "block": "B07",
+  "text": "Every few minutes, day and night.",
+  "scene": "{WOMAN} sleepy, holding a baby at night, the word \"AGAIN\" above her",
+  "start": 299.469,
+  "end": 301.737
+ },
+ {
+  "n": 112,
+  "block": "B07",
+  "text": "Among the Kung, researchers counted nursing bouts",
+  "scene": "{SCIW} thinking, holding up a journal, in the desert",
+  "start": 301.737,
+  "end": 305.072
+ },
+ {
+  "n": 113,
+  "block": "B07",
+  "text": "of about two minutes, several times an hour.",
+  "scene": "{SCIW} shocked, the word \"4 PER HOUR\" above her, an exclamation mark",
+  "start": 305.072,
+  "end": 308.513
+ },
+ {
+  "n": 114,
+  "block": "B07",
+  "text": "And they kept going for two, three, even four years.",
+  "scene": "a calendar, the word \"4 YEARS\" above it, {WOMAN} proud holding a baby",
+  "start": 308.513,
+  "end": 312.295
+ },
+ {
+  "n": 115,
+  "block": "B07",
+  "text": "That constant nursing does something remarkable.",
+  "scene": "{SCIW} pointing at a chalkboard, an exclamation mark",
+  "start": 312.295,
+  "end": 315.821
+ },
+ {
+  "n": 116,
+  "block": "B07",
+  "text": "It tells the brain to hold back ovulation.",
+  "scene": "{SCIW} pointing at a brain scan, the word \"PAUSE\" above her",
+  "start": 315.821,
+  "end": 318.872
+ },
+ {
+  "n": 117,
+  "block": "B07",
+  "text": "No ovulation, no period.",
+  "scene": "{SCIW} smiling, thumbs up, a big red X",
+  "start": 318.872,
+  "end": 321.303
+ },
+ {
+  "n": 118,
+  "block": "B07",
+  "text": "It's not perfect birth control.",
+  "scene": "{SCIW} shrugging, palms up, the word \"NOT 100%\" above her",
+  "start": 321.303,
+  "end": 323.665
+ },
+ {
+  "n": 119,
+  "block": "B07",
+  "text": "But it spaces children around three or four years apart.",
+  "scene": "a timeline, three babies, the word \"4 YEARS\" above it",
+  "start": 323.665,
+  "end": 327.37
+ },
+ {
+  "n": 120,
+  "block": "B07",
+  "text": "Now add it all up.",
+  "scene": "{SCI} thinking at a chalkboard, a bar chart",
+  "start": 327.37,
+  "end": 329.076
+ },
+ {
+  "n": 121,
+  "block": "B07",
+  "text": "Start at sixteen.",
+  "scene": "a calendar, the word \"16\" above it",
+  "start": 329.076,
+  "end": 330.722
+ },
+ {
+  "n": 122,
+  "block": "B07",
+  "text": "Pregnant. Nursing for three years.",
+  "scene": "{WOMAN} holding a baby, the word \"3 YEARS\" above her",
+  "start": 330.722,
+  "end": 333.3
+ },
+ {
+  "n": 123,
+  "block": "B07",
+  "text": "A few periods.",
+  "scene": "{WOMAN} unhappy, the word \"3\" above her",
+  "start": 333.3,
+  "end": 334.894
+ },
+ {
+  "n": 124,
+  "block": "B07",
+  "text": "Pregnant again. Nursing again.",
+  "scene": "{WOMAN} tired holding a baby, the word \"AGAIN\" above her",
+  "start": 334.894,
+  "end": 337.39
+ },
+ {
+  "n": 125,
+  "block": "B07",
+  "text": "For most of her adult life,",
+  "scene": "{WOMAN} sitting by a campfire with kids around her",
+  "start": 337.39,
+  "end": 339.298
+ },
+ {
+  "n": 126,
+  "block": "B07",
+  "text": "a Stone Age woman simply didn't have periods.",
+  "scene": "{WOMAN} smug, a big red X",
+  "start": 339.298,
+  "end": 342.733
+ },
+ {
+  "n": 127,
+  "block": "B07",
+  "text": "Some years she might have none at all.",
+  "scene": "a calendar, the word \"ZERO\" above it",
+  "start": 342.733,
+  "end": 345.201
+ },
+ {
+  "n": 128,
+  "block": "B07",
+  "text": "And that was normal.",
+  "scene": "{WOMAN} happy, thumbs up, on a sunny day",
+  "start": 345.201,
+  "end": 346.932
+ },
+ {
+  "n": 129,
+  "block": "B07",
+  "text": "So when people say ancient women must have suffered every month,",
+  "scene": "{GUY} pitying, sad, in a living room",
+  "start": 346.932,
+  "end": 350.845
+ },
+ {
+  "n": 130,
+  "block": "B07",
+  "text": "it probably wasn't every month.",
+  "scene": "{GUY} shocked, an exclamation mark",
+  "start": 350.845,
+  "end": 353.279
+ },
+ {
+  "n": 131,
+  "block": "B07",
+  "text": "For a lot of women, it was a handful of times a year.",
+  "scene": "{WOMAN} shrugging, the word \"A FEW\" above her",
+  "start": 353.279,
+  "end": 357.154
+ },
+ {
+  "n": 132,
+  "block": "B07",
+  "text": "Or less.",
+  "scene": "{WOMAN} smug, sparkles",
+  "start": 357.154,
+  "end": 358.956
+ },
+ {
+  "n": 133,
+  "block": "B08",
+  "text": "But when it did happen, then what?",
+  "scene": "{WOMAN} worried, a giant question mark",
+  "start": 358.956,
+  "end": 361.15
+ },
+ {
+  "n": 134,
+  "block": "B08",
+  "text": "Here we have to be honest.",
+  "scene": "{SCI} sad, sighing, in a lab",
+  "start": 361.15,
+  "end": 363.11
+ },
+ {
+  "n": 135,
+  "block": "B08",
+  "text": "We don't know.",
+  "scene": "{SCI} shrugging, palms up, the word \"UNKNOWN\" above him",
+  "start": 363.11,
+  "end": 364.394
+ },
+ {
+  "n": 136,
+  "block": "B08",
+  "text": "Nothing from the Stone Age survives that tells us.",
+  "scene": "a skeleton, a big red X, {SCI} sad",
+  "start": 364.394,
+  "end": 367.885
+ },
+ {
+  "n": 137,
+  "block": "B08",
+  "text": "Soft materials rot in a few years.",
+  "scene": "{SCI} disappointed, the word \"ROT\" above him",
+  "start": 367.885,
+  "end": 370.578
+ },
+ {
+  "n": 138,
+  "block": "B08",
+  "text": "So archaeologists look at two things.",
+  "scene": "{SCIW} pointing, finger raised, the word \"TWO\" above her",
+  "start": 370.578,
+  "end": 373.563
+ },
+ {
+  "n": 139,
+  "block": "B08",
+  "text": "What was lying around.",
+  "scene": "{WOMAN} thinking in a forest, the word \"LYING AROUND\" above her",
+  "start": 373.563,
+  "end": 375.399
+ },
+ {
+  "n": 140,
+  "block": "B08",
+  "text": "And what people in traditional societies used before modern pads arrived.",
+  "scene": "{SCIW} pointing at a world map, the word \"RECORDS\" above her",
+  "start": 375.399,
+  "end": 380.957
+ },
+ {
+  "n": 141,
+  "block": "B08",
+  "text": "The top candidate is moss.",
+  "scene": "{WOMAN} happy in a forest, the word \"MOSS\" above her, sparkles",
+  "start": 380.957,
+  "end": 383.167
+ },
+ {
+  "n": 142,
+  "block": "B08",
+  "text": "Sphagnum moss, the bog kind,",
+  "scene": "{WOMAN} pointing, the word \"SPHAGNUM\" above her",
+  "start": 383.167,
+  "end": 385.277
+ },
+ {
+  "n": 143,
+  "block": "B08",
+  "text": "can soak up many times its own weight in water.",
+  "scene": "{SCIW} shocked in a lab, the word \"X20\" above her, an exclamation mark",
+  "start": 385.277,
+  "end": 389.059
+ },
+ {
+  "n": 144,
+  "block": "B08",
+  "text": "It's also mildly antibacterial.",
+  "scene": "{SCIW} smiling, the word \"CLEAN\" above her",
+  "start": 389.059,
+  "end": 391.825
+ },
+ {
+  "n": 145,
+  "block": "B08",
+  "text": "In the First World War,",
+  "scene": "a timeline, a stone tablet with \"1914\"",
+  "start": 391.825,
+  "end": 393.589
+ },
+ {
+  "n": 146,
+  "block": "B08",
+  "text": "field hospitals used it as bandage material.",
+  "scene": "three soldiers in a hall, the word \"MOSS\" above them",
+  "start": 393.589,
+  "end": 397.143
+ },
+ {
+  "n": 147,
+  "block": "B08",
+  "text": "And northern peoples used moss in baby diapers for centuries.",
+  "scene": "{WOMAN} holding a baby in the snow, the word \"MOSS\" above her",
+  "start": 397.143,
+  "end": 401.576
+ },
+ {
+  "n": 148,
+  "block": "B08",
+  "text": "Other candidates:",
+  "scene": "{SCIW} thinking, a question mark",
+  "start": 401.576,
+  "end": 402.866
+ },
+ {
+  "n": 149,
+  "block": "B08",
+  "text": "the fluffy seed heads of cattails,",
+  "scene": "{WOMAN} happy by a river, the word \"CATTAIL\" above her",
+  "start": 402.866,
+  "end": 405.198
+ },
+ {
+  "n": 150,
+  "block": "B08",
+  "text": "soft grass,",
+  "scene": "{WOMAN} shrugging in the grass, the word \"GRASS\" above her",
+  "start": 405.198,
+  "end": 406.119
+ },
+ {
+  "n": 151,
+  "block": "B08",
+  "text": "shredded bark,",
+  "scene": "{WOMAN} confused next to a tree, the word \"BARK\" above her",
+  "start": 406.119,
+  "end": 407.224
+ },
+ {
+  "n": 152,
+  "block": "B08",
+  "text": "and pieces of soft animal hide.",
+  "scene": "{WOMAN} proud, holding up a fur, the word \"HIDE\" above her",
+  "start": 407.224,
+  "end": 409.793
+ },
+ {
+  "n": 153,
+  "block": "B08",
+  "text": "And sometimes, probably, nothing at all.",
+  "scene": "{WOMAN} unbothered on a sunny day, the word \"NOTHING\" above her",
+  "start": 409.793,
+  "end": 412.77
+ },
+ {
+  "n": 154,
+  "block": "B08",
+  "text": "In a warm climate, with little clothing,",
+  "scene": "{WOMAN} walking in the savanna, the sun",
+  "start": 412.77,
+  "end": 415.224
+ },
+ {
+  "n": 155,
+  "block": "B08",
+  "text": "there's not much to protect.",
+  "scene": "{WOMAN} shrugging, palms up",
+  "start": 415.224,
+  "end": 417.429
+ },
+ {
+  "n": 156,
+  "block": "B08",
+  "text": "You sit on a pad of leaves, or in the shade, and rest.",
+  "scene": "{WOMAN} relieved, sitting in the shade of a tree",
+  "start": 417.429,
+  "end": 421.135
+ },
+ {
+  "n": 157,
+  "block": "B08",
+  "text": "And remember: it wasn't every month.",
+  "scene": "a calendar, a big red X",
+  "start": 421.135,
+  "end": 424.456
+ },
+ {
+  "n": 158,
+  "block": "B09",
+  "text": "Now here's the scary part every caveman movie loves.",
+  "scene": "{CAVE} terrified at night, a wolf in the dark, an exclamation mark",
+  "start": 424.456,
+  "end": 428.339
+ },
+ {
+  "n": 159,
+  "block": "B09",
+  "text": "Didn't the smell of blood attract predators?",
+  "scene": "{WOMAN} terrified, a lion behind her at night, a giant question mark",
+  "start": 428.339,
+  "end": 431.194
+ },
+ {
+  "n": 160,
+  "block": "B09",
+  "text": "Wasn't a woman on her period a walking dinner bell?",
+  "scene": "{WOMAN} shocked, two wolves, the word \"DINNER\" above them",
+  "start": 431.194,
+  "end": 434.739
+ },
+ {
+  "n": 161,
+  "block": "B09",
+  "text": "This idea is everywhere.",
+  "scene": "{GUY} nervous on a couch, the word \"MYTH\" above him",
+  "start": 434.739,
+  "end": 436.793
+ },
+ {
+  "n": 162,
+  "block": "B09",
+  "text": "Hiking guides used to warn about it.",
+  "scene": "{GUY} nervous in a forest, a bear, the word \"WARNING\" above them",
+  "start": 436.793,
+  "end": 439.507
+ },
+ {
+  "n": 163,
+  "block": "B09",
+  "text": "It goes back to one terrible night in 1967,",
+  "scene": "a timeline, a stone tablet with \"1967\", a bear",
+  "start": 439.507,
+  "end": 442.761
+ },
+ {
+  "n": 164,
+  "block": "B09",
+  "text": "when two young women were killed by grizzly bears",
+  "scene": "a bear angry at night in a forest, a big red X",
+  "start": 442.761,
+  "end": 446.43
+ },
+ {
+  "n": 165,
+  "block": "B09",
+  "text": "in Glacier National Park, on the same night.",
+  "scene": "{SCI} sad, a calendar, the word \"SAME NIGHT\" above him",
+  "start": 446.43,
+  "end": 450.173
+ },
+ {
+  "n": 166,
+  "block": "B09",
+  "text": "Newspapers and rangers wondered if periods were the reason.",
+  "scene": "three {PERSON} confused, the word \"NEWSPAPER\" above them, a question mark",
+  "start": 450.173,
+  "end": 454.728
+ },
+ {
+  "n": 167,
+  "block": "B09",
+  "text": "So scientists tested it.",
+  "scene": "{SCIW} thinking in a lab, the word \"TEST\" above her",
+  "start": 454.728,
+  "end": 456.7
+ },
+ {
+  "n": 168,
+  "block": "B09",
+  "text": "With bears.",
+  "scene": "{SCIW} shocked, a bear, an exclamation mark",
+  "start": 456.7,
+  "end": 458.016
+ },
+ {
+  "n": 169,
+  "block": "B09",
+  "text": "In one study, black bears were offered used period products.",
+  "scene": "{SCIW} pointing, a bear in a forest, the word \"OFFER\" above them",
+  "start": 458.016,
+  "end": 462.463
+ },
+ {
+  "n": 170,
+  "block": "B09",
+  "text": "They ignored them.",
+  "scene": "a bear bored, ignoring, in a forest",
+  "start": 462.463,
+  "end": 464.022
+ },
+ {
+  "n": 171,
+  "block": "B09",
+  "text": "Completely.",
+  "scene": "a bear sleeping in a forest, z letters",
+  "start": 464.022,
+  "end": 465.337
+ },
+ {
+  "n": 172,
+  "block": "B09",
+  "text": "Grizzlies: no good evidence either.",
+  "scene": "a bear unimpressed in a forest, a big red X",
+  "start": 465.337,
+  "end": 467.965
+ },
+ {
+  "n": 173,
+  "block": "B09",
+  "text": "There was one exception.",
+  "scene": "{SCIW} pointing, finger raised, an exclamation mark",
+  "start": 467.965,
+  "end": 469.778
+ },
+ {
+  "n": 174,
+  "block": "B09",
+  "text": "Polar bears did seem interested in the smell.",
+  "scene": "a polar bear curious in the snow, the word \"SNIFF\" above it",
+  "start": 469.778,
+  "end": 472.94
+ },
+ {
+  "n": 175,
+  "block": "B09",
+  "text": "But you weren't meeting polar bears in the Kalahari.",
+  "scene": "{WOMAN} smug in the desert, a big red X",
+  "start": 472.94,
+  "end": 476.179
+ },
+ {
+  "n": 176,
+  "block": "B09",
+  "text": "And what about lions? Wolves?",
+  "scene": "{SCI} confused, a lion and a wolf, a question mark",
+  "start": 476.179,
+  "end": 478.839
+ },
+ {
+  "n": 177,
+  "block": "B09",
+  "text": "There's no evidence that a period makes a person more likely to be attacked.",
+  "scene": "{SCIW} smiling, thumbs up, a big red X",
+  "start": 478.839,
+  "end": 483.933
+ },
+ {
+  "n": 178,
+  "block": "B09",
+  "text": "Predators chase what is weak, alone, or slow.",
+  "scene": "a lion in the savanna, the word \"ALONE\" above it",
+  "start": 483.933,
+  "end": 487.292
+ },
+ {
+  "n": 179,
+  "block": "B09",
+  "text": "Not a woman in the middle of her group.",
+  "scene": "{WOMAN} smiling with three {CAVE}, a campfire",
+  "start": 487.292,
+  "end": 490.087
+ },
+ {
+  "n": 180,
+  "block": "B09",
+  "text": "Which is exactly where she usually was.",
+  "scene": "{WOMAN} happy with three {CAVE} by a campfire at night, sparkles",
+  "start": 490.087,
+  "end": 493.595
+ },
+ {
+  "n": 181,
+  "block": "B10",
+  "text": "Here's another myth you've probably heard.",
+  "scene": "{LADY} thinking in a living room, the word \"MYTH\" above her",
+  "start": 493.595,
+  "end": 496.432
+ },
+ {
+  "n": 182,
+  "block": "B10",
+  "text": "Women who live together sync their cycles.",
+  "scene": "three {LADY} smiling together, the word \"SYNC\" above them",
+  "start": 496.432,
+  "end": 499.362
+ },
+ {
+  "n": 183,
+  "block": "B10",
+  "text": "So in the Stone Age, the whole camp bled together.",
+  "scene": "three {WOMAN} by a campfire at night, the word \"TOGETHER\" above them",
+  "start": 499.362,
+  "end": 503.06
+ },
+ {
+  "n": 184,
+  "block": "B10",
+  "text": "In sync with the full moon.",
+  "scene": "three {WOMAN} at night, a full moon, sparkles",
+  "start": 503.06,
+  "end": 505.116
+ },
+ {
+  "n": 185,
+  "block": "B10",
+  "text": "It's a beautiful story.",
+  "scene": "{GUY} happy, hearts",
+  "start": 505.116,
+  "end": 507.055
+ },
+ {
+  "n": 186,
+  "block": "B10",
+  "text": "It started with a 1971 study",
+  "scene": "a timeline, a stone tablet with \"1971\"",
+  "start": 507.055,
+  "end": 509.805
+ },
+ {
+  "n": 187,
+  "block": "B10",
+  "text": "in a college dormitory.",
+  "scene": "three {LADY} in a classroom, the word \"DORM\" above them",
+  "start": 509.805,
+  "end": 512.546
+ },
+ {
+  "n": 188,
+  "block": "B10",
+  "text": "Later researchers tried again,",
+  "scene": "{SCIW} thinking, holding up a journal",
+  "start": 512.546,
+  "end": 514.502
+ },
+ {
+  "n": 189,
+  "block": "B10",
+  "text": "with bigger groups and better math.",
+  "scene": "{SCIW} pointing at a bar chart, the word \"MATH\" above her",
+  "start": 514.502,
+  "end": 517.166
+ },
+ {
+  "n": 190,
+  "block": "B10",
+  "text": "The effect disappeared.",
+  "scene": "{SCIW} shrugging, a big red X",
+  "start": 517.166,
+  "end": 518.951
+ },
+ {
+  "n": 191,
+  "block": "B10",
+  "text": "A period-tracking app study looked at hundreds of pairs of women who live together.",
+  "scene": "{LADY} holding up a phone in a living room, the word \"PAIRS\" above her",
+  "start": 518.951,
+  "end": 524.451
+ },
+ {
+  "n": 192,
+  "block": "B10",
+  "text": "Their cycles drifted apart about as often as they came together.",
+  "scene": "a calendar, the word \"RANDOM\" above it, a big red X",
+  "start": 524.451,
+  "end": 529.11
+ },
+ {
+  "n": 193,
+  "block": "B10",
+  "text": "Cycles are different lengths.",
+  "scene": "{SCI} pointing at a calendar, the word \"28 31 25\" above him",
+  "start": 529.11,
+  "end": 531.119
+ },
+ {
+  "n": 194,
+  "block": "B10",
+  "text": "Sooner or later, any two will overlap,",
+  "scene": "{SCI} thinking, two circles on a chalkboard",
+  "start": 531.119,
+  "end": 533.75
+ },
+ {
+  "n": 195,
+  "block": "B10",
+  "text": "and then they drift apart again.",
+  "scene": "{SCI} shrugging, palms up, the word \"DRIFT\" above him",
+  "start": 533.75,
+  "end": 536.426
+ },
+ {
+  "n": 196,
+  "block": "B10",
+  "text": "And the moon?",
+  "scene": "a full moon at night, a question mark",
+  "start": 536.426,
+  "end": 537.776
+ },
+ {
+  "n": 197,
+  "block": "B10",
+  "text": "The average cycle is about twenty-nine days.",
+  "scene": "a calendar, the word \"29\" above it",
+  "start": 537.776,
+  "end": 541.096
+ },
+ {
+  "n": 198,
+  "block": "B10",
+  "text": "The moon's cycle is twenty-nine and a half.",
+  "scene": "a full moon at night, the word \"29.5\" above it",
+  "start": 541.096,
+  "end": 544.224
+ },
+ {
+  "n": 199,
+  "block": "B10",
+  "text": "Suspicious, right?",
+  "scene": "{GUY} squinting, suspicious, a question mark",
+  "start": 544.224,
+  "end": 545.849
+ },
+ {
+  "n": 200,
+  "block": "B10",
+  "text": "That's probably why so many languages tie the two together.",
+  "scene": "{SCI} pointing at a world map, the word \"MONTH\" above him",
+  "start": 545.849,
+  "end": 550.211
+ },
+ {
+  "n": 201,
+  "block": "B10",
+  "text": "In English, month comes from moon.",
+  "scene": "{SCI} smiling at a chalkboard, the word \"MOON\" above him",
+  "start": 550.211,
+  "end": 552.759
+ },
+ {
+  "n": 202,
+  "block": "B10",
+  "text": "But big studies find no stable lock between periods and the moon.",
+  "scene": "{SCIW} unimpressed in a lab, a big red X",
+  "start": 552.759,
+  "end": 557.189
+ },
+ {
+  "n": 203,
+  "block": "B10",
+  "text": "The Stone Age camp was not one big synchronized calendar.",
+  "scene": "three {WOMAN} by a campfire, a calendar, a big red X",
+  "start": 557.189,
+  "end": 562.375
+ },
+ {
+  "n": 204,
+  "block": "B11",
+  "text": "Once humans settled into villages, something new appeared.",
+  "scene": "a village with huts, {WOMAN} smiling",
+  "start": 562.375,
+  "end": 566.494
+ },
+ {
+  "n": 205,
+  "block": "B11",
+  "text": "The period hut.",
+  "scene": "a hut at the edge of a village, the word \"HUT\" above it",
+  "start": 566.494,
+  "end": 568.09
+ },
+ {
+  "n": 206,
+  "block": "B11",
+  "text": "In many cultures around the world,",
+  "scene": "{SCIW} pointing at a world map",
+  "start": 568.09,
+  "end": 570.265
+ },
+ {
+  "n": 207,
+  "block": "B11",
+  "text": "women spent their period in a separate little house.",
+  "scene": "{WOMAN} sitting in a hut, the word \"5 DAYS\" above her",
+  "start": 570.265,
+  "end": 573.889
+ },
+ {
+  "n": 208,
+  "block": "B11",
+  "text": "Among the Dogon, it was a small hut at the edge of the village.",
+  "scene": "a hut in the desert, {WOMAN} bored inside",
+  "start": 573.889,
+  "end": 578.151
+ },
+ {
+  "n": 209,
+  "block": "B11",
+  "text": "And here's the uncomfortable part Strassmann noticed.",
+  "scene": "{SCIW} worried, an exclamation mark",
+  "start": 578.151,
+  "end": 581.663
+ },
+ {
+  "n": 210,
+  "block": "B11",
+  "text": "Everyone could see who went in.",
+  "scene": "three {PERSON} squinting at a hut, suspicious",
+  "start": 581.663,
+  "end": 583.767
+ },
+ {
+  "n": 211,
+  "block": "B11",
+  "text": "So the whole village knew who was not pregnant.",
+  "scene": "three {PERSON} shocked, the word \"NOT PREGNANT\" above them",
+  "start": 583.767,
+  "end": 586.96
+ },
+ {
+  "n": 212,
+  "block": "B11",
+  "text": "Including the husbands.",
+  "scene": "a husband angry, frowning, arms crossed",
+  "start": 586.96,
+  "end": 588.82
+ },
+ {
+  "n": 213,
+  "block": "B11",
+  "text": "The hut worked like a public calendar of fertility.",
+  "scene": "a calendar next to a hut, the word \"PUBLIC\" above it",
+  "start": 588.82,
+  "end": 592.334
+ },
+ {
+  "n": 214,
+  "block": "B11",
+  "text": "In other places, the hut had a darker side.",
+  "scene": "{SCI} sad, sighing, a hut at night",
+  "start": 592.334,
+  "end": 595.647
+ },
+ {
+  "n": 215,
+  "block": "B11",
+  "text": "In parts of Nepal, women were sent to sleep in cold sheds.",
+  "scene": "{WOMAN} freezing in a hut at night in the snow",
+  "start": 595.647,
+  "end": 600.111
+ },
+ {
+  "n": 216,
+  "block": "B11",
+  "text": "The practice was banned in 2005",
+  "scene": "a timeline, a stone tablet with \"2005\", a big red X",
+  "start": 600.111,
+  "end": 603.18
+ },
+ {
+  "n": 217,
+  "block": "B11",
+  "text": "and made a crime in 2017.",
+  "scene": "a timeline, a stone tablet with \"2017\", an exclamation mark",
+  "start": 603.18,
+  "end": 606.142
+ },
+ {
+  "n": 218,
+  "block": "B11",
+  "text": "But not every period hut was a punishment.",
+  "scene": "{SCIW} pointing, finger raised",
+  "start": 606.142,
+  "end": 609.106
+ },
+ {
+  "n": 219,
+  "block": "B11",
+  "text": "Among the Yurok people of California,",
+  "scene": "{WOMAN} smiling in a forest, the word \"YUROK\" above her",
+  "start": 609.106,
+  "end": 611.71
+ },
+ {
+  "n": 220,
+  "block": "B11",
+  "text": "some women described their time apart as sacred.",
+  "scene": "{WOMAN} happy, sitting in a hut, sparkles",
+  "start": 611.71,
+  "end": 615.432
+ },
+ {
+  "n": 221,
+  "block": "B11",
+  "text": "No chores. No cooking.",
+  "scene": "{WOMAN} relieved, a big red X over a pot",
+  "start": 615.432,
+  "end": 617.556
+ },
+ {
+  "n": 222,
+  "block": "B11",
+  "text": "Time to rest, swim, think.",
+  "scene": "{WOMAN} smiling by a river, sparkles",
+  "start": 617.556,
+  "end": 619.67
+ },
+ {
+  "n": 223,
+  "block": "B11",
+  "text": "A few days off every month.",
+  "scene": "a calendar, the word \"DAY OFF\" above it",
+  "start": 619.67,
+  "end": 621.911
+ },
+ {
+  "n": 224,
+  "block": "B11",
+  "text": "Honestly, some modern women would take that deal.",
+  "scene": "{LADY} smiling, thumbs up, on a couch in a living room",
+  "start": 621.911,
+  "end": 625.966
+ },
+ {
+  "n": 225,
+  "block": "B12",
+  "text": "Now let's go to Egypt.",
+  "scene": "{EGYPT} smiling by a pyramid",
+  "start": 625.966,
+  "end": 628.001
+ },
+ {
+  "n": 226,
+  "block": "B12",
+  "text": "Not the pharaohs. The workers.",
+  "scene": "{EGYPT} proud, the word \"WORKERS\" above him",
+  "start": 628.001,
+  "end": 630.219
+ },
+ {
+  "n": 227,
+  "block": "B12",
+  "text": "In the village of Deir el-Medina",
+  "scene": "a village near a pyramid, the word \"DEIR EL-MEDINA\" above it",
+  "start": 630.219,
+  "end": 632.401
+ },
+ {
+  "n": 228,
+  "block": "B12",
+  "text": "lived the men who carved the royal tombs.",
+  "scene": "{EGYPT} working in a tomb, a torch",
+  "start": 632.401,
+  "end": 635.548
+ },
+ {
+  "n": 229,
+  "block": "B12",
+  "text": "Their bosses kept attendance sheets",
+  "scene": "{EGYPT} smug, holding up a clay tablet, the word \"ABSENT\" above him",
+  "start": 635.548,
+  "end": 637.601
+ },
+ {
+  "n": 230,
+  "block": "B12",
+  "text": "on flakes of pottery and stone.",
+  "scene": "a stone tablet, the word \"LIST\" above it",
+  "start": 637.601,
+  "end": 639.864
+ },
+ {
+  "n": 231,
+  "block": "B12",
+  "text": "And they wrote down why each man missed work.",
+  "scene": "{EGYPT} thinking, holding up a clay tablet",
+  "start": 639.864,
+  "end": 642.808
+ },
+ {
+  "n": 232,
+  "block": "B12",
+  "text": "Sick. Brewing beer. Bitten by a scorpion.",
+  "scene": "{EGYPT} shocked, the word \"SCORPION\" above him, an exclamation mark",
+  "start": 642.808,
+  "end": 646.034
+ },
+ {
+  "n": 233,
+  "block": "B12",
+  "text": "And one more reason.",
+  "scene": "{EGYPT} pointing, finger raised",
+  "start": 646.034,
+  "end": 647.728
+ },
+ {
+  "n": 234,
+  "block": "B12",
+  "text": "His wife was having her period.",
+  "scene": "{EGYPT} shrugging, palms up, the word \"WIFE\" above him",
+  "start": 647.728,
+  "end": 650.148
+ },
+ {
+  "n": 235,
+  "block": "B12",
+  "text": "His daughter was having her period.",
+  "scene": "{EGYPT} smiling, the word \"DAUGHTER\" above him",
+  "start": 650.148,
+  "end": 652.701
+ },
+ {
+  "n": 236,
+  "block": "B12",
+  "text": "So men stayed home.",
+  "scene": "{EGYPT} relieved on a couch",
+  "start": 652.701,
+  "end": 654.454
+ },
+ {
+  "n": 237,
+  "block": "B12",
+  "text": "Historians still argue why.",
+  "scene": "{SCI} confused, a question mark",
+  "start": 654.454,
+  "end": 656.901
+ },
+ {
+  "n": 238,
+  "block": "B12",
+  "text": "To help around the house?",
+  "scene": "{EGYPT} happy, holding a jar",
+  "start": 656.901,
+  "end": 658.749
+ },
+ {
+  "n": 239,
+  "block": "B12",
+  "text": "Or because of a purity rule?",
+  "scene": "{EGYPT} confused, in a temple, a question mark",
+  "start": 658.749,
+  "end": 660.989
+ },
+ {
+  "n": 240,
+  "block": "B12",
+  "text": "Either way, about thirty-two centuries ago,",
+  "scene": "a timeline, a stone tablet with \"3200\"",
+  "start": 660.989,
+  "end": 664.069
+ },
+ {
+  "n": 241,
+  "block": "B12",
+  "text": "a period was an official reason to miss work.",
+  "scene": "{EGYPT} proud, the word \"OFFICIAL\" above him, sparkles",
+  "start": 664.069,
+  "end": 668.28
+ },
+ {
+  "n": 242,
+  "block": "B13",
+  "text": "Now, the most famous fact about Egyptian periods.",
+  "scene": "{SCI} pointing at a pyramid, the word \"FACT\" above him",
+  "start": 668.28,
+  "end": 671.863
+ },
+ {
+  "n": 243,
+  "block": "B13",
+  "text": "Egyptian women made tampons out of softened papyrus.",
+  "scene": "{EGYPT} smiling, holding up a scroll, the word \"PAPYRUS\" above him",
+  "start": 671.863,
+  "end": 675.723
+ },
+ {
+  "n": 244,
+  "block": "B13",
+  "text": "It's in books, articles, and probably the video before this one.",
+  "scene": "{GUY} bored on a couch, the word \"VIRAL\" above him",
+  "start": 675.723,
+  "end": 680.434
+ },
+ {
+  "n": 245,
+  "block": "B13",
+  "text": "Historians who went looking for it",
+  "scene": "{SCIW} thinking, holding up a journal, in a temple",
+  "start": 680.434,
+  "end": 682.454
+ },
+ {
+  "n": 246,
+  "block": "B13",
+  "text": "couldn't find an Egyptian source that says so.",
+  "scene": "{SCIW} shrugging, a big red X",
+  "start": 682.454,
+  "end": 685.532
+ },
+ {
+  "n": 247,
+  "block": "B13",
+  "text": "Same with the other famous one:",
+  "scene": "{SCI} pointing, finger raised",
+  "start": 685.532,
+  "end": 687.793
+ },
+ {
+  "n": 248,
+  "block": "B13",
+  "text": "that the Greek doctor Hippocrates described tampons made of lint wrapped around wood.",
+  "scene": "{SCI} smiling in Greece, the word \"HIPPOCRATES\" above him",
+  "start": 687.793,
+  "end": 693.963
+ },
+ {
+  "n": 249,
+  "block": "B13",
+  "text": "Ancient doctors did use soft plugs soaked in medicine.",
+  "scene": "{SCI} thinking in Greece, holding a jar",
+  "start": 693.963,
+  "end": 698.007
+ },
+ {
+  "n": 250,
+  "block": "B13",
+  "text": "But for treatment. Not for periods.",
+  "scene": "{SCI} unimpressed, a big red X",
+  "start": 698.007,
+  "end": 700.802
+ },
+ {
+  "n": 251,
+  "block": "B13",
+  "text": "Somewhere along the way, the stories got mixed up.",
+  "scene": "{SCI} confused, two scrolls, a question mark",
+  "start": 700.802,
+  "end": 704.364
+ },
+ {
+  "n": 252,
+  "block": "B13",
+  "text": "And copied. And copied.",
+  "scene": "three {SCI} bored, holding up scrolls",
+  "start": 704.364,
+  "end": 706.425
+ },
+ {
+  "n": 253,
+  "block": "B13",
+  "text": "The truth is less exciting.",
+  "scene": "{SCIW} sighing, sad",
+  "start": 706.425,
+  "end": 708.676
+ },
+ {
+  "n": 254,
+  "block": "B13",
+  "text": "We don't know what most ancient women used.",
+  "scene": "{SCIW} shrugging, palms up, the word \"UNKNOWN\" above her",
+  "start": 708.676,
+  "end": 711.713
+ },
+ {
+  "n": 255,
+  "block": "B13",
+  "text": "Most likely cloth.",
+  "scene": "{WOMAN} holding up a cloth, the word \"CLOTH\" above her",
+  "start": 711.713,
+  "end": 713.557
+ },
+ {
+  "n": 256,
+  "block": "B13",
+  "text": "Old linen, wool, rags.",
+  "scene": "{WOMAN} bored, the word \"RAGS\" above her",
+  "start": 713.557,
+  "end": 715.678
+ },
+ {
+  "n": 257,
+  "block": "B13",
+  "text": "Folded, worn, washed, and used again.",
+  "scene": "{WOMAN} washing cloth in a river",
+  "start": 715.678,
+  "end": 719.279
+ },
+ {
+  "n": 258,
+  "block": "B14",
+  "text": "And then there's Rome.",
+  "scene": "{ROMAN} proud in Rome",
+  "start": 719.279,
+  "end": 720.965
+ },
+ {
+  "n": 259,
+  "block": "B14",
+  "text": "Meet Pliny the Elder.",
+  "scene": "{ROMAN} smug, the word \"PLINY\" above him",
+  "start": 720.965,
+  "end": 722.815
+ },
+ {
+  "n": 260,
+  "block": "B14",
+  "text": "Roman admiral, writer, and the author of a giant encyclopedia of everything.",
+  "scene": "{ROMAN} proud, holding up a book, sparkles",
+  "start": 722.815,
+  "end": 728.996
+ },
+ {
+  "n": 261,
+  "block": "B14",
+  "text": "Thirty-seven books of it.",
+  "scene": "a stack of books, the word \"37\" above it",
+  "start": 728.996,
+  "end": 730.915
+ },
+ {
+  "n": 262,
+  "block": "B14",
+  "text": "And here's what he wrote about women on their period.",
+  "scene": "{ROMAN} pointing, finger raised, holding a scroll",
+  "start": 730.915,
+  "end": 734.222
+ },
+ {
+  "n": 263,
+  "block": "B14",
+  "text": "If one comes near, new wine turns sour.",
+  "scene": "{ROMAN} shocked, holding a jar, the word \"SOUR\" above him",
+  "start": 734.222,
+  "end": 737.274
+ },
+ {
+  "n": 264,
+  "block": "B14",
+  "text": "Crops wither.",
+  "scene": "{ROMAN} horrified in a field of wheat, the word \"WITHER\" above him",
+  "start": 737.274,
+  "end": 738.659
+ },
+ {
+  "n": 265,
+  "block": "B14",
+  "text": "Fruit falls off the trees.",
+  "scene": "{ROMAN} shocked next to a tree, an exclamation mark",
+  "start": 738.659,
+  "end": 740.812
+ },
+ {
+  "n": 266,
+  "block": "B14",
+  "text": "Mirrors go dim.",
+  "scene": "{ROMAN} confused, the word \"MIRROR\" above him",
+  "start": 740.812,
+  "end": 742.399
+ },
+ {
+  "n": 267,
+  "block": "B14",
+  "text": "Iron rusts.",
+  "scene": "{ROMAN} horrified, holding a sword, the word \"RUST\" above him",
+  "start": 742.399,
+  "end": 743.861
+ },
+ {
+  "n": 268,
+  "block": "B14",
+  "text": "Bees die.",
+  "scene": "{ROMAN} crying, the word \"BEES\" above him",
+  "start": 743.861,
+  "end": 745.23
+ },
+ {
+  "n": 269,
+  "block": "B14",
+  "text": "Dogs go mad.",
+  "scene": "a dog angry, glaring, the word \"MAD\" above it",
+  "start": 745.23,
+  "end": 746.81
+ },
+ {
+  "n": 270,
+  "block": "B14",
+  "text": "Basically a superpower.",
+  "scene": "{WOMAN} smug, sparkles",
+  "start": 746.81,
+  "end": 748.954
+ },
+ {
+  "n": 271,
+  "block": "B14",
+  "text": "And then he found a use for it.",
+  "scene": "{ROMAN} excited, a light bulb",
+  "start": 748.954,
+  "end": 750.954
+ },
+ {
+  "n": 272,
+  "block": "B14",
+  "text": "If a woman on her period walks around a field,",
+  "scene": "{WOMAN} walking in a field of wheat, the word \"LAP\" above her",
+  "start": 750.954,
+  "end": 753.952
+ },
+ {
+  "n": 273,
+  "block": "B14",
+  "text": "caterpillars and beetles fall off the crops.",
+  "scene": "{ROMAN} happy, thumbs up, in a field of wheat",
+  "start": 753.952,
+  "end": 757.25
+ },
+ {
+  "n": 274,
+  "block": "B14",
+  "text": "Free pest control.",
+  "scene": "{ROMAN} proud, the word \"PEST CONTROL\" above him",
+  "start": 757.25,
+  "end": 758.962
+ },
+ {
+  "n": 275,
+  "block": "B14",
+  "text": "Pliny was one of the most respected scientists of his age.",
+  "scene": "{ROMAN} proud, holding up a book, sparkles",
+  "start": 758.962,
+  "end": 763.092
+ },
+ {
+  "n": 276,
+  "block": "B14",
+  "text": "People quoted his book for the next fifteen hundred years.",
+  "scene": "a timeline, a stone tablet with \"1500\", three {PERSON} holding up books",
+  "start": 763.092,
+  "end": 766.802
+ },
+ {
+  "n": 277,
+  "block": "B14",
+  "text": "That's how long bad science can live.",
+  "scene": "{SCI} facepalm, head in his hands",
+  "start": 766.802,
+  "end": 769.993
+ },
+ {
+  "n": 278,
+  "block": "B15",
+  "text": "Into the Middle Ages.",
+  "scene": "a medieval village, a castle",
+  "start": 769.993,
+  "end": 771.882
+ },
+ {
+  "n": 279,
+  "block": "B15",
+  "text": "Medieval doctors had a gentle name for periods:",
+  "scene": "{SCI} smiling in a medieval village",
+  "start": 771.882,
+  "end": 775.217
+ },
+ {
+  "n": 280,
+  "block": "B15",
+  "text": "the flowers.",
+  "scene": "{LADY} smiling, the word \"FLOWERS\" above her, sparkles",
+  "start": 775.217,
+  "end": 776.684
+ },
+ {
+  "n": 281,
+  "block": "B15",
+  "text": "Like a tree that flowers before it bears fruit.",
+  "scene": "{LADY} happy next to a tree, hearts",
+  "start": 776.684,
+  "end": 779.975
+ },
+ {
+  "n": 282,
+  "block": "B15",
+  "text": "What did women use?",
+  "scene": "{LADY} confused, a question mark",
+  "start": 779.975,
+  "end": 781.721
+ },
+ {
+  "n": 283,
+  "block": "B15",
+  "text": "Mostly cloths.",
+  "scene": "{LADY} holding up a cloth, the word \"CLOTH\" above her",
+  "start": 781.721,
+  "end": 783.326
+ },
+ {
+  "n": 284,
+  "block": "B15",
+  "text": "Strips of old linen, folded and pinned or tied to a belt.",
+  "scene": "{LADY} thinking, holding up a cloth, the word \"BELT\" above her",
+  "start": 783.326,
+  "end": 787.692
+ },
+ {
+  "n": 285,
+  "block": "B15",
+  "text": "Then washed and used again.",
+  "scene": "{LADY} washing cloth in a river",
+  "start": 787.692,
+  "end": 789.938
+ },
+ {
+  "n": 286,
+  "block": "B15",
+  "text": "For centuries.",
+  "scene": "a timeline, a stone tablet with \"1000\", the word \"YEARS\" above it",
+  "start": 789.938,
+  "end": 791.437
+ },
+ {
+  "n": 287,
+  "block": "B15",
+  "text": "Hence, much later, the phrase \"on the rag\".",
+  "scene": "{GUY} shocked, the word \"ON THE RAG\" above him",
+  "start": 791.437,
+  "end": 794.342
+ },
+ {
+  "n": 288,
+  "block": "B15",
+  "text": "And here's a detail that surprises people.",
+  "scene": "{SCIW} pointing, finger raised, an exclamation mark",
+  "start": 794.342,
+  "end": 797.352
+ },
+ {
+  "n": 289,
+  "block": "B15",
+  "text": "For most of European history, women didn't wear underwear.",
+  "scene": "{LADY} shocked, the word \"UNDERWEAR\" above her, a big red X",
+  "start": 797.352,
+  "end": 801.612
+ },
+ {
+  "n": 290,
+  "block": "B15",
+  "text": "Long dresses. A long linen shift underneath.",
+  "scene": "{LADY} smiling, the word \"SHIFT\" above her",
+  "start": 801.612,
+  "end": 805.134
+ },
+ {
+  "n": 291,
+  "block": "B15",
+  "text": "For many women, the shift itself did the job.",
+  "scene": "{LADY} shrugging, palms up",
+  "start": 805.134,
+  "end": 808.55
+ },
+ {
+  "n": 292,
+  "block": "B15",
+  "text": "And the laundry did the rest.",
+  "scene": "{LADY} tired, washing cloth in a river, the word \"LAUNDRY\" above her",
+  "start": 808.55,
+  "end": 810.638
+ },
+ {
+  "n": 293,
+  "block": "B15",
+  "text": "It sounds rough.",
+  "scene": "{GUY} disgusted, frowning",
+  "start": 810.638,
+  "end": 812.156
+ },
+ {
+  "n": 294,
+  "block": "B15",
+  "text": "But again, many medieval women spent years pregnant or nursing.",
+  "scene": "{LADY} smiling, holding a baby, the word \"AGAIN\" above her",
+  "start": 812.156,
+  "end": 816.865
+ },
+ {
+  "n": 295,
+  "block": "B15",
+  "text": "Fewer periods than you'd think.",
+  "scene": "a calendar, the word \"FEWER\" above it",
+  "start": 816.865,
+  "end": 819.678
+ },
+ {
+  "n": 296,
+  "block": "B16",
+  "text": "Now jump to the 1890s.",
+  "scene": "a timeline, a stone tablet with \"1896\"",
+  "start": 819.678,
+  "end": 823.315
+ },
+ {
+  "n": 297,
+  "block": "B16",
+  "text": "A company sells the first disposable pads in America.",
+  "scene": "{GUY} proud at a table in an office, the word \"PADS\" above him, sparkles",
+  "start": 823.315,
+  "end": 827.284
+ },
+ {
+  "n": 298,
+  "block": "B16",
+  "text": "It's a total flop.",
+  "scene": "{GUY} sad, crying, a big red X",
+  "start": 827.284,
+  "end": 829.039
+ },
+ {
+  "n": 299,
+  "block": "B16",
+  "text": "Not because they didn't work.",
+  "scene": "{GUY} confused, a question mark",
+  "start": 829.039,
+  "end": 831.297
+ },
+ {
+  "n": 300,
+  "block": "B16",
+  "text": "Because no woman wanted to walk up to a male shop clerk",
+  "scene": "{LADY} nervous in an office, {GUY} smiling behind a table",
+  "start": 831.297,
+  "end": 834.775
+ },
+ {
+  "n": 301,
+  "block": "B16",
+  "text": "and say the word out loud.",
+  "scene": "{LADY} shocked, hands on her cheeks, the word \"UM\" above her",
+  "start": 834.775,
+  "end": 836.963
+ },
+ {
+  "n": 302,
+  "block": "B16",
+  "text": "Then came the First World War.",
+  "scene": "a timeline, a stone tablet with \"1914\", three soldiers",
+  "start": 836.963,
+  "end": 839.266
+ },
+ {
+  "n": 303,
+  "block": "B16",
+  "text": "Factories made a super-absorbent bandage from wood pulp for the army.",
+  "scene": "three soldiers in a hall, the word \"BANDAGE\" above them",
+  "start": 839.266,
+  "end": 844.02
+ },
+ {
+  "n": 304,
+  "block": "B16",
+  "text": "Nurses at the front noticed it worked for something else too.",
+  "scene": "{LADY} smiling, pointing, the word \"NURSE\" above her, a light bulb",
+  "start": 844.02,
+  "end": 848.007
+ },
+ {
+  "n": 305,
+  "block": "B16",
+  "text": "After the war, the company had warehouses full of bandages.",
+  "scene": "a warehouse full of boxes, {GUY} worried",
+  "start": 848.007,
+  "end": 852.361
+ },
+ {
+  "n": 306,
+  "block": "B16",
+  "text": "So in 1920 they sold them to women instead.",
+  "scene": "a timeline, a stone tablet with \"1920\", {LADY} happy",
+  "start": 852.361,
+  "end": 857.101
+ },
+ {
+  "n": 307,
+  "block": "B16",
+  "text": "The trick that made it work:",
+  "scene": "{SCIW} pointing, finger raised",
+  "start": 857.101,
+  "end": 858.927
+ },
+ {
+  "n": 308,
+  "block": "B16",
+  "text": "women could drop money in a box",
+  "scene": "{LADY} smiling, a box, the word \"BOX\" above it",
+  "start": 858.927,
+  "end": 860.924
+ },
+ {
+  "n": 309,
+  "block": "B16",
+  "text": "and take a pack without saying a word.",
+  "scene": "{LADY} relieved, sparkles",
+  "start": 860.924,
+  "end": 863.74
+ },
+ {
+  "n": 310,
+  "block": "B16",
+  "text": "Silence sold better than any advertisement.",
+  "scene": "{GUY} shocked, the word \"SILENCE\" above him",
+  "start": 863.74,
+  "end": 867.335
+ },
+ {
+  "n": 311,
+  "block": "B17",
+  "text": "In 1931, a doctor named Earle Haas",
+  "scene": "a timeline, a stone tablet with \"1931\", {SCI} thinking",
+  "start": 867.335,
+  "end": 870.356
+ },
+ {
+  "n": 312,
+  "block": "B17",
+  "text": "designed a cotton tampon with a cardboard applicator.",
+  "scene": "{SCI} proud, holding up a box, the word \"TAMPON\" above him",
+  "start": 870.356,
+  "end": 875.309
+ },
+ {
+  "n": 313,
+  "block": "B17",
+  "text": "He couldn't sell it.",
+  "scene": "{SCI} sad, a big red X",
+  "start": 875.309,
+  "end": 876.809
+ },
+ {
+  "n": 314,
+  "block": "B17",
+  "text": "So a businesswoman named Gertrude Tendrich bought the patent.",
+  "scene": "{LADY} smug, holding up a scroll, the word \"PATENT\" above her",
+  "start": 876.809,
+  "end": 880.853
+ },
+ {
+  "n": 315,
+  "block": "B17",
+  "text": "She started making them at home",
+  "scene": "{LADY} happy at a table in a kitchen",
+  "start": 880.853,
+  "end": 882.635
+ },
+ {
+  "n": 316,
+  "block": "B17",
+  "text": "with a sewing machine.",
+  "scene": "{LADY} proud, the word \"SEWING\" above her",
+  "start": 882.635,
+  "end": 884.379
+ },
+ {
+  "n": 317,
+  "block": "B17",
+  "text": "That company became Tampax.",
+  "scene": "{LADY} celebrating, arms in the air, sparkles",
+  "start": 884.379,
+  "end": 886.71
+ },
+ {
+  "n": 318,
+  "block": "B17",
+  "text": "A few years later, in 1937,",
+  "scene": "a timeline, a stone tablet with \"1937\"",
+  "start": 886.71,
+  "end": 889.265
+ },
+ {
+  "n": 319,
+  "block": "B17",
+  "text": "an actress named Leona Chalmers patented a rubber menstrual cup.",
+  "scene": "{LADY} smiling, holding up a cup, the word \"CUP\" above her",
+  "start": 889.265,
+  "end": 895.29
+ },
+ {
+  "n": 320,
+  "block": "B17",
+  "text": "It took the world about seventy years to notice.",
+  "scene": "a calendar, the word \"70 YEARS\" above it, {GUY} confused",
+  "start": 895.29,
+  "end": 898.384
+ },
+ {
+  "n": 321,
+  "block": "B17",
+  "text": "So, three hundred thousand years of human history,",
+  "scene": "a timeline, a stone tablet with \"300000\"",
+  "start": 898.384,
+  "end": 901.671
+ },
+ {
+  "n": 322,
+  "block": "B17",
+  "text": "and the stuff in your bathroom cabinet",
+  "scene": "{LADY} smiling in a bathroom, a box",
+  "start": 901.671,
+  "end": 904.228
+ },
+ {
+  "n": 323,
+  "block": "B17",
+  "text": "is about a hundred years old.",
+  "scene": "a timeline, a stone tablet with \"100\", an exclamation mark",
+  "start": 904.228,
+  "end": 907.237
+ },
+ {
+  "n": 324,
+  "block": "B18",
+  "text": "And here's where it loops back to the cave.",
+  "scene": "{WOMAN} by a campfire, the word \"LOOP\" above her",
+  "start": 907.237,
+  "end": 909.968
+ },
+ {
+  "n": 325,
+  "block": "B18",
+  "text": "Modern women don't just have better products.",
+  "scene": "{LADY} happy in a living room, sparkles",
+  "start": 909.968,
+  "end": 913.223
+ },
+ {
+  "n": 326,
+  "block": "B18",
+  "text": "They have three or four times more periods than any woman in the Stone Age.",
+  "scene": "a bar chart, {LADY} shocked, the word \"X4\" above her",
+  "start": 913.223,
+  "end": 918.467
+ },
+ {
+  "n": 327,
+  "block": "B18",
+  "text": "That's hundreds of extra cycles.",
+  "scene": "{SCIW} worried, the word \"HUNDREDS\" above her",
+  "start": 918.467,
+  "end": 921.038
+ },
+ {
+  "n": 328,
+  "block": "B18",
+  "text": "Each one builds up the lining and breaks it down again.",
+  "scene": "{SCIW} pointing at a chalkboard, the word \"AGAIN\" above her",
+  "start": 921.038,
+  "end": 924.893
+ },
+ {
+  "n": 329,
+  "block": "B18",
+  "text": "Some researchers, including Strassmann,",
+  "scene": "{SCIW} thinking, holding up a journal",
+  "start": 924.893,
+  "end": 927.558
+ },
+ {
+  "n": 330,
+  "block": "B18",
+  "text": "think this may be part of why certain women's cancers are more common today.",
+  "scene": "{SCIW} sad, sighing, a question mark",
+  "start": 927.558,
+  "end": 932.937
+ },
+ {
+  "n": 331,
+  "block": "B18",
+  "text": "It's not settled.",
+  "scene": "{SCIW} shrugging, the word \"NOT SETTLED\" above her",
+  "start": 932.937,
+  "end": 934.423
+ },
+ {
+  "n": 332,
+  "block": "B18",
+  "text": "Lots of things changed at once.",
+  "scene": "{SCI} confused, a timeline, a question mark",
+  "start": 934.423,
+  "end": 936.696
+ },
+ {
+  "n": 333,
+  "block": "B18",
+  "text": "But it's a real question in medicine.",
+  "scene": "{SCI} thinking in a lab",
+  "start": 936.696,
+  "end": 939.284
+ },
+ {
+  "n": 334,
+  "block": "B18",
+  "text": "And it explains something important.",
+  "scene": "{SCI} pointing, finger raised",
+  "start": 939.284,
+  "end": 941.821
+ },
+ {
+  "n": 335,
+  "block": "B18",
+  "text": "The female body was shaped by evolution for late starts, many babies, and long breastfeeding.",
+  "scene": "{WOMAN} smiling, holding a baby, the word \"DESIGN\" above her",
+  "start": 941.821,
+  "end": 948.689
+ },
+ {
+  "n": 336,
+  "block": "B18",
+  "text": "Not for four hundred fifty periods.",
+  "scene": "{LADY} unhappy, frowning, the word \"450\" above her",
+  "start": 948.689,
+  "end": 951.513
+ },
+ {
+  "n": 337,
+  "block": "B18",
+  "text": "In a way, a monthly period every month for forty years",
+  "scene": "a calendar, the word \"40 YEARS\" above it",
+  "start": 951.513,
+  "end": 955.087
+ },
+ {
+  "n": 338,
+  "block": "B18",
+  "text": "is one of the newest things about being human.",
+  "scene": "{SCIW} shocked, an exclamation mark",
+  "start": 955.087,
+  "end": 959.169
+ },
+ {
+  "n": 339,
+  "block": "B19",
+  "text": "So, how did ancient women deal with periods?",
+  "scene": "{WOMAN} thinking by a campfire, a giant question mark",
+  "start": 959.169,
+  "end": 962.367
+ },
+ {
+  "n": 340,
+  "block": "B19",
+  "text": "First: they had far fewer of them.",
+  "scene": "{WOMAN} smug, the word \"FEWER\" above her",
+  "start": 962.367,
+  "end": 964.908
+ },
+ {
+  "n": 341,
+  "block": "B19",
+  "text": "They started later,",
+  "scene": "a calendar, the word \"16\" above it",
+  "start": 964.908,
+  "end": 966.189
+ },
+ {
+  "n": 342,
+  "block": "B19",
+  "text": "and spent most of their lives pregnant or nursing.",
+  "scene": "{WOMAN} happy holding a baby",
+  "start": 966.189,
+  "end": 969.615
+ },
+ {
+  "n": 343,
+  "block": "B19",
+  "text": "When a period did come, they probably used what nature gave them.",
+  "scene": "{WOMAN} smiling in a forest, the word \"MOSS\" above her",
+  "start": 969.615,
+  "end": 974.251
+ },
+ {
+  "n": 344,
+  "block": "B19",
+  "text": "Moss, plant fluff, soft hide.",
+  "scene": "{WOMAN} proud, holding up a fur",
+  "start": 974.251,
+  "end": 976.569
+ },
+ {
+  "n": 345,
+  "block": "B19",
+  "text": "Later, cloth, washed and used again.",
+  "scene": "{LADY} washing cloth in a river",
+  "start": 976.569,
+  "end": 979.489
+ },
+ {
+  "n": 346,
+  "block": "B19",
+  "text": "The smell didn't summon bears.",
+  "scene": "a bear bored, ignoring, in a forest, a big red X",
+  "start": 979.489,
+  "end": 981.657
+ },
+ {
+  "n": 347,
+  "block": "B19",
+  "text": "The camp didn't sync with the moon.",
+  "scene": "a full moon at night, a big red X",
+  "start": 981.657,
+  "end": 983.992
+ },
+ {
+  "n": 348,
+  "block": "B19",
+  "text": "And the papyrus tampon?",
+  "scene": "{EGYPT} confused, holding up a scroll",
+  "start": 983.992,
+  "end": 985.939
+ },
+ {
+  "n": 349,
+  "block": "B19",
+  "text": "Probably never existed.",
+  "scene": "{EGYPT} shrugging, palms up, a big red X",
+  "start": 985.939,
+  "end": 988.156
+ },
+ {
+  "n": 350,
+  "block": "B19",
+  "text": "What did exist:",
+  "scene": "{SCIW} pointing, finger raised",
+  "start": 988.156,
+  "end": 989.419
+ },
+ {
+  "n": 351,
+  "block": "B19",
+  "text": "huts, rules, a Roman who thought you could kill bees just by walking past,",
+  "scene": "{ROMAN} smug, the word \"BEES\" above him",
+  "start": 989.419,
+  "end": 994.606
+ },
+ {
+  "n": 352,
+  "block": "B19",
+  "text": "and Egyptian husbands taking a day off work.",
+  "scene": "{EGYPT} relieved on a couch, sparkles",
+  "start": 994.606,
+  "end": 998.798
+ },
+ {
+  "n": 353,
+  "block": "B20",
+  "text": "Let's go back to that woman on the long walk.",
+  "scene": "{WOMAN} walking in the savanna, a long road",
+  "start": 998.798,
+  "end": 1001.908
+ },
+ {
+  "n": 354,
+  "block": "B20",
+  "text": "She's nursing a two-year-old.",
+  "scene": "{WOMAN} smiling, holding a baby",
+  "start": 1001.908,
+  "end": 1004.135
+ },
+ {
+  "n": 355,
+  "block": "B20",
+  "text": "She hasn't had a period in over a year.",
+  "scene": "a calendar, the word \"1 YEAR\" above it",
+  "start": 1004.135,
+  "end": 1006.913
+ },
+ {
+  "n": 356,
+  "block": "B20",
+  "text": "She won't have one for another year.",
+  "scene": "{WOMAN} smug, the word \"NEXT YEAR\" above her",
+  "start": 1006.913,
+  "end": 1009.402
+ },
+ {
+  "n": 357,
+  "block": "B20",
+  "text": "And when she does,",
+  "scene": "{WOMAN} thinking, a question mark",
+  "start": 1009.402,
+  "end": 1010.647
+ },
+ {
+  "n": 358,
+  "block": "B20",
+  "text": "she'll pick some moss,",
+  "scene": "{WOMAN} happy in a forest, the word \"MOSS\" above her",
+  "start": 1010.647,
+  "end": 1012.119
+ },
+ {
+  "n": 359,
+  "block": "B20",
+  "text": "sit with the other women by the fire,",
+  "scene": "{WOMAN} with two women by a campfire at night, hearts",
+  "start": 1012.119,
+  "end": 1014.44
+ },
+ {
+  "n": 360,
+  "block": "B20",
+  "text": "and nobody will think it's strange.",
+  "scene": "{WOMAN} happy, sparkles",
+  "start": 1014.44,
+  "end": 1017.067
+ },
+ {
+  "n": 361,
+  "block": "B20",
+  "text": "Forty thousand years later,",
+  "scene": "a timeline, a stone tablet with \"40000\"",
+  "start": 1017.067,
+  "end": 1019.163
+ },
+ {
+  "n": 362,
+  "block": "B20",
+  "text": "we have pads, tampons, cups, apps,",
+  "scene": "{LADY} proud in a bathroom, the word \"APPS\" above her",
+  "start": 1019.163,
+  "end": 1021.733
+ },
+ {
+  "n": 363,
+  "block": "B20",
+  "text": "and somehow it's still awkward to say the word out loud.",
+  "scene": "{LADY} nervous, hands on her cheeks, the word \"PERIOD\" above her",
+  "start": 1021.733,
+  "end": 1026.209
+ },
+ {
+  "n": 364,
+  "block": "B20",
+  "text": "Maybe the cave had a point.",
+  "scene": "{WOMAN} smug by a campfire, a light bulb",
+  "start": 1026.209,
+  "end": 1028.324
+ },
+ {
+  "n": 365,
+  "block": "B20",
+  "text": "If you want more of the weird everyday life of ancient humans,",
+  "scene": "{CAVE} waving by a campfire",
+  "start": 1028.324,
+  "end": 1032.193
+ },
+ {
+  "n": 366,
+  "block": "B20",
+  "text": "the next video is about something every one of them dreaded.",
+  "scene": "{CAVE} terrified, hands on his head",
+  "start": 1032.193,
+  "end": 1036.364
+ },
+ {
+  "n": 367,
+  "block": "B20",
+  "text": "Toothache.",
+  "scene": "{CAVE} crying, the word \"TOOTHACHE\" above him, an exclamation mark",
+  "start": 1036.364,
+  "end": 1037.616
+ },
+ {
+  "n": 368,
+  "block": "B20",
+  "text": "See you there.",
+  "scene": "{CAVE} and {WOMAN} waving by a campfire at night, sparkles",
+  "start": 1037.616,
+  "end": 1039.538
+ }
+]

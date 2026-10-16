@@ -273,8 +273,8 @@ def bg_cave(p):
     p.rect((-10, GROUND, W + 10, H + 10), (121, 85, 72))
 
 SETTINGS = [
-    (("jungle", "forest floor", "palm tree", "vine", "treeshrew", "mango"), bg_jungle),
-    (("greek", "greece", "symposium", "kottabos", "marble", "toga", "senate", "senator", "roman", "bacchus"), bg_greek),
+    (("jungle", "forest", "forests", "river", "bog", "forest floor", "palm tree", "vine", "treeshrew", "mango"), bg_jungle),
+    (("greek", "greece", "symposium", "kottabos", "marble", "toga", "senate", "senator", "roman", "rome", "bacchus"), bg_greek),
     (("sumer", "sumerian", "mesopotamia", "babylon", "ur", "hammurabi", "ninkasi", "tavern keeper", "cuneiform", "scribe", "enkidu", "wild man", "gilgamesh", "shepherds", "wedge-shaped", "clay tablet"), bg_mesop),
     (("cave", "stone bowl", "stone mortar", "mortar"), bg_cave),  # (keywords, painter) - first match wins
     (("space", "rocket", "capsule", "orbit"), bg_space),
@@ -577,26 +577,33 @@ CATS = {
     "LEOPARD": dict(body=(230, 190, 110), spots=(60, 40, 20)),
     "HYENA": dict(body=(190, 160, 110), spots=(90, 70, 40), dog=True),
     "WOLF": dict(body=(150, 150, 150), stripe=None, dog=True),
+    "BEAR": dict(body=(110, 75, 50), stripe=None, dog=True),
+    "POLARBEAR": dict(body=(245, 245, 240), stripe=None, dog=True),
 }
 
 def dog(p, kind, x, s, e, flip=1, look=0):
     c = dict(CATS[kind]); gy = GROUND + 40; body = mute(c["body"], 0.35); ear_c = mute((110, 70, 40), 0.35)
     d = look or flip or 1                                     # the side the head is on
-    p.line([(x - d * 140 * s, gy - 190 * s), (x - d * 215 * s, gy - 300 * s)], int(24 * s) + 6)
-    p.line([(x - d * 140 * s, gy - 190 * s), (x - d * 215 * s, gy - 300 * s)], int(24 * s), body)        # wagging tail up
+    bear = kind in ("BEAR", "POLARBEAR")
+    if bear: s *= 1.15
+    if not bear:
+        p.line([(x - d * 140 * s, gy - 190 * s), (x - d * 215 * s, gy - 300 * s)], int(24 * s) + 6)
+        p.line([(x - d * 140 * s, gy - 190 * s), (x - d * 215 * s, gy - 300 * s)], int(24 * s), body)        # wagging tail up
+    lw = 46 if bear else 30
     for lx in (-110, -60, 60, 110):
-        p.line([(x + lx * s, gy - 150 * s), (x + lx * s, gy - 6 * s)], int(30 * s) + 6); p.line([(x + lx * s, gy - 150 * s), (x + lx * s, gy - 6 * s)], int(30 * s), body)
-    p.ell((x - 165 * s, gy - 270 * s, x + 165 * s, gy - 110 * s), body, 6)
+        p.line([(x + lx * s, gy - 150 * s), (x + lx * s, gy - 6 * s)], int(lw * s) + 6); p.line([(x + lx * s, gy - 150 * s), (x + lx * s, gy - 6 * s)], int(lw * s), body)
+    p.ell((x - 175 * s, gy - (300 if bear else 270) * s, x + 175 * s, gy - 100 * s), body, 6)
     hx, hy, hr = x + d * 150 * s, gy - 330 * s, 88 * s
     floppy = kind == "DOG"
     for sx in (-1, 1):
-        if floppy: p.ell((hx + sx * hr * 0.95 - hr * 0.32, hy - hr * 0.55, hx + sx * hr * 0.95 + hr * 0.32, hy + hr * 0.75), ear_c, 5)
+        if bear: p.ell((hx + sx * hr * 0.7 - hr * 0.3, hy - hr * 1.05, hx + sx * hr * 0.7 + hr * 0.3, hy - hr * 0.45), body, 6)   # round ears
+        elif floppy: p.ell((hx + sx * hr * 0.95 - hr * 0.32, hy - hr * 0.55, hx + sx * hr * 0.95 + hr * 0.32, hy + hr * 0.75), ear_c, 5)
         else: p.poly([(hx + sx * hr * 0.9, hy - hr * 0.3), (hx + sx * hr * 0.75, hy - hr * 1.4), (hx + sx * hr * 0.2, hy - hr * 0.85)], body, 6)
     p.ell((hx - hr, hy - hr * 0.95, hx + hr, hy + hr * 0.95), body, 6)
     mx = hx + d * hr * 0.75
     p.ell((mx - hr * 0.55, hy + hr * 0.05, mx + hr * 0.55, hy + hr * 0.7), mute((236, 214, 182), 0.35), 5)          # muzzle
     p.d.ellipse((mx + d * hr * 0.25 - hr * 0.2, hy + hr * 0.02, mx + d * hr * 0.25 + hr * 0.2, hy + hr * 0.3), fill=OL)  # nose
-    if e in ("happy", "neutral", "smug"):
+    if e in ("happy", "neutral", "smug") and not bear:
         p.ell((mx - hr * 0.15, hy + hr * 0.6, mx + hr * 0.15, hy + hr * 1.0), (240, 98, 146), 4)                  # tongue
     eyes(p, hx - d * hr * 0.1, hy - hr * 0.25, hr * 0.3, e, look)
     return dict(x=x, s=s, look=look, head=(hx, hy, hr * 1.15), top=hy - hr * (1.45 if not floppy else 1.0),
@@ -823,14 +830,14 @@ CHAR_WORDS = [
     (r"\{APE\}|\bapes?\b|chimp|monkey|bonobos?|orangutans?|gorillas?", "APE"), (r"persians?(?! cat)", "SUMER"), (r"\{SUMER\}|sumerians?|scribe|tavern keeper|babylon|wild man|enkidu|shepherds?", "SUMER"),
     (r"\{CAVE\}|farmer|caveman|cavemen|cavepeople|hunter|natufian|worker|early humans?|homo erectus|teenager|volunteer|bab(y|ies)|child|kids?", "CAVE"),
     (r"neanderthals?|denisovans?", "NEAN"), (r"knights?\b", "KNIGHT"), (r"\{WOMAN\}|prehistoric woman|old woman|old cavewoman|grandmother|witch|mother|mom|queen", "WOMAN"),
-    (r"wife|girlfriend|actress|bride|modern woman", "LADY"), (r"woman scientists?|female scientists?", "SCIW"),
+    (r"wife|girlfriend|actress|bride|modern wom[ae]n|businesswoman|nurse", "LADY"), (r"woman scientists?|female scientists?", "SCIW"),
     (r"\{GUY\}|stranger|customer|tourists?|postmaster|actor|boyfriend", "GUY"), (r"\{EGYPT\}|egyptians?|pharaoh|pilgrim", "EGYPT"),
     (r"\{SCI\}|historians?|scientists?|diodorus|herodotus|greek man|researcher", "SCI"),
     (r"roman|emperor|greek man|greek men|senators?|soldiers?", "ROMAN"), (r"couples?|lovers", "COUPLE"), (r"monk|brewer|peasants?|medieval (man|men|person|people|woman)|hadza|husband|family|neighbou?r|priests?\b|pope", "PERSON"), (r"viking", "VIKING"), (r"crowd|villagers|peasant|soldiers|sailors|people|family", "PERSON"),
     (r"black cat", "BLACKCAT"), (r"leopard cat", "LEOPARDCAT"), (r"persian cat", "PERSIAN"), (r"sphynx", "SPHYNX"),
     (r"maine coon", "MAINECOON"), (r"\{CAT\}|wildcats?|kittens?|bastet", "CAT"),
     (r"\{HOUSECAT\}|house cat|tabby", "HOUSECAT"),
-    (r"lions?\b|lioness", "LION"), (r"leopards?", "LEOPARD"), (r"hyenas?", "HYENA"), (r"\bdogs?\b|chihuahua|great dane", "DOG"), (r"\bwol(f|ves)\b", "WOLF"),
+    (r"lions?\b|lioness", "LION"), (r"leopards?", "LEOPARD"), (r"hyenas?", "HYENA"), (r"\bdogs?\b|chihuahua|great dane", "DOG"), (r"\bwol(f|ves)\b", "WOLF"), (r"polar bears?", "POLARBEAR"), (r"\b(grizzl(y|ies)|black bears?|bears?)\b", "BEAR"),
 ]
 HUMAN_KINDS = set(HUMANS)
 OTHER_CATS = ("CAT", "BLACKCAT", "LEOPARDCAT", "PERSIAN", "SPHYNX", "MAINECOON")
@@ -907,9 +914,11 @@ def pick_setting(low):
             if any((k in IMPLIED) == implied and re.search(r"\b" + re.escape(k) + r"\b", low) for k in keys): return painter
     return None
 
+QRE = r'(?<=word )"([A-Za-z0-9 !%.,\-]*[A-Za-z0-9][A-Za-z0-9 !%.,\-]*)"'   # labels may be numbers ("450"); 'tablet with "N"' stays a tablet
+
 def strip_q(scene):
     """The quoted on-screen word is only a label: it must not add characters, kisses or settings."""
-    return re.sub(r'"[A-Za-z !]{3,24}"', '""', scene)
+    return re.sub(QRE, '""', scene)
 
 def scene_setting(low, ctx):
     low = strip_q(low)
@@ -922,7 +931,8 @@ def scene_setting(low, ctx):
 def render(scene, caption, seed, out, ctx):
     rnd = random.Random(seed)
     img = Image.new("RGB", (W, H), (255, 255, 255)); p = P(img, rnd)
-    quoted = re.search(r'"([A-Za-z !]{3,24})"', scene)
+    quoted = re.search(QRE, scene)
+    if quoted and len(quoted.group(1)) > 24: quoted = None
     scene = strip_q(scene); low = scene.lower()
     painter = scene_setting(low, ctx)
     SKY["moon"] = not (TOPY > 0 and quoted); SKY["shelf"] = not quoted

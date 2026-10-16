@@ -35,10 +35,10 @@
 | **Сб 17.10** | 22:00 Shorts `sleep_dirty_bed` | Загрузить видео №4 на Вс 12:00 NY. Сравнить, какие хуки Shorts сработали лучше. |
 | **Вс 18.10** | **19:00 видео №4 «Did Ancient Humans Actually Kiss?»**; 22:00 Shorts `kiss_nose_sn` | Ритуал дня выхода. A/B-тест: обложка A «EW. WHY?» первой, B «BLAME THE APES». Метаданные: `video4_kiss/youtube_metadata.txt`. Проверить видео про сон через 72 ч. |
 | **Пн 19.10** | 22:00 Shorts `kiss_tiberius_ban` | Видео про алкоголь — 7 дней. **Claude начинает видео №6.** |
-| **Вт 20.10** | 22:00 Shorts `kiss_80m_bacteria` | Загрузить видео №5 на Ср 12:00 NY. |
-| **Ср 21.10** | **19:00 видео №5 «How Did Ancient Women Deal With Periods?»** (с отличающимся от конкурентов углом); 22:00 Shorts 5-1 | Ритуал дня выхода. Проверить видео №4 через 72 ч. |
-| **Чт 22.10** | 22:00 Shorts 5-2 | Видео про сон — 7 дней. Решение о темпе (правила ниже). **Claude начинает видео №7.** |
-| **Пт 23.10** | 22:00 Shorts 5-3 | Загрузить видео №6. Итог по Shorts за 2 недели. |
+| **Вт 20.10** | 22:00 Shorts `kiss_80m_bacteria` | Загрузить видео №5 на Ср 12:00 NY. Обложка A «ONLY 100?», метаданные из `video5_periods/youtube_metadata.txt`, «Возрастные ограничения: Нет», «Не для детей». |
+| **Ср 21.10** | **19:00 видео №5 «How Did Ancient Women Deal With Periods?»** (угол: 100 месячных в каменном веке против 450 сегодня); 22:00 Shorts `periods_100_vs_450` | Ритуал дня выхода. A/B-тест: обложка A «ONLY 100?» первой, B «NO PADS?!». Проверить видео №4 через 72 ч. |
+| **Чт 22.10** | 22:00 Shorts `periods_egypt_day_off` | Видео про сон — 7 дней. Решение о темпе (правила ниже). **Claude начинает видео №7.** |
+| **Пт 23.10** | 22:00 Shorts `periods_pliny_bees` | Загрузить видео №6. Итог по Shorts за 2 недели. |
 | **Сб 24.10** | **19:00 видео №6 «How Did Ancient Humans Deal With Toothache?»**; 22:00 Shorts 6-1 | Ритуал дня выхода. Около этой даты заканчивается A/B-тест видео про кошек. Сразу запусти тест названий: текущее первым, потом «How Wild Cats Actually Moved In With Ancient Humans» и «Why Your Cat Was Never Fully Domesticated». |
 | **Вс 25.10** | 16:00 Shorts `cats_meow` (запасной); 22:00 Shorts 6-2 | — |
 
