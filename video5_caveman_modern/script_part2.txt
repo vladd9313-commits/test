@@ -1,0 +1,78 @@
+## B07 | Place 5: The all-you-can-eat buffet
+Place five: an all-you-can-eat buffet. | {CAVE} shocked at a buffet, sparkles, the word "BUFFET" above him
+Oog has never seen this much food in one place. | {CAVE} happy, arms in the air, at a buffet, sparkles
+For the Hadza, the sweetest food in the world is wild honey. | a Hadza hunter happy on a savanna, the word "HONEY" above him
+It can make up around fifteen percent of their calories in a year. | {SCI} pointing at a chalkboard, the word "15%" above him
+Here, there's a chocolate fountain. | {CAVE} shocked at a buffet, the word "CHOCOLATE" above him, sparkles
+So Oog eats. | {CAVE} happy eating at a buffet
+And eats. | {CAVE} happy eating at a buffet, hearts
+His body has one rule: when there's food, store it. | {SCI} pointing at a chalkboard, the word "STORE" above him
+The next meal could be days away. | {CAVE} sad in the snow at night, the word "HUNGRY" above him
+So he wraps every rib he can carry in his fur. | {CAVE} smug at a buffet, the word "RIBS" above him
+"All you can eat" does not mean "all you can carry." | a waiter angry, pointing at {CAVE} shocked at a buffet, the word "CARRY" above them, a big red X
+Timer: forty-five minutes. | {CAVE} sad outside a restaurant [TIMER 45 MIN]
+## B08 | Place 6: The supermarket
+Place six: the supermarket. | {CAVE} shocked in a supermarket, the word "SUPERMARKET" above him
+A typical American supermarket sells about thirty thousand different products. | {CAVE} confused in a supermarket, the word "30000 ITEMS" above him
+Oog's whole world had maybe a few hundred things to eat. | {CAVE} thinking in a forest, a fish, the word "FEW" above him
+And nobody here is guarding the food. | {CAVE} smug in a supermarket, a question mark
+So, it's free. | {CAVE} happy eating in a supermarket, sparkles, the word "FREE" above him
+He opens a bag of chips. | {CAVE} happy in a supermarket, the word "CHIPS" above him
+He bites a coconut. | {CAVE} shocked in a supermarket, the word "COCONUT" above him
+He drinks the milk straight from the bottle. | {CAVE} happy in a supermarket, the word "MILK" above him
+Fun fact: Oog probably can't digest milk well as an adult. | {SCI} smug at a chalkboard, the word "MILK" above him, a big red X
+Most adults in the Ice Age couldn't. | {SCI} pointing at a chalkboard, a timeline
+That came much later, with dairy farming. | a farmer smiling in a village, the word "DAIRY" above him
+Security arrives first, | a security guard angry in a supermarket, pointing at {CAVE} sweating
+just before the stomach ache does. | {CAVE} sad, hands on his head, in a supermarket, the word "OUCH" above him
+Timer: twenty minutes. | {CAVE} sad outside a supermarket [TIMER 20 MIN]
+## B09 | Place 7: The mall escalator
+Place seven: the shopping mall. | {CAVE} confused in a mall, the word "MALL" above him
+Stairs? Oog knows stairs. | {CAVE} smug next to stairs in a mall
+Rocks, slopes, cliffs. Easy. | {CAVE} proud on a rocky cliff, the word "EASY" above him
+But these stairs move. | {CAVE} shocked on an escalator in a mall, an exclamation mark
+The moving staircase is a pretty new invention. | {GUY} smiling on an escalator in a mall, the word "ESCALATOR" above him
+One of the first ran at Coney Island in eighteen ninety-six, just as a ride. | {GUY} happy on an escalator in a mall, a stone tablet with "1896", sparkles
+For Oog, the ground itself is alive. | {CAVE} terrified, hands on his head, on an escalator in a mall
+So he does the logical thing. | {CAVE} thinking on an escalator, a light bulb above him
+He attacks the stairs. | {CAVE} angry, holding a spear, on an escalator in a mall
+Then he rides them. | {CAVE} happy on an escalator in a mall, sparkles
+Up. Down. Up. Down. | {CAVE} happy, arms in the air, on an escalator in a mall, hearts
+Forty times. | {CAVE} happy on an escalator in a mall, the word "40 TIMES" above him
+Timer: five minutes. | a security guard frowning, pointing at {CAVE} sad in a mall [TIMER 5 MIN]
+## B10 | Place 8: Airport security
+Place eight: airport security. | {CAVE} confused at airport security, the word "AIRPORT" above him
+He walks in with a spear. | {CAVE} proud, holding a spear, at airport security, a guard shocked
+And a stone knife. | {CAVE} smug at airport security, the word "KNIFE" above him
+And his water, in a bag made from an animal's stomach. | {CAVE} happy at airport security, the word "WATER" above him
+Liquids over a hundred milliliters? Not allowed. | a guard frowning at airport security, the word "100 ML" above him, a big red X
+Then the body scanner spins around him. | {CAVE} terrified inside a body scanner at airport security
+To Oog, this is a spirit trying to look inside him. | {CAVE} terrified at airport security, the word "SPIRIT" above him, an exclamation mark
+He wins the fight with the scanner. | {CAVE} angry, holding a spear, at airport security, the word "WIN" above him
+He does not win the fight with airport police. | two police officers angry next to {CAVE} sad at airport security
+Timer: two minutes. | {CAVE} sad at airport security [TIMER 2 MIN]
+## B11 | Place 9: The subway
+Place nine: the subway. | {CAVE} confused in a subway station, the word "SUBWAY" above him
+A giant metal animal screams out of a dark cave. | {CAVE} terrified, a subway train in a subway station, an exclamation mark
+The biggest animal Oog ever hunted was a woolly mammoth. | {CAVE} proud, holding a spear, next to a mammoth in the snow
+A big one weighed about six tonnes. | a mammoth in the snow, a stone tablet with "6", the word "TONNES" above it
+One New York subway car weighs over thirty-five tonnes. | a subway train in a subway station, the word "35 TONNES" above it
+That's six mammoths, | {CAVE} shocked, hands on his head, a subway train, the word "SIX" above him
+and they come in a herd of ten cars. | {CAVE} terrified in a subway station, a subway train, the word "HERD" above him
+Oog throws his spear at the train. | {CAVE} angry, holding a spear, a subway train in a subway station, an exclamation mark
+The train doesn't notice. | a subway train in a subway station, {CAVE} confused, a question mark
+The station staff do. | a guard angry in a subway station, pointing at {CAVE} sad
+Timer: one minute. | {CAVE} sad in a subway station [TIMER 1 MIN]
+## B12 | Place 10: The highway
+Place ten: a highway. | {CAVE} confused on a highway with cars, the word "HIGHWAY" above him
+Oog knows fast. | {CAVE} smug, holding a spear, on a savanna
+A charging lion can hit around eighty kilometers an hour. | a lion angry on a savanna, the word "80 KMH" above it
+Highway cars go faster, and there are hundreds of them. | {CAVE} shocked on a highway with cars, the word "120 KMH" above him
+And judging fast cars is hard even for us. | {SCI} thinking in a lab, a light bulb above him
+In one study, many children under ten couldn't tell a car was coming | {SCI} pointing at a chalkboard, a car, the word "KIDS" above him
+once it went faster than about thirty kilometers an hour. | {SCI} pointing at a chalkboard, the word "30 KMH" above him, a big red X
+Oog's brain has never practiced this at all. | {CAVE} confused on a highway with cars, a big question mark
+So he does what worked on lions. | {CAVE} thinking on a highway, a light bulb above him
+He freezes. | {CAVE} terrified, frozen on a highway with cars, an exclamation mark
+Ten horns, one police car, and a very confused officer later... | a police officer shocked on a highway with cars, {CAVE} terrified, an exclamation mark
+Timer: four seconds. | a police officer smiling next to {CAVE} relieved on a highway [TIMER 4 SEC]

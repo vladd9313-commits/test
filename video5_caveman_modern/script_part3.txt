@@ -1,0 +1,38 @@
+## B13 | Place 11, the twist: The waiting room
+So the highway is the most dangerous place, right? | {CAVE} shocked on a highway with cars, a big question mark
+Actually, no. | {SCI} smug in a lab, the word "NO" above him
+Oog survived the highway. Police are nice to confused people. | a police officer smiling next to {CAVE} relieved, hearts
+The place that could actually kill him | {CAVE} smiling in a waiting room, a question mark
+looks completely safe. | {CAVE} happy in a waiting room, sparkles
+Place eleven: a doctor's waiting room. | {CAVE} smiling in a waiting room, the word "WAITING ROOM" above him
+Soft chairs. Old magazines. Somebody coughing. | {GUY} sad, coughing in a waiting room, the word "COUGH" above him
+Here's the problem. | {SCI} thinking in a lab with a microscope
+Many of our worst crowd diseases are younger than farming. | {SCI} pointing at a chalkboard, a timeline, the word "FARMING" above him
+They spread when people lived packed together with cattle, pigs and chickens. | a farmer worried in a crowded village, the word "GERMS" above him
+Measles, for example, may only be about two and a half thousand years old. | {SCI} shocked at a microscope in a lab, the word "MEASLES" above him
+Oog has never met it. | {CAVE} smiling in a waiting room, a question mark
+No vaccines. No childhood colds from a playground full of kids. | {SCI} sad at a chalkboard, the word "VACCINES" above him, a big red X
+And measles is one of the most contagious diseases we know. | {SCI} pointing at a chalkboard, the word "CONTAGIOUS" above him
+One sick person with no protection around them can infect twelve to eighteen others. | {SCI} shocked at a chalkboard, the word "12 TO 18" above him, an exclamation mark
+Oog sits in the waiting room for an hour. | {CAVE} bored in a waiting room, {GUY} sad, coughing
+He feels fine. | {CAVE} happy, thumbs up, in a waiting room, sparkles
+The highway took four seconds. | {CAVE} terrified on a highway with cars [TIMER 4 SEC]
+The waiting room takes about ten days. | {CAVE} sad, sweating, in bed at night, the word "FEVER" above him [TIMER 10 DAYS]
+The scariest thing in our world isn't a car. | {CAVE} sad in a bed, a car, a big red X
+It's the invisible stuff we've been protected from since we were babies. | {SCI} proud at a microscope in a lab, the word "INVISIBLE" above him
+And luckily, a doctor is already in the next room. | a doctor smiling next to {CAVE} relieved, hearts [TIMER SAVED]
+## B14 | Ending: What if Oog grew up here?
+So, is Oog just too primitive for the modern world? | {CAVE} sad in a city street, a question mark
+Not at all. | {SCI} smiling at a chalkboard, the word "NO" above him
+Take Oog as a baby, | a baby {CAVE} smiling in a living room, hearts
+and raise him in your town. | a baby {CAVE} happy with a modern woman in a living room, hearts
+He'd learn to read. | {CAVE} smiling holding a book in a library, sparkles
+He'd ride the subway, bored, on his phone. | {CAVE} bored in a subway station, the word "PHONE" above him
+He'd complain about the office microwave. | {CAVE} angry in an office kitchen, the word "FISH" above him
+Same brain. Same species. Just born forty thousand years too early. | a timeline, {CAVE} and {GUY} in a row, hearts, sparkles
+The only thing the modern world has that Oog didn't | {GUY} smiling in a city street, a question mark
+is everything people built after him. | a timeline, {CAVE}, a farmer and {GUY} in a row, the word "AFTER" above them
+And now, the question everyone asks in the comments: | {CAVE} smug in a cave, a big question mark
+how long would you last in his world? | {GUY} terrified in the snow at night, a wolf angry [TIMER ?]
+Spoiler: probably less than four seconds. | {CAVE} laughing in a cave, pointing, the word "4 SEC" above him
+Oog will be in the library. | {CAVE} asleep in a library, z letters, sparkles [TIMER ALL DAY]

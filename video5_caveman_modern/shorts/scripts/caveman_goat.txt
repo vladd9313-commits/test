@@ -1,0 +1,11 @@
+# title: THIS GOAT BROKE HIS BRAIN
+A friendly goat would break a caveman's brain. | {CAVE} shocked, hands on his head, a goat at the zoo, an exclamation mark
+Oog walks past the lions at the zoo and shrugs. | {CAVE} shrugging next to a lion in a cage at a zoo
+In the Ice Age, he shared the land with cave lions | {CAVE} terrified next to a lion in the snow, the word "BIGGER" above him
+that were even bigger than today's lions. | {CAVE} bored next to a lion in a cage at a zoo, the word "BORING" above him
+But then a goat walks up and wants to be patted. | a goat happy next to {CAVE} terrified at a petting zoo, hearts
+Goats were only tamed around ten thousand years ago. | a timeline, a goat, a stone tablet with "10000"
+In Oog's world, every animal runs away or attacks. | {CAVE} scared, a wolf angry in the snow, the word "RUN" above him
+So an animal that walks up to you must be sick. | {CAVE} confused next to a goat at the zoo, the word "SICK" above them, a question mark
+Or dinner. | {CAVE} happy next to a goat at the zoo, the word "DINNER" above him, sparkles
+The zookeeper disagrees. | a zookeeper angry, pointing at {CAVE} shocked, a goat, the word "NO" above them [TIMER 2 HOURS]

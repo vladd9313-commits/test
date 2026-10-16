@@ -1,0 +1,80 @@
+## B01 | Hook: Oog wakes up in 2026
+This is Oog. | {CAVE} smiling in a cave, sparkles
+Oog is forty thousand years old. | a timeline, a stone tablet with "40000", {CAVE} proud
+And this morning, | {CAVE} asleep in a cave, z letters
+he woke up in your city. | {CAVE} shocked in a city street, an exclamation mark
+We're going to drop him into eleven modern places | {CAVE} confused in a city street, the word "ELEVEN" above him
+and start a timer. | {CAVE} confused in a city street, a clock [TIMER 0:00]
+In one place, he lasts all day. | {CAVE} asleep in a library, z letters [TIMER ALL DAY]
+In another, about four seconds. | {CAVE} terrified on a highway with cars, an exclamation mark [TIMER 4 SEC]
+And the place that's actually deadly for him | {CAVE} smiling in a waiting room, a question mark
+isn't the one you think. | {SCI} shocked in a lab, a big question mark
+## B02 | The rules
+First, the rules. | {SCI} pointing at a chalkboard, the word "RULES" above him
+Oog is a real Homo sapiens. | {SCI} proud next to {CAVE} smiling, a chalkboard
+Same species as you. Same brain size. | {SCI} pointing at {CAVE} thinking, a chalkboard, the word "SAME" above them
+He's tough, he's fit, and he's very good with a spear. | {CAVE} proud, holding a spear, in a cave
+But he has never seen a wheel, | {CAVE} confused, the word "WHEEL" above him, a question mark
+a door handle, | {CAVE} confused, the word "HANDLE" above him, a question mark
+or a written word. | {CAVE} confused, the word "WORDS" above him, a question mark
+He doesn't speak any language you know. | {CAVE} shouting in a city street, the word "OOG" above him
+The timer stops when he's thrown out, | a security guard angry, pointing, the word "OUT" above him
+arrested, | a police officer frowning next to {CAVE} sad, the word "ARRESTED" above them
+or rescued. | a police officer smiling next to {CAVE} relieved, the word "RESCUED" above them
+Let's go, from the longest stay to the shortest. | {CAVE} happy, arms in the air, a clock [TIMER 0:00]
+## B03 | Place 1: The library
+Place one: the library. | {CAVE} confused in a library, the word "LIBRARY" above him
+It's quiet. | {CAVE} smiling in a library, the word "SHH" above him
+It's warm. | {CAVE} happy in a library, sparkles
+Nobody is shouting, and nothing is trying to eat him. | {CAVE} relieved in a library, sparkles
+To Oog, this is the best cave he has ever seen. | {CAVE} happy in a library, hearts, the word "CAVE" above him
+He doesn't understand books. | {CAVE} confused holding a book in a library, a question mark
+Writing was only invented about five thousand years ago. | a timeline, a stone tablet with "5000", the word "WRITING" above it
+For Oog, that's thirty-five thousand years in the future. | {CAVE} shocked in a library, a timeline, an exclamation mark
+So he does what any hunter does in a safe, dark cave. | {CAVE} smug in a library, the word "SAFE" above him
+He sleeps. | {CAVE} asleep in a library, z letters
+The librarian shushes him twice. | a librarian frowning in a library, {CAVE} asleep, the word "SHH" above them
+Then the building closes. | a librarian pointing at {CAVE} confused in a library at night, the word "CLOSED" above them
+Timer: all day. | {CAVE} happy in a library, sparkles [TIMER ALL DAY]
+## B04 | Place 2: The gym
+Place two: the gym. | {CAVE} confused in a gym, the word "GYM" above him
+Oog is not impressed. | {CAVE} smug in a gym, a treadmill
+Hunter-gatherers like the Hadza in Tanzania | a Hadza hunter smiling on a savanna, the word "HADZA" above him
+can walk about ten kilometers a day, | a Hadza hunter proud on a savanna, the word "10 KM" above him
+just to find food. | a Hadza hunter happy on a savanna, a fish
+And here, people walk for an hour | {GUY} sweating on a treadmill in a gym
+and never arrive anywhere. | {CAVE} confused watching {GUY} on a treadmill in a gym, a big question mark
+Oog finds the heaviest stone in the building. | {CAVE} happy, arms in the air, lifting a dumbbell in a gym
+In his world, a good heavy stone is a treasure. | {CAVE} happy holding a dumbbell, sparkles, the word "TREASURE" above him
+So he takes it home. | {CAVE} smug holding a dumbbell, walking out of a gym
+Thief. | a security guard angry, pointing at {CAVE} shocked, the word "THIEF" above them
+Timer: six hours. | {CAVE} sad outside a gym [TIMER 6 HOURS]
+## B05 | Place 3: The office
+Place three: an office. | {CAVE} confused in an office with a computer, the word "OFFICE" above him
+Everyone sits on a chair for eight hours. | three {GUY} bored at desks in an office
+Oog has never sat on a chair. | {CAVE} confused next to a chair in an office, a question mark
+When Hadza people rest, they often squat or kneel, | a Hadza hunter smiling, squatting on a savanna
+and that keeps their muscles a little busy. | {SCI} pointing at a chalkboard, the word "SQUAT" above him
+Oog squats on top of the desk. | {CAVE} smug on a desk in an office, {GUY} shocked
+Then comes the meeting. | four {GUY} bored around a table in an office, the word "MEETING" above them
+Forty minutes of talking, and nobody hunts anything. | {CAVE} confused in a meeting in an office, the word "HUNT" above him, a big red X
+So Oog goes hunting. | {CAVE} proud, holding a spear, in an office
+He cooks his catch in the kitchen. | {CAVE} happy by a microwave in an office kitchen, a fish
+It's a fish. | {GUY} disgusted in an office kitchen, the word "FISH" above him, a fish
+In the microwave. | three {GUY} angry in an office kitchen, the word "MICROWAVE" above them, an exclamation mark
+Timer: three hours. | {CAVE} sad outside an office [TIMER 3 HOURS]
+## B06 | Place 4: The zoo
+Place four: the zoo. | {CAVE} confused at a zoo, the word "ZOO" above him
+He walks past the lions, and shrugs. | {CAVE} shrugging next to a lion in a cage at a zoo
+In Ice Age Europe, Oog shared the land | a timeline, {CAVE} and a lion, a stone tablet with "40000"
+with cave lions that were even bigger than today's lions. | {CAVE} terrified next to a lion in the snow, the word "BIGGER" above him
+A lion in a cage? Boring. | {CAVE} bored next to a lion in a cage at a zoo, the word "BORING" above him
+But then he sees the petting zoo. | {CAVE} shocked at a petting zoo, a goat, an exclamation mark
+A goat walks up to him and wants to be patted. | a goat happy next to {CAVE} terrified at a petting zoo, hearts
+This breaks Oog's brain. | {CAVE} shocked, hands on his head, a goat, an exclamation mark
+Goats were only tamed around ten thousand years ago. | a timeline, a goat, a stone tablet with "10000"
+In Oog's world, every animal either runs away or attacks. | {CAVE} scared, a wolf angry in the snow, the word "RUN" above him
+An animal that walks up to you must be sick. | {CAVE} confused next to a goat at the zoo, the word "SICK" above them, a question mark
+Or dinner. | {CAVE} happy next to a goat at the zoo, the word "DINNER" above him, sparkles
+The zookeeper disagrees. | a zookeeper angry, pointing at {CAVE} shocked, a goat, the word "NO" above them
+Timer: two hours. | {CAVE} sad outside a zoo [TIMER 2 HOURS]

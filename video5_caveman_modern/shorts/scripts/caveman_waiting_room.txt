@@ -1,0 +1,11 @@
+# title: DEADLIEST PLACE FOR A CAVEMAN
+The deadliest place for a caveman isn't the highway. | {CAVE} terrified on a highway with cars, a big red X [TIMER 4 SEC]
+It's a doctor's waiting room. | {CAVE} smiling in a waiting room, the word "WAITING ROOM" above him
+Many of our worst crowd diseases are younger than farming. | {SCI} pointing at a chalkboard, a timeline, the word "FARMING" above him
+Measles may only be about two and a half thousand years old. | {SCI} shocked at a microscope in a lab, the word "MEASLES" above him
+Oog has never met it, and he has no vaccines. | {CAVE} smiling in a waiting room, the word "VACCINES" above him, a big red X
+One sick person can infect twelve to eighteen unprotected people. | {SCI} shocked at a chalkboard, the word "12 TO 18" above him, an exclamation mark
+He sits for an hour, and feels fine. | {CAVE} happy, thumbs up, in a waiting room, {GUY} sad, coughing
+Ten days later... | {CAVE} sad, sweating, in bed at night, the word "FEVER" above him [TIMER 10 DAYS]
+Luckily, a doctor is right next door. | a doctor smiling next to {CAVE} relieved, hearts [TIMER SAVED]
+So no, the deadliest place for a caveman isn't the highway. | {CAVE} smug in a waiting room, a question mark

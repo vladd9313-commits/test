@@ -1,0 +1,12 @@
+# title: HE LASTED 4 SECONDS
+A caveman on a highway lasts about four seconds. | {CAVE} terrified on a highway with cars, an exclamation mark [TIMER 4 SEC]
+Here's why. | {CAVE} confused on a highway with cars, a question mark
+The fastest thing Oog ever saw was a charging lion. | a lion angry on a savanna, the word "80 KMH" above it
+Around eighty kilometers an hour. | {CAVE} terrified on a savanna, a lion angry, an exclamation mark
+Highway cars go faster, and there are hundreds of them. | {CAVE} shocked on a highway with cars, the word "120 KMH" above him
+Even kids under ten struggle to judge a car | {SCI} pointing at a chalkboard, a car, the word "KIDS" above him
+going faster than about thirty kilometers an hour. | {SCI} thinking at a chalkboard, the word "30 KMH" above him, a big red X
+Oog's brain never practiced this at all. | {CAVE} confused on a highway with cars, a big question mark
+So he does what worked on lions. | {CAVE} thinking on a highway, a light bulb above him
+He freezes. | {CAVE} terrified, frozen on a highway with cars, an exclamation mark
+And that's how a caveman on a highway lasts about four seconds. | a police officer smiling next to {CAVE} relieved on a highway [TIMER 4 SEC]
