@@ -1,0 +1,57 @@
+## B06 | Job 4: Delivery runner
+Job four: delivery. | {CAVE} confused in a city street, a box, the word "DELIVERY" above him
+No car, no bike. Oog runs. | {CAVE} happy, arms in the air, in a city street, a box
+And humans are surprisingly good at that. | {SCI} smug at a chalkboard, the word "RUN" above him
+In the Kalahari, some hunters chased antelope in the midday heat | a Hadza hunter proud on a savanna, the word "CHASE" above him
+until the animal overheated and gave up. | a Hadza hunter happy on a savanna, the word "TIRED" above him
+It works because humans cool down by sweating, and most animals can't sweat like we do. | {SCI} pointing at a chalkboard, the word "SWEAT" above him
+It's rare and exhausting. One researcher recorded only ten of these hunts in the central Kalahari in sixteen years. | {SCI} thinking at a chalkboard, the word "10 HUNTS" above him
+About half of them worked. | a Hadza hunter proud on a savanna, the word "HALF" above him
+So Oog runs all day without stopping. | {CAVE} happy, sweating, in a city street, a box, sparkles
+One small problem: house numbers. | {CAVE} confused in a city street, the word "NUMBERS" above him, a question mark
+Every package goes to the house that smells the most like pizza. | {CAVE} smug in a city street, a box, the word "PIZZA" above him
+Timer: three hours. | a manager angry, pointing at {CAVE} sad in a city street [TIMER 3 HOURS]
+## B07 | Job 5: Schoolteacher
+Job five: schoolteacher. | {CAVE} proud in a classroom, the word "TEACHER" above him
+The first known schools date back about five thousand years, in Mesopotamia. | a scribe smiling in Mesopotamia, a stone tablet with "5000", the word "SCHOOL" above him
+Before that, kids learned by watching adults and playing. | a baby {CAVE} happy and {WOMAN} smiling by a campfire, hearts
+So Oog's lesson plan is simple. | {CAVE} smug at a chalkboard, the word "LESSON" above him
+Lesson one: how to start a fire with two sticks. | {CAVE} happy by a campfire in a classroom, three children shocked
+The fire alarm disagrees with lesson one. | {CAVE} shocked in a classroom, the word "ALARM" above him, an exclamation mark
+He takes the class outside to track a squirrel. | {CAVE} happy in a forest, three children smiling, the word "TRACK" above them
+The kids love it. | three children happy in a forest, hearts
+The parents do not. | three parents angry, pointing, the word "PARENTS" above them
+Timer: one hour. | a manager frowning in a classroom, {CAVE} sad [TIMER 1 HOUR]
+## B08 | Job 6: Barista
+Job six: barista. | {CAVE} confused in a coffee shop, the word "BARISTA" above him
+People have been drinking coffee for only about five hundred and fifty years. | a timeline, a cup, a stone tablet with "550"
+The earliest clear records come from Yemen. | a timeline, the word "YEMEN" above it, a cup
+Religious groups there drank it to stay awake during night prayers. | a timeline, the word "AWAKE" above it, a cup
+Oog has never had caffeine in his life. | {CAVE} confused in a coffee shop, a cup, a question mark
+He tastes one espresso. | {CAVE} happy, holding a cup, in a coffee shop
+Then another. | {CAVE} shocked, holding a cup, in a coffee shop, sparkles
+Then six more. | {CAVE} shocked, sweating, in a coffee shop, the word "SIX" above him, an exclamation mark
+Now he's faster than the coffee machine. | {CAVE} happy, arms in the air, in a coffee shop, sparkles, the word "FAST" above him
+He's also writing every customer's name as a cave drawing. | {CAVE} proud in a coffee shop, a cup, a customer confused
+Timer: forty minutes. | a manager angry in a coffee shop, {CAVE} sweating [TIMER 40 MIN]
+## B09 | Job 7: Call center
+Job seven: call center. | {CAVE} confused in a call center, a headset, the word "CALLS" above him
+A voice talks inside his head. | {CAVE} terrified in a call center, a headset, the word "HELLO" above him
+But nobody is there. | {CAVE} terrified in a call center, a big question mark
+For Oog, a voice with no body is a spirit. | {CAVE} shocked in a call center, the word "SPIRIT" above him, an exclamation mark
+The first telephone call was made in eighteen seventy-six. | a timeline, a stone tablet with "1876", the word "PHONE" above it
+For Oog, that's a little under forty thousand years in the future. | {CAVE} shocked in a call center, a headset, a timeline
+He tells the spirit to leave. | {CAVE} angry, shouting in a call center, the word "LEAVE" above him
+The spirit was a customer asking about a refund. | a customer angry on a phone in a living room, the word "REFUND" above him
+Timer: ten minutes. | a manager angry in a call center, {CAVE} sad [TIMER 10 MIN]
+## B10 | Job 8: Cashier
+Job eight: cashier. | {CAVE} confused in a supermarket at a cash register, the word "CASHIER" above him
+Oog can count, sort of. | {CAVE} thinking in a supermarket at a cash register, the word "COUNT" above him
+A bone from Border Cave in South Africa, about forty-three thousand years old, | a timeline, a stone tablet with "43000", the word "BONE" above it
+has twenty-nine notches cut into it. | {SCI} thinking at a chalkboard, the word "29" above him
+Some researchers think it was used for counting. | {SCI} pointing at a chalkboard, the word "COUNTING" above him
+Maybe days. Maybe the phases of the moon. Nobody knows for sure. | {SCI} confused at a chalkboard at night, the moon, a question mark
+But money? Coins appeared only about two thousand six hundred years ago. | a timeline, a stone tablet with "2600", the word "COINS" above it
+Oog doesn't take your card. | {CAVE} confused at a cash register in a supermarket, the word "CARD" above him, a big red X
+He trades: one fish for your groceries. | {CAVE} happy at a cash register in a supermarket, a fish, a customer shocked
+Timer: five minutes. | a security guard angry in a supermarket, {CAVE} sad [TIMER 5 MIN]

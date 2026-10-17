@@ -1,0 +1,59 @@
+## B01 | Hook: Oog needs a job
+Oog is back. | {CAVE} smiling in a city street, sparkles
+Forty thousand years old, and now he needs a job. | {CAVE} confused in a city street, the word "JOB" above him
+We'll give him eleven jobs and start the timer each time. | {CAVE} confused in a city street, a clock [TIMER 0:00]
+In one job, he's the best worker in the building. | {CAVE} proud in a museum, sparkles [TIMER FOREVER]
+In another, he's fired in three seconds. | {CAVE} shocked next to a burning building, an exclamation mark [TIMER 3 SEC]
+And the job he'd be best at | {CAVE} smug in a museum, a question mark
+is the one nobody would ever hire him for. | {SCI} shocked in a lab, a big question mark
+## B02 | The rules
+Same rules as last time. | {SCI} pointing at a chalkboard, the word "RULES" above him
+Oog is a real Homo sapiens with the same brain as you. | {SCI} proud next to {CAVE} smiling, a chalkboard
+He's strong, fast, and great with a spear. | {CAVE} proud, holding a spear, in a cave
+He doesn't speak your language, can't read, and has never seen money. | {CAVE} confused, the word "MONEY" above him, a question mark
+His resume is short. | {CAVE} proud holding a book, the word "RESUME" above him
+Skills: spears, fire, tracking, and staying alive. | {CAVE} smug, holding a spear, in a cave, sparkles
+Previous employer: a very large mammoth. | {CAVE} proud, holding a spear, next to a mammoth in the snow
+The timer stops when he quits, gets fired, or gets escorted out. | a manager angry, pointing, in an office, the word "FIRED" above him
+From the longest shift to the shortest. Let's go. | {CAVE} happy, arms in the air, in a city street, a clock [TIMER 0:00]
+## B03 | Job 1: Night security guard
+Job one: night security guard. | {CAVE} proud in a mall at night, the word "GUARD" above him
+An empty building, all night, keeping watch. | {CAVE} smug in a mall at night, a flashlight
+For Oog, this isn't a job. It's Tuesday. | {CAVE} happy in a mall at night, the word "TUESDAY" above him
+Scientists tracked the sleep of the Hadza in Tanzania with motion sensors. | {SCI} pointing at a chalkboard, the word "HADZA" above him
+In more than two hundred hours of nights, | a Hadza hunter asleep by a campfire at night, z letters
+everyone in the group was asleep at the same time | three Hadza hunters asleep at night, z letters
+for just eighteen minutes. | {SCI} shocked at a chalkboard, the word "18 MIN" above him, an exclamation mark
+Someone was almost always awake, listening for lions. | a Hadza hunter thinking by a campfire at night, the moon
+Older people tended to fall asleep early, and younger ones stayed up late. | an old woman asleep and a Hadza hunter thinking by a campfire at night, z letters
+So the night was covered in shifts, with no schedule needed. | {SCI} proud at a chalkboard, the word "SHIFTS" above him
+Oog patrols. He hears every sound. | {CAVE} smug in a mall at night, a flashlight, the word "LISTEN" above him
+At three in the morning, a vending machine hums. | {CAVE} shocked in a mall at night, the word "HUM" above him, an exclamation mark
+He guards it until sunrise. | {CAVE} proud, holding a spear, in a mall at night, the word "SAFE" above him
+Timer: all night. Promoted. | {CAVE} happy in a mall, sparkles, the word "PROMOTED" above him [TIMER ALL NIGHT]
+## B04 | Job 2: Construction worker
+Job two: construction. | {CAVE} happy at a construction site, the word "BUILD" above him
+Carry heavy stuff all day? Easy. | {CAVE} happy, arms in the air, at a construction site, sparkles
+Oog's whole life is carrying meat, wood and rocks back to camp. | {CAVE} proud, holding a spear, in a forest, the word "CARRY" above him
+He lifts a bag of cement like a baby goat. | {CAVE} smug at a construction site, a worker shocked
+The problem is the hard hat. | a worker pointing at {CAVE} confused at a construction site, the word "HAT" above them
+Oog has never worn a hat in his life. | {CAVE} confused at a construction site, the word "HAT" above him, a question mark
+He uses it as a bowl. | {CAVE} happy eating at a construction site, the word "BOWL" above him
+Then there's the elevator. | {CAVE} confused at a construction site, the word "ELEVATOR" above him
+A tiny metal cave that closes its mouth and moves. | {CAVE} terrified at a construction site, an exclamation mark
+Oog takes the stairs. All twelve floors. Carrying the cement. | {CAVE} proud, sweating, at a construction site, the word "12 FLOORS" above him
+And he keeps building a fire on the third floor. | {CAVE} happy by a campfire at a construction site, a worker terrified
+Timer: eight hours, and a written warning. | a manager angry at a construction site, {CAVE} sad [TIMER 8 HOURS]
+## B05 | Job 3: Restaurant chef
+Job three: chef. | {CAVE} proud in a restaurant kitchen, the word "CHEF" above him
+Oog knows fire. Oog knows meat. | {CAVE} happy by a campfire in a cave, the word "MEAT" above him
+Some scientists think cooking helped make us human. | {SCI} thinking at a chalkboard, a light bulb above him
+Cooked food is softer, and our bodies can get more energy out of it. | {SCI} pointing at a chalkboard, the word "ENERGY" above him
+Humans have probably used fire for hundreds of thousands of years. | a timeline, {CAVE} by a campfire, the word "FIRE" above him
+So the grill? Perfect. | {CAVE} happy in a restaurant kitchen, sparkles
+The menu? He can't read it. | {CAVE} confused in a restaurant kitchen, the word "MENU" above him, a question mark
+He checks every steak the way he always has: by smell. | {CAVE} thinking in a restaurant kitchen, the word "SNIFF" above him
+The health inspector is watching. | an inspector shocked in a restaurant kitchen, the word "INSPECTOR" above him
+A customer orders a vegan salad. | a customer smiling in a restaurant, the word "SALAD" above him
+Oog serves a whole roasted fish, with the head. | {CAVE} proud in a restaurant, a fish, a customer shocked
+Timer: five hours. | a manager angry in a restaurant kitchen, {CAVE} sad [TIMER 5 HOURS]

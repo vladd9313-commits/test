@@ -1,0 +1,1258 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "Oog is back.",
+  "scene": "{CAVE} smiling in a city street, sparkles",
+  "start": 0.0,
+  "end": 1.398
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "Forty thousand years old, and now he needs a job.",
+  "scene": "{CAVE} confused in a city street, the word \"JOB\" above him",
+  "start": 1.398,
+  "end": 5.438
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "We'll give him eleven jobs and start the timer each time.",
+  "scene": "{CAVE} confused in a city street, a clock [TIMER 0:00]",
+  "start": 5.438,
+  "end": 9.552
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "In one job, he's the best worker in the building.",
+  "scene": "{CAVE} proud in a museum, sparkles [TIMER FOREVER]",
+  "start": 9.552,
+  "end": 13.011
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "In another, he's fired in three seconds.",
+  "scene": "{CAVE} shocked next to a burning building, an exclamation mark [TIMER 3 SEC]",
+  "start": 13.011,
+  "end": 15.849
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "And the job he'd be best at",
+  "scene": "{CAVE} smug in a museum, a question mark",
+  "start": 15.849,
+  "end": 17.836
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "is the one nobody would ever hire him for.",
+  "scene": "{SCI} shocked in a lab, a big question mark",
+  "start": 17.836,
+  "end": 21.785
+ },
+ {
+  "n": 7,
+  "block": "B02",
+  "text": "Same rules as last time.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"RULES\" above him",
+  "start": 21.785,
+  "end": 23.883
+ },
+ {
+  "n": 8,
+  "block": "B02",
+  "text": "Oog is a real Homo sapiens with the same brain as you.",
+  "scene": "{SCI} proud next to {CAVE} smiling, a chalkboard",
+  "start": 23.883,
+  "end": 28.394
+ },
+ {
+  "n": 9,
+  "block": "B02",
+  "text": "He's strong, fast, and great with a spear.",
+  "scene": "{CAVE} proud, holding a spear, in a cave",
+  "start": 28.394,
+  "end": 31.315
+ },
+ {
+  "n": 10,
+  "block": "B02",
+  "text": "He doesn't speak your language, can't read, and has never seen money.",
+  "scene": "{CAVE} confused, the word \"MONEY\" above him, a question mark",
+  "start": 31.315,
+  "end": 35.834
+ },
+ {
+  "n": 11,
+  "block": "B02",
+  "text": "His resume is short.",
+  "scene": "{CAVE} proud holding a book, the word \"RESUME\" above him",
+  "start": 35.834,
+  "end": 37.579
+ },
+ {
+  "n": 12,
+  "block": "B02",
+  "text": "Skills: spears, fire, tracking, and staying alive.",
+  "scene": "{CAVE} smug, holding a spear, in a cave, sparkles",
+  "start": 37.579,
+  "end": 41.186
+ },
+ {
+  "n": 13,
+  "block": "B02",
+  "text": "Previous employer: a very large mammoth.",
+  "scene": "{CAVE} proud, holding a spear, next to a mammoth in the snow",
+  "start": 41.186,
+  "end": 44.43
+ },
+ {
+  "n": 14,
+  "block": "B02",
+  "text": "The timer stops when he quits, gets fired, or gets escorted out.",
+  "scene": "a manager angry, pointing, the word \"FIRED\" above him",
+  "start": 44.43,
+  "end": 48.854
+ },
+ {
+  "n": 15,
+  "block": "B02",
+  "text": "From the longest shift to the shortest. Let's go.",
+  "scene": "{CAVE} happy, arms in the air, a clock [TIMER 0:00]",
+  "start": 48.854,
+  "end": 52.896
+ },
+ {
+  "n": 16,
+  "block": "B03",
+  "text": "Job one: night security guard.",
+  "scene": "{CAVE} proud in a mall at night, the word \"GUARD\" above him",
+  "start": 52.896,
+  "end": 55.608
+ },
+ {
+  "n": 17,
+  "block": "B03",
+  "text": "An empty building, all night, keeping watch.",
+  "scene": "{CAVE} smug in a mall at night, a flashlight",
+  "start": 55.608,
+  "end": 58.749
+ },
+ {
+  "n": 18,
+  "block": "B03",
+  "text": "For Oog, this isn't a job. It's Tuesday.",
+  "scene": "{CAVE} happy in a mall at night, the word \"TUESDAY\" above him",
+  "start": 58.749,
+  "end": 62.011
+ },
+ {
+  "n": 19,
+  "block": "B03",
+  "text": "Scientists tracked the sleep of the Hadza in Tanzania with motion sensors.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"HADZA\" above him",
+  "start": 62.011,
+  "end": 67.382
+ },
+ {
+  "n": 20,
+  "block": "B03",
+  "text": "In more than two hundred hours of nights,",
+  "scene": "a Hadza hunter asleep by a campfire at night, z letters",
+  "start": 67.382,
+  "end": 69.911
+ },
+ {
+  "n": 21,
+  "block": "B03",
+  "text": "everyone in the group was asleep at the same time",
+  "scene": "three Hadza hunters asleep at night, z letters",
+  "start": 69.911,
+  "end": 72.89
+ },
+ {
+  "n": 22,
+  "block": "B03",
+  "text": "for just eighteen minutes.",
+  "scene": "{SCI} shocked at a chalkboard, the word \"18 MIN\" above him, an exclamation mark",
+  "start": 72.89,
+  "end": 74.996
+ },
+ {
+  "n": 23,
+  "block": "B03",
+  "text": "Someone was almost always awake, listening for lions.",
+  "scene": "a Hadza hunter thinking by a campfire at night, the moon",
+  "start": 74.996,
+  "end": 79.182
+ },
+ {
+  "n": 24,
+  "block": "B03",
+  "text": "Older people tended to fall asleep early, and younger ones stayed up late.",
+  "scene": "an old woman asleep and a Hadza hunter thinking by a campfire at night, z letters",
+  "start": 79.182,
+  "end": 84.234
+ },
+ {
+  "n": 25,
+  "block": "B03",
+  "text": "So the night was covered in shifts, with no schedule needed.",
+  "scene": "{SCI} proud at a chalkboard, the word \"SHIFTS\" above him",
+  "start": 84.234,
+  "end": 88.21
+ },
+ {
+  "n": 26,
+  "block": "B03",
+  "text": "Oog patrols. He hears every sound.",
+  "scene": "{CAVE} smug in a mall at night, a flashlight, the word \"LISTEN\" above him",
+  "start": 88.21,
+  "end": 91.326
+ },
+ {
+  "n": 27,
+  "block": "B03",
+  "text": "At three in the morning, a vending machine hums.",
+  "scene": "{CAVE} shocked in a mall at night, the word \"HUM\" above him, an exclamation mark",
+  "start": 91.326,
+  "end": 94.691
+ },
+ {
+  "n": 28,
+  "block": "B03",
+  "text": "He guards it until sunrise.",
+  "scene": "{CAVE} proud, holding a spear, in a mall at night, the word \"SAFE\" above him",
+  "start": 94.691,
+  "end": 97.003
+ },
+ {
+  "n": 29,
+  "block": "B03",
+  "text": "Timer: all night. Promoted.",
+  "scene": "{CAVE} happy in a mall, sparkles, the word \"PROMOTED\" above him [TIMER ALL NIGHT]",
+  "start": 97.003,
+  "end": 99.835
+ },
+ {
+  "n": 30,
+  "block": "B04",
+  "text": "Job two: construction.",
+  "scene": "{CAVE} happy at a construction site, the word \"BUILD\" above him",
+  "start": 99.835,
+  "end": 101.825
+ },
+ {
+  "n": 31,
+  "block": "B04",
+  "text": "Carry heavy stuff all day? Easy.",
+  "scene": "{CAVE} happy, arms in the air, at a construction site, sparkles",
+  "start": 101.825,
+  "end": 104.559
+ },
+ {
+  "n": 32,
+  "block": "B04",
+  "text": "Oog's whole life is carrying meat, wood and rocks back to camp.",
+  "scene": "{CAVE} proud, holding a spear, in a forest, the word \"CARRY\" above him",
+  "start": 104.559,
+  "end": 109.222
+ },
+ {
+  "n": 33,
+  "block": "B04",
+  "text": "He lifts a bag of cement like a baby goat.",
+  "scene": "{CAVE} smug at a construction site, a worker shocked",
+  "start": 109.222,
+  "end": 112.331
+ },
+ {
+  "n": 34,
+  "block": "B04",
+  "text": "The problem is the hard hat.",
+  "scene": "a worker pointing at {CAVE} confused at a construction site, the word \"HAT\" above them",
+  "start": 112.331,
+  "end": 114.73
+ },
+ {
+  "n": 35,
+  "block": "B04",
+  "text": "Oog has never worn a hat in his life.",
+  "scene": "{CAVE} confused at a construction site, the word \"HAT\" above him, a question mark",
+  "start": 114.73,
+  "end": 117.616
+ },
+ {
+  "n": 36,
+  "block": "B04",
+  "text": "He uses it as a bowl.",
+  "scene": "{CAVE} happy eating at a construction site, the word \"BOWL\" above him",
+  "start": 117.616,
+  "end": 119.581
+ },
+ {
+  "n": 37,
+  "block": "B04",
+  "text": "Then there's the elevator.",
+  "scene": "{CAVE} confused at a construction site, the word \"ELEVATOR\" above him",
+  "start": 119.581,
+  "end": 121.644
+ },
+ {
+  "n": 38,
+  "block": "B04",
+  "text": "A tiny metal cave that closes its mouth and moves.",
+  "scene": "{CAVE} terrified at a construction site, an exclamation mark",
+  "start": 121.644,
+  "end": 125.512
+ },
+ {
+  "n": 39,
+  "block": "B04",
+  "text": "Oog takes the stairs. All twelve floors. Carrying the cement.",
+  "scene": "{CAVE} proud, sweating, at a construction site, the word \"12 FLOORS\" above him",
+  "start": 125.512,
+  "end": 129.816
+ },
+ {
+  "n": 40,
+  "block": "B04",
+  "text": "And he keeps building a fire on the third floor.",
+  "scene": "{CAVE} happy by a campfire at a construction site, a worker terrified",
+  "start": 129.816,
+  "end": 132.923
+ },
+ {
+  "n": 41,
+  "block": "B04",
+  "text": "Timer: eight hours, and a written warning.",
+  "scene": "a manager angry at a construction site, {CAVE} sad [TIMER 8 HOURS]",
+  "start": 132.923,
+  "end": 136.34
+ },
+ {
+  "n": 42,
+  "block": "B05",
+  "text": "Job three: chef.",
+  "scene": "{CAVE} proud in a restaurant kitchen, the word \"CHEF\" above him",
+  "start": 136.34,
+  "end": 138.009
+ },
+ {
+  "n": 43,
+  "block": "B05",
+  "text": "Oog knows fire. Oog knows meat.",
+  "scene": "{CAVE} happy by a campfire in a cave, the word \"MEAT\" above him",
+  "start": 138.009,
+  "end": 141.003
+ },
+ {
+  "n": 44,
+  "block": "B05",
+  "text": "Some scientists think cooking helped make us human.",
+  "scene": "{SCI} thinking at a chalkboard, a light bulb above him",
+  "start": 141.003,
+  "end": 144.336
+ },
+ {
+  "n": 45,
+  "block": "B05",
+  "text": "Cooked food is softer, and our bodies can get more energy out of it.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"ENERGY\" above him",
+  "start": 144.336,
+  "end": 148.928
+ },
+ {
+  "n": 46,
+  "block": "B05",
+  "text": "Humans have probably used fire for hundreds of thousands of years.",
+  "scene": "a timeline, {CAVE} by a campfire, the word \"FIRE\" above him",
+  "start": 148.928,
+  "end": 153.455
+ },
+ {
+  "n": 47,
+  "block": "B05",
+  "text": "So the grill? Perfect.",
+  "scene": "{CAVE} happy in a restaurant kitchen, sparkles",
+  "start": 153.455,
+  "end": 155.353
+ },
+ {
+  "n": 48,
+  "block": "B05",
+  "text": "The menu? He can't read it.",
+  "scene": "{CAVE} confused in a restaurant kitchen, the word \"MENU\" above him, a question mark",
+  "start": 155.353,
+  "end": 157.481
+ },
+ {
+  "n": 49,
+  "block": "B05",
+  "text": "He checks every steak the way he always has: by smell.",
+  "scene": "{CAVE} thinking in a restaurant kitchen, the word \"SNIFF\" above him",
+  "start": 157.481,
+  "end": 161.543
+ },
+ {
+  "n": 50,
+  "block": "B05",
+  "text": "The health inspector is watching.",
+  "scene": "an inspector shocked in a restaurant kitchen, the word \"INSPECTOR\" above him",
+  "start": 161.543,
+  "end": 163.899
+ },
+ {
+  "n": 51,
+  "block": "B05",
+  "text": "A customer orders a vegan salad.",
+  "scene": "a customer smiling in a restaurant, the word \"SALAD\" above him",
+  "start": 163.899,
+  "end": 166.607
+ },
+ {
+  "n": 52,
+  "block": "B05",
+  "text": "Oog serves a whole roasted fish, with the head.",
+  "scene": "{CAVE} proud in a restaurant, a fish, a customer shocked",
+  "start": 166.607,
+  "end": 170.082
+ },
+ {
+  "n": 53,
+  "block": "B05",
+  "text": "Timer: five hours.",
+  "scene": "a manager angry in a restaurant kitchen, {CAVE} sad [TIMER 5 HOURS]",
+  "start": 170.082,
+  "end": 172.48
+ },
+ {
+  "n": 54,
+  "block": "B06",
+  "text": "Job four: delivery.",
+  "scene": "{CAVE} confused in a city street, a box, the word \"DELIVERY\" above him",
+  "start": 172.48,
+  "end": 174.37
+ },
+ {
+  "n": 55,
+  "block": "B06",
+  "text": "No car, no bike. Oog runs.",
+  "scene": "{CAVE} happy, arms in the air, in a city street, a box",
+  "start": 174.37,
+  "end": 177.217
+ },
+ {
+  "n": 56,
+  "block": "B06",
+  "text": "And humans are surprisingly good at that.",
+  "scene": "{SCI} smug at a chalkboard, the word \"RUN\" above him",
+  "start": 177.217,
+  "end": 180.002
+ },
+ {
+  "n": 57,
+  "block": "B06",
+  "text": "In the Kalahari, some hunters chased antelope in the midday heat",
+  "scene": "a Hadza hunter proud on a savanna, the word \"CHASE\" above him",
+  "start": 180.002,
+  "end": 184.462
+ },
+ {
+  "n": 58,
+  "block": "B06",
+  "text": "until the animal overheated and gave up.",
+  "scene": "a Hadza hunter happy on a savanna, the word \"TIRED\" above him",
+  "start": 184.462,
+  "end": 187.768
+ },
+ {
+  "n": 59,
+  "block": "B06",
+  "text": "It works because humans cool down by sweating, and most animals can't sweat like we do.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SWEAT\" above him",
+  "start": 187.768,
+  "end": 194.051
+ },
+ {
+  "n": 60,
+  "block": "B06",
+  "text": "It's rare and exhausting. One researcher recorded only ten of these hunts in the central Kalahari in sixteen years.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"10 HUNTS\" above him",
+  "start": 194.051,
+  "end": 202.981
+ },
+ {
+  "n": 61,
+  "block": "B06",
+  "text": "About half of them worked.",
+  "scene": "a Hadza hunter proud on a savanna, the word \"HALF\" above him",
+  "start": 202.981,
+  "end": 204.991
+ },
+ {
+  "n": 62,
+  "block": "B06",
+  "text": "So Oog runs all day without stopping.",
+  "scene": "{CAVE} happy, sweating, in a city street, a box, sparkles",
+  "start": 204.991,
+  "end": 207.923
+ },
+ {
+  "n": 63,
+  "block": "B06",
+  "text": "One small problem: house numbers.",
+  "scene": "{CAVE} confused in a city street, the word \"NUMBERS\" above him, a question mark",
+  "start": 207.923,
+  "end": 210.766
+ },
+ {
+  "n": 64,
+  "block": "B06",
+  "text": "Every package goes to the house that smells the most like pizza.",
+  "scene": "{CAVE} smug in a city street, a box, the word \"PIZZA\" above him",
+  "start": 210.766,
+  "end": 215.126
+ },
+ {
+  "n": 65,
+  "block": "B06",
+  "text": "Timer: three hours.",
+  "scene": "a manager angry, pointing at {CAVE} sad in a city street [TIMER 3 HOURS]",
+  "start": 215.126,
+  "end": 217.523
+ },
+ {
+  "n": 66,
+  "block": "B07",
+  "text": "Job five: schoolteacher.",
+  "scene": "{CAVE} proud in a classroom, the word \"TEACHER\" above him",
+  "start": 217.523,
+  "end": 219.678
+ },
+ {
+  "n": 67,
+  "block": "B07",
+  "text": "The first known schools date back about five thousand years, in Mesopotamia.",
+  "scene": "a scribe smiling in Mesopotamia, a stone tablet with \"5000\", the word \"SCHOOL\" above him",
+  "start": 219.678,
+  "end": 225.199
+ },
+ {
+  "n": 68,
+  "block": "B07",
+  "text": "Before that, kids learned by watching adults and playing.",
+  "scene": "a baby {CAVE} happy and {WOMAN} smiling by a campfire, hearts",
+  "start": 225.199,
+  "end": 228.977
+ },
+ {
+  "n": 69,
+  "block": "B07",
+  "text": "So Oog's lesson plan is simple.",
+  "scene": "{CAVE} smug at a chalkboard, the word \"LESSON\" above him",
+  "start": 228.977,
+  "end": 231.469
+ },
+ {
+  "n": 70,
+  "block": "B07",
+  "text": "Lesson one: how to start a fire with two sticks.",
+  "scene": "{CAVE} happy by a campfire in a classroom, three children shocked",
+  "start": 231.469,
+  "end": 234.975
+ },
+ {
+  "n": 71,
+  "block": "B07",
+  "text": "The fire alarm disagrees with lesson one.",
+  "scene": "{CAVE} shocked in a classroom, the word \"ALARM\" above him, an exclamation mark",
+  "start": 234.975,
+  "end": 238.232
+ },
+ {
+  "n": 72,
+  "block": "B07",
+  "text": "He takes the class outside to track a squirrel.",
+  "scene": "{CAVE} happy in a forest, three children smiling, the word \"TRACK\" above them",
+  "start": 238.232,
+  "end": 241.408
+ },
+ {
+  "n": 73,
+  "block": "B07",
+  "text": "The kids love it.",
+  "scene": "three children happy in a forest, hearts",
+  "start": 241.408,
+  "end": 242.897
+ },
+ {
+  "n": 74,
+  "block": "B07",
+  "text": "The parents do not.",
+  "scene": "three parents angry, pointing, the word \"PARENTS\" above them",
+  "start": 242.897,
+  "end": 244.581
+ },
+ {
+  "n": 75,
+  "block": "B07",
+  "text": "Timer: one hour.",
+  "scene": "a manager frowning in a classroom, {CAVE} sad [TIMER 1 HOUR]",
+  "start": 244.581,
+  "end": 246.877
+ },
+ {
+  "n": 76,
+  "block": "B08",
+  "text": "Job six: barista.",
+  "scene": "{CAVE} confused in a coffee shop, the word \"BARISTA\" above him",
+  "start": 246.877,
+  "end": 248.969
+ },
+ {
+  "n": 77,
+  "block": "B08",
+  "text": "People have been drinking coffee for only about five hundred and fifty years.",
+  "scene": "a timeline, a cup, a stone tablet with \"550\"",
+  "start": 248.969,
+  "end": 253.972
+ },
+ {
+  "n": 78,
+  "block": "B08",
+  "text": "The earliest clear records come from Yemen.",
+  "scene": "a timeline, the word \"YEMEN\" above it, a cup",
+  "start": 253.972,
+  "end": 256.732
+ },
+ {
+  "n": 79,
+  "block": "B08",
+  "text": "Religious groups there drank it to stay awake during night prayers.",
+  "scene": "a timeline, the word \"AWAKE\" above it, a cup",
+  "start": 256.732,
+  "end": 261.189
+ },
+ {
+  "n": 80,
+  "block": "B08",
+  "text": "Oog has never had caffeine in his life.",
+  "scene": "{CAVE} confused in a coffee shop, a cup, a question mark",
+  "start": 261.189,
+  "end": 263.968
+ },
+ {
+  "n": 81,
+  "block": "B08",
+  "text": "He tastes one espresso.",
+  "scene": "{CAVE} happy, holding a cup, in a coffee shop",
+  "start": 263.968,
+  "end": 265.952
+ },
+ {
+  "n": 82,
+  "block": "B08",
+  "text": "Then another.",
+  "scene": "{CAVE} shocked, holding a cup, in a coffee shop, sparkles",
+  "start": 265.952,
+  "end": 267.316
+ },
+ {
+  "n": 83,
+  "block": "B08",
+  "text": "Then six more.",
+  "scene": "{CAVE} shocked, sweating, in a coffee shop, the word \"SIX\" above him, an exclamation mark",
+  "start": 267.316,
+  "end": 268.876
+ },
+ {
+  "n": 84,
+  "block": "B08",
+  "text": "Now he's faster than the coffee machine.",
+  "scene": "{CAVE} happy, arms in the air, in a coffee shop, sparkles, the word \"FAST\" above him",
+  "start": 268.876,
+  "end": 271.427
+ },
+ {
+  "n": 85,
+  "block": "B08",
+  "text": "He's also writing every customer's name as a cave drawing.",
+  "scene": "{CAVE} proud in a coffee shop, a cup, a customer confused",
+  "start": 271.427,
+  "end": 275.716
+ },
+ {
+  "n": 86,
+  "block": "B08",
+  "text": "Timer: forty minutes.",
+  "scene": "a manager angry in a coffee shop, {CAVE} sweating [TIMER 40 MIN]",
+  "start": 275.716,
+  "end": 278.115
+ },
+ {
+  "n": 87,
+  "block": "B09",
+  "text": "Job seven: call center.",
+  "scene": "{CAVE} confused in a call center, a headset, the word \"CALLS\" above him",
+  "start": 278.115,
+  "end": 280.261
+ },
+ {
+  "n": 88,
+  "block": "B09",
+  "text": "A voice talks inside his head.",
+  "scene": "{CAVE} terrified in a call center, a headset, the word \"HELLO\" above him",
+  "start": 280.261,
+  "end": 282.427
+ },
+ {
+  "n": 89,
+  "block": "B09",
+  "text": "But nobody is there.",
+  "scene": "{CAVE} terrified in a call center, a big question mark",
+  "start": 282.427,
+  "end": 284.254
+ },
+ {
+  "n": 90,
+  "block": "B09",
+  "text": "For Oog, a voice with no body is a spirit.",
+  "scene": "{CAVE} shocked in a call center, the word \"SPIRIT\" above him, an exclamation mark",
+  "start": 284.254,
+  "end": 287.581
+ },
+ {
+  "n": 91,
+  "block": "B09",
+  "text": "The first telephone call was made in eighteen seventy-six.",
+  "scene": "a timeline, a stone tablet with \"1876\", the word \"PHONE\" above it",
+  "start": 287.581,
+  "end": 291.811
+ },
+ {
+  "n": 92,
+  "block": "B09",
+  "text": "For Oog, that's a little under forty thousand years in the future.",
+  "scene": "{CAVE} shocked in a call center, a headset, a timeline",
+  "start": 291.811,
+  "end": 296.283
+ },
+ {
+  "n": 93,
+  "block": "B09",
+  "text": "He tells the spirit to leave.",
+  "scene": "{CAVE} angry, shouting in a call center, the word \"LEAVE\" above him",
+  "start": 296.283,
+  "end": 298.433
+ },
+ {
+  "n": 94,
+  "block": "B09",
+  "text": "The spirit was a customer asking about a refund.",
+  "scene": "a customer angry on a phone in a living room, the word \"REFUND\" above him",
+  "start": 298.433,
+  "end": 302.024
+ },
+ {
+  "n": 95,
+  "block": "B09",
+  "text": "Timer: ten minutes.",
+  "scene": "a manager angry in a call center, {CAVE} sad [TIMER 10 MIN]",
+  "start": 302.024,
+  "end": 304.323
+ },
+ {
+  "n": 96,
+  "block": "B10",
+  "text": "Job eight: cashier.",
+  "scene": "{CAVE} confused in a supermarket at a cash register, the word \"CASHIER\" above him",
+  "start": 304.323,
+  "end": 306.142
+ },
+ {
+  "n": 97,
+  "block": "B10",
+  "text": "Oog can count, sort of.",
+  "scene": "{CAVE} thinking in a supermarket at a cash register, the word \"COUNT\" above him",
+  "start": 306.142,
+  "end": 308.069
+ },
+ {
+  "n": 98,
+  "block": "B10",
+  "text": "A bone from Border Cave in South Africa, about forty-three thousand years old,",
+  "scene": "a timeline, a stone tablet with \"43000\", the word \"BONE\" above it",
+  "start": 308.069,
+  "end": 313.589
+ },
+ {
+  "n": 99,
+  "block": "B10",
+  "text": "has twenty-nine notches cut into it.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"29\" above him",
+  "start": 313.589,
+  "end": 316.702
+ },
+ {
+  "n": 100,
+  "block": "B10",
+  "text": "Some researchers think it was used for counting.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"COUNTING\" above him",
+  "start": 316.702,
+  "end": 319.922
+ },
+ {
+  "n": 101,
+  "block": "B10",
+  "text": "Maybe days. Maybe the phases of the moon. Nobody knows for sure.",
+  "scene": "{SCI} confused at a chalkboard at night, the moon, a question mark",
+  "start": 319.922,
+  "end": 324.989
+ },
+ {
+  "n": 102,
+  "block": "B10",
+  "text": "But money? Coins appeared only about two thousand six hundred years ago.",
+  "scene": "a timeline, a stone tablet with \"2600\", the word \"COINS\" above it",
+  "start": 324.989,
+  "end": 330.132
+ },
+ {
+  "n": 103,
+  "block": "B10",
+  "text": "Oog doesn't take your card.",
+  "scene": "{CAVE} confused at a cash register, the word \"CARD\" above him, a big red X",
+  "start": 330.132,
+  "end": 332.23
+ },
+ {
+  "n": 104,
+  "block": "B10",
+  "text": "He trades: one fish for your groceries.",
+  "scene": "{CAVE} happy at a cash register in a supermarket, a fish, a customer shocked",
+  "start": 332.23,
+  "end": 335.247
+ },
+ {
+  "n": 105,
+  "block": "B10",
+  "text": "Timer: five minutes.",
+  "scene": "a security guard angry in a supermarket, {CAVE} sad [TIMER 5 MIN]",
+  "start": 335.247,
+  "end": 337.615
+ },
+ {
+  "n": 106,
+  "block": "B11",
+  "text": "Quick scoreboard.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SCORE\" above him",
+  "start": 337.615,
+  "end": 339.09
+ },
+ {
+  "n": 107,
+  "block": "B11",
+  "text": "Night guard: all night. Construction: eight hours. Chef: five hours.",
+  "scene": "{SCI} proud at a chalkboard, the word \"ALL NIGHT\" above him",
+  "start": 339.09,
+  "end": 344.17
+ },
+ {
+  "n": 108,
+  "block": "B11",
+  "text": "Delivery: three hours. Teacher: one hour. Barista: forty minutes.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"40 MIN\" above him",
+  "start": 344.17,
+  "end": 349.241
+ },
+ {
+  "n": 109,
+  "block": "B11",
+  "text": "Call center: ten minutes. Cashier: five minutes.",
+  "scene": "{SCI} smug at a chalkboard, the word \"5 MIN\" above him",
+  "start": 349.241,
+  "end": 353.006
+ },
+ {
+  "n": 110,
+  "block": "B11",
+  "text": "And it only gets worse from here.",
+  "scene": "{CAVE} sad in a city street, a big question mark",
+  "start": 353.006,
+  "end": 355.205
+ },
+ {
+  "n": 111,
+  "block": "B11",
+  "text": "Job nine: dog walker.",
+  "scene": "{CAVE} confused in a park, the word \"DOGS\" above him",
+  "start": 355.205,
+  "end": 357.326
+ },
+ {
+  "n": 112,
+  "block": "B11",
+  "text": "Here's the thing: Oog has never seen a dog.",
+  "scene": "{CAVE} confused in a park, a big question mark",
+  "start": 357.326,
+  "end": 360.423
+ },
+ {
+  "n": 113,
+  "block": "B11",
+  "text": "The oldest clear genetic evidence of dogs is around fifteen thousand years old.",
+  "scene": "a timeline, a dog, a stone tablet with \"15000\"",
+  "start": 360.423,
+  "end": 366.292
+ },
+ {
+  "n": 114,
+  "block": "B11",
+  "text": "In Oog's time, those animals were wild wolves.",
+  "scene": "{CAVE} terrified, a wolf angry in the snow, the word \"WOLF\" above him",
+  "start": 366.292,
+  "end": 370.055
+ },
+ {
+  "n": 115,
+  "block": "B11",
+  "text": "Competitors for the same meat.",
+  "scene": "{CAVE} angry, holding a spear, a wolf angry in the snow",
+  "start": 370.055,
+  "end": 372.138
+ },
+ {
+  "n": 116,
+  "block": "B11",
+  "text": "So six wolf-shaped animals run toward him, barking.",
+  "scene": "{CAVE} terrified in a park, a dog happy, an exclamation mark",
+  "start": 372.138,
+  "end": 376.015
+ },
+ {
+  "n": 117,
+  "block": "B11",
+  "text": "He climbs the nearest tree.",
+  "scene": "{CAVE} terrified in a tree in a park, a dog happy, the word \"UP\" above him",
+  "start": 376.015,
+  "end": 378.034
+ },
+ {
+  "n": 118,
+  "block": "B11",
+  "text": "The dogs think it's a great game.",
+  "scene": "a dog happy in a park, hearts, sparkles",
+  "start": 378.034,
+  "end": 380.332
+ },
+ {
+  "n": 119,
+  "block": "B11",
+  "text": "Funny thing: later, those same wolves became our best hunting partners.",
+  "scene": "{CAVE} happy, holding a spear, a dog happy in the snow, hearts",
+  "start": 380.332,
+  "end": 385.741
+ },
+ {
+  "n": 120,
+  "block": "B11",
+  "text": "But that deal was made long after Oog's time.",
+  "scene": "a timeline, a dog, the word \"LATER\" above it",
+  "start": 385.741,
+  "end": 388.949
+ },
+ {
+  "n": 121,
+  "block": "B11",
+  "text": "Timer: thirty seconds.",
+  "scene": "a dog happy in a park, {CAVE} scared [TIMER 30 SEC]",
+  "start": 388.949,
+  "end": 391.334
+ },
+ {
+  "n": 122,
+  "block": "B12",
+  "text": "Job ten: firefighter.",
+  "scene": "{CAVE} proud next to a burning building, the word \"FIREFIGHTER\" above him",
+  "start": 391.334,
+  "end": 393.566
+ },
+ {
+  "n": 123,
+  "block": "B12",
+  "text": "Remember how precious fire is to Oog?",
+  "scene": "{CAVE} happy by a campfire in a cave at night, hearts",
+  "start": 393.566,
+  "end": 396.292
+ },
+ {
+  "n": 124,
+  "block": "B12",
+  "text": "If your fire went out in the Ice Age, you could freeze.",
+  "scene": "{CAVE} sad in the snow at night, the word \"COLD\" above him",
+  "start": 396.292,
+  "end": 400.15
+ },
+ {
+  "n": 125,
+  "block": "B12",
+  "text": "People carried embers and protected their fire like treasure.",
+  "scene": "{CAVE} proud by a campfire in the snow at night, the word \"TREASURE\" above him",
+  "start": 400.15,
+  "end": 404.312
+ },
+ {
+  "n": 126,
+  "block": "B12",
+  "text": "Some groups in recent history, like the Andaman Islanders, were reported to carry fire with them instead of starting it from scratch.",
+  "scene": "a Hadza hunter proud by a campfire, the word \"CARRY FIRE\" above him",
+  "start": 404.312,
+  "end": 413.454
+ },
+ {
+  "n": 127,
+  "block": "B12",
+  "text": "Lose it, and you might have to beg the neighbors for a light.",
+  "scene": "{CAVE} sad in the snow at night, the word \"NEIGHBORS\" above him",
+  "start": 413.454,
+  "end": 417.019
+ },
+ {
+  "n": 128,
+  "block": "B12",
+  "text": "And here, people point a giant water snake at it.",
+  "scene": "a firefighter happy next to a burning building, the word \"WATER\" above him",
+  "start": 417.019,
+  "end": 420.423
+ },
+ {
+  "n": 129,
+  "block": "B12",
+  "text": "Oog sees a huge, beautiful fire, and men trying to kill it.",
+  "scene": "{CAVE} shocked next to a burning building, an exclamation mark",
+  "start": 420.423,
+  "end": 424.821
+ },
+ {
+  "n": 130,
+  "block": "B12",
+  "text": "So he protects the fire.",
+  "scene": "{CAVE} angry, holding a spear, next to a burning building, a firefighter shocked",
+  "start": 424.821,
+  "end": 426.806
+ },
+ {
+  "n": 131,
+  "block": "B12",
+  "text": "Timer: three seconds.",
+  "scene": "two firefighters angry, pointing at {CAVE} sad [TIMER 3 SEC]",
+  "start": 426.806,
+  "end": 429.182
+ },
+ {
+  "n": 132,
+  "block": "B13",
+  "text": "So is Oog just unemployable?",
+  "scene": "{CAVE} sad in a city street, the word \"JOBLESS\" above him",
+  "start": 429.182,
+  "end": 431.683
+ },
+ {
+  "n": 133,
+  "block": "B13",
+  "text": "No. There's one job where he's the best in the world.",
+  "scene": "{SCI} smiling at a chalkboard, a light bulb above him",
+  "start": 431.683,
+  "end": 435.32
+ },
+ {
+  "n": 134,
+  "block": "B13",
+  "text": "Museum guide in the Stone Age hall.",
+  "scene": "{CAVE} proud in a museum, the word \"MUSEUM\" above him, sparkles",
+  "start": 435.32,
+  "end": 438.003
+ },
+ {
+  "n": 135,
+  "block": "B13",
+  "text": "A sign says cavemen dragged women around by the hair.",
+  "scene": "{CAVE} angry in a museum, the word \"MYTH\" above him, a big red X",
+  "start": 438.003,
+  "end": 441.595
+ },
+ {
+  "n": 136,
+  "block": "B13",
+  "text": "There's no good evidence for that. It's an old cartoon idea.",
+  "scene": "{SCI} smug at a chalkboard, the word \"CARTOON\" above him",
+  "start": 441.595,
+  "end": 445.99
+ },
+ {
+  "n": 137,
+  "block": "B13",
+  "text": "Another sign shows cavemen living with dinosaurs.",
+  "scene": "{CAVE} shocked in a museum, the word \"DINOSAURS\" above him",
+  "start": 445.99,
+  "end": 449.518
+ },
+ {
+  "n": 138,
+  "block": "B13",
+  "text": "The last dinosaurs died about sixty-six million years before humans existed.",
+  "scene": "a timeline, a stone tablet with \"66\", the word \"MILLION\" above it",
+  "start": 449.518,
+  "end": 455.541
+ },
+ {
+  "n": 139,
+  "block": "B13",
+  "text": "And a sign says cavemen only grunted.",
+  "scene": "{CAVE} angry in a museum, the word \"GRUNT\" above him",
+  "start": 455.541,
+  "end": 458.325
+ },
+ {
+  "n": 140,
+  "block": "B13",
+  "text": "A Neanderthal throat bone from Kebara Cave in Israel looks almost exactly like ours.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"KEBARA\" above him",
+  "start": 458.325,
+  "end": 465.431
+ },
+ {
+  "n": 141,
+  "block": "B13",
+  "text": "And Oog isn't even a Neanderthal. He talks plenty. Just not in your language.",
+  "scene": "{CAVE} shouting in a museum, the word \"OOG\" above him",
+  "start": 465.431,
+  "end": 471.327
+ },
+ {
+  "n": 142,
+  "block": "B13",
+  "text": "Oog fixes every sign.",
+  "scene": "{CAVE} proud in a museum, sparkles",
+  "start": 471.327,
+  "end": 473.418
+ },
+ {
+  "n": 143,
+  "block": "B13",
+  "text": "He shows kids how to make a spear.",
+  "scene": "{CAVE} happy, holding a spear, in a museum, three children happy",
+  "start": 473.418,
+  "end": 475.886
+ },
+ {
+  "n": 144,
+  "block": "B13",
+  "text": "How to start a fire without a lighter.",
+  "scene": "{CAVE} happy by a campfire in a museum, three children shocked",
+  "start": 475.886,
+  "end": 478.422
+ },
+ {
+  "n": 145,
+  "block": "B13",
+  "text": "And how to sleep with one ear open.",
+  "scene": "{CAVE} asleep in a museum, z letters, the word \"LISTEN\" above him",
+  "start": 478.422,
+  "end": 480.967
+ },
+ {
+  "n": 146,
+  "block": "B13",
+  "text": "Visitors love him.",
+  "scene": "three visitors happy in a museum, hearts",
+  "start": 480.967,
+  "end": 482.776
+ },
+ {
+  "n": 147,
+  "block": "B13",
+  "text": "Timer: forever.",
+  "scene": "{CAVE} proud in a museum, hearts, sparkles [TIMER FOREVER]",
+  "start": 482.776,
+  "end": 484.877
+ },
+ {
+  "n": 148,
+  "block": "B14",
+  "text": "So, how long would a caveman last in your job?",
+  "scene": "{CAVE} thinking in an office, a big question mark",
+  "start": 484.877,
+  "end": 488.045
+ },
+ {
+  "n": 149,
+  "block": "B14",
+  "text": "Probably not long.",
+  "scene": "{CAVE} sad in an office, the word \"FIRED\" above him",
+  "start": 488.045,
+  "end": 489.744
+ },
+ {
+  "n": 150,
+  "block": "B14",
+  "text": "He'd never complain about the commute, though.",
+  "scene": "{CAVE} smug in a city street, the word \"COMMUTE\" above him",
+  "start": 489.744,
+  "end": 492.399
+ },
+ {
+  "n": 151,
+  "block": "B14",
+  "text": "Ten kilometers on foot before breakfast is just a normal morning for him.",
+  "scene": "{CAVE} happy, arms in the air, in a city street, the word \"10 KM\" above him",
+  "start": 492.399,
+  "end": 497.703
+ },
+ {
+  "n": 152,
+  "block": "B14",
+  "text": "But give him a few months to learn,",
+  "scene": "{CAVE} smiling holding a book in a library, sparkles",
+  "start": 497.703,
+  "end": 499.741
+ },
+ {
+  "n": 153,
+  "block": "B14",
+  "text": "and the same brain that tracked mammoths would track spreadsheets.",
+  "scene": "{CAVE} happy in an office with a computer, the word \"SPREADSHEET\" above him",
+  "start": 499.741,
+  "end": 503.818
+ },
+ {
+  "n": 154,
+  "block": "B14",
+  "text": "Now tell us in the comments: what's your job,",
+  "scene": "{GUY} thinking in a living room, a question mark",
+  "start": 503.818,
+  "end": 506.624
+ },
+ {
+  "n": 155,
+  "block": "B14",
+  "text": "and how fast would Oog get fired from it?",
+  "scene": "{CAVE} smug in an office, the word \"YOUR JOB\" above him [TIMER ?]",
+  "start": 506.624,
+  "end": 509.621
+ },
+ {
+  "n": 156,
+  "block": "B14",
+  "text": "Next time, we flip it around: how long would you last in Oog's world?",
+  "scene": "{GUY} terrified in the snow at night, a wolf angry, the word \"NEXT\" above him [TIMER ?]",
+  "start": 509.621,
+  "end": 515.151
+ }
+]

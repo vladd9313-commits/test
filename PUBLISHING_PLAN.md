@@ -39,8 +39,8 @@
 | **Ср 21.10** | **19:00 видео №5 «How Long a Caveman Would Last in Every Modern Place»** (новый формат, 8 мин, см. `video5_caveman_modern/README.md`); 22:00 Shorts `caveman_highway` | Ритуал дня выхода. Проверить видео №4 через 72 ч. |
 | **Чт 22.10** | 22:00 Shorts `caveman_goat` | Видео про сон — 7 дней. Решение о темпе (правила ниже). **Claude начинает видео №7.** |
 | **Пт 23.10** | 22:00 Shorts `caveman_waiting_room` | Загрузить видео №6. Итог по Shorts за 2 недели. |
-| **Сб 24.10** | **19:00 видео №6 «How Did Ancient Humans Deal With Toothache?»**; 22:00 Shorts 6-1 | Ритуал дня выхода. Около этой даты заканчивается A/B-тест видео про кошек. Сразу запусти тест названий: текущее первым, потом «How Wild Cats Actually Moved In With Ancient Humans» и «Why Your Cat Was Never Fully Domesticated». |
-| **Вс 25.10** | 16:00 Shorts `cats_meow` (запасной); 22:00 Shorts 6-2 | — |
+| **Сб 24.10** | **19:00 видео №6 «How Long a Caveman Would Last in Every Job»** (новый формат, 8:35, см. `video6_caveman_jobs/README.md`); 22:00 Shorts `caveman_firefighter` | Ритуал дня выхода. Около этой даты заканчивается A/B-тест видео про кошек. Сразу запусти тест названий: текущее первым, потом «How Wild Cats Actually Moved In With Ancient Humans» и «Why Your Cat Was Never Fully Domesticated». |
+| **Вс 25.10** | 16:00 Shorts `cats_meow` (запасной); 22:00 Shorts `caveman_dogs` | — |
 
 **Shorts `cats_meow` — запасной.** Если какое-то длинное видео не успевает, сдвигай его и все следующие даты на день, а в освободившийся слот Shorts ставь `cats_meow`. Если сдвигов не было, он выходит в Вс 25.10 в 16:00 МСК. Уже запланированное длинное видео тоже переноси на день вперёд в Studio.
 
@@ -85,3 +85,4 @@
   - «How Long YOU Would Last in Oog's World» — ответ на вопрос из концовки №5.
 - Тема про месячные и прошлая очередь отложены.
 - **Проверка.** Через 72 ч после 21.10 сравнить показы и CTR №5 с №2–4. Если показов больше в 10 раз и больше, переводим в новый формат и Shorts.
+- **Пн 26.10, 22:00 МСК:** Shorts `caveman_night_guard`.

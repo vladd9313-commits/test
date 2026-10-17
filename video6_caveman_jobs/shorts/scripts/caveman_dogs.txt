@@ -1,0 +1,11 @@
+# title: HE'S NEVER SEEN A DOG
+A caveman has never seen a dog. | {CAVE} confused in a park, a dog happy, a big question mark
+The oldest clear genetic evidence of dogs is around fifteen thousand years old. | a timeline, a dog, a stone tablet with "15000"
+Oog is forty thousand years old. | a timeline, {CAVE} proud, a stone tablet with "40000"
+In his time, those animals were wild wolves. | {CAVE} terrified, a wolf angry in the snow, the word "WOLF" above him
+Competitors for the same meat. | {CAVE} angry, holding a spear, a wolf angry in the snow
+So give him a dog-walking job, | {CAVE} confused in a park, the word "DOGS" above him
+and six wolf-shaped animals run at him, barking. | {CAVE} terrified in a park, a dog happy, an exclamation mark
+He climbs the nearest tree. | {CAVE} terrified in a park, a dog happy, the word "UP" above him
+The dogs think it's a great game. | a dog happy in a park, hearts, sparkles [TIMER 30 SEC]
+Because a caveman has never seen a dog. | {CAVE} scared in a park, a dog happy, a question mark

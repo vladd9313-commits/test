@@ -1,0 +1,55 @@
+## B11 | Scoreboard and job 9: Dog walker
+Quick scoreboard. | {SCI} pointing at a chalkboard, the word "SCORE" above him
+Night guard: all night. Construction: eight hours. Chef: five hours. | {SCI} proud at a chalkboard, the word "ALL NIGHT" above him
+Delivery: three hours. Teacher: one hour. Barista: forty minutes. | {SCI} pointing at a chalkboard, the word "40 MIN" above him
+Call center: ten minutes. Cashier: five minutes. | {SCI} smug at a chalkboard, the word "5 MIN" above him
+And it only gets worse from here. | {CAVE} sad in a city street, a big question mark
+Job nine: dog walker. | {CAVE} confused in a park, the word "DOGS" above him
+Here's the thing: Oog has never seen a dog. | {CAVE} confused in a park, a big question mark
+The oldest clear genetic evidence of dogs is around fifteen thousand years old. | a timeline, a dog, a stone tablet with "15000"
+In Oog's time, those animals were wild wolves. | {CAVE} terrified, a wolf angry in the snow, the word "WOLF" above him
+Competitors for the same meat. | {CAVE} angry, holding a spear, a wolf angry in the snow
+So six wolf-shaped animals run toward him, barking. | {CAVE} terrified in a park, a dog happy, an exclamation mark
+He climbs the nearest tree. | {CAVE} terrified in a tree in a park, a dog happy, the word "UP" above him
+The dogs think it's a great game. | a dog happy in a park, hearts, sparkles
+Funny thing: later, those same wolves became our best hunting partners. | {CAVE} happy, holding a spear, a dog happy in the snow, hearts
+But that deal was made long after Oog's time. | a timeline, a dog, the word "LATER" above it
+Timer: thirty seconds. | a dog happy in a park, {CAVE} scared [TIMER 30 SEC]
+## B12 | Job 10: Firefighter
+Job ten: firefighter. | {CAVE} proud next to a burning building, the word "FIREFIGHTER" above him
+Remember how precious fire is to Oog? | {CAVE} happy by a campfire in a cave at night, hearts
+If your fire went out in the Ice Age, you could freeze. | {CAVE} sad in the snow at night, the word "COLD" above him
+People carried embers and protected their fire like treasure. | {CAVE} proud by a campfire in the snow at night, the word "TREASURE" above him
+Some groups in recent history, like the Andaman Islanders, were reported to carry fire with them instead of starting it from scratch. | a Hadza hunter proud by a campfire, the word "CARRY FIRE" above him
+Lose it, and you might have to beg the neighbors for a light. | {CAVE} sad in the snow at night, the word "NEIGHBORS" above him
+And here, people point a giant water snake at it. | a firefighter happy next to a burning building, the word "WATER" above him
+Oog sees a huge, beautiful fire, and men trying to kill it. | {CAVE} shocked next to a burning building, an exclamation mark
+So he protects the fire. | {CAVE} angry, holding a spear, next to a burning building, a firefighter shocked
+Timer: three seconds. | two firefighters angry, pointing at {CAVE} sad [TIMER 3 SEC]
+## B13 | The twist: The perfect job
+So is Oog just unemployable? | {CAVE} sad in a city street, the word "JOBLESS" above him
+No. There's one job where he's the best in the world. | {SCI} smiling at a chalkboard, a light bulb above him
+Museum guide in the Stone Age hall. | {CAVE} proud in a museum, the word "MUSEUM" above him, sparkles
+A sign says cavemen dragged women around by the hair. | {CAVE} angry in a museum, the word "MYTH" above him, a big red X
+There's no good evidence for that. It's an old cartoon idea. | {SCI} smug at a chalkboard, the word "CARTOON" above him
+Another sign shows cavemen living with dinosaurs. | {CAVE} shocked in a museum, the word "DINOSAURS" above him
+The last dinosaurs died about sixty-six million years before humans existed. | a timeline, a stone tablet with "66", the word "MILLION" above it
+And a sign says cavemen only grunted. | {CAVE} angry in a museum, the word "GRUNT" above him
+A Neanderthal throat bone from Kebara Cave in Israel looks almost exactly like ours. | {SCI} thinking at a chalkboard, the word "KEBARA" above him
+And Oog isn't even a Neanderthal. He talks plenty. Just not in your language. | {CAVE} shouting in a museum, the word "OOG" above him
+Oog fixes every sign. | {CAVE} proud in a museum, sparkles
+He shows kids how to make a spear. | {CAVE} happy, holding a spear, in a museum, three children happy
+How to start a fire without a lighter. | {CAVE} happy by a campfire in a museum, three children shocked
+And how to sleep with one ear open. | {CAVE} asleep in a museum, z letters, the word "LISTEN" above him
+Visitors love him. | three visitors happy in a museum, hearts
+Timer: forever. | {CAVE} proud in a museum, hearts, sparkles [TIMER FOREVER]
+## B14 | Ending
+So, how long would a caveman last in your job? | {CAVE} thinking in an office, a big question mark
+Probably not long. | {CAVE} sad in an office, the word "FIRED" above him
+He'd never complain about the commute, though. | {CAVE} smug in a city street, the word "COMMUTE" above him
+Ten kilometers on foot before breakfast is just a normal morning for him. | {CAVE} happy, arms in the air, in a city street, the word "10 KM" above him
+But give him a few months to learn, | {CAVE} smiling holding a book in a library, sparkles
+and the same brain that tracked mammoths would track spreadsheets. | {CAVE} happy in an office with a computer, the word "SPREADSHEET" above him
+Now tell us in the comments: what's your job, | {GUY} thinking in a living room, a question mark
+and how fast would Oog get fired from it? | {CAVE} smug in an office, the word "YOUR JOB" above him [TIMER ?]
+Next time, we flip it around: how long would you last in Oog's world? | {GUY} terrified in the snow at night, a wolf angry, the word "NEXT" above him [TIMER ?]

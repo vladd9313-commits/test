@@ -1,0 +1,11 @@
+# title: FIRED IN 3 SECONDS
+A caveman firefighter would last about three seconds. | {CAVE} angry, holding a spear, next to a burning building, an exclamation mark [TIMER 3 SEC]
+Here's why. | {CAVE} confused next to a burning building, a question mark
+In the Ice Age, fire was treasure. | {CAVE} happy by a campfire in the snow at night, the word "TREASURE" above him
+If your fire went out, you could freeze. | {CAVE} sad in the snow at night, the word "COLD" above him
+Some groups carried fire with them instead of starting it from scratch. | {CAVE} proud by a campfire in a cave, the word "CARRY" above him
+So when Oog sees a huge, beautiful fire, | {CAVE} happy next to a burning building, sparkles
+and men pointing a giant water snake at it, | a firefighter happy next to a burning building, the word "WATER" above him
+he does the only logical thing. | {CAVE} thinking next to a burning building, a light bulb above him
+He protects the fire. | {CAVE} angry, holding a spear, next to a burning building, a firefighter shocked
+And that's why a caveman firefighter would last about three seconds. | two firefighters angry, pointing at {CAVE} sad [TIMER 3 SEC]
