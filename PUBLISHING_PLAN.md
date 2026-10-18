@@ -86,3 +86,6 @@
 - Тема про месячные и прошлая очередь отложены.
 - **Проверка.** Через 72 ч после 21.10 сравнить показы и CTR №5 с №2–4. Если показов больше в 10 раз и больше, переводим в новый формат и Shorts.
 - **Пн 26.10, 22:00 МСК:** Shorts `caveman_night_guard`.
+- **Вт 27.10, 19:00 МСК:** видео №7 «How Long Would YOU Last in a Caveman's World?» (`3Lzr8IxyM4c`, обложка A) + 22:00 Shorts `you_vs_lion` (`001_OPSVljI`).
+- **Ср 28.10, 22:00 МСК:** Shorts `you_barefoot` (`vnWmfqDbWe0`).
+- **Чт 29.10, 22:00 МСК:** Shorts `you_shanidar` (`a9yIcBGgj-A`).
