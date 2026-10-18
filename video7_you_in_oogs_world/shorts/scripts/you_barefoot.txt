@@ -1,0 +1,10 @@
+# title: YOUR FEET WOULDN'T SURVIVE
+Your feet wouldn't survive the Stone Age. | {GUY} sad in a forest, the word "OUCH" above him
+Hunter-gatherers often walk ten kilometers in a day, many of them barefoot. | a Hadza hunter proud on a savanna, the word "BAREFOOT" above him
+In a 2019 study, people who usually walk barefoot had calluses about thirty percent thicker. | {SCI} proud at a chalkboard, the word "30%" above him
+And those thick soles didn't make their feet any less sensitive. | {SCI} smiling at a chalkboard, sparkles
+Your feet? Soft. Like bread. | {GUY} sad in a forest, the word "BREAD" above him
+Over stones, roots, thorns and frozen mud. | {GUY} terrified in a forest, the word "THORNS" above him
+After two hours, you're limping. | {GUY} sad, sweating, in a forest [TIMER 2 HOURS]
+Your caveman friend carries you the rest of the way. | {CAVE} proud next to {GUY} sad in a forest, the word "CARRY" above them
+Because, honestly, your feet wouldn't survive the Stone Age. | {GUY} sad in a forest, a big question mark

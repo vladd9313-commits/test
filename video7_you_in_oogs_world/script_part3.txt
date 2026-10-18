@@ -1,0 +1,41 @@
+## B11 | Situation 9: The cave lion
+And finally, the shortest one. | {GUY} confused in the snow, a big question mark
+You go to the stream alone, to get water. | {GUY} happy in the snow, the word "WATER" above him
+Something moves in the grass. | {GUY} shocked in the snow, an exclamation mark
+A cave lion. Bigger than today's lions. | {GUY} terrified, a lion angry in the snow, the word "BIGGER" above him
+Your instinct says: run. | {GUY} terrified in the snow, the word "RUN" above him
+Bad idea. | {SCI} shocked at a chalkboard, the word "BAD IDEA" above him
+Running away can make a predator chase you. | {SCI} pointing at a chalkboard, the word "CHASE" above him
+Usain Bolt's top speed was about forty-four kilometers an hour. | {GUY} happy, arms in the air, on a savanna, the word "44 KMH" above him
+A charging lion can hit around eighty. | a lion angry on a savanna, the word "80 KMH" above it
+And you are not Usain Bolt. | {GUY} sad on a couch in a living room, the word "NOT BOLT" above him
+Timer: four seconds. | {GUY} terrified, a lion angry in the snow [TIMER 4 SEC]
+## B12 | The twist: What actually keeps you alive
+So that's it. Four seconds. Game over? | {GUY} sad in the snow, a big question mark
+Not quite. Because you're not alone. | {CAVE} proud, holding a spear, next to {GUY} terrified, a lion angry in the snow
+Oog's whole group shows up shouting, with spears and fire. | {CAVE} angry, holding a torch, and a Neanderthal angry in the snow, a lion scared
+The lion decides you're not worth it. | a lion scared in the snow, the word "NOPE" above it
+And here's the real twist. | {SCI} thinking in a lab, a light bulb above him
+Let's look at a real Neanderthal skeleton from Shanidar Cave in Iraq. | {SCI} thinking at a microscope in a lab, the word "SHANIDAR" above him
+Scientists call him Shanidar 1. | {SCI} pointing at a chalkboard, the word "SHANIDAR 1" above him
+He had a crushing blow to the face that probably left him blind in one eye. | {SCI} sad at a chalkboard, the word "BLIND" above him
+His right arm was badly withered. He walked with a limp. | a Neanderthal sad in a cave, the word "INJURED" above him
+His bones show that those injuries healed, | {SCI} shocked at a chalkboard, an exclamation mark
+and he lived for years after them, into his late thirties or forties. | a Neanderthal smiling by a campfire in a cave, hearts
+Many researchers think he could hardly have survived that long without help from his group. | {SCI} proud at a chalkboard, the word "HELP" above him
+Someone shared food with him. Someone helped him move camp. Someone waited for him to catch up. | a Neanderthal smiling and another Neanderthal happy in the snow, hearts
+For years. | a Neanderthal smiling by a campfire in a cave, hearts, sparkles
+That's what kept people alive back then. | {CAVE} smiling, a Neanderthal happy and {WOMAN} smiling by a campfire in a cave, hearts
+Not big muscles. Not sharp spears. | {CAVE} smiling, holding a spear, a big red X
+Each other. | {CAVE} and {GUY} and {WOMAN} smiling by a campfire in a cave, hearts, sparkles
+So if Oog's group takes you in, | {CAVE} happy next to {GUY} smiling by a campfire in a cave, hearts
+your timer says: forever. | {GUY} happy by a campfire in a cave, hearts, sparkles [TIMER FOREVER]
+## B13 | Ending
+So how long would you really last in Oog's world? | {GUY} thinking in a cave, a big question mark
+Alone? About four seconds. | {GUY} terrified, a lion angry in the snow [TIMER 4 SEC]
+With friends? Long enough to become the best fire maker in the cave. | {GUY} proud by a campfire in a cave, sparkles, the word "FIRE MAKER" above him
+Which, given those blisters, might take a while. | {GUY} sad, hands on his head, in a cave, the word "BLISTERS" above him
+Oog will wait. He's very patient. He's had forty thousand years of practice. | {CAVE} smug by a campfire in a cave, the word "PATIENT" above him
+Tell us in the comments: which part would you fail first? | {GUY} thinking in a living room, a question mark
+The berries, the fire, or the lion? | {CAVE} smug in a cave, the word "WHICH ONE" above him [TIMER ?]
+If you liked this series, subscribe: Oog has a lot more places to visit. | {CAVE} happy, arms in the air, in a city street, sparkles, the word "SUBSCRIBE" above him

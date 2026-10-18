@@ -1,0 +1,11 @@
+# title: YOU CAN'T OUTRUN IT
+You can't outrun a cave lion. | {GUY} terrified, a lion angry in the snow, an exclamation mark [TIMER 4 SEC]
+Forty thousand years ago, you go to the stream alone. | {GUY} happy in the snow, the word "WATER" above him
+Something moves in the grass. | {GUY} shocked in the snow, an exclamation mark
+A cave lion. Bigger than today's lions. | {GUY} terrified, a lion angry in the snow, the word "BIGGER" above him
+Your instinct says: run. | {GUY} terrified in the snow, the word "RUN" above him
+Usain Bolt's top speed was about forty-four kilometers an hour. | {GUY} happy, arms in the air, on a savanna, the word "44 KMH" above him
+A charging lion can hit around eighty. | a lion angry on a savanna, the word "80 KMH" above it
+And running away can make a predator chase you. | {SCI} pointing at a chalkboard, the word "CHASE" above him
+What saves you? A whole group, shouting, with spears and fire. | {CAVE} angry, holding a torch, and a Neanderthal angry in the snow, a lion scared
+Alone, though, you can't outrun a cave lion. | {GUY} terrified, a lion angry in the snow [TIMER 4 SEC]

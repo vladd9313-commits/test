@@ -1,0 +1,64 @@
+## B01 | Hook: Now it's your turn
+For two videos, we dropped Oog into your world. | {CAVE} shocked on a highway with cars [TIMER 4 SEC]
+Now it's your turn. | {GUY} shocked in the snow at night, an exclamation mark
+You wake up forty thousand years ago, next to Oog. | {GUY} confused and {CAVE} smiling in a cave, a stone tablet with "40000"
+No phone. No shoes. No idea what's going on. | {GUY} terrified in a cave, the word "NO PHONE" above him
+Oog looks at you the way you'd look at a lost puppy. | {CAVE} smug next to {GUY} confused in a cave, the word "PUPPY" above him
+Soft hands. Clean teeth. Funny clothes. | {CAVE} thinking next to {GUY} smiling in a cave, the word "SOFT" above them
+We'll put you through nine parts of Oog's world and start the timer. | {GUY} confused in a cave, a clock [TIMER 0:00]
+In one, you last all night. | {GUY} asleep by a campfire in a cave at night, z letters [TIMER ALL NIGHT]
+In another, about four seconds. | {GUY} terrified, a lion angry in the snow, an exclamation mark [TIMER 4 SEC]
+And the thing that would actually keep you alive | {GUY} confused in a cave, a big question mark
+isn't a spear, or a fire. | {CAVE} smiling, holding a spear, by a campfire in a cave, a big red X
+## B02 | The rules
+Here are the rules. | {SCI} pointing at a chalkboard, the word "RULES" above him
+You're a normal modern adult. | {SCI} proud next to {GUY} smiling, a chalkboard
+Same species as Oog, same brain. | {SCI} pointing at a chalkboard, the word "SAME" above him
+But you've never hunted, never made fire, and never walked barefoot more than to the fridge. | {GUY} smug on a couch in a living room, the word "FRIDGE" above him
+The timer stops when you're in serious trouble, | {GUY} terrified in the snow at night, an exclamation mark
+or when Oog has to come and save you. | {CAVE} proud, holding a spear, next to {GUY} relieved in the snow
+From the longest to the shortest. Good luck. | {GUY} confused in a forest, a clock [TIMER 0:00]
+## B03 | Situation 1: A night in Oog's cave
+First: a night in Oog's cave, with his whole group. | {GUY} smiling by a campfire in a cave at night, the word "CAVE" above him
+And honestly? You'd be fine. | {GUY} happy by a campfire in a cave at night, sparkles
+There's a fire. | a campfire in a cave at night, the word "FIRE" above it
+There are furs to sleep on. | {GUY} happy, asleep in a cave at night, z letters
+Everyone sleeps close together, for warmth and for safety. | three Hadza hunters asleep by a campfire at night, z letters, hearts
+And someone is always awake. | {CAVE} thinking by a campfire in a cave at night, the moon
+Remember the Hadza sleep study? | {SCI} pointing at a chalkboard, the word "HADZA" above him
+Over more than two hundred hours of nights, | three Hadza hunters asleep at night, z letters
+the whole group was asleep at the same time for only eighteen minutes. | {SCI} shocked at a chalkboard, the word "18 MIN" above him
+Older people slept early, younger people stayed up late. | an old woman asleep and a Hadza hunter thinking by a campfire at night, z letters
+It's like a free night shift. | {CAVE} proud by a campfire in a cave at night, the word "NIGHT SHIFT" above him
+Your only job is to not wander off in the dark to find a toilet. | {GUY} confused in a cave at night, the word "TOILET" above him, a big red X
+So you sleep. You snore. Nobody eats you. | {GUY} asleep by a campfire in a cave at night, z letters, hearts
+Timer: all night. | {GUY} happy in a cave, sparkles [TIMER ALL NIGHT]
+## B04 | Situation 2: The morning walk, barefoot
+Morning. The group is moving to a new camp. | {CAVE} happy, holding a spear, in a forest, the word "MOVE" above him
+Ten kilometers. Barefoot. | {GUY} shocked in a forest, the word "10 KM" above him
+Over stones, roots, thorns and frozen mud. | {GUY} terrified in a forest, the word "THORNS" above him
+Oog doesn't even look down. He's busy watching for animals. | {CAVE} smug, holding a spear, in a forest, the word "WATCH" above him
+You look down at every single step. | {GUY} sweating in a forest, the word "STEP" above him
+Hunter-gatherers often walk that far in a day, and many don't wear shoes at all. | a Hadza hunter proud on a savanna, the word "BAREFOOT" above him
+Their secret is thick calluses. | {SCI} pointing at a chalkboard, the word "CALLUSES" above him
+In a 2019 study, people who usually walk barefoot had calluses about thirty percent thicker. | {SCI} proud at a chalkboard, the word "30%" above him
+And those thick soles didn't make their feet any less sensitive. | {SCI} smiling at a chalkboard, sparkles
+Shoes are still better at keeping feet warm, though. Calluses don't do that. | {SCI} thinking at a chalkboard, the word "WARM" above him
+Your feet, on the other hand, are soft. Like bread. | {GUY} sad in a forest, the word "BREAD" above him
+After two hours, you're limping. | {GUY} sad, sweating, in a forest, the word "OUCH" above him
+Oog carries you the rest of the way. | {CAVE} proud next to {GUY} sad in a forest, the word "CARRY" above them
+Timer: two hours. | {GUY} sad in a forest [TIMER 2 HOURS]
+## B05 | Situation 3: Gathering berries
+Next job: gathering food. | {GUY} happy in a forest, a berry bush, the word "FOOD" above him
+In many hunter-gatherer groups, gathered plants were a big part of the diet. | {WOMAN} smiling in a forest, a berry bush, the word "PLANTS" above her
+There's a bush full of shiny berries. | {GUY} happy in a forest, a berry bush, sparkles
+Some are food. Some can make you very sick. | {SCI} thinking at a chalkboard, the word "SICK" above him
+Oog's group learned the difference from the time they were kids. | {WOMAN} smiling and a baby {CAVE} happy in a forest, a berry bush
+You learned it from... nobody. | {GUY} confused in a forest, a berry bush, a big question mark
+You eat the shiniest ones. | {GUY} happy eating in a forest, a berry bush
+Oog's face says everything. | {CAVE} shocked in a forest, an exclamation mark
+Here's a strange bonus fact while you recover. | {SCI} smiling in a lab, a light bulb above him
+Skeletons from before farming tend to have far fewer cavities than those of early farmers. | {SCI} pointing at a chalkboard, the word "CAVITIES" above him
+Lots of starchy, sticky grain came later. | a farmer smiling in a village, the word "GRAIN" above him
+So Oog's teeth may look rough, but they're probably in better shape than you'd expect. | {CAVE} happy, smiling in a cave, sparkles, the word "TEETH" above him
+Timer: one hour, and a very bad stomach ache. | {GUY} sad, sweating, in a forest, the word "OUCH" above him [TIMER 1 HOUR]

@@ -1,0 +1,56 @@
+## B06 | Situation 4: Making fire
+Evening. Oog hands you two sticks. Your turn to make fire. | {CAVE} smiling, pointing at {GUY} confused in a cave, the word "FIRE" above them
+You've seen this in movies. How hard can it be? | {GUY} smug in a cave, the word "EASY" above him
+Very hard. | {SCI} smug at a chalkboard, the word "HARD" above him
+Friction fire takes the right wood, the right technique, and a lot of practice. | {SCI} pointing at a chalkboard, the word "PRACTICE" above him
+You rub. And rub. | {GUY} sweating in a cave, the word "RUB" above him
+Smoke? No. | {GUY} sad in a cave, the word "SMOKE" above him, a big red X
+Your arms burn. Your hands sweat. The stick slips. | {GUY} sweating, hands on his head, in a cave, the word "SLIP" above him
+Blisters? Yes. | {GUY} sad, hands on his head, in a cave, the word "BLISTERS" above him
+After forty minutes, Oog takes the sticks and makes fire in about a minute. | {CAVE} smug by a campfire in a cave, sparkles
+Timer: forty minutes. And a lot of shame. | {GUY} sad by a campfire in a cave [TIMER 40 MIN]
+## B07 | Situation 5: The Ice Age night outside
+Now imagine you're outside the cave at night. Alone. | {GUY} terrified in the snow at night, the word "ALONE" above him
+How cold was the Ice Age? | {SCI} thinking at a chalkboard, a question mark
+A 2020 study estimated that, on average, the whole planet was about six degrees Celsius colder than today. | {SCI} pointing at a chalkboard, the word "6 C" above him
+That sounds small. It's not. | {SCI} shocked at a chalkboard, an exclamation mark
+In the far north, it was around fourteen degrees colder. | {SCI} shocked at a chalkboard, the word "14 C" above him
+And you're wearing a T-shirt. | {GUY} terrified in the snow at night, the word "T SHIRT" above him
+Oog is wearing furs, sewn together to keep the wind out. | {CAVE} smug in the snow at night, the word "FURS" above him
+You start shivering. Fast. | {GUY} terrified, sweating, in the snow at night, the word "COLD" above him
+Wind steals body heat, and wet clothes make it much worse. | {SCI} pointing at a chalkboard, the word "WIND" above him
+The snow starts to fall. Your fingers stop listening to you. | {GUY} terrified in the snow at night, the word "FINGERS" above him
+Timer: twenty minutes, until Oog drags you back to the fire. | {CAVE} proud next to {GUY} relieved by a campfire in a cave [TIMER 20 MIN]
+## B08 | Situation 6: Dinner
+Back at the fire, it's dinner time. | {GUY} happy by a campfire in a cave, the word "DINNER" above him
+Oog proudly hands you the best part of the animal. | {CAVE} proud by a campfire in a cave, the word "BEST PART" above him
+Not the steak. The bone marrow. | {CAVE} happy by a campfire in a cave, the word "MARROW" above him
+Archaeologists find animal bones at many old sites that were smashed open to get it out. | {SCI} pointing at a chalkboard, the word "SMASHED" above him
+Marrow is rich in fat, and fat was precious in a cold world. | {SCI} proud at a chalkboard, the word "FAT" above him
+You take a bite. | {GUY} confused by a campfire in a cave, a question mark
+Your face does something you can't control. | {GUY} disgusted by a campfire in a cave, an exclamation mark
+Refusing a gift is rude in many cultures. Oog is offended. | {CAVE} angry by a campfire in a cave, the word "RUDE" above him
+Timer: ten minutes. | {GUY} sad by a campfire in a cave [TIMER 10 MIN]
+## B09 | Scoreboard and situation 7: Meeting strangers
+Quick scoreboard. | {SCI} pointing at a chalkboard, the word "SCORE" above him
+The cave: all night. The walk: two hours. Berries: one hour. | {SCI} proud at a chalkboard, the word "ALL NIGHT" above him
+Fire: forty minutes. The cold: twenty minutes. Dinner: ten minutes. | {SCI} pointing at a chalkboard, the word "20 MIN" above him
+And now it gets dangerous. | {GUY} terrified in the snow, a big question mark
+Another group appears on the hill. | {GUY} shocked in the snow, three Neanderthals, an exclamation mark
+You wave and say: "Hi, nice to meet you!" | {GUY} happy, waving in the snow, the word "HI" above him
+Nobody on Earth speaks English yet. | {SCI} smug at a chalkboard, the word "ENGLISH" above him, a big red X
+Not even close. Writing won't be invented for another thirty-five thousand years. | a timeline, a stone tablet with "35000", the word "WRITING" above it
+To them, you're a weird, soft stranger making strange sounds. | three Neanderthals confused in the snow, a big question mark
+Oog steps in, talks, and shares some meat. | {CAVE} smiling next to a Neanderthal smiling in the snow, hearts
+Sharing food was one of the oldest ways to say: we come in peace. | {CAVE} happy and a Neanderthal happy by a campfire in the snow, the word "PEACE" above them
+Timer: five minutes. | {GUY} relieved in the snow [TIMER 5 MIN]
+## B10 | Situation 8: The mammoth hunt
+Next: a mammoth hunt. | {GUY} shocked next to a mammoth in the snow, the word "HUNT" above him
+A big woolly mammoth could weigh about six tonnes. | a mammoth in the snow, a stone tablet with "6", the word "TONNES" above it
+Hunters worked as a team, used the land, and picked their moment. | {CAVE} thinking, holding a spear, in the snow, the word "TEAM" above him
+You pick your moment too. | {GUY} proud, holding a spear, in the snow, sparkles
+The wrong one. | {GUY} terrified next to a mammoth in the snow, an exclamation mark
+You shout a battle cry you learned from a movie. | {GUY} angry, shouting, holding a spear, in the snow, the word "CHARGE" above him
+The mammoth turns around. | a mammoth angry in the snow, {GUY} terrified
+You run. Oog runs faster. | {CAVE} smug and {GUY} terrified in the snow, the word "RUN" above them
+Timer: two minutes. | {GUY} sad in the snow, a mammoth [TIMER 2 MIN]

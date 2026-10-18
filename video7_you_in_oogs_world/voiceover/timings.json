@@ -1,0 +1,1186 @@
+[
+ {
+  "n": 0,
+  "block": "B01",
+  "text": "For two videos, we dropped Oog into your world.",
+  "scene": "{CAVE} shocked on a highway with cars [TIMER 4 SEC]",
+  "start": 0.0,
+  "end": 3.476
+ },
+ {
+  "n": 1,
+  "block": "B01",
+  "text": "Now it's your turn.",
+  "scene": "{GUY} shocked in the snow at night, an exclamation mark",
+  "start": 3.476,
+  "end": 5.146
+ },
+ {
+  "n": 2,
+  "block": "B01",
+  "text": "You wake up forty thousand years ago, next to Oog.",
+  "scene": "{GUY} confused and {CAVE} smiling in a cave, a stone tablet with \"40000\"",
+  "start": 5.146,
+  "end": 8.944
+ },
+ {
+  "n": 3,
+  "block": "B01",
+  "text": "No phone. No shoes. No idea what's going on.",
+  "scene": "{GUY} terrified in a cave, the word \"NO PHONE\" above him",
+  "start": 8.944,
+  "end": 12.938
+ },
+ {
+  "n": 4,
+  "block": "B01",
+  "text": "Oog looks at you the way you'd look at a lost puppy.",
+  "scene": "{CAVE} smug next to {GUY} confused in a cave, the word \"PUPPY\" above him",
+  "start": 12.938,
+  "end": 16.517
+ },
+ {
+  "n": 5,
+  "block": "B01",
+  "text": "Soft hands. Clean teeth. Funny clothes.",
+  "scene": "{CAVE} thinking next to {GUY} smiling in a cave, the word \"SOFT\" above them",
+  "start": 16.517,
+  "end": 19.818
+ },
+ {
+  "n": 6,
+  "block": "B01",
+  "text": "We'll put you through nine parts of Oog's world and start the timer.",
+  "scene": "{GUY} confused in a cave, a clock [TIMER 0:00]",
+  "start": 19.818,
+  "end": 24.284
+ },
+ {
+  "n": 7,
+  "block": "B01",
+  "text": "In one, you last all night.",
+  "scene": "{GUY} asleep by a campfire in a cave at night, z letters [TIMER ALL NIGHT]",
+  "start": 24.284,
+  "end": 26.387
+ },
+ {
+  "n": 8,
+  "block": "B01",
+  "text": "In another, about four seconds.",
+  "scene": "{GUY} terrified, a lion angry in the snow, an exclamation mark [TIMER 4 SEC]",
+  "start": 26.387,
+  "end": 28.723
+ },
+ {
+  "n": 9,
+  "block": "B01",
+  "text": "And the thing that would actually keep you alive",
+  "scene": "{GUY} confused in a cave, a big question mark",
+  "start": 28.723,
+  "end": 31.487
+ },
+ {
+  "n": 10,
+  "block": "B01",
+  "text": "isn't a spear, or a fire.",
+  "scene": "{CAVE} smiling, holding a spear, by a campfire in a cave, a big red X",
+  "start": 31.487,
+  "end": 34.028
+ },
+ {
+  "n": 11,
+  "block": "B02",
+  "text": "Here are the rules.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"RULES\" above him",
+  "start": 34.028,
+  "end": 35.674
+ },
+ {
+  "n": 12,
+  "block": "B02",
+  "text": "You're a normal modern adult.",
+  "scene": "{SCI} proud next to {GUY} smiling, a chalkboard",
+  "start": 35.674,
+  "end": 37.935
+ },
+ {
+  "n": 13,
+  "block": "B02",
+  "text": "Same species as Oog, same brain.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SAME\" above him",
+  "start": 37.935,
+  "end": 40.935
+ },
+ {
+  "n": 14,
+  "block": "B02",
+  "text": "But you've never hunted, never made fire, and never walked barefoot more than to the fridge.",
+  "scene": "{GUY} smug on a couch in a living room, the word \"FRIDGE\" above him",
+  "start": 40.935,
+  "end": 46.832
+ },
+ {
+  "n": 15,
+  "block": "B02",
+  "text": "The timer stops when you're in serious trouble,",
+  "scene": "{GUY} terrified in the snow at night, an exclamation mark",
+  "start": 46.832,
+  "end": 49.561
+ },
+ {
+  "n": 16,
+  "block": "B02",
+  "text": "or when Oog has to come and save you.",
+  "scene": "{CAVE} proud, holding a spear, next to {GUY} relieved in the snow",
+  "start": 49.561,
+  "end": 52.175
+ },
+ {
+  "n": 17,
+  "block": "B02",
+  "text": "From the longest to the shortest. Good luck.",
+  "scene": "{GUY} confused in a forest, a clock [TIMER 0:00]",
+  "start": 52.175,
+  "end": 55.812
+ },
+ {
+  "n": 18,
+  "block": "B03",
+  "text": "First: a night in Oog's cave, with his whole group.",
+  "scene": "{GUY} smiling by a campfire in a cave at night, the word \"CAVE\" above him",
+  "start": 55.812,
+  "end": 59.354
+ },
+ {
+  "n": 19,
+  "block": "B03",
+  "text": "And honestly? You'd be fine.",
+  "scene": "{GUY} happy by a campfire in a cave at night, sparkles",
+  "start": 59.354,
+  "end": 61.712
+ },
+ {
+  "n": 20,
+  "block": "B03",
+  "text": "There's a fire.",
+  "scene": "a campfire in a cave at night, the word \"FIRE\" above it",
+  "start": 61.712,
+  "end": 63.166
+ },
+ {
+  "n": 21,
+  "block": "B03",
+  "text": "There are furs to sleep on.",
+  "scene": "{GUY} happy, asleep in a cave at night, z letters",
+  "start": 63.166,
+  "end": 65.211
+ },
+ {
+  "n": 22,
+  "block": "B03",
+  "text": "Everyone sleeps close together, for warmth and for safety.",
+  "scene": "three Hadza hunters asleep by a campfire at night, z letters, hearts",
+  "start": 65.211,
+  "end": 69.297
+ },
+ {
+  "n": 23,
+  "block": "B03",
+  "text": "And someone is always awake.",
+  "scene": "{CAVE} thinking by a campfire in a cave at night, the moon",
+  "start": 69.297,
+  "end": 71.557
+ },
+ {
+  "n": 24,
+  "block": "B03",
+  "text": "Remember the Hadza sleep study?",
+  "scene": "{SCI} pointing at a chalkboard, the word \"HADZA\" above him",
+  "start": 71.557,
+  "end": 73.975
+ },
+ {
+  "n": 25,
+  "block": "B03",
+  "text": "Over more than two hundred hours of nights,",
+  "scene": "three Hadza hunters asleep at night, z letters",
+  "start": 73.975,
+  "end": 76.697
+ },
+ {
+  "n": 26,
+  "block": "B03",
+  "text": "the whole group was asleep at the same time for only eighteen minutes.",
+  "scene": "{SCI} shocked at a chalkboard, the word \"18 MIN\" above him",
+  "start": 76.697,
+  "end": 81.404
+ },
+ {
+  "n": 27,
+  "block": "B03",
+  "text": "Older people slept early, younger people stayed up late.",
+  "scene": "an old woman asleep and a Hadza hunter thinking by a campfire at night, z letters",
+  "start": 81.404,
+  "end": 85.553
+ },
+ {
+  "n": 28,
+  "block": "B03",
+  "text": "It's like a free night shift.",
+  "scene": "{CAVE} proud by a campfire in a cave at night, the word \"NIGHT SHIFT\" above him",
+  "start": 85.553,
+  "end": 87.538
+ },
+ {
+  "n": 29,
+  "block": "B03",
+  "text": "Your only job is to not wander off in the dark to find a toilet.",
+  "scene": "{GUY} confused in a cave at night, the word \"TOILET\" above him, a big red X",
+  "start": 87.538,
+  "end": 92.177
+ },
+ {
+  "n": 30,
+  "block": "B03",
+  "text": "So you sleep. You snore. Nobody eats you.",
+  "scene": "{GUY} asleep by a campfire in a cave at night, z letters, hearts",
+  "start": 92.177,
+  "end": 95.425
+ },
+ {
+  "n": 31,
+  "block": "B03",
+  "text": "Timer: all night.",
+  "scene": "{GUY} happy in a cave, sparkles [TIMER ALL NIGHT]",
+  "start": 95.425,
+  "end": 97.607
+ },
+ {
+  "n": 32,
+  "block": "B04",
+  "text": "Morning. The group is moving to a new camp.",
+  "scene": "{CAVE} happy, holding a spear, in a forest, the word \"MOVE\" above him",
+  "start": 97.607,
+  "end": 100.61
+ },
+ {
+  "n": 33,
+  "block": "B04",
+  "text": "Ten kilometers. Barefoot.",
+  "scene": "{GUY} shocked in a forest, the word \"10 KM\" above him",
+  "start": 100.61,
+  "end": 102.826
+ },
+ {
+  "n": 34,
+  "block": "B04",
+  "text": "Over stones, roots, thorns and frozen mud.",
+  "scene": "{GUY} terrified in a forest, the word \"THORNS\" above him",
+  "start": 102.826,
+  "end": 106.388
+ },
+ {
+  "n": 35,
+  "block": "B04",
+  "text": "Oog doesn't even look down. He's busy watching for animals.",
+  "scene": "{CAVE} smug, holding a spear, in a forest, the word \"WATCH\" above him",
+  "start": 106.388,
+  "end": 110.902
+ },
+ {
+  "n": 36,
+  "block": "B04",
+  "text": "You look down at every single step.",
+  "scene": "{GUY} sweating in a forest, the word \"STEP\" above him",
+  "start": 110.902,
+  "end": 113.437
+ },
+ {
+  "n": 37,
+  "block": "B04",
+  "text": "Hunter-gatherers often walk that far in a day, and many don't wear shoes at all.",
+  "scene": "a Hadza hunter proud on a savanna, the word \"BAREFOOT\" above him",
+  "start": 113.437,
+  "end": 118.814
+ },
+ {
+  "n": 38,
+  "block": "B04",
+  "text": "Their secret is thick calluses.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"CALLUSES\" above him",
+  "start": 118.814,
+  "end": 121.271
+ },
+ {
+  "n": 39,
+  "block": "B04",
+  "text": "In a 2019 study, people who usually walk barefoot had calluses about thirty percent thicker.",
+  "scene": "{SCI} proud at a chalkboard, the word \"30%\" above him",
+  "start": 121.271,
+  "end": 128.785
+ },
+ {
+  "n": 40,
+  "block": "B04",
+  "text": "And those thick soles didn't make their feet any less sensitive.",
+  "scene": "{SCI} smiling at a chalkboard, sparkles",
+  "start": 128.785,
+  "end": 132.495
+ },
+ {
+  "n": 41,
+  "block": "B04",
+  "text": "Shoes are still better at keeping feet warm, though. Calluses don't do that.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"WARM\" above him",
+  "start": 132.495,
+  "end": 137.4
+ },
+ {
+  "n": 42,
+  "block": "B04",
+  "text": "Your feet, on the other hand, are soft. Like bread.",
+  "scene": "{GUY} sad in a forest, the word \"BREAD\" above him",
+  "start": 137.4,
+  "end": 140.921
+ },
+ {
+  "n": 43,
+  "block": "B04",
+  "text": "After two hours, you're limping.",
+  "scene": "{GUY} sad, sweating, in a forest, the word \"OUCH\" above him",
+  "start": 140.921,
+  "end": 143.1
+ },
+ {
+  "n": 44,
+  "block": "B04",
+  "text": "Oog carries you the rest of the way.",
+  "scene": "{CAVE} proud next to {GUY} sad in a forest, the word \"CARRY\" above them",
+  "start": 143.1,
+  "end": 145.525
+ },
+ {
+  "n": 45,
+  "block": "B04",
+  "text": "Timer: two hours.",
+  "scene": "{GUY} sad in a forest [TIMER 2 HOURS]",
+  "start": 145.525,
+  "end": 147.781
+ },
+ {
+  "n": 46,
+  "block": "B05",
+  "text": "Next job: gathering food.",
+  "scene": "{GUY} happy in a forest, a berry bush, the word \"FOOD\" above him",
+  "start": 147.781,
+  "end": 150.015
+ },
+ {
+  "n": 47,
+  "block": "B05",
+  "text": "In many hunter-gatherer groups, gathered plants were a big part of the diet.",
+  "scene": "{WOMAN} smiling in a forest, a berry bush, the word \"PLANTS\" above her",
+  "start": 150.015,
+  "end": 155.129
+ },
+ {
+  "n": 48,
+  "block": "B05",
+  "text": "There's a bush full of shiny berries.",
+  "scene": "{GUY} happy in a forest, a berry bush, sparkles",
+  "start": 155.129,
+  "end": 157.513
+ },
+ {
+  "n": 49,
+  "block": "B05",
+  "text": "Some are food. Some can make you very sick.",
+  "scene": "{SCI} thinking at a chalkboard, the word \"SICK\" above him",
+  "start": 157.513,
+  "end": 160.585
+ },
+ {
+  "n": 50,
+  "block": "B05",
+  "text": "Oog's group learned the difference from the time they were kids.",
+  "scene": "{WOMAN} smiling and a baby {CAVE} happy in a forest, a berry bush",
+  "start": 160.585,
+  "end": 164.305
+ },
+ {
+  "n": 51,
+  "block": "B05",
+  "text": "You learned it from... nobody.",
+  "scene": "{GUY} confused in a forest, a berry bush, a big question mark",
+  "start": 164.305,
+  "end": 166.518
+ },
+ {
+  "n": 52,
+  "block": "B05",
+  "text": "You eat the shiniest ones.",
+  "scene": "{GUY} happy eating in a forest, a berry bush",
+  "start": 166.518,
+  "end": 168.606
+ },
+ {
+  "n": 53,
+  "block": "B05",
+  "text": "Oog's face says everything.",
+  "scene": "{CAVE} shocked in a forest, an exclamation mark",
+  "start": 168.606,
+  "end": 170.613
+ },
+ {
+  "n": 54,
+  "block": "B05",
+  "text": "Here's a strange bonus fact while you recover.",
+  "scene": "{SCI} smiling in a lab, a light bulb above him",
+  "start": 170.613,
+  "end": 173.703
+ },
+ {
+  "n": 55,
+  "block": "B05",
+  "text": "Skeletons from before farming tend to have far fewer cavities than those of early farmers.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"CAVITIES\" above him",
+  "start": 173.703,
+  "end": 180.449
+ },
+ {
+  "n": 56,
+  "block": "B05",
+  "text": "Lots of starchy, sticky grain came later.",
+  "scene": "a farmer smiling in a village, the word \"GRAIN\" above him",
+  "start": 180.449,
+  "end": 183.49
+ },
+ {
+  "n": 57,
+  "block": "B05",
+  "text": "So Oog's teeth may look rough, but they're probably in better shape than you'd expect.",
+  "scene": "{CAVE} happy, smiling in a cave, sparkles, the word \"TEETH\" above him",
+  "start": 183.49,
+  "end": 188.948
+ },
+ {
+  "n": 58,
+  "block": "B05",
+  "text": "Timer: one hour, and a very bad stomach ache.",
+  "scene": "{GUY} sad, sweating, in a forest, the word \"OUCH\" above him [TIMER 1 HOUR]",
+  "start": 188.948,
+  "end": 193.024
+ },
+ {
+  "n": 59,
+  "block": "B06",
+  "text": "Evening. Oog hands you two sticks. Your turn to make fire.",
+  "scene": "{CAVE} smiling, pointing at {GUY} confused in a cave, the word \"FIRE\" above them",
+  "start": 193.024,
+  "end": 197.213
+ },
+ {
+  "n": 60,
+  "block": "B06",
+  "text": "You've seen this in movies. How hard can it be?",
+  "scene": "{GUY} smug in a cave, the word \"EASY\" above him",
+  "start": 197.213,
+  "end": 200.675
+ },
+ {
+  "n": 61,
+  "block": "B06",
+  "text": "Very hard.",
+  "scene": "{SCI} smug at a chalkboard, the word \"HARD\" above him",
+  "start": 200.675,
+  "end": 202.101
+ },
+ {
+  "n": 62,
+  "block": "B06",
+  "text": "Friction fire takes the right wood, the right technique, and a lot of practice.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"PRACTICE\" above him",
+  "start": 202.101,
+  "end": 207.431
+ },
+ {
+  "n": 63,
+  "block": "B06",
+  "text": "You rub. And rub.",
+  "scene": "{GUY} sweating in a cave, the word \"RUB\" above him",
+  "start": 207.431,
+  "end": 209.07
+ },
+ {
+  "n": 64,
+  "block": "B06",
+  "text": "Smoke? No.",
+  "scene": "{GUY} sad in a cave, the word \"SMOKE\" above him, a big red X",
+  "start": 209.07,
+  "end": 210.498
+ },
+ {
+  "n": 65,
+  "block": "B06",
+  "text": "Your arms burn. Your hands sweat. The stick slips.",
+  "scene": "{GUY} sweating, hands on his head, in a cave, the word \"SLIP\" above him",
+  "start": 210.498,
+  "end": 214.079
+ },
+ {
+  "n": 66,
+  "block": "B06",
+  "text": "Blisters? Yes.",
+  "scene": "{GUY} sad, hands on his head, in a cave, the word \"BLISTERS\" above him",
+  "start": 214.079,
+  "end": 215.753
+ },
+ {
+  "n": 67,
+  "block": "B06",
+  "text": "After forty minutes, Oog takes the sticks and makes fire in about a minute.",
+  "scene": "{CAVE} smug by a campfire in a cave, sparkles",
+  "start": 215.753,
+  "end": 220.525
+ },
+ {
+  "n": 68,
+  "block": "B06",
+  "text": "Timer: forty minutes. And a lot of shame.",
+  "scene": "{GUY} sad by a campfire in a cave [TIMER 40 MIN]",
+  "start": 220.525,
+  "end": 224.187
+ },
+ {
+  "n": 69,
+  "block": "B07",
+  "text": "Now imagine you're outside the cave at night. Alone.",
+  "scene": "{GUY} terrified in the snow at night, the word \"ALONE\" above him",
+  "start": 224.187,
+  "end": 227.927
+ },
+ {
+  "n": 70,
+  "block": "B07",
+  "text": "How cold was the Ice Age?",
+  "scene": "{SCI} thinking at a chalkboard, a question mark",
+  "start": 227.927,
+  "end": 230.181
+ },
+ {
+  "n": 71,
+  "block": "B07",
+  "text": "A 2020 study estimated that, on average, the whole planet was about six degrees Celsius colder than today.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"6 C\" above him",
+  "start": 230.181,
+  "end": 239.07
+ },
+ {
+  "n": 72,
+  "block": "B07",
+  "text": "That sounds small. It's not.",
+  "scene": "{SCI} shocked at a chalkboard, an exclamation mark",
+  "start": 239.07,
+  "end": 241.301
+ },
+ {
+  "n": 73,
+  "block": "B07",
+  "text": "In the far north, it was around fourteen degrees colder.",
+  "scene": "{SCI} shocked at a chalkboard, the word \"14 C\" above him",
+  "start": 241.301,
+  "end": 245.415
+ },
+ {
+  "n": 74,
+  "block": "B07",
+  "text": "And you're wearing a T-shirt.",
+  "scene": "{GUY} terrified in the snow at night, the word \"T SHIRT\" above him",
+  "start": 245.415,
+  "end": 247.307
+ },
+ {
+  "n": 75,
+  "block": "B07",
+  "text": "Oog is wearing furs, sewn together to keep the wind out.",
+  "scene": "{CAVE} smug in the snow at night, the word \"FURS\" above him",
+  "start": 247.307,
+  "end": 251.369
+ },
+ {
+  "n": 76,
+  "block": "B07",
+  "text": "You start shivering. Fast.",
+  "scene": "{GUY} terrified, sweating, in the snow at night, the word \"COLD\" above him",
+  "start": 251.369,
+  "end": 253.553
+ },
+ {
+  "n": 77,
+  "block": "B07",
+  "text": "Wind steals body heat, and wet clothes make it much worse.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"WIND\" above him",
+  "start": 253.553,
+  "end": 257.912
+ },
+ {
+  "n": 78,
+  "block": "B07",
+  "text": "The snow starts to fall. Your fingers stop listening to you.",
+  "scene": "{GUY} terrified in the snow at night, the word \"FINGERS\" above him",
+  "start": 257.912,
+  "end": 262.218
+ },
+ {
+  "n": 79,
+  "block": "B07",
+  "text": "Timer: twenty minutes, until Oog drags you back to the fire.",
+  "scene": "{CAVE} proud next to {GUY} relieved by a campfire in a cave [TIMER 20 MIN]",
+  "start": 262.218,
+  "end": 267.207
+ },
+ {
+  "n": 80,
+  "block": "B08",
+  "text": "Back at the fire, it's dinner time.",
+  "scene": "{GUY} happy by a campfire in a cave, the word \"DINNER\" above him",
+  "start": 267.207,
+  "end": 269.629
+ },
+ {
+  "n": 81,
+  "block": "B08",
+  "text": "Oog proudly hands you the best part of the animal.",
+  "scene": "{CAVE} proud by a campfire in a cave, the word \"BEST PART\" above him",
+  "start": 269.629,
+  "end": 273.004
+ },
+ {
+  "n": 82,
+  "block": "B08",
+  "text": "Not the steak. The bone marrow.",
+  "scene": "{CAVE} happy by a campfire in a cave, the word \"MARROW\" above him",
+  "start": 273.004,
+  "end": 275.258
+ },
+ {
+  "n": 83,
+  "block": "B08",
+  "text": "Archaeologists find animal bones at many old sites that were smashed open to get it out.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SMASHED\" above him",
+  "start": 275.258,
+  "end": 281.515
+ },
+ {
+  "n": 84,
+  "block": "B08",
+  "text": "Marrow is rich in fat, and fat was precious in a cold world.",
+  "scene": "{SCI} proud at a chalkboard, the word \"FAT\" above him",
+  "start": 281.515,
+  "end": 285.846
+ },
+ {
+  "n": 85,
+  "block": "B08",
+  "text": "You take a bite.",
+  "scene": "{GUY} confused by a campfire in a cave, a question mark",
+  "start": 285.846,
+  "end": 287.315
+ },
+ {
+  "n": 86,
+  "block": "B08",
+  "text": "Your face does something you can't control.",
+  "scene": "{GUY} disgusted by a campfire in a cave, an exclamation mark",
+  "start": 287.315,
+  "end": 290.16
+ },
+ {
+  "n": 87,
+  "block": "B08",
+  "text": "Refusing a gift is rude in many cultures. Oog is offended.",
+  "scene": "{CAVE} angry by a campfire in a cave, the word \"RUDE\" above him",
+  "start": 290.16,
+  "end": 294.812
+ },
+ {
+  "n": 88,
+  "block": "B08",
+  "text": "Timer: ten minutes.",
+  "scene": "{GUY} sad by a campfire in a cave [TIMER 10 MIN]",
+  "start": 294.812,
+  "end": 297.111
+ },
+ {
+  "n": 89,
+  "block": "B09",
+  "text": "Quick scoreboard.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SCORE\" above him",
+  "start": 297.111,
+  "end": 298.586
+ },
+ {
+  "n": 90,
+  "block": "B09",
+  "text": "The cave: all night. The walk: two hours. Berries: one hour.",
+  "scene": "{SCI} proud at a chalkboard, the word \"ALL NIGHT\" above him",
+  "start": 298.586,
+  "end": 302.892
+ },
+ {
+  "n": 91,
+  "block": "B09",
+  "text": "Fire: forty minutes. The cold: twenty minutes. Dinner: ten minutes.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"20 MIN\" above him",
+  "start": 302.892,
+  "end": 307.73
+ },
+ {
+  "n": 92,
+  "block": "B09",
+  "text": "And now it gets dangerous.",
+  "scene": "{GUY} terrified in the snow, a big question mark",
+  "start": 307.73,
+  "end": 309.867
+ },
+ {
+  "n": 93,
+  "block": "B09",
+  "text": "Another group appears on the hill.",
+  "scene": "{GUY} shocked in the snow, three Neanderthals, an exclamation mark",
+  "start": 309.867,
+  "end": 312.147
+ },
+ {
+  "n": 94,
+  "block": "B09",
+  "text": "You wave and say: \"Hi, nice to meet you!\"",
+  "scene": "{GUY} happy, waving in the snow, the word \"HI\" above him",
+  "start": 312.147,
+  "end": 315.159
+ },
+ {
+  "n": 95,
+  "block": "B09",
+  "text": "Nobody on Earth speaks English yet.",
+  "scene": "{SCI} smug at a chalkboard, the word \"ENGLISH\" above him, a big red X",
+  "start": 315.159,
+  "end": 317.664
+ },
+ {
+  "n": 96,
+  "block": "B09",
+  "text": "Not even close. Writing won't be invented for another thirty-five thousand years.",
+  "scene": "a timeline, a stone tablet with \"35000\", the word \"WRITING\" above it",
+  "start": 317.664,
+  "end": 323.713
+ },
+ {
+  "n": 97,
+  "block": "B09",
+  "text": "To them, you're a weird, soft stranger making strange sounds.",
+  "scene": "three Neanderthals confused in the snow, a big question mark",
+  "start": 323.713,
+  "end": 328.176
+ },
+ {
+  "n": 98,
+  "block": "B09",
+  "text": "Oog steps in, talks, and shares some meat.",
+  "scene": "{CAVE} smiling next to a Neanderthal smiling in the snow, hearts",
+  "start": 328.176,
+  "end": 331.239
+ },
+ {
+  "n": 99,
+  "block": "B09",
+  "text": "Sharing food was one of the oldest ways to say: we come in peace.",
+  "scene": "{CAVE} happy and a Neanderthal happy by a campfire in the snow, the word \"PEACE\" above them",
+  "start": 331.239,
+  "end": 336.062
+ },
+ {
+  "n": 100,
+  "block": "B09",
+  "text": "Timer: five minutes.",
+  "scene": "{GUY} relieved in the snow [TIMER 5 MIN]",
+  "start": 336.062,
+  "end": 338.43
+ },
+ {
+  "n": 101,
+  "block": "B10",
+  "text": "Next: a mammoth hunt.",
+  "scene": "{GUY} shocked next to a mammoth in the snow, the word \"HUNT\" above him",
+  "start": 338.43,
+  "end": 340.214
+ },
+ {
+  "n": 102,
+  "block": "B10",
+  "text": "A big woolly mammoth could weigh about six tonnes.",
+  "scene": "a mammoth in the snow, a stone tablet with \"6\", the word \"TONNES\" above it",
+  "start": 340.214,
+  "end": 343.517
+ },
+ {
+  "n": 103,
+  "block": "B10",
+  "text": "Hunters worked as a team, used the land, and picked their moment.",
+  "scene": "{CAVE} thinking, holding a spear, in the snow, the word \"TEAM\" above him",
+  "start": 343.517,
+  "end": 347.904
+ },
+ {
+  "n": 104,
+  "block": "B10",
+  "text": "You pick your moment too.",
+  "scene": "{GUY} proud, holding a spear, in the snow, sparkles",
+  "start": 347.904,
+  "end": 349.806
+ },
+ {
+  "n": 105,
+  "block": "B10",
+  "text": "The wrong one.",
+  "scene": "{GUY} terrified next to a mammoth in the snow, an exclamation mark",
+  "start": 349.806,
+  "end": 351.15
+ },
+ {
+  "n": 106,
+  "block": "B10",
+  "text": "You shout a battle cry you learned from a movie.",
+  "scene": "{GUY} angry, shouting, holding a spear, in the snow, the word \"CHARGE\" above him",
+  "start": 351.15,
+  "end": 354.393
+ },
+ {
+  "n": 107,
+  "block": "B10",
+  "text": "The mammoth turns around.",
+  "scene": "a mammoth angry in the snow, {GUY} terrified",
+  "start": 354.393,
+  "end": 356.324
+ },
+ {
+  "n": 108,
+  "block": "B10",
+  "text": "You run. Oog runs faster.",
+  "scene": "{CAVE} smug and {GUY} terrified in the snow, the word \"RUN\" above them",
+  "start": 356.324,
+  "end": 358.536
+ },
+ {
+  "n": 109,
+  "block": "B10",
+  "text": "Timer: two minutes.",
+  "scene": "{GUY} sad in the snow, a mammoth [TIMER 2 MIN]",
+  "start": 358.536,
+  "end": 360.741
+ },
+ {
+  "n": 110,
+  "block": "B11",
+  "text": "And finally, the shortest one.",
+  "scene": "{GUY} confused in the snow, a big question mark",
+  "start": 360.741,
+  "end": 363.036
+ },
+ {
+  "n": 111,
+  "block": "B11",
+  "text": "You go to the stream alone, to get water.",
+  "scene": "{GUY} happy in the snow, the word \"WATER\" above him",
+  "start": 363.036,
+  "end": 365.797
+ },
+ {
+  "n": 112,
+  "block": "B11",
+  "text": "Something moves in the grass.",
+  "scene": "{GUY} shocked in the snow, an exclamation mark",
+  "start": 365.797,
+  "end": 367.848
+ },
+ {
+  "n": 113,
+  "block": "B11",
+  "text": "A cave lion. Bigger than today's lions.",
+  "scene": "{GUY} terrified, a lion angry in the snow, the word \"BIGGER\" above him",
+  "start": 367.848,
+  "end": 371.082
+ },
+ {
+  "n": 114,
+  "block": "B11",
+  "text": "Your instinct says: run.",
+  "scene": "{GUY} terrified in the snow, the word \"RUN\" above him",
+  "start": 371.082,
+  "end": 373.273
+ },
+ {
+  "n": 115,
+  "block": "B11",
+  "text": "Bad idea.",
+  "scene": "{SCI} shocked at a chalkboard, the word \"BAD IDEA\" above him",
+  "start": 373.273,
+  "end": 374.603
+ },
+ {
+  "n": 116,
+  "block": "B11",
+  "text": "Running away can make a predator chase you.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"CHASE\" above him",
+  "start": 374.603,
+  "end": 377.368
+ },
+ {
+  "n": 117,
+  "block": "B11",
+  "text": "Usain Bolt's top speed was about forty-four kilometers an hour.",
+  "scene": "{GUY} happy, arms in the air, on a savanna, the word \"44 KMH\" above him",
+  "start": 377.368,
+  "end": 382.289
+ },
+ {
+  "n": 118,
+  "block": "B11",
+  "text": "A charging lion can hit around eighty.",
+  "scene": "a lion angry on a savanna, the word \"80 KMH\" above it",
+  "start": 382.289,
+  "end": 385.063
+ },
+ {
+  "n": 119,
+  "block": "B11",
+  "text": "And you are not Usain Bolt.",
+  "scene": "{GUY} sad on a couch in a living room, the word \"NOT BOLT\" above him",
+  "start": 385.063,
+  "end": 387.318
+ },
+ {
+  "n": 120,
+  "block": "B11",
+  "text": "Timer: four seconds.",
+  "scene": "{GUY} terrified, a lion angry in the snow [TIMER 4 SEC]",
+  "start": 387.318,
+  "end": 389.671
+ },
+ {
+  "n": 121,
+  "block": "B12",
+  "text": "So that's it. Four seconds. Game over?",
+  "scene": "{GUY} sad in the snow, a big question mark",
+  "start": 389.671,
+  "end": 392.561
+ },
+ {
+  "n": 122,
+  "block": "B12",
+  "text": "Not quite. Because you're not alone.",
+  "scene": "{CAVE} proud, holding a spear, next to {GUY} terrified, a lion angry in the snow",
+  "start": 392.561,
+  "end": 394.964
+ },
+ {
+  "n": 123,
+  "block": "B12",
+  "text": "Oog's whole group shows up shouting, with spears and fire.",
+  "scene": "{CAVE} angry, holding a torch, and a Neanderthal angry in the snow, a lion scared",
+  "start": 394.964,
+  "end": 399.001
+ },
+ {
+  "n": 124,
+  "block": "B12",
+  "text": "The lion decides you're not worth it.",
+  "scene": "a lion scared in the snow, the word \"NOPE\" above it",
+  "start": 399.001,
+  "end": 401.52
+ },
+ {
+  "n": 125,
+  "block": "B12",
+  "text": "And here's the real twist.",
+  "scene": "{SCI} thinking in a lab, a light bulb above him",
+  "start": 401.52,
+  "end": 403.524
+ },
+ {
+  "n": 126,
+  "block": "B12",
+  "text": "Let's look at a real Neanderthal skeleton from Shanidar Cave in Iraq.",
+  "scene": "{SCI} thinking at a microscope in a lab, the word \"SHANIDAR\" above him",
+  "start": 403.524,
+  "end": 408.917
+ },
+ {
+  "n": 127,
+  "block": "B12",
+  "text": "Scientists call him Shanidar 1.",
+  "scene": "{SCI} pointing at a chalkboard, the word \"SHANIDAR 1\" above him",
+  "start": 408.917,
+  "end": 411.487
+ },
+ {
+  "n": 128,
+  "block": "B12",
+  "text": "He had a crushing blow to the face that probably left him blind in one eye.",
+  "scene": "{SCI} sad at a chalkboard, the word \"BLIND\" above him",
+  "start": 411.487,
+  "end": 416.482
+ },
+ {
+  "n": 129,
+  "block": "B12",
+  "text": "His right arm was badly withered. He walked with a limp.",
+  "scene": "a Neanderthal sad in a cave, the word \"INJURED\" above him",
+  "start": 416.482,
+  "end": 420.614
+ },
+ {
+  "n": 130,
+  "block": "B12",
+  "text": "His bones show that those injuries healed,",
+  "scene": "{SCI} shocked at a chalkboard, an exclamation mark",
+  "start": 420.614,
+  "end": 423.592
+ },
+ {
+  "n": 131,
+  "block": "B12",
+  "text": "and he lived for years after them, into his late thirties or forties.",
+  "scene": "a Neanderthal smiling by a campfire in a cave, hearts",
+  "start": 423.592,
+  "end": 428.738
+ },
+ {
+  "n": 132,
+  "block": "B12",
+  "text": "Many researchers think he could hardly have survived that long without help from his group.",
+  "scene": "{SCI} proud at a chalkboard, the word \"HELP\" above him",
+  "start": 428.738,
+  "end": 434.751
+ },
+ {
+  "n": 133,
+  "block": "B12",
+  "text": "Someone shared food with him. Someone helped him move camp. Someone waited for him to catch up.",
+  "scene": "a Neanderthal smiling and another Neanderthal happy in the snow, hearts",
+  "start": 434.751,
+  "end": 441.397
+ },
+ {
+  "n": 134,
+  "block": "B12",
+  "text": "For years.",
+  "scene": "a Neanderthal smiling by a campfire in a cave, hearts, sparkles",
+  "start": 441.397,
+  "end": 442.745
+ },
+ {
+  "n": 135,
+  "block": "B12",
+  "text": "That's what kept people alive back then.",
+  "scene": "{CAVE} smiling, a Neanderthal happy and {WOMAN} smiling by a campfire in a cave, hearts",
+  "start": 442.745,
+  "end": 445.344
+ },
+ {
+  "n": 136,
+  "block": "B12",
+  "text": "Not big muscles. Not sharp spears.",
+  "scene": "{CAVE} smiling, holding a spear, a big red X",
+  "start": 445.344,
+  "end": 448.219
+ },
+ {
+  "n": 137,
+  "block": "B12",
+  "text": "Each other.",
+  "scene": "{CAVE} and {GUY} and {WOMAN} smiling by a campfire in a cave, hearts, sparkles",
+  "start": 448.219,
+  "end": 449.483
+ },
+ {
+  "n": 138,
+  "block": "B12",
+  "text": "So if Oog's group takes you in,",
+  "scene": "{CAVE} happy next to {GUY} smiling by a campfire in a cave, hearts",
+  "start": 449.483,
+  "end": 451.476
+ },
+ {
+  "n": 139,
+  "block": "B12",
+  "text": "your timer says: forever.",
+  "scene": "{GUY} happy by a campfire in a cave, hearts, sparkles [TIMER FOREVER]",
+  "start": 451.476,
+  "end": 454.128
+ },
+ {
+  "n": 140,
+  "block": "B13",
+  "text": "So how long would you really last in Oog's world?",
+  "scene": "{GUY} thinking in a cave, a big question mark",
+  "start": 454.128,
+  "end": 457.408
+ },
+ {
+  "n": 141,
+  "block": "B13",
+  "text": "Alone? About four seconds.",
+  "scene": "{GUY} terrified, a lion angry in the snow [TIMER 4 SEC]",
+  "start": 457.408,
+  "end": 459.576
+ },
+ {
+  "n": 142,
+  "block": "B13",
+  "text": "With friends? Long enough to become the best fire maker in the cave.",
+  "scene": "{GUY} proud by a campfire in a cave, sparkles, the word \"FIRE MAKER\" above him",
+  "start": 459.576,
+  "end": 464.222
+ },
+ {
+  "n": 143,
+  "block": "B13",
+  "text": "Which, given those blisters, might take a while.",
+  "scene": "{GUY} sad, hands on his head, in a cave, the word \"BLISTERS\" above him",
+  "start": 464.222,
+  "end": 467.748
+ },
+ {
+  "n": 144,
+  "block": "B13",
+  "text": "Oog will wait. He's very patient. He's had forty thousand years of practice.",
+  "scene": "{CAVE} smug by a campfire in a cave, the word \"PATIENT\" above him",
+  "start": 467.748,
+  "end": 473.393
+ },
+ {
+  "n": 145,
+  "block": "B13",
+  "text": "Tell us in the comments: which part would you fail first?",
+  "scene": "{GUY} thinking in a living room, a question mark",
+  "start": 473.393,
+  "end": 477.123
+ },
+ {
+  "n": 146,
+  "block": "B13",
+  "text": "The berries, the fire, or the lion?",
+  "scene": "{CAVE} smug in a cave, the word \"WHICH ONE\" above him [TIMER ?]",
+  "start": 477.123,
+  "end": 479.506
+ },
+ {
+  "n": 147,
+  "block": "B13",
+  "text": "If you liked this series, subscribe: Oog has a lot more places to visit.",
+  "scene": "{CAVE} happy, arms in the air, in a city street, sparkles, the word \"SUBSCRIBE\" above him",
+  "start": 479.506,
+  "end": 485.469
+ }
+]
