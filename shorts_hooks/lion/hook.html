@@ -1,0 +1,126 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#000;overflow:hidden}#c{display:block}</style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script>
+// Hook for "You Can't Outrun a Cave Lion": 0–1.5 s, lands on the Short's own frame 45.
+const W = 1080, H = 1920, FONT = "bold %px 'DejaVu Sans'";
+const C = document.getElementById('c'), g = C.getContext('2d');
+const load = s => new Promise(r => { const i = new Image(); i.onload = () => r(i); i.src = s; });
+let IMG = {};
+// ---------- math ----------
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x)), lerp = (a, b, u) => a + (b - a) * u, prog = (t, a, b) => clamp((t - a) / (b - a));
+const eio = u => u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2, eo = u => 1 - Math.pow(1 - u, 3), eo5 = u => 1 - Math.pow(1 - u, 5);
+const back = (u, c1 = 1.70158) => { const c3 = c1 + 1; return 1 + c3 * Math.pow(u - 1, 3) + c1 * Math.pow(u - 1, 2) };
+const wob = (dt, f, d) => dt <= 0 ? 0 : Math.exp(-d * dt) * Math.sin(2 * Math.PI * f * dt);
+function rnd(s) { return () => { s |= 0; s = s + 0x6D2B79F5 | 0; let t = Math.imul(s ^ s >>> 15, 1 | s); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296 } }
+// ---------- camera: centre (cx,cy) in frame space, zoom, roll ----------
+const K = [ // t, cx, cy, zoom, rot(deg)
+  [0.00, 150, 735, 2.10, -8],
+  [0.22, 328, 702, 2.30, -6],
+  [0.48, 348, 708, 2.44, -5],
+  [0.62, 676, 1000, 2.30, 4],
+  [0.95, 690, 1012, 2.52, 3],
+  [1.38, 540, 960, 1.00, 0]];
+const kb = t => 1 + 0.0315 * t;      // the Short's own slow Ken Burns zoom (measured on frames 0/30/44/58)
+const EASE = [eo5, t => t, eio, t => t, eio];
+function cam(t) {
+  if (t >= 1.38) return { cx: 540, cy: 960, z: kb(t), r: 0 };
+  let i = 0; while (i < K.length - 2 && t > K[i + 1][0]) i++;
+  const a = K[i], b = i === 4 ? [1.38, 540, 960, kb(1.38), 0] : K[i + 1], u = EASE[i](prog(t, a[0], b[0]));
+  const c = { cx: lerp(a[1], b[1], u), cy: lerp(a[2], b[2], u), z: lerp(a[3], b[3], u), r: lerp(a[4], b[4], u) * Math.PI / 180 };
+  if (i === 4) { const v = eio(prog(t, .95, 1.38)); c.z = Math.exp(lerp(Math.log(a[3]), Math.log(b[3]), v)); } // even-feeling zoom
+  // lion roar shake 0.64–0.9, slam shake at 1.35
+  const sh = 9 * wob(t - .64, 11, 7) + 0 * wob(t - 1.35, 14, 14);
+  c.cx += sh / c.z; c.cy += sh * .6 / c.z;
+  return c;
+}
+let T = 0;
+function apply(c, depth) {           // depth < 1 moves less (background), > 1 more (foreground snow)
+  depth = lerp(depth, 1, eio(prog(T, 1.1, 1.38)));   // layers converge so the end frame matches the Short exactly
+  const cx = 540 + (c.cx - 540) * depth, cy = 960 + (c.cy - 960) * depth, z = 1 + (c.z - 1) * depth;
+  g.setTransform(1, 0, 0, 1, 0, 0); g.translate(540, 960); g.rotate(c.r * Math.min(1, depth)); g.scale(z, z); g.translate(-cx, -cy);
+}
+// ---------- snow ----------
+const R = rnd(11), FLAKES = [];
+for (let i = 0; i < 70; i++) { const fg = i < 22; FLAKES.push({ x: R() * 1400 - 160, y: R() * 2200 - 140, r: fg ? 7 + R() * 16 : 3 + R() * 5, d: fg ? 1.45 + R() * .6 : 1.08 + R() * .2, v: fg ? 260 + R() * 160 : 90 + R() * 60, ph: R() * 6 }); }
+function snow(c, t, alpha) {
+  if (alpha <= 0) return;
+  for (const f of FLAKES) {
+    apply(c, f.d); const y = ((f.y + f.v * t) % 2200) - 140, x = f.x + Math.sin(t * 2 + f.ph) * 20;
+    g.globalAlpha = alpha * (f.d > 1.4 ? .75 : .9);
+    g.filter = f.d > 1.4 ? `blur(${(f.d - 1.2) * 9}px)` : 'none';
+    g.fillStyle = '#fff'; g.beginPath(); g.arc(x, y, f.r, 0, 7); g.fill();
+  }
+  g.filter = 'none'; g.globalAlpha = 1;
+}
+// ---------- text in the channel's style ----------
+function word(s, x, y, size, fill, stroke, opt = {}) {
+  g.save(); g.translate(x, y); if (opt.rot) g.rotate(opt.rot); if (opt.s) g.scale(opt.s, opt.s);
+  g.globalAlpha = opt.a ?? 1; g.font = FONT.replace('%', size); g.textAlign = 'center'; g.textBaseline = 'alphabetic';
+  g.lineJoin = 'round'; g.miterLimit = 2;
+  if (opt.shadow) { g.fillStyle = 'rgba(0,0,0,.5)'; g.lineWidth = stroke * 2; g.strokeStyle = 'rgba(0,0,0,.5)'; g.strokeText(s, opt.shadow, opt.shadow); }
+  g.lineWidth = stroke * 2; g.strokeStyle = '#000'; g.strokeText(s, 0, 0); g.fillStyle = fill; g.fillText(s, 0, 0);
+  g.restore();
+}
+const YEL = 'rgb(255,235,59)';
+// title as in the Short: two centred lines, cap tops at y=205 and 293
+const TITLE = [["YOU", "CAN'T"], ["OUTRUN", "IT"]], TS = 74, TB = [259, 347];
+function title(t) {
+  g.setTransform(1, 0, 0, 1, 0, 0); g.font = FONT.replace('%', TS);
+  let k = 0;
+  TITLE.forEach((ln, li) => {
+    const full = ln.join(' '), wFull = g.measureText(full).width; let x = 540 - wFull / 2;
+    ln.forEach((w, wi) => {
+      const ww = g.measureText(w).width, a = prog(t, .98 + k * .07, 1.2 + k * .07);
+      if (a > 0) word(w, x + ww / 2, TB[li] - (1 - back(a, 2.2)) * 70, TS, YEL, 10, { a: eo(a) * 1, s: lerp(1.5, 1, eo5(a)), shadow: 4 });
+      x += ww + g.measureText(' ').width; k++;
+    });
+  });
+}
+// ---------- timer badge (cropped from the Short) with a spinning hand ----------
+const BX = 548, BY = 355;            // crop origin of timer_badge.png (404 x 120)
+function timer(t) {
+  const a = prog(t, 1.02, 1.35); if (a <= 0) return;
+  const s = lerp(2.4, 1, eo5(a)) + .06 * wob(t - 1.35, 6, 9), rot = (1 - eo5(a)) * 0.6;
+  const fx = lerp(980, BX + 202, eo5(a)), fy = lerp(640, BY + 60, eo5(a));   // flies in from the upper right, clear of the lion's face
+  g.setTransform(1, 0, 0, 1, 0, 0); g.translate(fx, fy); g.rotate(rot); g.scale(s, s);
+  g.globalAlpha = clamp(a * 4); g.filter = `blur(${(1 - eo(a)) * 6}px)`;
+  g.save(); g.beginPath(); g.roundRect(-202 + 5, -60 + 5, 394, 110, 40); g.clip(); g.drawImage(IMG.badge, -202, -60); g.restore();
+  // clock face (centre measured on the crop) with a fast hand that stops at the end
+  const ccx = -202 + 74, ccy = -60 + 59, hand = (1 - eo5(prog(t, 1.02, 1.36))) * 14 * Math.PI;
+  if (hand > 0.01) {
+    g.fillStyle = '#fff'; g.beginPath(); g.arc(ccx, ccy, 34, 0, 7); g.fill();
+    g.strokeStyle = '#222'; g.lineWidth = 6; g.lineCap = 'round';
+    g.beginPath(); g.moveTo(ccx, ccy); g.lineTo(ccx + Math.sin(hand) * 26, ccy - Math.cos(hand) * 26); g.stroke();
+  }
+  g.filter = 'none'; g.globalAlpha = 1;
+}
+// ---------- render ----------
+window.renderAt = function (t) {
+  T = t; const c = cam(t);
+  g.setTransform(1, 0, 0, 1, 0, 0); g.fillStyle = '#b0c4de'; g.fillRect(0, 0, W, H);
+  // background plate (parallax 0.65), mid snow, characters, foreground snow
+  apply(c, .65); { const ov = 1 + .15 * clamp((c.z - 1.1) / .5); g.drawImage(IMG.bg, 540 - 540 * ov, 960 - 960 * ov, W * ov, H * ov); }
+  const fin = prog(t, 1.25, 1.4);                 // extra snow fades before the hand-off
+  snow({ ...c }, t, 1 - fin);
+  apply(c, 1);
+  g.drawImage(IMG.guy, 0, 0, W, H);
+  // lion: crouch-and-roar pulse around its body centre
+  const roar = .07 * wob(t - .62, 2.6, 4.5), lx = 628, ly = 1340;
+  g.save(); g.translate(lx, ly); g.scale(1 + roar, 1 - roar * .6); g.translate(-lx, -ly); g.drawImage(IMG.lion, 0, 0, W, H); g.restore();
+  // big kinetic words
+  g.setTransform(1, 0, 0, 1, 0, 0);
+  const ya = prog(t, .03, .2), yo = prog(t, .44, .56);
+  if (ya > 0 && yo < 1) word('YOU', 540 - eio(yo) * 900, 520, 300, YEL, 16, { s: lerp(1.7, 1, eo5(ya)) + t * .08, rot: -.12, a: clamp(ya * 3), shadow: 8 });
+  const va = prog(t, .47, .56), vo = prog(t, .66, .78);
+  if (va > 0 && vo < 1) word('VS', 540, 1150, 340, '#e53935', 18, { s: lerp(2.6, 1, eo5(va)) * (1 - .2 * eio(vo)), rot: .08, a: clamp(va * 3) * (1 - eo(vo)), shadow: 10 });
+  // word-by-word captions like the Short (sound-off viewers)
+  const cap = t < .58 ? "YOU CAN'T" : t < 1.19 ? 'OUTRUN A' : 'CAVE LION.';
+  word(cap, cap === 'CAVE LION.' ? 513 : 546, 1496, 74, '#fff', 9, { shadow: 3 });
+  title(t); timer(t);
+  // hand-off to the Short's real frames is a 3-frame crossfade done in ffmpeg (1.40–1.50 s)
+};
+window.__ready = Promise.all([load('assets/bg_shadows.png'), load('assets/guy.png'), load('assets/lion.png'), load('assets/timer_badge.png'), document.fonts.load("bold 80px 'DejaVu Sans'")])
+  .then(([bg, guy, lion, badge]) => { IMG = { bg, guy, lion, badge }; renderAt(0); return true; });
+</script></body></html>
