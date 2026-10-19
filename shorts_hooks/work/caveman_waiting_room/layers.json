@@ -20,13 +20,13 @@
   437.5,
   43.4
  ],
- "rebuild_err": 3.145367476851852,
+ "rebuild_err": 0.0,
  "first_cut": 2.93333,
  "kb": {
   "s0": 1.0,
   "rate_per_s": 0.0195,
-  "err0": 13.91,
-  "err40": 14.47
+  "err0": 10.64,
+  "err40": 11.17
  },
  "title_lines": [
   [
@@ -41,5 +41,10 @@
    903,
    364
   ]
- ]
+ ],
+ "color_fit": {
+  "before": 14.86,
+  "after": 4.55,
+  "applied": true
+ }
 }

@@ -32,6 +32,8 @@ TMP = tempfile.mkdtemp()
 if hasattr(pf, 'save_frame'): pf.save_frame = lambda img, o: img.save(o)
 SRC = inspect.getsource(pf.render)
 POST_MUTE, POST_LIGHT = 'mute_image(img)' in SRC, 'light_pass(img)' in SRC
+if os.environ.get('HOOK_OLD_LOOK'):            # Short rendered before contact shadows and the light pass existed
+    pf.shadows = lambda *a, **k: None; pf.light_pass = lambda *a, **k: None; POST_LIGHT = False
 orig_setting, orig_human, orig_cat = pf.scene_setting, pf.human, pf.cat
 orig_timer = modern.timer if modern else None
 heads, trect = [], {}
@@ -45,7 +47,12 @@ def rec(fn):
 def run(fill=None, timer=True):
     heads.clear()
     pf.human, pf.cat = rec(orig_human), rec(orig_cat)
-    pf.scene_setting = (lambda low, ctx, c=fill: (lambda p: p.rect((-10, -10, pf.W + 10, pf.H + 10), c, 0))) if fill else orig_setting
+    def solid(low, ctx, c=fill):
+        real = orig_setting(low, ctx)
+        def paint(p):
+            real(pf.P(Image.new('RGB', p.img.size), p.r)); p.rect((-10, -10, pf.W + 10, pf.H + 10), c, 0)
+        return paint
+    pf.scene_setting = solid if fill else orig_setting
     if modern and orig_timer:
         def tm(p, label):
             r = orig_timer(p, label); trect["r"] = [float(v) for v in r]; return r
@@ -132,5 +139,20 @@ for k, (r0, r1) in enumerate(lines):
     rgba = np.dstack([F0[band][y0:y1, x0:x1], al[y0:y1, x0:x1]]).astype(np.uint8)
     Image.fromarray(rgba, "RGBA").save(os.path.join(out, f"title_{k}.png"))
     info["title_lines"].append([int(x0), int(y0 + 120), int(x1), int(y1 + 120)])
+# colour: fit an affine RGB map from our rebuilt frame to the Short's real frame 0 (older Shorts used a more muted look)
+s0 = info["kb"]["s0"]; A_ = 2 / s0
+mine = np.asarray(comp.convert("RGB").transform((1080, 1920), Image.AFFINE, (A_, 0, 2 * (540 - 540 / s0), 0, A_, 2 * (960 - 960 / s0)), resample=Image.BILINEAR)).astype(float)
+keep = np.ones((1920, 1080), bool); keep[:400] = False; keep[1370:1590] = False
+if "badge" in info: x0, y0, x1, y1 = [int(v) for v in info["badge"]]; keep[y0:y1, x0:x1] = False
+X = np.c_[mine[keep], np.ones(keep.sum())]; Y = F0[keep].astype(float)
+Mfit = np.linalg.lstsq(X[::7], Y[::7], rcond=None)[0]
+before, after = np.abs(X[:, :3] - Y).mean(), np.abs(X @ Mfit - Y).mean()
+info["color_fit"] = {"before": round(float(before), 2), "after": round(float(after), 2)}
+if after < before * 0.8:
+    def recolor(path):
+        im = np.asarray(Image.open(path)).astype(float); rgb = im[..., :3].reshape(-1, 3)
+        im[..., :3] = np.clip(np.c_[rgb, np.ones(len(rgb))] @ Mfit, 0, 255).reshape(im.shape[:2] + (3,))
+        Image.fromarray(im.astype(np.uint8), "RGBA" if im.shape[2] == 4 else "RGB").save(path)
+    recolor(os.path.join(out, "far.png")); recolor(os.path.join(out, "fg.png")); info["color_fit"]["applied"] = True
 json.dump(info, open(os.path.join(out, "layers.json"), "w"), indent=1)
-print(json.dumps({k: info[k] for k in ("heads", "badge", "first_cut", "kb", "rebuild_err", "title_lines") if k in info}))
+print(json.dumps({k: info[k] for k in ("heads", "badge", "first_cut", "kb", "rebuild_err", "title_lines", "color_fit") if k in info}))
