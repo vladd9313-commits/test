@@ -50,7 +50,7 @@
    ],
    "zoom": 1.8,
    "word": "FRIENDLY GOAT",
-   "wordY": 1450
+   "wordY": 700
   },
   "B": {
    "focus": [
@@ -125,7 +125,7 @@
    ],
    "zoom": 2.0,
    "word": "A DOG",
-   "wordY": 560
+   "wordY": 1300
   },
   "moteColor": "#fffbe6"
  },
@@ -146,7 +146,7 @@
    ],
    "zoom": 1.8,
    "word": "ALL ASLEEP",
-   "wordY": 1250
+   "wordY": 1650
   },
   "moteColor": "#fff6dc"
  },
