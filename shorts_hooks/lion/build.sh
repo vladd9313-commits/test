@@ -12,8 +12,8 @@ ffmpeg -v error -y -framerate 240 -i "$W/sub/s%05d.png" \
 # SFX are ducked under the original voice and the mix is peak-limited.
 ffmpeg -v error -y -i "$S/you_vs_lion.mp4" -i "$W/hook_only.mp4" -i "$W/sfx.wav" -filter_complex \
 "[0:v]format=yuv420p[a];[1:v]format=yuv420p[b];[a][b]blend=all_expr='if(lt(N\,42)\,B\,if(lt(N\,45)\,A*(N-42)/3+B*(1-(N-42)/3)\,A))'[v];\
-[0:a]aresample=48000,asplit[voice][sc];[2:a]volume=0.85[fx];[fx][sc]sidechaincompress=threshold=0.05:ratio=3:attack=5:release=150[fxd];\
-[voice][fxd]amix=inputs=2:normalize=0:duration=first,alimiter=limit=0.89:level=false[aout]" \
+[0:a]aresample=48000,asplit[voice][sc];[2:a]volume=0.5[fx];[fx][sc]sidechaincompress=threshold=0.05:ratio=3:attack=5:release=150[fxd];\
+[voice][fxd]amix=inputs=2:normalize=0:duration=first,alimiter=limit=0.89:level=false:latency=1[aout]" \
   -map "[v]" -map "[aout]" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p -r 30 \
   -c:a aac -b:a 192k -ar 48000 -movflags +faststart "$S/you_vs_lion_hook.mp4"
 echo done
