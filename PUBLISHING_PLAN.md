@@ -86,6 +86,21 @@
 - Тема про месячные и прошлая очередь отложены.
 - **Проверка.** Через 72 ч после 21.10 сравнить показы и CTR №5 с №2–4. Если показов больше в 10 раз и больше, переводим в новый формат и Shorts.
 - **Пн 26.10, 22:00 МСК:** Shorts `caveman_night_guard`.
-- **Вт 27.10, 19:00 МСК:** видео №7 «How Long Would YOU Last in a Caveman's World?» (`3Lzr8IxyM4c`, обложка A) + 22:00 Shorts `you_vs_lion` (`001_OPSVljI`).
-- **Ср 28.10, 22:00 МСК:** Shorts `you_barefoot` (`vnWmfqDbWe0`).
-- **Чт 29.10, 22:00 МСК:** Shorts `you_shanidar` (`a9yIcBGgj-A`).
+- **Вт 27.10, 19:00 МСК:** видео №7 «How Long Would YOU Last in a Caveman's World?» (`3Lzr8IxyM4c`, обложка A) + 22:00 Shorts `you_vs_lion` (`QdjO75xjOio`).
+- **Ср 28.10, 22:00 МСК:** Shorts `you_barefoot` (`eGPJHECxWvs`).
+- **Чт 29.10, 22:00 МСК:** Shorts `you_shanidar` (`TEvDh-IrAYU`).
+
+## Motion-хуки на Shorts (19.10)
+Все Shorts с 19.10 по 29.10 заменены версиями с анимированным началом (1.5 с, `shorts_hooks/`): то же название, описание, теги и время выхода, новые ID.
+Старые ID удалены. «Related video» нужно заново выставить в Studio на новых Shorts.
+- 2026-10-19T19:00:00Z: `D2-iM_Fz-68` (было `rlMA1-M2MUM`)
+- 2026-10-27T19:00:00Z: `QdjO75xjOio` (было `001_OPSVljI`)
+- 2026-10-20T19:00:00Z: `LuLQ129NsQg` (было `_Ss0KRWwFss`)
+- 2026-10-21T19:00:00Z: `kZAZNobqyW0` (было `2az0NQrva-8`)
+- 2026-10-22T19:00:00Z: `ysSdpSacDA8` (было `s_4xKls0knA`)
+- 2026-10-23T19:00:00Z: `JFCxh4r1BkU` (было `hlLmMva9DJM`)
+- 2026-10-24T19:00:00Z: `EM3MDQ7gGsk` (было `OsB4FkvHONg`)
+- 2026-10-25T19:00:00Z: `r6DRjh-jZac` (было `qmI6VaZWbEo`)
+- 2026-10-26T19:00:00Z: `gDHRDgOxdGQ` (было `BRp98C97x1o`)
+- 2026-10-28T19:00:00Z: `eGPJHECxWvs` (было `vnWmfqDbWe0`)
+- 2026-10-29T19:00:00Z: `TEvDh-IrAYU` (было `a9yIcBGgj-A`)
