@@ -1,0 +1,39 @@
+{
+ "native_ss": 2,
+ "title": "HE'S NEVER SEEN A DOG",
+ "scene": "{CAVE} confused in a park, a dog happy, a big question mark",
+ "heads": [
+  [
+   343.3333333333333,
+   701.6940000000001,
+   159.39
+  ],
+  [
+   447.4291666666667,
+   921.6775,
+   134.41889999999998
+  ]
+ ],
+ "rebuild_err": 0.005927131558641975,
+ "first_cut": 2.2,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.027,
+  "err0": 5.23,
+  "err40": 5.41
+ },
+ "title_lines": [
+  [
+   280,
+   190,
+   805,
+   276
+  ],
+  [
+   269,
+   278,
+   811,
+   364
+  ]
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "native_ss": 2,
+ "title": "YOUR FEET WOULDN'T SURVIVE",
+ "scene": "{GUY} sad in a forest, the word \"OUCH\" above him",
+ "heads": [
+  [
+   495.0,
+   800.4399000000001,
+   135.48149999999998
+  ]
+ ],
+ "rebuild_err": 0.002759813850308642,
+ "first_cut": 2.33333,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.0255,
+  "err0": 4.96,
+  "err40": 5.29
+ },
+ "title_lines": [
+  [
+   289,
+   190,
+   792,
+   276
+  ],
+  [
+   100,
+   278,
+   979,
+   364
+  ]
+ ]
+}

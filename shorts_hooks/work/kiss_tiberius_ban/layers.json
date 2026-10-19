@@ -1,0 +1,44 @@
+{
+ "native_ss": 1,
+ "title": "AN EMPEROR BANNED KISSING",
+ "scene": "an emperor angry, pointing at a couple kissing between marble columns, the word \"KISSING\" above them, a big red X",
+ "heads": [
+  [
+   267.5,
+   922.0834,
+   106.02900000000001
+  ],
+  [
+   514.502,
+   922.0834,
+   106.02900000000001
+  ],
+  [
+   702.998,
+   922.0834,
+   106.02900000000001
+  ]
+ ],
+ "rebuild_err": 0.08848464023919753,
+ "first_cut": 2.3,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.027,
+  "err0": 18.8,
+  "err40": 20.18
+ },
+ "title_lines": [
+  [
+   244,
+   190,
+   836,
+   276
+  ],
+  [
+   165,
+   278,
+   917,
+   364
+  ]
+ ]
+}

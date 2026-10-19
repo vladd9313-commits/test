@@ -1,0 +1,34 @@
+{
+ "native_ss": 2,
+ "title": "THIS GOAT BROKE HIS BRAIN",
+ "scene": "{CAVE} shocked, hands on his head, a goat at the zoo, an exclamation mark",
+ "heads": [
+  [
+   646.6666666666666,
+   701.6940000000001,
+   159.39
+  ]
+ ],
+ "rebuild_err": 0.005559212641460905,
+ "first_cut": 2.63333,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.024,
+  "err0": 10.58,
+  "err40": 10.85
+ },
+ "title_lines": [
+  [
+   294,
+   190,
+   787,
+   275
+  ],
+  [
+   154,
+   278,
+   927,
+   364
+  ]
+ ]
+}

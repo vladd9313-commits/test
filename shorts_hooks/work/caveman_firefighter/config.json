@@ -1,0 +1,23 @@
+{
+ "A": {
+  "focus": [
+   495,
+   702
+  ],
+  "zoom": 2.0,
+  "word": "FIREFIGHTER",
+  "wordY": 1250
+ },
+ "B": {
+  "focus": [
+   860,
+   900
+  ],
+  "zoom": 1.9,
+  "word": "FIRE!",
+  "wordY": 1300
+ },
+ "timer": true,
+ "moteColor": "#ffb35c",
+ "moteDir": -1
+}

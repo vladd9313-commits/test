@@ -1,0 +1,21 @@
+{
+ "A": {
+  "focus": [
+   608,
+   922
+  ],
+  "zoom": 2.0,
+  "word": "10-SEC KISS",
+  "wordY": 1250
+ },
+ "B": {
+  "focus": [
+   270,
+   1250
+  ],
+  "zoom": 2.2,
+  "word": "BACTERIA",
+  "wordY": 620
+ },
+ "moteColor": "#eaf6ff"
+}

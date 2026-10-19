@@ -1,0 +1,22 @@
+{
+ "A": {
+  "focus": [
+   495,
+   702
+  ],
+  "zoom": 2.0,
+  "word": "DEADLIEST",
+  "wordY": 1250
+ },
+ "B": {
+  "focus": [
+   800,
+   1225
+  ],
+  "zoom": 2.1,
+  "word": "NOT HERE?",
+  "wordY": 640
+ },
+ "timer": true,
+ "moteColor": "#f2f2f2"
+}

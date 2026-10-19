@@ -1,0 +1,34 @@
+{
+ "native_ss": 2,
+ "title": "SAVED BY HIS FRIENDS",
+ "scene": "a Neanderthal smiling by a campfire in a cave, hearts",
+ "heads": [
+  [
+   646.6666666666666,
+   701.6940000000001,
+   159.39
+  ]
+ ],
+ "rebuild_err": 0.002433328510802469,
+ "first_cut": 3.03333,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.0195,
+  "err0": 3.11,
+  "err40": 3.39
+ },
+ "title_lines": [
+  [
+   318,
+   190,
+   769,
+   275
+  ],
+  [
+   260,
+   278,
+   822,
+   363
+  ]
+ ]
+}

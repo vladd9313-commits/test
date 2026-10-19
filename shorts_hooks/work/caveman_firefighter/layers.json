@@ -1,0 +1,39 @@
+{
+ "native_ss": 2,
+ "title": "FIRED IN 3 SECONDS",
+ "scene": "{CAVE} angry, holding a spear, next to a burning building, an exclamation mark [TIMER 3 SEC]",
+ "heads": [
+  [
+   495.0,
+   701.6940000000001,
+   159.39
+  ]
+ ],
+ "badge": [
+  542.5,
+  377.0,
+  938.0,
+  498.0
+ ],
+ "clock": [
+  619.9203125,
+  437.5,
+  43.4
+ ],
+ "rebuild_err": 0.002448680234053498,
+ "first_cut": 3.13333,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.0195,
+  "err0": 5.23,
+  "err40": 5.71
+ },
+ "title_lines": [
+  [
+   90,
+   187,
+   992,
+   276
+  ]
+ ]
+}

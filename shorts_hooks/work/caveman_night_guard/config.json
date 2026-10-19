@@ -1,0 +1,21 @@
+{
+ "A": {
+  "focus": [
+   495,
+   800
+  ],
+  "zoom": 2.1,
+  "word": "ONLY",
+  "wordY": 1300
+ },
+ "B": {
+  "focus": [
+   560,
+   640
+  ],
+  "zoom": 1.8,
+  "word": "ALL ASLEEP",
+  "wordY": 1250
+ },
+ "moteColor": "#fff6dc"
+}

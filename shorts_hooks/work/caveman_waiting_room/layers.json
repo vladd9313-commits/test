@@ -1,0 +1,45 @@
+{
+ "native_ss": 2,
+ "title": "DEADLIEST PLACE FOR A CAVEMAN",
+ "scene": "{CAVE} terrified on a highway with cars, a big red X [TIMER 4 SEC]",
+ "heads": [
+  [
+   495.0,
+   701.6940000000001,
+   159.39
+  ]
+ ],
+ "badge": [
+  542.5,
+  377.0,
+  938.0,
+  498.0
+ ],
+ "clock": [
+  619.9203125,
+  437.5,
+  43.4
+ ],
+ "rebuild_err": 3.145367476851852,
+ "first_cut": 2.93333,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.0195,
+  "err0": 13.91,
+  "err40": 14.47
+ },
+ "title_lines": [
+  [
+   149,
+   190,
+   934,
+   275
+  ],
+  [
+   178,
+   278,
+   903,
+   364
+  ]
+ ]
+}

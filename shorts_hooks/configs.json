@@ -1,0 +1,196 @@
+{
+ "kiss_80m_bacteria": {
+  "A": {
+   "focus": [
+    608,
+    922
+   ],
+   "zoom": 2.0,
+   "word": "10-SEC KISS",
+   "wordY": 1250
+  },
+  "B": {
+   "focus": [
+    270,
+    1250
+   ],
+   "zoom": 2.2,
+   "word": "BACTERIA",
+   "wordY": 620
+  },
+  "moteColor": "#eaf6ff"
+ },
+ "caveman_highway": {
+  "A": {
+   "focus": [
+    495,
+    702
+   ],
+   "zoom": 2.0,
+   "word": "CAVEMAN",
+   "wordY": 1250
+  },
+  "B": {
+   "focus": [
+    800,
+    1225
+   ],
+   "zoom": 2.1,
+   "word": "HIGHWAY",
+   "wordY": 640
+  },
+  "timer": true,
+  "moteColor": "#f2f2f2"
+ },
+ "caveman_goat": {
+  "A": {
+   "focus": [
+    330,
+    1100
+   ],
+   "zoom": 1.8,
+   "word": "FRIENDLY GOAT",
+   "wordY": 1450
+  },
+  "B": {
+   "focus": [
+    647,
+    702
+   ],
+   "zoom": 2.0,
+   "word": "BRAIN ERROR",
+   "wordY": 1250
+  },
+  "moteColor": "#fffbe6"
+ },
+ "caveman_waiting_room": {
+  "A": {
+   "focus": [
+    495,
+    702
+   ],
+   "zoom": 2.0,
+   "word": "DEADLIEST",
+   "wordY": 1250
+  },
+  "B": {
+   "focus": [
+    800,
+    1225
+   ],
+   "zoom": 2.1,
+   "word": "NOT HERE?",
+   "wordY": 640
+  },
+  "timer": true,
+  "moteColor": "#f2f2f2"
+ },
+ "caveman_firefighter": {
+  "A": {
+   "focus": [
+    495,
+    702
+   ],
+   "zoom": 2.0,
+   "word": "FIREFIGHTER",
+   "wordY": 1250
+  },
+  "B": {
+   "focus": [
+    860,
+    900
+   ],
+   "zoom": 1.9,
+   "word": "FIRE!",
+   "wordY": 1300
+  },
+  "timer": true,
+  "moteColor": "#ffb35c",
+  "moteDir": -1
+ },
+ "caveman_dogs": {
+  "A": {
+   "focus": [
+    343,
+    702
+   ],
+   "zoom": 2.0,
+   "word": "NEVER SEEN",
+   "wordY": 1250
+  },
+  "B": {
+   "focus": [
+    470,
+    960
+   ],
+   "zoom": 2.0,
+   "word": "A DOG",
+   "wordY": 560
+  },
+  "moteColor": "#fffbe6"
+ },
+ "caveman_night_guard": {
+  "A": {
+   "focus": [
+    495,
+    800
+   ],
+   "zoom": 2.1,
+   "word": "ONLY",
+   "wordY": 1300
+  },
+  "B": {
+   "focus": [
+    560,
+    640
+   ],
+   "zoom": 1.8,
+   "word": "ALL ASLEEP",
+   "wordY": 1250
+  },
+  "moteColor": "#fff6dc"
+ },
+ "you_barefoot": {
+  "A": {
+   "focus": [
+    495,
+    800
+   ],
+   "zoom": 2.1,
+   "word": "YOUR FEET",
+   "wordY": 1300
+  },
+  "B": {
+   "focus": [
+    495,
+    1250
+   ],
+   "zoom": 2.0,
+   "word": "STONE AGE",
+   "wordY": 620
+  },
+  "moteColor": "#fffbe6"
+ },
+ "you_shanidar": {
+  "A": {
+   "focus": [
+    647,
+    702
+   ],
+   "zoom": 2.0,
+   "word": "SURVIVED",
+   "wordY": 1250
+  },
+  "B": {
+   "focus": [
+    330,
+    1220
+   ],
+   "zoom": 2.0,
+   "word": "HOW?",
+   "wordY": 620
+  },
+  "moteColor": "#ffb35c",
+  "moteDir": -1
+ }
+}

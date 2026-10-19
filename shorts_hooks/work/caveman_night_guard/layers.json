@@ -1,0 +1,28 @@
+{
+ "native_ss": 2,
+ "title": "18 MINUTES OF SLEEP",
+ "scene": "{SCI} shocked at a chalkboard, the word \"18 MIN\" above him, an exclamation mark",
+ "heads": [
+  [
+   495.0,
+   800.4399000000001,
+   135.48149999999998
+  ]
+ ],
+ "rebuild_err": 0.0024086532278806585,
+ "first_cut": 2.8,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.0195,
+  "err0": 5.18,
+  "err40": 5.7
+ },
+ "title_lines": [
+  [
+   60,
+   190,
+   1027,
+   276
+  ]
+ ]
+}

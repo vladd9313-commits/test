@@ -1,0 +1,21 @@
+{
+ "A": {
+  "focus": [
+   495,
+   800
+  ],
+  "zoom": 2.1,
+  "word": "YOUR FEET",
+  "wordY": 1300
+ },
+ "B": {
+  "focus": [
+   495,
+   1250
+  ],
+  "zoom": 2.0,
+  "word": "STONE AGE",
+  "wordY": 620
+ },
+ "moteColor": "#fffbe6"
+}

@@ -1,0 +1,45 @@
+{
+ "native_ss": 2,
+ "title": "HE LASTED 4 SECONDS",
+ "scene": "{CAVE} terrified on a highway with cars, an exclamation mark [TIMER 4 SEC]",
+ "heads": [
+  [
+   495.0,
+   701.6940000000001,
+   159.39
+  ]
+ ],
+ "badge": [
+  542.5,
+  377.0,
+  938.0,
+  498.0
+ ],
+ "clock": [
+  619.9203125,
+  437.5,
+  43.4
+ ],
+ "rebuild_err": 0.0027289898405349795,
+ "first_cut": 3.03333,
+ "kb": {
+  "s0": 1.0,
+  "rate_per_s": 0.0195,
+  "err0": 9.3,
+  "err40": 9.53
+ },
+ "title_lines": [
+  [
+   297,
+   190,
+   787,
+   276
+  ],
+  [
+   286,
+   278,
+   794,
+   364
+  ]
+ ]
+}

@@ -1,0 +1,128 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#000;overflow:hidden}#c{display:block}</style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script>
+// Generic 1.5 s hook for a channel Short. Layers and config come from work/<short>/ (see build_layers.py, configs.json):
+//   A 0.00–0.48  rush in on focus A + big word A      B 0.48–0.95  whip-pan to focus B + word B
+//   C 0.95–1.38  pull back into the Short's own framing (its Ken Burns zoom), title lines drop, timer badge flies in.
+// The hand-off (crossfade into the real frames) and the live captions are composited afterwards in compose.py.
+const W = 1080, H = 1920, FONT = "bold %px 'DejaVu Sans'";
+const C = document.getElementById('c'), g = C.getContext('2d', { willReadFrequently: true });
+const DIR = new URLSearchParams(location.search).get('dir');
+const load = s => new Promise((r, e) => { const i = new Image(); i.onload = () => r(i); i.onerror = () => r(null); i.src = s; });
+let IMG = {}, CFG = {}, L = {};
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x)), lerp = (a, b, u) => a + (b - a) * u, prog = (t, a, b) => clamp((t - a) / (b - a));
+const eio = u => u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2, eo = u => 1 - Math.pow(1 - u, 3), eo5 = u => 1 - Math.pow(1 - u, 5);
+const back = (u, c1 = 1.70158) => { const c3 = c1 + 1; return 1 + c3 * Math.pow(u - 1, 3) + c1 * Math.pow(u - 1, 2) };
+const wob = (dt, f, d) => dt <= 0 ? 0 : Math.exp(-d * dt) * Math.sin(2 * Math.PI * f * dt);
+function rnd(s) { return () => { s |= 0; s = s + 0x6D2B79F5 | 0; let t = Math.imul(s ^ s >>> 15, 1 | s); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296 } }
+const kb = t => CFG.kb.s0 + CFG.kb.rate_per_s * t;   // the Short's own slow zoom, measured on its frames
+let K;
+function setup() {
+  const A = CFG.A, B = CFG.B, za = A.zoom || 2.2, zb = B.zoom || 2.3, dx = Math.sign(B.focus[0] - A.focus[0]) || 1;
+  K = [[0.00, A.focus[0] - dx * 190, A.focus[1] + 30, za * .9, -8 * dx],
+       [0.22, A.focus[0] - dx * 8, A.focus[1] - 6, za, -6 * dx],
+       [0.48, A.focus[0] + dx * 10, A.focus[1], za * 1.06, -5 * dx],
+       [0.62, B.focus[0] - dx * 8, B.focus[1] - 8, zb, 4 * dx],
+       [0.95, B.focus[0] + dx * 8, B.focus[1] + 4, zb * 1.08, 3 * dx]];
+}
+const EASE = [eo5, t => t, eio, t => t];
+function cam(t) {
+  if (t >= 1.38) return { cx: 540, cy: 960, z: kb(t), r: 0 };
+  if (t >= .95) {                      // pull back, log-zoom so it feels even
+    const a = K[4], v = eio(prog(t, .95, 1.38));
+    return { cx: lerp(a[1], 540, v), cy: lerp(a[2], 960, v), z: Math.exp(lerp(Math.log(a[3]), Math.log(kb(1.38)), v)), r: lerp(a[4], 0, v) * Math.PI / 180 };
+  }
+  let i = 0; while (i < 3 && t > K[i + 1][0]) i++;
+  const a = K[i], b = K[i + 1], u = EASE[i](prog(t, a[0], b[0]));
+  const c = { cx: lerp(a[1], b[1], u), cy: lerp(a[2], b[2], u), z: lerp(a[3], b[3], u), r: lerp(a[4], b[4], u) * Math.PI / 180 };
+  const sh = 8 * wob(t - .62, 11, 7); c.cx += sh / c.z; c.cy += sh * .6 / c.z;   // impact shake after the whip
+  return c;
+}
+let T = 0;
+function apply(c, depth) {
+  depth = lerp(depth, 1, eio(prog(T, 1.1, 1.38)));
+  const cx = 540 + (c.cx - 540) * depth, cy = 960 + (c.cy - 960) * depth, z = 1 + (c.z - 1) * depth;
+  g.setTransform(1, 0, 0, 1, 0, 0); g.translate(540, 960); g.rotate(c.r * Math.min(1, depth)); g.scale(z, z); g.translate(-cx, -cy);
+}
+const R = rnd(11), MOTES = [];
+for (let i = 0; i < 40; i++) { const fg = i < 14; MOTES.push({ x: R() * 1400 - 160, y: R() * 2200 - 140, r: fg ? 6 + R() * 12 : 3 + R() * 4, d: fg ? 1.45 + R() * .6 : 1.08 + R() * .2, v: fg ? 220 + R() * 140 : 80 + R() * 50, ph: R() * 6 }); }
+function motes(c, t, alpha) {          // floating dust / snow in front of the scene: the depth cue for the camera
+  if (alpha <= 0 || CFG.motes === false) return;
+  for (const f of MOTES) {
+    apply(c, f.d); const y = ((f.y + f.v * t * (CFG.moteDir || 1)) % 2200 + 2200) % 2200 - 140, x = f.x + Math.sin(t * 2 + f.ph) * 20;
+    g.globalAlpha = alpha * (f.d > 1.4 ? .55 : .7); g.filter = f.d > 1.4 ? `blur(${(f.d - 1.2) * 9}px)` : 'none';
+    g.fillStyle = CFG.moteColor || '#fff'; g.beginPath(); g.arc(x, y, f.r, 0, 7); g.fill();
+  }
+  g.filter = 'none'; g.globalAlpha = 1;
+}
+function fitSize(s, size, maxW) { g.font = FONT.replace('%', size); const w = g.measureText(s).width; return w > maxW ? size * maxW / w : size; }
+function word(s, x, y, size, fill, stroke, opt = {}) {
+  g.save(); g.setTransform(1, 0, 0, 1, 0, 0); g.translate(x, y); if (opt.rot) g.rotate(opt.rot); if (opt.s) g.scale(opt.s, opt.s);
+  g.globalAlpha = opt.a ?? 1; g.font = FONT.replace('%', size); g.textAlign = 'center'; g.textBaseline = 'middle'; g.lineJoin = 'round';
+  if (opt.shadow) { g.lineWidth = stroke * 2; g.strokeStyle = 'rgba(0,0,0,.5)'; g.strokeText(s, opt.shadow, opt.shadow); }
+  g.lineWidth = stroke * 2; g.strokeStyle = '#000'; g.strokeText(s, 0, 0); g.fillStyle = fill; g.fillText(s, 0, 0);
+  g.restore();
+}
+const COL = { yellow: 'rgb(255,235,59)', red: '#e53935', white: '#fff' };
+function titleLines(t) {             // the Short's own title, keyed from its first frame, drops in line by line
+  (L.title_lines || []).forEach((r, k) => {
+    const a = prog(t, .98 + k * .12, 1.24 + k * .12); if (a <= 0) return;
+    const im = IMG['title_' + k]; if (!im) return;
+    const cx = (r[0] + r[2]) / 2, cy = (r[1] + r[3]) / 2, s = lerp(1.45, 1, eo5(a));
+    g.setTransform(1, 0, 0, 1, 0, 0); g.globalAlpha = clamp(a * 3); g.translate(cx, cy - (1 - back(a, 2.2)) * 70); g.scale(s, s);
+    g.drawImage(im, -im.width / 2, -im.height / 2); g.globalAlpha = 1;
+  });
+}
+function badge(t, c) {               // timer badge: flies in from the upper right, hand spinning, lands at 1.35 s
+  if (!L.badge || !IMG.badge) return; const a = prog(t, 1.02, 1.35); if (a <= 0) return;
+  const [x0, y0, x1, y1] = L.badge, bw = x1 - x0, bh = y1 - y0;
+  // the badge is part of the rendered frame, so it rides the Short's zoom once it has landed
+  const z = t >= 1.38 ? c.z : kb(1.38), tx = 540 + ((x0 + x1) / 2 - 540) * z, ty = 960 + ((y0 + y1) / 2 - 960) * z;
+  const s = lerp(2.4, 1, eo5(a)) * z + .06 * wob(t - 1.35, 6, 9), fx = lerp(1000, tx, eo5(a)), fy = lerp(700, ty, eo5(a));
+  g.setTransform(1, 0, 0, 1, 0, 0); g.translate(fx, fy); g.rotate((1 - eo5(a)) * .6); g.scale(s, s);
+  g.globalAlpha = clamp(a * 4); g.filter = `blur(${(1 - eo(a)) * 6}px)`;
+  g.drawImage(IMG.badge, -bw / 2, -bh / 2, bw, bh);
+  const hand = (1 - eo5(prog(t, 1.02, 1.36))) * 14 * Math.PI;
+  if (hand > .01 && L.clock) {        // spinning hand over the badge's clock face
+    const ccx = L.clock[0] - (x0 + x1) / 2, ccy = L.clock[1] - (y0 + y1) / 2, r = L.clock[2];
+    g.fillStyle = '#fff'; g.beginPath(); g.arc(ccx, ccy, r - 4, 0, 7); g.fill();
+    g.strokeStyle = '#141414'; g.lineWidth = 6; g.lineCap = 'round';
+    g.beginPath(); g.moveTo(ccx, ccy); g.lineTo(ccx + Math.sin(hand) * r * .7, ccy - Math.cos(hand) * r * .7); g.stroke();
+  }
+  g.filter = 'none'; g.globalAlpha = 1;
+}
+window.renderAt = function (t) {
+  T = t; const c = cam(t);
+  g.setTransform(1, 0, 0, 1, 0, 0); g.fillStyle = '#000'; g.fillRect(0, 0, W, H);
+  apply(c, .65); { const ov = 1 + .18 * clamp((c.z - 1.08) / .5); g.drawImage(IMG.far, 540 - 540 * ov, 960 - 960 * ov, W * ov, H * ov); }
+  const fin = prog(t, 1.2, 1.38);
+  motes(c, t, (1 - fin) * .9);
+  apply(c, 1); g.drawImage(IMG.fg, 0, 0, W, H);
+  const A = CFG.A, B = CFG.B;
+  const ya = prog(t, .03, .2), yo = prog(t, .44, .56);
+  if (ya > 0 && yo < 1) { const sz = fitSize(A.word, A.size || 260, 940); word(A.word, 540 - eio(yo) * 950 * (B.focus[0] >= A.focus[0] ? 1 : -1), A.wordY || 560, sz, COL[A.color || 'yellow'], 15, { s: lerp(1.7, 1, eo5(ya)) + t * .08, rot: -.1, a: clamp(ya * 3), shadow: 8 }); }
+  const va = prog(t, .47, .56), vo = prog(t, .78, .92);
+  if (va > 0 && vo < 1) { const sz = fitSize(B.word, B.size || 280, 960); word(B.word, 540, B.wordY || 1180, sz, COL[B.color || 'red'], 17, { s: lerp(2.4, 1, eo5(va)) * (1 - .2 * eio(vo)), rot: .07, a: clamp(va * 3) * (1 - eo(vo)), shadow: 10 }); }
+  titleLines(t); badge(t, c);
+};
+// accumulate SUB sub-frames over a 180° shutter into one motion-blurred frame
+let ACC;
+window.renderFrame = function (f, fps, sub) {
+  const sh = .5 / fps; if (!ACC) ACC = new Float32Array(W * H * 4); ACC.fill(0);
+  for (let k = 0; k < sub; k++) {
+    renderAt(Math.max(0, f / fps - sh / 2 + sh * (k + .5) / sub));
+    const d = g.getImageData(0, 0, W, H).data; for (let i = 0; i < d.length; i++) ACC[i] += d[i];
+  }
+  const im = g.createImageData(W, H); for (let i = 0; i < ACC.length; i++) im.data[i] = ACC[i] / sub + .5;
+  g.setTransform(1, 0, 0, 1, 0, 0); g.putImageData(im, 0, 0); return C.toDataURL('image/png');
+};
+window.__ready = (async () => {
+  CFG = await (await fetch(DIR + '/config.json')).json(); L = await (await fetch(DIR + '/layers.json')).json();
+  Object.assign(CFG, { kb: L.kb });
+  const names = ['far', 'fg', 'badge', ...(L.title_lines || []).map((_, k) => 'title_' + k)];
+  const ims = await Promise.all(names.map(n => load(DIR + '/' + n + '.png'))); names.forEach((n, i) => IMG[n] = ims[i]);
+  await document.fonts.load("bold 80px 'DejaVu Sans'"); setup(); renderAt(0); return true;
+})();
+</script></body></html>

@@ -1,0 +1,21 @@
+{
+ "A": {
+  "focus": [
+   330,
+   1100
+  ],
+  "zoom": 1.8,
+  "word": "FRIENDLY GOAT",
+  "wordY": 1450
+ },
+ "B": {
+  "focus": [
+   647,
+   702
+  ],
+  "zoom": 2.0,
+  "word": "BRAIN ERROR",
+  "wordY": 1250
+ },
+ "moteColor": "#fffbe6"
+}

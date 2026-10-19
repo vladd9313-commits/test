@@ -1,0 +1,22 @@
+{
+ "A": {
+  "focus": [
+   647,
+   702
+  ],
+  "zoom": 2.0,
+  "word": "SURVIVED",
+  "wordY": 1250
+ },
+ "B": {
+  "focus": [
+   330,
+   1220
+  ],
+  "zoom": 2.0,
+  "word": "HOW?",
+  "wordY": 620
+ },
+ "moteColor": "#ffb35c",
+ "moteDir": -1
+}
